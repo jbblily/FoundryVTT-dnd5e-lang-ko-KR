@@ -2,23 +2,19 @@
     "name": "dnd5e_ko-KR",
     "title": "ko-KR - DND5 System",
     "description": "<p>Add Korean language to system dnd5e Fvtt</p>",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "minimumCoreVersion" : "0.4.5",
     "author": "Shoyu Vanilla",
-        
-    "scripts": [
-    	"./babele-register.js"
-    ],
+    "esmodules": ["babele-register.js"],
+    "scripts": [],
     "styles": [],
     "packs": [],
     
-    "languages": [
-      {
+    "languages": [{
         "lang": "kr",
         "name": "Korean",
         "path": "ko-KR.json"
-      }
-    ],
+    }],
     
     "url": "https://github.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR",
     "manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR/master/module.json",

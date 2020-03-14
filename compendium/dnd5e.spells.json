@@ -3,8 +3,8 @@
 	"entries": [
 		{
 			"id": "Acid Arrow",
-			"name": "Acid Arrow",
-			"description": "<p>A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell Attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.</p>"
+			"name": "산성 화살",
+			"description": "<p>빛나는 녹색 화살이 나타나 사거리 내에서 당신이 지정한 목표로 날아가며, 명중하면 강한 산이 터집니다. 목표에 대해 장거리 주문 명중 굴림을 굴립니다. 명중할 경우, 목표는 즉시 4d4점의 산성 피해를 받으며, 목표의 다음 턴이 끝날 때 추가로 2d4점의 산성 피해를 더 받습니다. 빗나갈 경우, 즉시 가해지는 피해는 절반으로 줄어들며, 다음 턴이 끝날 때는 아무런 피해도 받지 않습니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전한 경우, 상승한 주문 슬롯 하나당 즉각적인 피해와 이후에 가해지는 피해 모두 1d4점씩 증가합니다.</p>"
 		},
 		{
 			"id": "Acid Splash",
@@ -18,8 +18,8 @@
 		},
 		{
 			"id": "Alarm",
-			"name": "Alarm",
-			"description": "<p>You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.</p><p>A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.</p><p>An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.</p>"
+			"name": "경보",
+			"description": "<p>당신은 원치 않는 침입에 대비하여 경보를 설정할 수 있습니다. 당신은 주문의 사거리 내에서 특정한 문이나 창문, 혹은 20×20×20ft 이내의 지역을 정해 목표로 삼을 수 있습니다. 주문의 지속시간이 끝날 때까지, 초소형 크기 이상의 크리쳐가 설정된 지역에 닿거나 들어올 경우 경보가 울리게 됩니다. 당신은 주문을 시전할 때 경보의 예외 대상이 되는 크리쳐들을 지정할 수 있습니다. 또한 당신은 이 경보를 정신적으로 할지, 실제 들리게 할지 결정할 수 있습니다.</p><p>정신적 경보는 설정된 지역에서 당신이 1마일 내에 있을 경우, 당신의 정신 속에 직접 울립니다. 이 울림은 당신이 자고 있더라도 당신을 깨워줄 수 있습니다.</p><p>실제 들리는 경보는 60ft까지 들리는 종소리를 10초간 계속하여 울리는 방식으로 작동합니다.</p>"
 		},
 		{
 			"id": "Alter Self",
@@ -109,7 +109,7 @@
 		{
 			"id": "Bane",
 			"name": "Bane",
-			"description": "<p>Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</p>"
+			"description": "<p>당신은 사거리 내에서 목표 3체까지를 고를 수 있으며, 각각에 대상은 매력 내성 굴림을 굴려야 합니다. 이때 내성 굴림에 실패한 대상들은 주문의 지속시간 동안 명중 굴림이나 내성 굴림을 굴릴 때 나온 값에서 추가로 d4를 굴려 나온 값을 빼야 합니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전한 경우, 상승한 주문 슬롯 1레벨당 추가로 대승을 하나씩 더 지정할 수 있습니다.</p>"
 		},
 		{
 			"id": "Banishment",
@@ -143,8 +143,8 @@
 		},
 		{
 			"id": "Bless",
-			"name": "Bless",
-			"description": "<p>You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll 1d4 and add the number rolled to the attack roll or saving throw.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</p>"
+			"name": "축복",
+			"description": "<p>당신은 사거리 내에서 최대 3체까지의 크리쳐를 선택해 축복을 내려줄 수 있습니다. 이렇게 축복받은 크리쳐는 주문의 지속시간 도중 명중 굴림이나 내성 굴림을 할 때마다, d4를 굴려 그 결과를 나온 값에 더할 수 있습니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 슬롯 1레벨당 추가로 크리쳐 하나씩을 더 정해 축복을 내려줄 수 있습니다.</p>"
 		},
 		{
 			"id": "Blight",
@@ -173,8 +173,8 @@
 		},
 		{
 			"id": "Burning Hands",
-			"name": "Burning Hands",
-			"description": "<p>As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.</p>\n<p>The fire ignites any flammable objects in the area that aren't being worn or carried.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</p>"
+			"name": "타오르는 손길",
+			"description": "<p>손가락을 활짝 편 당신의 손에서 화염이 펼쳐지며 손끝에서 뻗어나옵니다. 15ft의 원뿔 범위 내에 있는 모든 크리쳐는 민첩 내성 굴림을 굴려야 하며, 실패할 시 3d6점의 화염 피해를 받게 됩니다. 내성에 성공하면 피해는 절반으로 줄어듭니다.</p><p>이 주문은 해당 범위 내에서 누군가 장비하거나 들고 있지 않은 가연성 물체에 불을 붙입니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 1레벨당 화염 피해가 1d6점씩 증가합니다.</p>"
 		},
 		{
 			"id": "Call Lightning",
@@ -228,8 +228,8 @@
 		},
 		{
 			"id": "Command",
-			"name": "Command",
-			"description": "<p>You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p>\n<p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.</p>\n<p><strong>Approach.</strong> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p>\n<p><strong>Drop.</strong> The target drops whatever it is holding and then ends its turn.</p>\n<p><strong>Flee.</strong> The target spends its turn moving away from you by the fastest available means.</p>\n<p><strong>Grovel.</strong> The target falls prone and then ends its turn.</p>\n<p><strong>Halt.</strong> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p>\n<p><strong>Higher Levels.&nbsp;</strong>When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.</p>"
+			"name": "명령",
+			"description": "<p>당신은 사거리 내에서 당신이 볼 수 있는 대상 하나에게 한 단어짜리 명령을 내릴 수 있습니다. 목표는 지혜 내성 굴림을 굴려야 하며, 실패할 시 그 자신의 다음 턴이 끝날 때까지 당신이 내린 한 단어짜리 명령에 따를 것입니다. 이 주문은 목표가 언데드인 경우 아무런 효력이 없으며, 목표가 당신의 말을 알아듣지 못하거나 당신이 목표에게 직접적으로 해가 되는 명령을 내릴 경우에도 효력이 없습니다.</p><p>일반적으로 사용되는 명령들과 그에 따르는 효과는 아래 예시로 주어져 있습니다. 당신은 아래 쓰인 것 외의 다른 명령도 내릴 수 있습니다. 그런 경우, 당신이 내린 명령이 어떤 효과를 발휘하게 될지는 DM의 판단에 따릅니다. 목표가 당신이 내린 명령을 수행할 수 없는 경우, 주문의 효력은 종료됩니다.</p>\n<p><strong>다가와.</strong> 목표는 가장 가깝고 직선적인 경로를 따라 당신에게 접근해 오며, 당신에게서 5ft 내의 지점에 도착하면 자기 턴을 끝냅니다.</p>\n<p><strong>떨어트려.</strong> 목표는 쥐고 있던 것을 떨어트리며 자기 턴을 끝냅니다. 도망쳐. 목표는 가장 빠른 수단을 동원해 당신에게 멀어진 다음 자신의 턴을 끝냅니다.</p>\n<p>엎드려. 목표는 땅에 엎드린 다음 자기 턴을 끝냅니다. <strong>멈춰.</strong> 목표는 이동을 못 하며, 아무런 행동도 취하지 않고 자기 턴을 끝냅니다. 비행하는 크리쳐에게 이 명령을 내릴 경우, 부유가 가능한 크리쳐라면 허공에 정지할 것이며, 부유가 불가능한 크리쳐라면 계속 비행 가능한 최소한의 거리만을 이동할 것입니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 당신은 상승한 슬롯 하나당 추가로 하나씩의 대상을 더 지정하여 명령을 내릴 수 있습니다. 각각의 대상은 모두 30ft 내에 모여 있어야 합니다.</p>"
 		},
 		{
 			"id": "Commune",
@@ -348,8 +348,8 @@
 		},
 		{
 			"id": "Cure Wounds",
-			"name": "Cure Wounds",
-			"description": "<p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</p>"
+			"name": "상처 치료",
+			"description": "<p>당신은 접촉한 크리쳐를 치유하여 1d8 + 당신의 주문시전 능력 수정치만큼 hp를 회복시킵니다. 이 주문은 언데드나 구조물에는 효력이 없습니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 1레벨당 1d8점씩 추가로 hp를 회복할 수 있습니다."
 		},
 		{
 			"id": "Dancing Lights",
@@ -393,8 +393,8 @@
 		},
 		{
 			"id": "Detect Magic",
-			"name": "Detect Magic",
-			"description": "<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>"
+			"name": "마법 탐지",
+			"description": "<p>주문의 지속시간 동안, 당신은 30ft 내에 존재하는 마법의 힘을 감지할 수 있습니다. 당신이 이렇게 마법을 감지하면, 당신은 행동을 사용해 당신이 볼 수 있는 범위 내에서 마법의 힘이 실려있는 물체나 크리쳐에서 희미한 마법의 오오라를 감지할 수 있으며, 그 오오라를 통해 마법의 학파 역시도 알 수 있습니다.</p><p>이 주문의 감각은 대부분의 방벽을 투과할 수 있지만, 1ft 두께의 돌이나 1인치 두께의 보통 금속, 얇은 납판, 3ft 두께의 목재나 토양은 투과할 수 없습니다.</p>"
 		},
 		{
 			"id": "Detect Poison and Disease",
@@ -403,8 +403,8 @@
 		},
 		{
 			"id": "Detect Thoughts",
-			"name": "Detect Thoughts",
-			"description": "<p>For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.</p><p>You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.</p><p>Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.</p><p>You can also use this spell to detect the presence of thinking creatures you can't see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language.</p><p>Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.</p>"
+			"name": "생각 탐지",
+			"description": "<p>주문의 지속시간 동안, 당신은 특정한 크리쳐들의 생각을 읽을 수 있습니다. 당신이 주문을 시전할 때나 이후 당신의 턴마다 당신이 행동을 사용하면, 당신은 정신을 집중하여 30ft 내의 목표 하나를 지정해 생각을 읽으려 할 수 있습니다. 만약 당신이 지정한 목표가 지능 3 이하거나 언어를 구사할 수 있는 능력이 없다면 이 주문에 영향을 받지 않습니다.</p><p>당신은 즉시 크리쳐의 표면적 생각을 읽어냅니다. 지금 당장 목표를 떠올리고 생각하고 있는 것이 보이게 됩니다. 이후 당신은 행동을 사용해 다른 크리쳐에게로 주의를 돌려 생각을 읽거나, 이미 읽고 있는 크리쳐의 마음속 깊이 들어가려 할 수 있습니다. 당신이 상대의 마음속 깊은 곳에 들어가려 할 경우 상대는 지혜 내성 굴림을 굴려야 하며, 상대가 실패한다면 당신은 상대의 동기(있다면), 감정적 상태, 상대가 대략적으로 계속 생각하는 것(걱정거리, 사랑, 미워하는 대상 등등) 등을 알 수 있습니다. 상대가 내성에 성공하면 주문은 종료됩니다. 어느 쪽이든 상대는 당신이 마음을 읽으려 했다는 사실을 알 수 있으며, 당신이 주의를 다른 크리쳐에게 돌려 다른 목표의 생각을 읽으려 하지 않는 한 당신이 들여다보려 한 상대는 자기 턴에 행동을 사용해 당신과 지능 대결 판정을 벌일 수 있습니다. 이 대결 판정에서 상대가 성공한 경우 주문은 종료됩니다.</p><p>상대에게 직접 질문을 던지면 생각의 흐름을 바꿀 수 있으며, 따라서 이 주문은 심문 과정에서 매우 유용합니다.</p><p>이 주문은 주변에 당신이 볼 수 없는 존재가 있는지 감지하는 용도로도 사용할 수 있습니다. 당신이 이 주문을 시전한 시점이나 당신의 턴에 행동을 사용할 때마다, 당신은 주변 30ft 내에서 생각을 탐지할 수 있습니다. 이 주문의 감각은 대부분의 방벽을 투과할 수 있지만, 2ft 두께의 돌이나 2인치 두께의 보통 금속, 또는 얇은 납판은 투과할 수 없습니다. 당신은 지능 3이하이거나 언어 구사 능력이 없는 크리쳐는 탐지할 수 없습니다.</p><p>당신이 이런 방식으로 주변의 존재를 탐지하고 나면, 보이지는 않더라도 주문의 남은 지속시간 동안 위에 나온 것처럼 해당 목표의 생각을 읽을 수 있습니다.</p>"
 		},
 		{
 			"id": "Dimension Door",
@@ -703,8 +703,8 @@
 		},
 		{
 			"id": "Grease",
-			"name": "Grease",
-			"description": "<p>Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.</p>\n<p>When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a&nbsp;Dexterity saving throw or fall prone.</p>"
+			"name": "기름칠",
+			"description": "<p>사거리 내에서 당신이 지정한 지점을 중심으로 10ft 너비의 사각형 지면은 두꺼운 기름칠로 뒤덮이게 됩니다. 기름칠 된 공간은 주문의 지속시간이 끝날 때까지 어려운 지형이 됩니다.</p><p>기름칠이 시전되었을 때, 해당 지역에 서 있던 크리쳐들은 모두 민첩 내성 굴림을 굴려야 하며 여기서 실패할 시 넘어지게 됩니다. 해당 지역에 들어가거나 자기 턴을 해당 지역 내에서 끝마친 대상 역시 민첩 내성을 굴려야 하며 실패할 시 넘어질 것입니다.</p>"
 		},
 		{
 			"id": "Greater Invisibility",
@@ -733,8 +733,8 @@
 		},
 		{
 			"id": "Guiding Bolt",
-			"name": "Guiding Bolt",
-			"description": "<p>A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</p>"
+			"name": "유도 화살",
+			"description": "<p>번쩍이는 빛줄기가 사거리 내에서 당신이 지정한 크리쳐에게 날아갑니다. 목표에게 장거리 주문 공격을 가합니다. 명중한 경우, 목표는 4d6점의 광휘 피해를 입게 되며, 이 주문은 목표에게서 신비하고 은은한 광채를 발하게 만들어 공격을 유도하기 때문에 당신의 다음 턴이 끝나기 전까지 목표를 향한 다음 명중 굴림 한 번에 이점을 받을 수 있습니다. 일단 목표가 공격을 받고 나면 광채는 사라집니다.</p>"
 		},
 		{
 			"id": "Gust of Wind",
@@ -888,8 +888,8 @@
 		},
 		{
 			"id": "Lesser Restoration",
-			"name": "Lesser Restoration",
-			"description": "<p>You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.</p>"
+			"name": "하급 회복",
+			"description": "<p>당신은 크리쳐 하나에 접촉하여 해당 크리쳐에게서 하나의 질병을 제거하거나 하나의 상태 이상을 회복할 수 있습니다. 이 주문으로는 장님, 귀머거리, 마비 혹은 중독 상태를 회복할 수 없습니다.</p>"
 		},
 		{
 			"id": "Levitate",
@@ -898,8 +898,8 @@
 		},
 		{
 			"id": "Light",
-			"name": "Light",
-			"description": "<p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p><p>If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.</p>"
+			"name": "빛",
+			"description": "<p>당신은 10 × 10 × 10ft 이하 크기의 물체 하나에 접촉하여 주문의 지속시간 동안 20ft까지는 밝은 빛으로, 추가로 20ft까지는 약한 빛으로 빛나게 합니다. 당신은 원하는 대로 빛의 색깔을 정할 수 있습니다. 이 물체를 완전히 가려서 빛 역시 새어 나오지 않게 할 수 있습니다. 이 주문은 지속시간이 끝나거나 당신이 이 주문을 다시 시전할 경우, 아니면 행동을 사용해 주문을 취소할 경우 효력이 종료됩니다.</p><p>적대적인 크리쳐가 장비하거나 들고 있는 물체에 주문을 시전한 경우, 해당 크리쳐는 민첩 내성 굴림을 굴려 성공할 경우 주문을 피할 수 있습니다.</p>"
 		},
 		{
 			"id": "Lightning Bolt",
@@ -928,13 +928,13 @@
 		},
 		{
 			"id": "Mage Armor",
-			"name": "Mage Armor",
-			"description": "<p>You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</p>"
+			"name": "마법 갑주",
+			"description": "<p>당신은 주문을 받으려는 크리쳐에 접촉해 주문을 시전합니다. 당신이 주문을 거는 목표는 갑옷을 입고 있지 않은 상태여야만 합니다. 마법의 효과는 목표를 보호하는 마력의 힘으로 나타나며, 목표의 AC는 13 + 민첩 수정치로 올라갑니다. 이 주문은 목표가 갑옷을 입거나 당신이 행동을 사용해 주문을 취소할 경우 효력이 종료됩니다.</p>"
 		},
 		{
 			"id": "Mage Hand",
-			"name": "Mage Hand",
-			"description": "<p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p>\n<p>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.</p>\n<p>The hand can't attack, activate magic items, or carry more than 10 pounds.</p>"
+			"name": "마법사의 손",
+			"description": "<p>사거리 내에서 당신이 지정한 지점에, 유령같이 희미한 떠다니는 손이 생겨납니다. 이 손은 주문의 지속시간 동안 존재하며, 그 전에도 당신은 행동을 사용해 주문을 종료할 수 있습니다. 이 손은 당신으로부터 30ft 이상 떨어지거나 당신이 다시 이 주문을 시전할 경우 사라져 버립니다.</p><p>당신은 행동을 사용해 이 손을 조종할 수 있습니다. 당신은 손을 이용해 물건을 조작하거나, 잠기지 않은 문이나 용기를 열거나, 열려 있는 용기에서 물건을 취하거나, 통 안의 내용물을 따르고 붓는 등의 행동을 할 수 있습니다. 당신은 손을 사용할 때 이 손을 최대 30ft 거리까지 이동시킬 수 있습니다.</p><p>이 손으로는 공격을 가하거나, 마법 물건을 발동하거나, 10lbs 이상의 물체를 들어 올릴 수 없습니다.</p>"
 		},
 		{
 			"id": "Magic Circle",
@@ -948,8 +948,8 @@
 		},
 		{
 			"id": "Magic Missile",
-			"name": "Magic Missile",
-			"description": "<p>You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.</p>\n<p><strong>Higher Levels.&nbsp;</strong>When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.</p>"
+			"name": "마법 화살",
+			"description": "<p>당신은 마법의 힘으로 빛나는 3개의 다트를 만들어 냅니다. 각각의 다트는 사거리 내에서 당신이 볼 수 있는 지정된 목표에게 날아가 명중합니다. 각각의 다트는 1d4 +1 역장 피해를 가합니다. 다트는 모두 동시에 타격을 가하며, 당신은 하나의 목표에 생성된 다트를 모두 쏘거나, 각각 별개의 목표를 대상으로 삼을 수 있습니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 슬롯 하나당 추가로 하나씩 다트를 더 생성하여 발사할 수 있습니다.</p>"
 		},
 		{
 			"id": "Magic Mouth",
@@ -1128,13 +1128,13 @@
 		},
 		{
 			"id": "Prayer of Healing",
-			"name": "Prayer of Healing",
-			"description": "<p>Up to six creatures of your choice that you can see within range each regain Hit Points equal to 2d8 + your Spellcasting ability modifier. This spell has no effect on Undead or constructs.</p>\n<p><strong>At Higher Levels</strong>. When you cast this spell using a spell slot of 3rd level or higher, the Healing increases by 1d8 for each slot level above 2nd.</p>"
+			"name": "치료의 기도",
+			"description": "<p>사거리 내에서 당신이 볼 수 있는 크리쳐를 최대 6체까지 목표로 지정할 수 있습니다. 이렇게 지정된 목표들은 각각 2d8 + 당신의 주문시전 능력 수정치만큼 hp를 회복합니다. 이 주문은 언데드나 구조물에는 효과가 없습니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 1레벨당 hp를 추가로 1d8점씩 더 회복할 수 있습니다.</p>"
 		},
 		{
 			"id": "Prestidigitation",
-			"name": "Prestidigitation",
-			"description": "<p>This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p>\n<ul>\n<li>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</li>\n<li>You instantaneously light or snuff out a candle, a torch, or a small campfire.</li>\n<li>You instantaneously clean or soil an object no larger than 1 cubic foot.</li>\n<li>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</li>\n<li>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</li>\n<li>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</li>\n</ul>\n<p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>"
+			"name": "요술",
+			"description": "<p>이 주문은 초보 주문시전자들이 연습을 위해 사용하는 간단한 마법적 재주들을 포괄합니다. 당신은 주문의 사거리 내에서 아래의 효과 중 하나를 일으킬 수 있습니다.</p>\n<ul>\n<li>당신은 즉시 아무런 해도 없는 감각 효과를 만들어 낼 수 있습니다. 반짝이는 불꽃이나 가벼운 바람, 작은 악기 소리나 기이한 냄새 등을 만들 수 있습니다.</li>\n<li>당신은 즉시 촛불이나 횃불, 작은 모닥불에 불을 붙이거나 꺼트릴 수 있습니다.</li>\n<li>당신은 1 × 1 × 1ft의 범위를 즉시 청소하거나 더럽힐 수 있습니다.</li>\n<li>당신은 살아있지 않은 1 × 1 × 1ft 크기 이하의 물체 하나를 1시간 동안 차갑게 하거나, 따뜻하게 하거나, 향을 나게 할 수 있습니다.</li>\n<li>당신은 어떤 물체나 표면에 원하는 색의 작은 징표를 만들어내 1시간 동안 지속시킬 수 있습니다.</li>\n<li>당신은 자신의 다음 턴이 끝날 때까지, 자신의 손에 비마법적인 잡동사니나 잡동사니의 환영을 만들어 낼 수 있습니다.</li>\n</ul>\n<p>만약 이 주문을 여러 번 시전했다면, 당신은 위의 효과들을 동시에 최대 3가지까지 유지할 수 있습니다. (즉시 발휘되는 효과들은 유지되지 않습니다.) 당신은 행동을 사용하여 유지되고 있는 효과들을 중단할 수 있습니다.</p>"
 		},
 		{
 			"id": "Prismatic Spray",
@@ -1178,8 +1178,8 @@
 		},
 		{
 			"id": "Protection from Poison",
-			"name": "Protection from Poison",
-			"description": "<p>You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.</p>\n<p>For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.</p>"
+			"name": "독으로부터의 보호",
+			"description": "<p>당신은 크리쳐 하나에 접촉하여 주문을 시전합니다. 만약 대상이 독에 중독된 상태라면, 이 독은 즉시 중화됩니다. 만약 대상이 둘 이상의 독에 중독된 상태라면, 이 주문은 당신이 알고 있는 독을 우선 중화시킬 것이며, 알고 있는 독이 없는 상태라면 무작위로 중화될 독을 정할 수도 있습니다.</p><p>주문의 지속시간 동안, 대상은 중독 상태가 될 수 있는 모든 내성 굴림에 이점을 얻게 되며, 독성 피해에 대해 저항을 얻습니다.</p>"
 		},
 		{
 			"id": "Purify Food and Drink",
@@ -1198,8 +1198,8 @@
 		},
 		{
 			"id": "Ray of Frost",
-			"name": "Ray of Frost",
-			"description": "<p>A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.</p>\n<p>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>"
+			"name": "서리 광선",
+			"description": "<p>청백색의 광선이 사거리 내의 목표에게 날아갑니다. 목표에 대해 장거리 주문 공격을 가합니다. 명중한 경우 목표는 1d8점의 냉기 피해를 입게 되며, 당신의 다음 턴이 시작할 때까지 이동속도가 10ft 감소합니다.</p><p>이 주문의 피해는 시전자의 총 레벨이 오르면서 점점 증가하여 5레벨에 2d8, 11레벨에 3d8, 17레벨에 4d8의 피해를 가합니다.</p>"
 		},
 		{
 			"id": "Regenerate",
@@ -1248,8 +1248,8 @@
 		},
 		{
 			"id": "Sacred Flame",
-			"name": "Sacred Flame",
-			"description": "<p>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.</p>\n<p>The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>"
+			"name": "신성한 불길",
+			"description": "<p>당신은 사거리 내에서 자신이 볼 수 있는 크리쳐 하나를 지정하여 불꽃 같은 광채를 떨어뜨립니다. 목표는 민첩 내성 굴림에 실패할 시 1d8점의 광휘 피해를 받게 됩니다. 목표는 이 내성 굴림에 엄폐로 인한 이점을 받을 수 없습니다.</p><p>이 주문의 피해는 시전자의 총 레벨이 오르면서 점점 증가하여 5레벨에 2d8, 11레벨에 3d8, 17레벨에 4d8의 피해를 가합니다.</p>"
 		},
 		{
 			"id": "Sanctuary",
@@ -1303,8 +1303,8 @@
 		},
 		{
 			"id": "Shield",
-			"name": "Shield",
-			"description": "<p>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.</p>"
+			"name": "방패",
+			"description": "<p>마법의 힘으로 이루어진 보이지 않는 방벽이 당신 앞에 생겨나 당신을 보호합니다. 당신의 다음 턴이 시작될 때까지, 당신은 AC에 +5 보너스를 받습니다. 이 AC는 발동조건이 된 공격에도 적용됩니다. 또한 주문이 지속되는 동안 당신은 <i>마법 화살Magic Missile</i> 주문에 피해를 받지 않습니다.</p>"
 		},
 		{
 			"id": "Shield of Faith",
@@ -1318,8 +1318,8 @@
 		},
 		{
 			"id": "Shocking Grasp",
-			"name": "Shocking Grasp",
-			"description": "<p>Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.</p>\n<p>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>"
+			"name": "전격의 손아귀",
+			"description": "<p>당신의 손에서 번개가 튀어나와 당신이 접촉한 크리쳐에게 전격을 선사합니다. 목표에게 근접 주문 공격을 가합니다. 목표가 금속제 갑옷을 입고 있는 경우, 당신은 이 명중 굴림에 이점을 받을 수 있습니다. 명중한 경우 목표는 1d8점의 번개 피해를 받으며, 목표의 다음 턴이 시작될 때까지 반응행동을 사용하지 못합니다.</p><p>이 주문의 피해는 시전자의 총 레벨이 오르면서 점점 증가하여 5레벨에 2d8, 11레벨에 3d8, 17레벨에 4d8의 피해를 가합니다.</p>"
 		},
 		{
 			"id": "Silence",
@@ -1338,8 +1338,8 @@
 		},
 		{
 			"id": "Sleep",
-			"name": "Sleep",
-			"description": "<p>This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).</p>\n<p>Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.</p>\n<p>Undead and creatures immune to being charmed aren’t affected by this spell.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.</p>"
+			"name": "수면",
+			"description": "<p>이 주문은 여러 크리쳐들을 마법적인 잠에 빠트립니다. 주문 시전 시 5d8을 굴리며, 이 총량이 주문에 영향을 받는 크리쳐들의 hp 합계가 됩니다. 사거리 내에서 당신이 지정한 지점으로부터 20ft 내의 모든 크리쳐들은 현재 hp가 낮은 순서대로 주문의 영향을 받습니다.(이미 무의식 상태인 크리쳐들은 제외됩니다.)</p><p>현재 hp가 가장 낮은 크리쳐부터, 주문에 영향을 받은 자들은 주문의 지속시간이 끝날 때까지 잠에 빠져 무의식 상태가 됩니다. 잠든 자가 피해를 받거나 깨어 있는 누군가가 행동을 사용해 깨울 경우, 지속시간 중에도 깨어날 수 있습니다. 하나씩 재울 때마다 hp 총량에서 잠든 대상의 hp를 빼며, 이렇게 계속 빼 나가다가 현재 hp가 남은 총량보다 큰 크리쳐만 남은 경우 이들은 주문의 영향을 받지 않습니다.</p><p>언데드나 매혹 효과에 면역인 크리쳐들은 이 주문에 영향을 받지 않습니다.</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 이 주문을 2레벨 이상의 주문 슬롯을 사용하여 시전할 경우, 상승한 주문 슬롯 1레벨당 영향을 받는 hp 총합이 2d8씩 증가합니다.</p>"
 		},
 		{
 			"id": "Sleet Storm",
@@ -1388,8 +1388,8 @@
 		},
 		{
 			"id": "Spiritual Weapon",
-			"name": "Spiritual Weapon",
-			"description": "<p>You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.</p>\n<p>As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.</p>\n<p>The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell’s effect resemble that weapon.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.</p>"
+			"name": "영체 무기",
+			"description": "<p>당신은 사거리 내의 한 지점에, 허공에 떠 있는 영체 무기를 만들어 낼 수 있습니다. 이 무기는 주문의 지속시간이 끝나거나 당신이 이 주문을 다시 시전할 때까지 유지됩니다. 주문 시전시, 당신은 무기로부터 5ft 내의 적 하나에게 근접 주문 공격을 가할 수 있습니다. 이 공격이 명중할 경우 목표는 1d8+ 당신의 주문시전 능력 수정치만큼의 역장 피해를 입게 됩니다.</p><p>당신의 턴이 될 때마다 당신은 추가 행동을 사용해 이 영체 무기를 20ft까지 이동시키고 다시 무기로부터 5ft 이내의 적을 지정해 공격을 가할 수 있습니다.</p><p>이 무기는 당신이 원하는 형상을 띄고 있습니다. 특정한 신을 모시는 클레릭들은 자신들의 신이 사용하는 무기의 형상을 쓰는 경향이 있습니다.(성 커스버트의 경우 메이스, 토르의 경우 망치 등등).</p>\n<p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 슬롯 2레벨당 피해는 1d8씩 증가합니다.</p>"
 		},
 		{
 			"id": "Stinking Cloud",
