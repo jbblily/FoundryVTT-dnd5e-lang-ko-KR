@@ -413,8 +413,8 @@
 		},
 		{
 			"id": "Disguise Self",
-			"name": "Disguise Self",
-			"description": "<p>You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.</p><p>The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.</p><p>To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.</p>"
+			"name": "자기 위장(Disguise Self)",
+			"description": "<p>당신은 복장이나 갑옷, 무기, 다른 소유물을 모두 포함해 자기의 모습을 다른 것으로 변화시킵니다. 이 환영은 주문의 지속시간 동안 유지되며, 그 이전에도 당신은 행동을 사용해 주문을 종료할 수 있습니다. 당신은 최대 1ft 크거나 작게 보일 수 있으며, 더 마르게 보이거나 뚱뚱해 보일 수도 있습니다. 그러나 이 주문을 통해 신체 형태를 아예 다르게 보이도록 할 수는 없으며, 기본적인 사지의 구조는 그대로 유지되어야 합니다. 이 점을 제외하면 환영의 형태는 전적으로 당신에게 달려 있습니다.</p><p>이 주문으로 만들어진 환영에 물리적으로 접촉할 경우 환영은 간파당하게 됩니다. 예를 들어, 이 주문으로 없는 모자를 보이도록 만들었다면, 누군가 머리를 만져볼 경우 모자를 관통하게 되므로 이것이 환영임이 간파됩니다. 만약 당신이 이 주문을 사용해 당신 스스로 더 마르게 보이도록 모습을 바꾸었다 해도, 주변에 충분히 가까이 다가가면 그 사실을 알게 될 것입니다.</p><p>접촉 없이도 행동을 사용하여 당신의 주문 내성 DC를 목표로 지능(수사) 판정에 성공한 크리쳐는 당신이 변장했다는 사실을 간파할 수 있습니다.</p>"
 		},
 		{
 			"id": "Disintegrate",
@@ -523,8 +523,8 @@
 		},
 		{
 			"id": "Faerie Fire",
-			"name": "Faerie Fire",
-			"description": "<p>Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.</p>\n<p>Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can’t benefit from being invisible.</p>"
+			"name": "요정 불꽃(Faerie Fire)",
+			"description": "<p>사거리 내에서 20 × 20 × 20ft까지의 지역을 지정합니다. 이 범위 내의 모든 물체는 당신의 선택에 따라 파란색, 녹색, 또는 보라색으로 외곽선이 빛나게 됩니다. (색은 당신의 선택에 따라 다릅니다.) 이 범위 내의 모든 크리쳐 역시 민첩 내성 굴림을 굴려야 하며, 실패할 시 외곽선이 빛나게 됩니다. 주문의 지속시간 동안, 이 효과를 받는 물체나 크리쳐는 10ft 범위 내를 약한 빛으로 밝힙니다.</p><p>이 주문에 영향을 받는 크리쳐나 물체를 공격하려는 공격자는 명중 굴림에 이점을 받습니다. (단, 목표를 볼 수 있어야 합니다.) 또한 주문에 영향을 받는 크리쳐나 목표는 투명화해도 그 이익을 받을 수 없습니다.</p>"
 		},
 		{
 			"id": "Faithful Hound",
@@ -533,8 +533,8 @@
 		},
 		{
 			"id": "False Life",
-			"name": "False Life",
-			"description": "<p>Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 Temporary Hit Points for the Duration.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional Temporary Hit Points for each slot level above 1st.</p>"
+			"name": "거짓 삶(False Life)",
+			"description": "<p>당신은 사령술의 힘을 빌어 거짓된 생명의 힘으로 자신을 강화합니다. 이 주문의 지속시간 동안, 당신은 1d4 + 4점의 임시 hp를 얻습니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전한다면, 상승한 슬롯 1레벨당 추가로 5점의 임시 hp를 더 얻을 수 있습니다.</p>"
 		},
 		{
 			"id": "Fear",
@@ -543,8 +543,8 @@
 		},
 		{
 			"id": "Feather Fall",
-			"name": "Feather Fall",
-			"description": "<p>Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.</p>"
+			"name": "깃털 낙하(Feather Fall)",
+			"description": "<p>당신은 사거리 내에서 최대 5체까지의 낙하 중인 크리쳐를 목표로 지정할 수 있습니다. 주문의 지속시간 동안, 이 크리쳐들은 라운드당 60ft의 속도로 천천히 낙하하게 됩니다. 만약 지속시간이 남아있는 동안 착지하게 된다면, 해당 크리쳐는 낙하 피해를 전혀 입지 않고 선 상태로 착지할 수 있습니다. 착지와 동시에 착지한 크리쳐의 주문 효과는 종료됩니다.</p>"
 		},
 		{
 			"id": "Feeblemind",
@@ -828,8 +828,8 @@
 		},
 		{
 			"id": "Identify",
-			"name": "Identify",
-			"description": "<p>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.</p><p>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</p>"
+			"name": "식별(Identify)",
+			"description": "<p>당신은 주문을 시전할 때 접촉한 물체 하나를 목표로 정합니다. 만약 목표가 마법 물건이거나 마법이 부여된 물건일 경우, 당신은 해당 물건의 기능과 사용법에 대해서 알아낼 수 있습니다. 만약 목표로 삼은 물건을 사용하기 위해 조율이 필요한 경우, 그 사실도 알 수 있으며, 충전이 남아 있는 경우 얼마나 많은 충전이 남아 있는지도 알 수 있습니다. 당신은 해당 물건에 주문이 걸려 있는가, 그리고 걸려 있다면 어떤 주문들이 걸려 있는가도 알 수 있습니다. 만약 목표로 지정한 물건이 마법으로 창조된 것이라면, 이를 창조하기 위해 사용된 주문 역시 알 수 있습니다.</p><p>만약 당신이 물건 대신 시전 중에 크리쳐에 접촉해서 목표로 삼았다면, 당신은 해당 크리쳐가 받고 있는 주문들이 어떤 것들인지 알아낼 수 있습니다.</p>"
 		},
 		{
 			"id": "Illusory Script",
@@ -923,8 +923,8 @@
 		},
 		{
 			"id": "Longstrider",
-			"name": "Longstrider",
-			"description": "<p>You touch a creature. The target's speed increases by 10 feet until the spell ends.</p>"
+			"name": "활보(Longstrider)",
+			"description": "<p>당신은 크리쳐 하나에 접촉하여 주문의 지속시간 동안 이동속도를 10ft 증가시킬 수 있습니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 하나당 목표 크리쳐를 하나씩 더 지정하여 주문의 효과를 부여할 수 있습니다.</p>"
 		},
 		{
 			"id": "Mage Armor",
@@ -1108,8 +1108,8 @@
 		},
 		{
 			"id": "Poison Spray",
-			"name": "Poison Spray",
-			"description": "<p>You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.</p>\n<p>⁠This spell’s damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).</p>"
+			"name": "독 분사(Poison Spray)",
+			"description": "<p>당신은 손을 뻗어 사거리 내의 볼 수 있는 대상에게 독성 가스를 분사할 수 있습니다. 대상은 건강 내성 굴림을 굴려야 하며, 실패할 시 1d12점의 독성 피해를 입게 됩니다.</p><p>이 주문의 피해는 시전자의 총 레벨이 오르면서 점점 증가하여 5레벨에 2d12, 11레벨에 3d12, 17레벨에 4d12의 피해를 가합니다.</p>"
 		},
 		{
 			"id": "Polymorph",
