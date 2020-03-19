@@ -183,8 +183,8 @@
 		},
 		{
 			"id": "Ball Bearings",
-			"name": "Ball Bearings",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">As an action, you can spill these 1,000 tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</span></p>"
+			"name": "미끄럼 구슬(Ball Bearings)",
+			"description": "<p>당신은 행동을 사용하여 주머니에 든 이 작은 금속 구슬들을 주변 10 × 10ft 너비의 바닥에 뿌릴 수 있습니다. 이 바닥에 들어선 크리쳐는 DC 10의 민첩 내성에 실패하면 넘어집니다. 자기 이동속도의 절반만 사용하는 크리쳐는 내성 굴림 없이 해당 지역을 지나칠 수 있습니다.</p>"
 		},
 		{
 			"id": "Barrel",
@@ -393,13 +393,8 @@
 		},
 		{
 			"id": "Bullseye Lantern",
-			"name": "Bullseye Lantern",
-			"description": "<p>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</p>"
-		},
-		{
-			"id": "Bullseye Lantern",
-			"name": "Bullseye Lantern",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</span></p>"
+			"name": "황소눈 랜턴(Bullseye Lantern)",
+			"description": "<p>황소눈 랜턴은 60ft 길이의 원뿔형 범위를 밝은 빛 환경으로, 추가로 60ft 길이까지는 약한 빛 환경으로 밝힙니다. 일단 불을 밝히면 기름 한 병으로 6시간 정도를 사용할 수 있습니다.</p>"
 		},
 		{
 			"id": "Calligrapher's Supplies",
@@ -409,22 +404,12 @@
 		{
 			"id": "Caltrops",
 			"name": "Caltrops",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</span></p>"
-		},
-		{
-			"id": "Caltrops",
-			"name": "Caltrops",
-			"description": "<p>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</p>"
+			"description": "<p>당신은 행동을 사용하여 마름쇠가 들어 있는 가방을 5 × 5ft의 바닥에 뿌릴 수 있습니다. 해당 지역에 들어간 크리쳐는 DC 15의 민첩 내성에 실패할 경우 멈추게 되며 1점의 관통 피해를 받게 됩니다. 해당 크리쳐는 최소 1점의 hp를 회복하기 전까지 보행 이동속도가 10ft 감소합니다. 자기 이동속도의 절반 이하로 이동하는 크리쳐는 내성 굴림을 굴릴 필요 없이 해당 지역을 지나칠 수 있습니다.</p>"
 		},
 		{
 			"id": "Candle",
-			"name": "Candle",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</span></p>"
-		},
-		{
-			"id": "Candle",
-			"name": "Candle",
-			"description": "<p>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>"
+			"name": "양초(Candle)",
+			"description": "<p>양초는 1시간 동안 주변 5ft 반경을 밝은 빛 환경으로, 추가 5ft까지를 약한 빛 환경으로 만듭니다.</p>"
 		},
 		{
 			"id": "Candle of Invocation",
@@ -588,8 +573,8 @@
 		},
 		{
 			"id": "Component Pouch",
-			"name": "Component Pouch",
-			"description": "<p>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</p>"
+			"name": "구성요소 주머니(Component Pouch)",
+			"description": "<p>구성요소 주머니는 방수 처리된 작은 가죽 허리 주머니들로, 당신이 주문을 시전할 때 사용하는 일반적인 물질 구성요소들을 나누어 담을 수 있게 되어 있습니다. 단, 특별한 비용이 들어가는 요소들은 이에 포함되지 않습니다.</p>"
 		},
 		{
 			"id": "Cook's Utensils",
@@ -628,8 +613,8 @@
 		},
 		{
 			"id": "Crowbar",
-			"name": "Crowbar",
-			"description": "<p>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</p>"
+			"name": "쇠지렛대(Crowbar)",
+			"description": "<p>쇠지렛대를 사용할 수 있는 환경에서 이를 사용하면 해당하는 근력 판정에 이점을 받을 수 있습니다.</p>"
 		},
 		{
 			"id": "Crystal",
@@ -753,8 +738,8 @@
 		},
 		{
 			"id": "Disguise Kit",
-			"name": "Disguise Kit",
-			"description": "<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>"
+			"name": "변장 키트(Disguise Kit)",
+			"description": "<p> 이 주머니 속에는 다양한 화장품과 염색약, 기타 신체적 외모를 변장할 때 사용되는 소도구가 들어 있습니다. 이 도구에 숙련을 지니고 있으면 변장시의 능력 판정에 숙련 보너스를 더할 수 있습니다.</p>"
 		},
 		{
 			"id": "Double-Bladed Scimitar",
@@ -998,8 +983,8 @@
 		},
 		{
 			"id": "Flask of Holy Water",
-			"name": "Flask of Holy Water",
-			"description": "<p>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy water as an Improvised Weapon. If the target is a fiend or Undead, it takes 2d6 radiant damage. A Cleric or Paladin may create holy water by performing a Special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</p>"
+			"name": "성수(Flask of Holy Water)",
+			"description": "<p>당신은 행동을 사용하여 이 약병의 액체를 5ft 이내의 크리쳐에게 뿌리거나 20ft까지 던질 수 있으며, 충격을 받으면 병은 깨집니다. 어느 쪽이든 당신은 약병을 임기응변 무기로 취급해 목표에게 장거리 공격을 행합니다. 만약 목표가 악마 또는 언데드라면, 명중시 2d6점의 광휘 피해를 받습니다.</p>"
 		},
 		{
 			"id": "Flute",
@@ -1013,8 +998,8 @@
 		},
 		{
 			"id": "Forgery Kit",
-			"name": "Forgery Kit",
-			"description": "<p>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</p>"
+			"name": "위조 키트(Forgery Kit)",
+			"description": "<p>이 작은 상자 안에는 다양한 종이와 양피지가 들어 있으며, 펜과 잉크, 인장과 밀랍, 금이나 은으로 만들어진 핀, 기타 문서를 위조할 때 필요한 도구들이 들어 있습니다. 이 도구에 숙련이 있으면 문서를 위조하고자 할 때 능력 판정에 숙련 보너스를 더할 수 있습니다</p>"
 		},
 		{
 			"id": "Frost Brand Greatsword",
@@ -1043,8 +1028,8 @@
 		},
 		{
 			"id": "Gaming Set",
-			"name": "Gaming Set",
-			"description": "<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "게임 세트(Gaming Set)",
+			"description": "<p>이 세트는 주사위나 (용 세 마리 놀이 용 등등을 위한) 카드 등과 같은 다양한 게임 도구들이 포함되어 있습니다. 평범한 것들은 도구 표에도 나와 있지만, 다른 게임 세트들 역시 존재합니다. 게임 세트에 숙련을 지니고 있다면, 그 세트를 이용한 게임을 할 때 능력 판정에 숙련 보너스를 받을 수 있습니다. 게임 세트들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Glaive",
@@ -1138,13 +1123,13 @@
 		},
 		{
 			"id": "Hempen Rope (50ft)",
-			"name": "Hempen Rope (50ft)",
-			"description": "<p>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</p>"
+			"name": "마 로프(Hempen Rope) (50ft)",
+			"description": "<p>마로 만든 것이든 비단으로 만든 것이든 로프는 2점의 hp를 지니며, DC 17 근력 판정에 성공하면 끊을 수 있습니다.</p>"
 		},
 		{
 			"id": "Herbalism Kit",
-			"name": "Herbalism Kit",
-			"description": "<p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p>"
+			"name": "약초학 키트(Herbalism Kit)",
+			"description": "<p>이 키트에는 가위와 막자, 공이, 다양한 약병이나 주머니 등등 물약이나 치료제를 만들기 위한 약초학 용구가 포함되어 있습니다. 이 도구에 숙련을 지니고 있으면 약초를 식별하거나 수집하기 위한 능력 판정에 숙련 보너스를 받을 수 있습니다. 또한, 당신이 해독제나 치유의 물약을 제작할 때도 이 도구에 대한 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Hide Armor",
@@ -1173,8 +1158,8 @@
 		},
 		{
 			"id": "Hooded Lantern",
-			"name": "Hooded Lantern",
-			"description": "<p>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</p>\n<p>&nbsp;</p>\n<p>Source: PHB, page 152</p>"
+			"name": "덮개 랜턴(Hooded Lantern)",
+			"description": "<p>덮개 랜턴은 주변 30ft 반경을 밝은 빛 환경으로, 추가로 30ft까지는 약한 빛 환경으로 밝힙니다. 일단 밝히며 기름 한 병으로 6시간 정도를 사용할 수 있습니다. 당신은 행동을 사용하여 덮개를 내릴 수 있으며, 그러면 주위 5ft 반경에 약한 빛 환경으로 밝히는 것 외에는 조명이 차단됩니다.</p>"
 		},
 		{
 			"id": "Horn",
@@ -1233,8 +1218,8 @@
 		},
 		{
 			"id": "Lamp",
-			"name": "Lamp",
-			"description": "<p>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil</p>"
+			"name": "램프(Lamp)",
+			"description": "<p>램프는 불을 밝혔을 때 주변 15ft까지를 밝은 빛 환경으로, 추가로 30ft까지를 약한 빛 환경으로 밝힙니다. 일단 밝히면, 기름 한 병으로 6시간 정도를 사용할 수 있습니다.</p>"
 		},
 		{
 			"id": "Leather Armor",
@@ -1338,8 +1323,8 @@
 		},
 		{
 			"id": "Mess Kit",
-			"name": "Mess Kit",
-			"description": "<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</p>"
+			"name": "요리 도구(Mess Kit)",
+			"description": "<p> 이 양철 상자는 컵과 간단한 조리 도구들이 들어 있습니다. 상자는 같이 접어 넣을 수 있으며, 한쪽 면은 요리용 팬으로, 반대편은 식판이나 얕은 그릇으로 쓸 수 있습니다.</p>"
 		},
 		{
 			"id": "Miner's Pick",
@@ -1363,13 +1348,13 @@
 		},
 		{
 			"id": "Net",
-			"name": "Net",
-			"description": "<p>These thickly woven fibers are reinforced for use in combat to entrap and entangle even the most dangerous foes, rendering them vulnerable for assault with other weaponry.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>\n<p><strong>Range.</strong> A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.</p>\n<p><strong>Thrown.</strong> If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</p>"
+			"name": "그물(Net)",
+			"description": "<p>대형 크기 이하의 크리쳐가 그물에 명중한 경우, 풀려나기 전까지 포박 상태가 됩니다. 형체가 없거나 거대 크기 이상의 크리쳐에게는 그물은 아무 효과가 없습니다. 그물에 포박된 크리쳐는 행동을 사용하고 DC 10의 근력 판정을 하여 풀려날 수 있으며, 주변에 접근한 다른 크리쳐 역시 동일한 판정을 하여 풀어줄 수 있습니다. 그물(AC 10)에 5점의 참격 피해를 가하면 포박된 크리쳐에게 해를 가하지 않고 그물을 찢을 수 있으며, 그렇게 되면 포박 상태는 종료됩니다.</p><p>당신이 행동, 추가 행동, 반응행동을 사용해 그물로 공격을 가할 때, 실제로 당신이 여러 번 공격할 수 있더라도 그물로는 오직 한 번의 공격만 가할 수 있습니다.</p>"
 		},
 		{
 			"id": "Oil Flask",
-			"name": "Oil Flask",
-			"description": "<p>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon.</p>\n<p>On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level.</p>\n<p>If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</p>"
+			"name": "기름(Oil Flask)",
+			"description": "<p>기름은 대개 1파인트들이 점토 물병으로 판매됩니다. 당신은 행동을 사용하여 5ft 내의 목표에게 뿌리거나 20ft까지 던질 수 있으며, 병은 충격을 받으면 깨집니다. 어느 쪽이든, 당신은 기름을 임기응변 무기로 취급해 장거리 공격을 가합니다. 명중하면 목표는 기름에 뒤덮이게 됩니다. 만약 이후 목표가 기름이 마르기 전에 화염 피해를 받게 되면, 기름이 불타오르며 추가로 5점의 화염 피해를 입게 됩니다. (기름이 마르는 데는 1분이 걸립니다.) 또한, 당신은 기름을 5 × 5ft의 평평한 땅에 뿌릴 수 있습니다. 이렇게 땅에 뿌린 다음 불을 붙이면, 기름은 2라운드간 불타며 해당 지역에 들어오거나 그 턴에서 자기 턴을 끝마친 크리쳐에게 5점의 화염 피해를 가합니다. 이 화염 피해는 라운드당 1번만 가해집니다.</p>"
 		},
 		{
 			"id": "Oil of Etherealness",
@@ -1483,8 +1468,8 @@
 		},
 		{
 			"id": "Poisoner’s Kit",
-			"name": "Poisoner’s Kit",
-			"description": "<p>A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>"
+			"name": "독 제작자의 도구(Poisoner’s Kit)",
+			"description": "<p>독 제작자의 도구에는 여러 가지 약병과 화합물, 기타 독을 제조하는데 필요한 물품이 포함되어 있습니다. 이 도구에 숙련이 있으면 독을 만들거나 사용할 때의 능력 판정에 숙련 보너스를 더할 수 있습니다.</p>"
 		},
 		{
 			"id": "Pole",
@@ -1493,8 +1478,8 @@
 		},
 		{
 			"id": "Portable Ram",
-			"name": "Portable Ram",
-			"description": "<p>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</p>\n<p>&nbsp;</p>"
+			"name": "휴대용 파성추(Portable Ram)",
+			"description": "<p>이 커다란 파성추는 문을 파괴하는데 사용할 수 있습니다. 이를 사용하면 문을 파괴하기 위한 근력 판정에 +4 보너스를 받을 수 있습니다. 다른 캐릭터 한 명이 파성추를 사용하는 데 도움을 준다면 판정에 이점을 받을 수 있습니다.</p>"
 		},
 		{
 			"id": "Potion of Acid Resistance",
@@ -1693,8 +1678,8 @@
 		},
 		{
 			"id": "Rations",
-			"name": "Rations",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</span></p>"
+			"name": "휴대식량(Rations)",
+			"description": "<p>휴대식량은 장거리 여행에 필요한 건조된 음식들이며, 육포, 말린 과일, 견과류, 비스킷 등을 포함하고 있습니다.</p>"
 		},
 		{
 			"id": "Ring Mail",
@@ -1953,13 +1938,13 @@
 		},
 		{
 			"id": "Thieves’ Tools",
-			"name": "Thieves’ Tools",
-			"description": "<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>"
+			"name": "도둑 도구(Thieves’ Tools)",
+			"description": "<p>이 도구에는 작은 쇠줄, 자물쇠 따개, 금속 손잡이가 달린 소형 거울, 가느다란 가위, 한 쌍의 집게 따위가 포함되어 있습니다. 이 도구에 숙련을 지니고 있으면 당신은 함정을 해체하거나 자물쇠를 열 때 능력 판정에 숙련 보너스를 받을 수 있습니다.</p>"
 		},
 		{
 			"id": "Tinderbox",
-			"name": "Tinderbox",
-			"description": "<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch - or anything else with abundant, exposed fuel - takes an action. Lighting any other fire takes 1 minute.</p>\n<p>&nbsp;</p>"
+			"name": "부싯깃통(Tinderbox)",
+			"description": "<p>이 작은 용기는 불을 붙이기 위한 부싯돌과 쇠판, 그리고 불쏘시개들로 이루어져 있습니다. (불쏘시개들은 주로 기름에 적신 천조각들입니다.) 이것을 가지고 행동을 사용하면 횃불이나 다른 준비된 연료에 불을 붙일 수 있습니다. 반면 다른 가연성 물질에 불을 붙이는 데는 1분이 필요합니다</p>"
 		},
 		{
 			"id": "Tinker's Tools",
@@ -1968,8 +1953,8 @@
 		},
 		{
 			"id": "Torch",
-			"name": "Torch",
-			"description": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p>"
+			"name": "횃불(Torch)",
+			"description": "<p>횃불은 1시간 동안 불을 밝히며, 주변 20ft 반경을 밝은 빛 환경으로, 추가로 20ft 반경까지는 약한 빛 환경으로 밝힙니다. 만약 당신이 불타는 횃불로 근접 공격을 가하면, 명중시 1점의 화염 피해를 가합니다.</p>"
 		},
 		{
 			"id": "Traveler's Clothes",
@@ -2018,8 +2003,8 @@
 		},
 		{
 			"id": "Waterskin",
-			"name": "Waterskin",
-			"description": "<p>A leather hide sewn into an enclosed skin which can contain up to 4 pints of liquid.</p>"
+			"name": "가죽물통(Waterskin)",
+			"description": "<p>4파인트의 액체를 담을 수 있는, 에워싼 형태로 재봉된 가죽입니다.</p>"
 		},
 		{
 			"id": "Weaver's Tools",

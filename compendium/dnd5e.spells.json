@@ -78,8 +78,8 @@
 		},
 		{
 			"id": "Arcane Lock",
-			"name": "Arcane Lock",
-			"description": "<p>You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes.</p>\n<p>While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.</p>"
+			"name": "비전 자물쇠(Arcane Lock)",
+			"description": "<p>당신은 닫힌 문이나 창문, 관문, 상자 등등의 물체에 접촉하여 주문의 지속시간 동안 잠겨있게 할 수 있습니다. 당신과 주문 시전 당시 당신이 지정한 크리쳐들은 평범하게 해당 물체를 열 수 있습니다. 또한 당신은 암호를 지정할 수 있으며, 잠겨진 물체로부터 5ft 내에서 암호를 말할 경우 1분간 주문을 억제하도록 할 수 있습니다. 이런 경우를 제외하면 이 주문은 무효화되거나 억제될 때까지 해당 물체를 완전히 잠겨진 상태로 만들 수 있습니다. <i>@Compendium[dnd5e.spells.1nhIxh0DsJsntCfj]{문열기Knock}</i> 주문을 시전할 경우, 비전 자물쇠의 효과를 10분간 억제할 수 있습니다.</p><p>이 주문의 효력을 받는 물체는 망가트리거나 억지로 열기가 더욱 어려워집니다. 해당 물체를 파괴하거나 자물쇠를 열기 위해 필요한 DC가 10 증가합니다.</p>"
 		},
 		{
 			"id": "Arcane Sword",
@@ -483,8 +483,8 @@
 		},
 		{
 			"id": "Enhance Ability",
-			"name": "Enhance Ability",
-			"description": "<p>You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.</p>\n<ul>\n<li><strong>Bear’s Endurance</strong>. The target has advantage on Constitution Checks. It also gains 2d6 Temporary Hit Points, which are lost when the spell ends.</li>\n<li><strong>Bull’s Strength</strong>. The target has advantage on Strength Checks, and his or her carrying capacity doubles.</li>\n<li><strong>Cat’s Grace</strong>. The target has advantage on Dexterity Checks. It also doesn’t take damage from Falling 20 feet or less if it isn’t Incapacitated.</li>\n<li><strong>Eagle’s Splendor</strong>. The target has advantage on Charisma Checks.</li>\n<li><strong>Fox’s Cunning</strong>. The target has advantage on Intelligence Checks.</li>\n<li><strong>Owl’s Wisdom</strong>. The target has advantage on Wisdom Checks.</li>\n</ul>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.</p>\n<p>&nbsp;</p>"
+			"name": "능력 강화(Enhance Ability)",
+			"description": "<p>당신은 대상에 접촉하여 마법적인 강화의 힘을 불어넣을 수 있습니다. 아래 효과 중 하나를 골라, 주문의 지속시간이 끝날 때까지 목표에게 그 효과를 부여할 수 있습니다.</p><p><strong><i>곰의 인내력.</i></strong> 목표는 건강 판정에 이점을 받게 됩니다. 또한 목표는 2d6점의 임시 hp를 얻으며, 이 임시 hp는 주문의 효력이 끝날 때 사라질 것입니다.</p><p><strong><i>황소의 힘.</i></strong> 목표는 근력 판정에 이점을 받게 되며, 지니고 다닐 수 있는 적재량이 2배로 늘어납니다.</p><p><strong><i>고양이의 우아함.</i></strong> 목표는 민첩 판정에 이점을 받게 됩니다. 또한 목표는 행돌불능 상태가 아닌 한, 20ft 이하의 높이에서 떨어질 때 낙하 피해를 받지 않습니다.</p><p><strong><i>독수리의 위광.</i></strong> 목표는 매력 판정에 이점을 받습니다.</p><p><strong><i>여우의 교활함.</i></strong> 목표는 지능 판정에 이점을 받습니다.</p><p><strong><i>올빼미의 지혜.</i></strong> 목표는 지혜 판정에 이점을 받습니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 주문을 시전한 경우, 상승한 슬롯 하나당 추가로 대상 하나씩을 더 지정할 수 있습니다.</p>"
 		},
 		{
 			"id": "Enlarge/Reduce",
@@ -578,8 +578,8 @@
 		},
 		{
 			"id": "Fire Bolt",
-			"name": "Fire Bolt",
-			"description": "<p>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.</p>\n<p>This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</p>"
+			"name": "화염 화살(Fire Bolt)",
+			"description": "<p>당신은 사거리 내의 크리쳐나 물체에 불덩이를 던질 수 있습니다. 목표에게 장거리 주문 공격을 가합니다. 이 공격이 명중하면 목표는 1d10점의 화염 피해를 받습니다. 이 주문은 누군가 장비하거나 들고 있지 않은 가연성 물체에 불을 붙일 수 있습니다.</p><p>이 주문의 피해는 시전자의 총 레벨이 오르면서 점점 증가하여 5레벨에 2d10, 11레벨에 3d10, 17레벨에 4d10의 피해를 가합니다.</p>"
 		},
 		{
 			"id": "Fire Shield",
@@ -728,8 +728,8 @@
 		},
 		{
 			"id": "Guidance",
-			"name": "Guidance",
-			"description": "<p>You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</p>"
+			"name": "안내(Guidance)",
+			"description": "<p>당신은 주문을 받으려는 대상 하나에 접촉합니다. 주문의 지속시간 동안 단 한 번, 대상은 d4를 굴려 그 결과를 자신이 원하는 능력 판정의 결과에 더할 수 있습니다. 이 추가 주사위는 능력 판정을 굴리기 전이나 후 아무 때나 사용할 수 있습니다. 한 번 추가 주사위를 사용하고 나면 주문의 효력은 종료됩니다.</p>"
 		},
 		{
 			"id": "Guiding Bolt",
@@ -773,8 +773,8 @@
 		},
 		{
 			"id": "Heat Metal",
-			"name": "Heat Metal",
-			"description": "<p>Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.</p>\n<p>If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>"
+			"name": "금속 가열(Heat Metal)",
+			"description": "<p>당신은 사거리 내에서 금속 무기나 평장 혹은 중장 갑옷 등, 금속으로 제작된 물체 하나를 선택하여 그것을 가열할 수 있습니다. 가열된 물체는 붉게 달어오를 것입니다. 이 물체에 닿아 있는 크리쳐는 당신이 주문을 시전할 때 2d8점의 화염 피해를 받게 됩니다. 또한 주문의 지속시간이 끝날 때까지, 당신은 매 턴 자신의 추가 행동을 사용하여 다시 이 피해를 가할 수 있습니다.</p><p>자신이 들고 있는 물체가 가열되어 크리쳐가 피해를 받을 때는 건강 내성 굴림을 굴려야 하며, 여기서 실패할 시 물체를 떨어뜨립니다. 만약 물체를 떨어뜨리지 않는다면, 해당 크리쳐는 당신의 다음 턴이 시작될 때까지 모든 명중굴림과 능력 판정에 불리점을 받게 됩니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 이 주문을 3레벨 이상의 슬롯으로 시전한다면, 상승한 슬롯 1레벨당 피해가 추가로 1d8점씩 증가합니다.</p>"
 		},
 		{
 			"id": "Hellish Rebuke",
@@ -863,8 +863,8 @@
 		},
 		{
 			"id": "Invisibility",
-			"name": "Invisibility",
-			"description": "<p>A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.</p>"
+			"name": "투명화(Invisibility)",
+			"description": "<p>당신이 접촉한 크리쳐 하나는 주문의 지속시간 동안 투명 상태가 됩니다. 이 목표가 장비하거나 들고 있는 물체 역시, 목표가 소지하고 있는 동안에는 투명해집니다. 이 주문은 목표가 공격을 가하거나 주문을 시전하면 자동으로 종료됩니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 1레벨당 하나씩의 크리쳐를 더 목표로 삼을 수 있습니다.</p>"
 		},
 		{
 			"id": "Irresistible Dance",
@@ -878,8 +878,8 @@
 		},
 		{
 			"id": "Knock",
-			"name": "Knock",
-			"description": "<p>Choose an object that you can see within range. The object can be a door, a box, a chest, a set of Manacles, a padlock, or another object that contains a mundane or magical means that prevents access.</p>\n<p>A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.</p>\n<p>If you choose a target that is held shut with Arcane Lock, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.</p>\n<p>When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.</p>"
+			"name": "문열기(Knock)",
+			"description": "<p>당신은 사거리 내에서 볼 수 있는 물체 하나를 목표로 지정합니다. 이 물체는 문이나 상자, 통, 창문, 족쇄, 수갑, 자물쇠 등 마법적이거나 비마법적 수단으로 잠겨진 것이어야 합니다.</p><p>목표가 된 물체가 비마법적인 잠금방법으로 잠겨져 있거나 빗장이 걸려 있는 상태라면, 목표는 즉시 열리고 빗장 역시 치워집니다. 만약 목표에 여러 가지 잠금 수단이 동원되어 있다면, 오직 한 번에 하나씩의 잠금 수단만을 열 수 있습니다.</p><p>만약 목표가 된 물체가 <i>@Compendium[dnd5e.spells.8cse7rit0oswRPUP]{비전 자물쇠Arcane Lock}</i> 등의 마법으로 잠겨진 상태라면, 해당 마법은 10분간 억제되며 그 시간 동안에는 자유로이 열고 닫을 수 있습니다.</p><p>당신이 주문을 시전하면 목표가 된 물체에서 크게 문을 두드리는 소리가 나며, 이 소리는 300ft 밖에서도 들을 수 있습니다.</p>"
 		},
 		{
 			"id": "Legend Lore",
@@ -1043,13 +1043,13 @@
 		},
 		{
 			"id": "Misty Step",
-			"name": "Misty Step",
-			"description": "<p>Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.</p>"
+			"name": "안개 걸음(Misty Step)",
+			"description": "<p>당신은 순간적으로 은색 안개에 감싸이며, 30ft까지 순간이동하여 당신이 볼 수 있는 점유되지 않은 위치에 나타납니다.</p>"
 		},
 		{
 			"id": "Modify Memory",
-			"name": "Modify Memory",
-			"description": "<p>You attempt to reshape another creature’s memories. One creature that you can see must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target becomes Charmed by you for the Duration. The cha⁠rmed target is Incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target’s memories are modified.</p>\n<p>While this charm lasts, you can affect the target’s memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.</p>\n<p>You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing the modified memories, the creature’s memory isn’t altered. Otherwise, the modified memories take hold when the spell ends.</p>\n<p>A modified memory doesn’t necessarily affect how a creature behaves, particularly if the memory contradicts the creature’s natural inclinations, Alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature in a significant manner.</p>\n<p>A Remove Curse or Greater Restoration spell cast on the target restores the creature’s true memory.</p>\n<p><strong>At Higher Levels</strong>. If you cast this spell using a spell slot of 6th level or higher, you can alter the target’s memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature’s past (9th level).</p>"
+			"name": "기억 조작(Modify Memory)",
+			"description": "<p>당신은 다른 크리쳐의 기억을 재구성할 수 있습니다. 사거리 내에서 당신이 볼 수 있는 크리쳐 하나를 지정하면, 목표는 지혜 내성 굴림을 굴려야 하며, 당신과 전투 중이었다면 이 내성 굴림에 이점을 받을 수 있습니다. 내성에 실패하면 목표는 주문의 지속시간이 끝날 때까지 매혹된 상태가 됩니다. 매혹된 목표는 행동불능 상태가 되며, 주변 환경을 인지하지 못하게 되지만, 여전히 당신의 소리는 들을 수 있습니다. 만일 매혹된 목표가 피해를 받거나 다른 주문의 목표가 되면 이 주문은 즉시 효력이 종료되며, 목표의 기억은 전혀 조작되지 않은 상태로 남게 됩니다.</p><p>매혹이 지속되고 있는 동안, 당신은 목표의 기억을 조작해 과거 24시간 이내에 있었던 특정한 사건에 대한 기억을 10분 이내에서 변경할 수 있습니다. 당신은 영구적으로 해당 사건의 기억을 완전히 지워버릴 수도 있으며, 목표가 해당 사건의 기억을 세부까지 세세하게 기억하게 만들 수도 있습니다. 또한 일어난 사건의 세부를 다르게 기억하게 만들 수도 있으며, 아예 다른 사건이 일어났다는 식으로 기억을 바꿀 수도 있습니다.</p><p>당신은 대상의 기억에 어떤 방식으로 영향을 가하려는지 자신의 입으로 이야기해야만 하며, 대상이 당신의 언어를 알아듣지 못할 경우 기억에 영향을 줄 수는 없습니다. 당신이 지정한 사항을 제외한 세세한 기억의 오류는 알아서 수정됩니다. 당신이 기억 변조를 완료하기 전에 주문의 지속시간이 끝날 경우, 대상의 기억은 전혀 바뀌지 않은 상태로 남게 됩니다. 지속시간 내에 변조를 완료했다면, 대상의 기억은 변조된 상태로 계속 남게 될 것입니다.</p><p>변경된 기억이 대상의 행동에 어떤 식으로 영향을 끼치게 될지는 알 수 없습니다. 특히 변경된 기억이 대상의 선천적 기질이나 성향, 믿음과 반하는 것일 경우 더욱 그러합니다. 변경된 기억이 논리적이지 못한 것이라면, 대상은 곧 이 기억을 나쁜 꿈 정도로 치부하고 잊어버리게 될 것입니다. DM은 변경된 기억이 대상의 행동을 변경시키기에 너무 비정상적인지 어떤지를 결정할 것입니다.</p><p><i>@Compendium[dnd5e.spells.XZhdgVK3cLoxNCQl]{저주 해제Remove Curse}</i>나 <i>@Compendium[dnd5e.spells.WzvJ7G3cqvIubsLk]{상급 회복Greater Restoration}</i> 주문을 시전하면 이 주문의 영향을 제거하고 대상의 진짜 기억을 되찾아줄 수 있습니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 이 주문을 6레벨 이상의 슬롯을 사용하여 시전한다면, 대상의 기억을 더 이전 시점에 일어난 사건까지 조작할 수 있습니다. 6레벨 슬롯을 사용한 경우 7일 전까지, 7레벨 슬롯을 사용한 경우 30일 전까지, 8레벨 슬롯을 사용한 경우 1년 전까지, 9레벨 슬롯을 사용한 경우 대상의 과거 삶 중 어느 시점에 일어난 사건이든 최대 10분 길이까지 조작할 수 있습니다.</p>"
 		},
 		{
 			"id": "Moonbeam",
@@ -1583,8 +1583,8 @@
 		},
 		{
 			"id": "Wish",
-			"name": "Wish",
-			"description": "<p>Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.</p>\n        <p>The basic use of this spell is to duplicate any other spell of 8th level or lower. You don’t need to meet any requirements in that spell, including costly Components. The spell simply takes effect.</p>\n        <p>Alternatively, you can create one of the following Effects of your choice:</p>\n        <ul>\n        <li>You create one object of up to 25,000 gp in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.</li>\n        <li>You allow up to twenty creatures that you can see to regain all hit points⁠, and you end all Effects on them described in the Greater Restoration spell.</li>\n        <li>You grant up to ten creatures that you can see resistance⁠ to a damage type you choose.</li>\n        <li>You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack⁠.</li>\n        <li>You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a wish spell could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.</li>\n        </ul>\n        <p>You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item’s current owner.</p>\n        <p>The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell⁠ until you finish a Long Rest, you take 1d10 necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn’t 3 or lower already, for 2d4 days. For each of those days that you spend Resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast wish ever again if you suffer this stress.</p>"
+			"name": "소원(Wish)",
+			"description": "<p>소원은 필멸자가 시전할 수 있는 가장 강대한 주문 중 하나입니다. 당신은 단순히 크게 외치는 것만으로 주변의 현실을 당신의 바람대로 변화시키는 힘을 얻게 됩니다.</p>\n<p>이 주문의 기초적인 사용법은 8레벨 이하의 주문 효과를 그대로 복제하는 것입니다. 당신은 원래 주문의 필요조건을 만족시킬 필요가 없으며, 값비싼 구성 요소도 무시할 수 있습니다. 복제하기를 원하는 주문은 그대로 시전될 것입니다.</p>\n<p>이 주문에는 그 외에도 다양한 사용법이 있을 수 있습니다.</p>\n<ul>\n<li>당신은 25,000gp 이하의 가치를 지닌 마법적이지 않은 물건을 창조할 수 있습니다. 이렇게 만들어지는 물건은 300 &times; 300 &times; 300ft 이하 크기여야 하며, 당신이 볼 수 있는 점유되지 않은 공간에 나타날 것이니다.</li>\n<li>당신은 최대 20체까지의 크리쳐들을 치유해 모든 hp를 다 회복시킬 수 있으며, 상급 회복 주문으로 치유할 수 있는 모든 효과를 다 치유할 수 있습니다.</li>\n<li>당신은 최대 10체까지의 크리쳐들에게 당신이 선택한 한 가지 피해 속성에 대한 저항을 부여할 수 있습니다.</li>\n<li>당신은&nbsp; 최대 10체까지의 크리쳐들에게 한 가지 주문이나 마법 효과에 대해 8시간 동안 면역을 부여할 수 있습니다. 예를 들어, 당신은 자신과 동료들에게 리치의 생명 흡수 공격에 대한 면역을 부여할 수 있습니다.</li>\n<li>당신은 지난 라운드에 굴린 주사위 굴림을 다시 굴리는 방식으로 최근에 일어난 사건 하나를 무효화할 수 있습니다. (당신의 방금 전 턴 역시 포함됩니다.) 예를 들어, 소원 주문을 사용하면 상대가 성공한 내성을 취소하고 다시 굴리게 할 수 있으며, 적의 치명타를 무효로 하고 다시 굴리게 할 수도 있고, 친구가 내성에 실패한 경우도 한 번 더 기회를 줄 수도 있습니다. 당신은 이렇게 다시 주사위를 굴릴 때 상대에게 이점이나 불리점을 부여할 수 있으며, 새로 나온 결과를 쓸지 원래 결과를 쓸지 역시 선택할 수 있습니다.</li>\n</ul>\n<p>당신은 위의 예시에 해당되지 않는 일 역시 이루어 낼 수 있습니다. 당신의 소원을 DM에게 가능한 한 상세히 설명하십시오. DM은 어떤 일이 벌어질지에 대한 재량권이 있습니다. 소원이 거대할수록, 뭔가 잘못 돌아가게 될 가능성도 커집니다. 이주문은 그냥 단순히 실패할 수도 있지만, 당신이 원하는 효과가 부분적으로만 벌어지는 경우 역시 가능합니다. 예를 들어, 악당이 죽었으면 좋겠다고 소원을 빈 경우, 당신은 목표가 죽은 시간대로 날아가 버리고 실제로 게임에서 아예 제외되는 결과가 나올 수도 있습니다. 마찬가지로 전설적인 마법 물건이나 유물을 소원으로 빈 경우, 그 현재 소유자가 위치한 곳으로 갑자기 당신을 날려 보낼 수도 있습니다.</p>\n<p>기존 주문을 복제하는 용도 외의 다른 방식으로 이 주문을 시전한 경우, 무거운 압박감 때문에 당신은 취약해지게 됩니다. 이 압박감 이후, 긴 휴식을 취하기 전까지 당신이 다른 주문을 시전할 때마다 당신은 시전하려는 주문의 레벨당 1d10점의 사령 피해를 받게 됩니다. 이 피해는 어떤 방식으로도 감소시키거나 막을 수 없습니다. 추가로, 당신의 근력 점수는 이후 2d4일간 3점이 됩니다. (이미 근력이 3점 이하라면 변화가 없습니다.) 이렇게 힘이 약해져 있을 때, 하루 동안 당신이 쭉 휴식을 취하고 가벼운 활동만 했다면, 회복 기간이 2일 줄어들 것입니다. 마지막으로 기존 주문을 복제하는 용도 이외로 이 주문을 사용할 때는 무거운 압박감으로 인해 당신이 다시는 소원 주문을 시전하지 못하게 될 확률이 33% 존재합니다.</p>"
 		},
 		{
 			"id": "Word of Recall",

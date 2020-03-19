@@ -988,8 +988,8 @@
 		},
 		{
 			"id": "Uncanny Dodge",
-			"name": "Uncanny Dodge",
-			"description": "<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>"
+			"name": "놀라운 회피(Uncanny Dodge)",
+			"description": "<p>로그 5레벨에 도달하면, 당신은 눈에 보이는 공격자에게 공격받아 명중당했을 때, 반응행동을 사용하여 그 공격의 피해를 절반으로 줄일 수 있습니다.</p>"
 		},
 		{
 			"id": "Use Magic Device",
