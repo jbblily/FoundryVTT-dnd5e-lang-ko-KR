@@ -28,18 +28,18 @@
 		},
 		{
 			"id": "Animal Friendship",
-			"name": "Animal Friendship",
-			"description": "<p>This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.</p>"
+			"name": "동물 친밀화(Animal Friendship)",
+			"description": "<p>이 주문은 주변의 야수를 설득하여 당신이 아무런 해도 끼치지 않는다고 믿게 만듭니다. 사거리 내에서 당신이 볼 수 있는 야수 하나를 선택합니다. 이 목표는 당신을 보고 들을 수 있어야 합니다. 야수의 지능 점수가 4 이상이라면 주문은 자동으로 실패합니다. 지능 3 이하의 경우, 야수는 지혜 내성을 굴려야 하며 이에 실패할 시 주문의 지속시간 동안 당신에게 매혹된 상태가 됩니다. 만약 당신이나 당신의 동료 중 하나가 목표에게 해를 끼쳤다면, 주문의 효과는 즉시 종료됩니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 소비하여 주문을 시전한 경우, 상승한 주문 슬롯 1레벨당 추가로 하나씩의 야수에게 더 영향을 끼칠 수 있습니다.</p>"
 		},
 		{
 			"id": "Animal Messenger",
-			"name": "Animal Messenger",
-			"description": "<p>By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as \"a man or woman dressed in the uniform of the town guard\" or \"a red-haired dwarf wearing a pointed hat.\" You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 hours for a flying messenger, or 25 miles for other animals.</p>\n<p>When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.</p>\n<p><strong>At Higher Levels.</strong> If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.</p>"
+			"name": "동물 전달자(Animal Messenger)",
+			"description": "<p>이 주문을 시전하면 당신은 동물 한 마리를 이용해 당신의 전언을 전달하게 할 수 있습니다. 사거리 내에서 당신이 볼 수 있는 초소형 크기의 동물을 고릅니다. 다람쥐나 참새, 박쥐 등이 이에 해당할 수 있습니다. 당신은 자신이 가본 적 있는 위치 중 한 곳을 지정하고 그곳에서 전언을 받을 자를 정할 수 있습니다. 수신자에 대한 정보는 \"마을 경비대의 복장을 한 남녀 중 하나\"라거나 \"뾰족한 모자를 쓰고 있는 붉은 머리의 드워프\" 등으로 얼마든지 세세하거나 대략적으로 정할 수 있습니다. 전언은 최대 25단어 이하로 이루어져야 합니다. 목표가 된 야수는 주문의 지속시간 동안 당신이 선택한 장소로 이동하여 당신이 정한 수신자에게 갈 것입니다. 이동속도는 비행하는 동물일 경우 24시간 동안 50마일에 달하며, 다른 동물의 경우 25마일까지입니다.</p><p>전달자가 도착하면, 동물은 당신이 선택한 수신자에게 가서 당신의 목소리 그대로 전언을 전할 것입니다. 전달자가 한 번 목소리를 전달하면 주문은 종료됩니다. 주문의 지속시간 동안 전달자가 당신이 지정한 수신자를 찾지 못한다면 주문은 종료됩니다. 만약 전달자가 주문의 지속시간 동안 목적지에 도착하지 못한다면 마찬가지로 주문은 종료되며, 당신이 지정한 전언 역시 사라지고 동물은 당신이 주문을 시전한 장소로 돌아올 것입니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 소비하여 주문을 시전한 경우, 상승한 주문 슬롯 1레벨당 지속시간이 48시간씩 늘어나게 됩니다.</p>"
 		},
 		{
 			"id": "Animal Shapes",
-			"name": "Animal Shapes",
-			"description": "<p>Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.</p>\n<p>The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.</p>\n<p>The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.</p>"
+			"name": "동물 형상(Animal Shapes)",
+			"description": "<p>당신은 마법으로 다른 이들을 야수의 모습으로 바꿉니다. 사거리 내에서 당신이 볼 수 있는 크리쳐들 중 주문을 받으려는 이들을 얼마든지 선택하십시오. 당신은 이렇게 선택된 크리쳐들을 각각 도전지수 4 이하, 크기 대형 이하의 야수로 변형시킬 수 있습니다. 시전한 이후에도 매 턴마다 당신은 자신의 행동을 사용해 주문의 영향을 받은 크리쳐들을 새로운 모습으로 변형시킬 수 있습니다.</p><p>이렇게 변형된 크리쳐들은 주무의 지속시간이 끝날 때까지 지속되며, 그 이전에도 각각의 hp가 0으로 떨어지거나 사망하면 변신이 풀리게 됩니다. 당신은 각각의 크리쳐마다 다른 형상을 부여할 수 있습니다. 목표의 게임 수치는 선택된 야수의 것으로 대체되지만, 지능, 지혜, 매력 수치와 성향은 변하지 않습니다. 목표는 새로운 야수 형태의 hp를 가지게 되며, 변신이 풀리고 나면 변신되기 전의 hp로 돌아옵니다. 변신 상태에서 hp가 0으로 떨어져 변신이 풀렸다면, hp를 0으로 만들고도 남은 초과된 피해량은 원래 형태의 hp에 가해집니다. 초과된 피해량으로 인해 원래 모습의 hp까지도 0으로 떨어지는 게 아니라면, 변신이 풀린 것만으로는 무의식 상태로 쓰러지지 않습니다. 변신된 크리쳐들은 새로운 모습으로 할 수 있는 행동만 취할 수 있으며, 변신된 상태에서는 말을 하거나 주문을 시전할 수 없습니다.</p><p>변신된 크리쳐들의 장비품은 새 형태에 그대로 녹아 들어갑니다. 변신된 상태에서는 장비한 물건들을 발동하거나, 장비하거나, 사용하는 등의 행동을 취할 수 없습니다.</p>"
 		},
 		{
 			"id": "Animate Dead",
@@ -98,8 +98,8 @@
 		},
 		{
 			"id": "Augury",
-			"name": "Augury",
-			"description": "<p>By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:</p>\n<ul>\n<li>Weal, for good results</li>\n<li>Woe, for bad results</li>\n<li>Weal and woe, for both good and bad results</li>\n<li>Nothing, for results that aren't especially good or bad</li>\n</ul>\n<p>The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.</p>\n<p>If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.</p>"
+			"name": "점술(Augury)",
+			"description": "<p>당신은 보석 박힌 막대를 던지거나, 용의 뼈로 된 주사위를 굴리거나, 고풍스러운 카드를 뽑는 등 점술 도구를 사용하여 앞으로 30분 이내에 당신이 취할 행동이 어떤 결과를 불러올지에 대해 외계의 존재로부터 징조를 받을 수 있습니다. DM은 아래와 같은 예시 중에서 징조를 택해 말해줍니다.</p>\n<ul>\n<li>길. 좋은 결과</li>\n<li>흉. 나쁜 결과</li>\n<li>길흉. 좋고 나쁜 결과가 모두 있음.</li>\n<li>무. 특별히 좋지도 나쁘지도 않은 결과.</li>\n</ul>\n<p>이 주문은 당신의 주문 사용이나 동료의 합류 혹은 이탈 등 이후 결과를 변화시킬 수 있는 상황을 고려하지 않고 있습니다.</p><p>만약 당신이 긴 휴식을 취하기 전 이 주문을 두 번 이상 시전했다면, 두 번째로 시전할 때부터 25%씩 누적되는 확률로 주문이 올바른 결과 대신 무작위 결과를 말해줄 가능성이 있습니다. DM은 비밀리에 이 확률을 굴릴 것입니다.</p>"
 		},
 		{
 			"id": "Awaken",
@@ -113,8 +113,8 @@
 		},
 		{
 			"id": "Banishment",
-			"name": "Banishment",
-			"description": "<p>You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.</p>\n<p>If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.</p>\n<p>If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.</p>"
+			"name": "추방(Banishment)",
+			"description": "<p>당신은 사거리 내에서 볼 수 있는 크리쳐 하나를 이계로 추방하려 시도합니다. 목표는 매력 내성 굴림에 실패하게 되면 바로 추방될 것입니다.</p><p>만약 목표가 당신이 현재 위치한 세계 출신이라면, 이 주문은 목표를 무해한 데미플레인 어딘가로 날려 보냅니다. 목표는 주문의 지속시간 동안 행돌불능 상태로 그곳에 있게 되며, 주문이 종료되면 자신이 이전에 있었던 장소나 그에 가장 가까운 점유되지 않은 위치로 돌아옵니다.</p><p>만약 목표가 당신이 현재 위치한 세계가 아닌 이계 출신이라면, 목표는 펑 하는 소리와 함께 자신의 본래 세계로 추방될 것입니다. 만약 이 주문이 1분이 지나기 전에 종료되어 버렸다면, 목표는 주문이 종료됨과 동시에 자신이 있었던 장소나 그에 가장 가까운 점유되지 않은 위치로 돌아옵니다. 이 주문이 1분간 유지되었다면, 목표는 돌아올 수 없습니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 5레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전한 경우, 상승한 주문 슬롯 1레벨당 추가로 하나씩의 목표를 더 추방할 수 있습니다.</p>"
 		},
 		{
 			"id": "Barkskin",
@@ -208,8 +208,8 @@
 		},
 		{
 			"id": "Clairvoyance",
-			"name": "Clairvoyance",
-			"description": "<p>You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.</p>\n<p>When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.</p>\n<p>A creature that can see the sensor (such as a creature benefiting from see invisibility or truesight) sees a luminous, intangible orb about the size of your fist.</p>"
+			"name": "투시(Clairvoyance)",
+			"description": "<p>당신은 주문의 사거리 내에서 당신이 친숙한 위치, 즉 당신이 방문한 적 있거나 본 적 있는 장소에 투명한 감각기관을 만들어 냅니다. 혹은 당신이 친숙하지 않더라도 닫혀진 문 바로 뒤라거나 모퉁이 너머, 나무 등걸 아래 등 근접한 위치에 감각기관을 만들어 낼 수도 있습니다. 이 감각기관은 주문의 지속시간 동안 유지되며, 공격을 받거나 다른 방식으로 영향을 줄 수 없습니다.</p><p>당신은 이 주문을 시전할 때, 볼 것인지 들을 것인지 고를 수 있습니다. 당신은 이 감각기관을 통해 마치 당신이 그 자리에 있는 것처럼 해당 감각을 사용할 수 있습니다. 당신은 자기 턴에 행동을 사용해 보는 것과 듣는 것을 교체할 수 있습니다.</p><p>진시야를 가졌거나 투명체를 감지할 수 있는 크리쳐는 이 감각기관을 볼 수 있으며, 그런 자들의 눈에는 이 감각기관이 당신 주먹만 한 크기의 빛나는 구체 형태로 보일 것입니다.</p>"
 		},
 		{
 			"id": "Clone",
@@ -353,8 +353,8 @@
 		},
 		{
 			"id": "Dancing Lights",
-			"name": "Dancing Lights",
-			"description": "<p>You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.</p><p>As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.</p>"
+			"name": "춤추는 빛(Dancing Lights)",
+			"description": "<p>당신은 사거리 내에서 최대 4체까지의 횃불 크기 빛을 만들어 내며, 이들을 횃불이나 랜턴, 혹은 빛나는 구체처럼 보이게 해 지속시간 동안 허공을 날아다니게 할 수 있습니다. 당신은 또한 4개의 불빛을 모두 조합하여 중형 크기의 인간형 크리쳐처럼 보이도록 할 수 있습니다. 당신이 선택한 형태가 무엇이든, 각각의 불빛은 주변 10ft 반경에 약한 빛을 제공합니다.</p><p>당신의 턴마다 추가 행동을 사용하면 당신은 각각의 불빛을 60ft까지 이동시킬 수 있습니다. 이렇게 이동한 위치는 주문의 사거리 내여야 합니다. 또한 각각의 불빛은 다른 불빛과 20ft 내에 위치해야 하며, 서로의 거리에서 벗어나거나 주문의 사거리에서 벗어난 불빛은 사라지게 됩니다.</p>"
 		},
 		{
 			"id": "Darkness",
@@ -428,8 +428,8 @@
 		},
 		{
 			"id": "Dispel Magic",
-			"name": "Dispel Magic",
-			"description": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell’s level is equal to or less than the level of the spell slot you used.</p>"
+			"name": "마법 무효화(Dispel Magic)",
+			"description": "<p>당신은 사거리 내에서 크리쳐, 물체, 혹은 마법 효과 하나를 선택합니다. 목표에 걸려 있는 3레벨 이하의 모든 주문은 즉시 종료됩니다. 또한 목표에 걸려 있는 주문 중 4레벨 이상의 주문이 있다면 주문 각각에 대해 당신의 주문시전 능력치를 사용해 능력 판정을 행합니다. 이때 판정의 DC는 10 + 대상 주문의 레벨입니다. 판정에 성공한 경우, 해당 주문 역시 종료됩니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 이 주문을 4레벨 이상의 주문 슬롯으로 사용한 경우, 당신이 사용한 주문 슬롯 이하의 모든 주문이 자동으로 종료됩니다.</p>"
 		},
 		{
 			"id": "Divination",
@@ -478,8 +478,8 @@
 		},
 		{
 			"id": "Eldritch Blast",
-			"name": "Eldritch Blast",
-			"description": "<p>A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.</p>\n<p>The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.</p>"
+			"name": "섬뜩한 방출(Eldritch Blast)",
+			"description": "<p>파직파직거리는 힘의 광선이 사거리 내의 목표에게 날아갑니다. 목표에 대해 장거리 주문 공격을 가합니다. 명중한 경우 목표는 1d10점의 역장 피해를 입게 됩니다.</p><p><strong><i>이 주문은 고레벨에 도달한 경우 하나 이상의 광선을 발사하게 됩니다.</i></strong> 시전자 5레벨에 광선 2개, 11레벨에 광선 3개, 17레벨에 광선 4개를 발사하게 됩니다. 당신은 각각의 광선을 다른 목표에게 지정하거나, 하나의 목표에게 모두 집중할 수도 있습니다. 각각의 광선마다 따로 명중 굴림을 굴려야 합니다.</p>"
 		},
 		{
 			"id": "Enhance Ability",
@@ -778,8 +778,8 @@
 		},
 		{
 			"id": "Hellish Rebuke",
-			"name": "Hellish Rebuke",
-			"description": "<p>When you are damaged by a creature within 60 feet of you that you can see, you point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.</p>"
+			"name": "지옥의 책망(Hellish Rebuke)",
+			"description": "<p>당신은 당신에게 피해를 준 크리쳐를 손가락으로 가리키며, 해당 목표는 순간적으로 지옥의 불길에 잠깐 휩싸입니다. 목표는 민첩 내성 굴림을 굴려야 하며, 실패하면 2d10점의 화염 피해를 입게 됩니다. 성공할 경우 피해는 절반으로 줄어듭니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전한 경우, 상승한 주문 슬롯 1레벨당 피해가 1d10점 증가합니다.</p>"
 		},
 		{
 			"id": "Heroes' Feast",
@@ -818,8 +818,8 @@
 		},
 		{
 			"id": "Hypnotic Pattern",
-			"name": "Hypnotic Pattern",
-			"description": "<p>You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a&nbsp;Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.</p>\n<p>The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.</p>"
+			"name": "최면 패턴(Hypnotic Pattern)",
+			"description": "<p>당신은 사거리 내의 허공 어딘가에 여러 가지 색으로 비틀린 문양을 만들어 낼 수 있습니다. 이 문양은 30 × 30 × 30ft 크기의 입방체에 영향을 줍니다. 당신이 만들어낸 문양은 잠깐 보였다가 사라집니다. 유효 범위 내에서 문양을 바라본 크리쳐들은 모두 지혜 내성 굴림을 굴려야 합니다. 내성에 실패한 크리쳐들은 주문의 지속시간 동안 매혹된 상태가 됩니다. 이 주문으로 인해 매혹된 크리쳐들은 행동불능 상태가 되며 이동속도가 0으로 떨어집니다.</p><p>이 주문의 효과는 영향을 받은 크리쳐가 피해를 받거나 누군가 행동을 사용해 흔들어 깨울 경우 끝납니다.</p>"
 		},
 		{
 			"id": "Ice Storm",
@@ -1258,8 +1258,8 @@
 		},
 		{
 			"id": "Scorching Ray",
-			"name": "Scorching Ray",
-			"description": "<p>You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.</p>\n<p>Make a ranged Spell Attack for each ray. On a hit, the target takes 2d6 fire damage.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.</p>"
+			"name": "타오르는 광선(Scorching Ray)",
+			"description": "<p>당신은 세 줄기의 불꽃 광선을 쏘아 사거리 내의 목표들을 맞출 수 있습니다. 당신은 모든 광선을 하나의 목표물에 집중하거나, 광선마다 별개의 목표를 지정할 수 있습니다. 불꽃 광선 하나당 한 번씩 장거리 주문 공격을 행해야 합니다.</p><p>명중하게 되면 각각의 불꽃 광선은 2d6점의 화염 피해를 가합니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전한 경우, 상승한 주문 슬롯 1레벨당 추가로 하나씩의 불꽃 광선을 더 발사할 수 있습니다.</p>"
 		},
 		{
 			"id": "Scrying",
@@ -1298,13 +1298,13 @@
 		},
 		{
 			"id": "Shatter",
-			"name": "Shatter",
-			"description": "<p>A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.</p>\n<p>A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a 3 or higher level spell slot, the damage of the spell increases by 1d8 for each level of higher spell slot 2.</p>"
+			"name": "분쇄(Shatter)",
+			"description": "<p>사거리 내에서 당신이 지정한 지점에 엄청난 굉음이 터지며 울려퍼집니다. 해당 지점 반경 10ft 이내의 모든 크리쳐는 건강 내성 굴림을 굴려야 하며, 실패할 시 3d8점의 천둥 피해를 입게 됩니다. 내성에 성공한 경우 피해는 절반으로 줄어듭니다. 만약 바위나 수정, 혹은 금속 등으로 만들어진 크리쳐가 주문에 영향을 받았을 경우, 해당 크리쳐는 내성 굴림에 불리점을 받게 됩니다.</p><p>주문의 범위 내에 다른 누군가가 장비하거나 들고 있지 않은 비마법적 물체가 있다면, 해당 물체 역시 피해를 받게 됩니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 3레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 1레벨당 피해가 1d8점씩 증가합니다.</p>"
 		},
 		{
 			"id": "Shield",
 			"name": "방패(Shield)",
-			"description": "<p>마법의 힘으로 이루어진 보이지 않는 방벽이 당신 앞에 생겨나 당신을 보호합니다. 당신의 다음 턴이 시작될 때까지, 당신은 AC에 +5 보너스를 받습니다. 이 AC는 발동조건이 된 공격에도 적용됩니다. 또한 주문이 지속되는 동안 당신은 <i>마법 화살Magic Missile</i> 주문에 피해를 받지 않습니다.</p>"
+			"description": "<p>마법의 힘으로 이루어진 보이지 않는 방벽이 당신 앞에 생겨나 당신을 보호합니다. 당신의 다음 턴이 시작될 때까지, 당신은 AC에 +5 보너스를 받습니다. 이 AC는 발동조건이 된 공격에도 적용됩니다. 또한 주문이 지속되는 동안 당신은 <i>@Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{마법 화살Magic Missile}</i> 주문에 피해를 받지 않습니다.</p>"
 		},
 		{
 			"id": "Shield of Faith",
@@ -1413,8 +1413,8 @@
 		},
 		{
 			"id": "Suggestion",
-			"name": "Suggestion",
-			"description": "<p>You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.</p>\n<p>The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.</p>\n<p>You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.</p>\n<p>If you or any of your companions damage the target, the spell ends.</p>"
+			"name": "암시(Suggestion)",
+			"description": "<p>당신은 당신의 목소리를 들을 수 있고 당신의 모습을 볼 수 있는 사거리 내의 어떤 대상에게 일련의 행동을 하도록 한두 문장 내외의 암시를 걸 수 있습니다. 매혹 효과에 면역이 있는 크리쳐들은 이 효과에 영향을 받지 않습니다. 암시는 합리적으로 들리는 선에서 이루어져야 합니다. 자기 자신을 찌르라거나, 창에 몸을 던지라거나, 스스로를 불태우라는 등 명백하게 자기 자신에게 해가 되는 암시를 시도할 경우 이 주문은 자동으로 종료됩니다.</p><p>목표는 지혜 내성굴림을 굴려야 하며, 실패한 경우 당신이 걸어놓은 암시에 따라 최선을 다해 정해진 행동을 합니다. 암시된 행동은 주문의 지속시간 내에 행해져야 합니다. 암시된 행동이 더 짧은 시간 내에 이루어지는 것이라면, 한 번 암시된 행동을 행하고 나면 주문은 자동으로 종료됩니다.</p><p>당신은 언제 특정한 행동을 하게 될지 특별한 조건을 걸어 놓을 수도 있습니다. 예를 들어, 당신은 기사에게 암시를 걸어 처음 만나는 거지에게 자신의 전투마를 건네주라고 할 수 있습니다. 만약 주문의 지속시간이 끝날 때까지 이 조건이 충족되지 않았다면, 정해진 행동 역시 이루어지지 않고 주문이 종료됩니다.</p><p>만약 목표가 당신이나 당신의 동료에게 피해를 입게 된다면 이 주문은 그냥 종료됩니다.</p>"
 		},
 		{
 			"id": "Sunbeam",
@@ -1453,13 +1453,13 @@
 		},
 		{
 			"id": "Thaumaturgy",
-			"name": "Thaumaturgy",
-			"description": "<p>You create one of the following magical effects within range:</p>\n<ul>\n<li>Your voice booms up to three times as loud as normal for 1 minute.</li>\n<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.</li>\n<li>You cause harmless tremors in the ground for 1 minute.</li>\n<li>You create a sound that originates from a point of your choice within range.</li>\n<li>You cause an unlocked door or window to fly open or slam shut.</li>\n<li>You alter the appearance of your eyes for 1 minute.</li>\n</ul>\n<p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>"
+			"name": "단순마술(Thaumaturgy)",
+			"description": "<p>당신은 자신이 지닌 초자연적인 힘을 증명하는 작은 기적을 행할 수 있습니다. 당신은 사거리 내에서 아래와 같은 마법 효과를 일으킬 수 있습니다.</p>\n<ul>\n<li>이후 1분간, 당신의 목소리는 3배로 커지게 됩니다.</li>\n<li>이후 1분간, 당신은 불을 끄거나, 밝게 하거나, 침침하게 하거나 불꽃의 색을 바꿀 수 있습니다.</li>\n<li>이후 1분간, 당신은 별다른 해를 입히지 않는 규모로 지면에 가벼운 진동을 일으킬 수 있습니다.</li>\n<li>당신은 즉시 사거리 내의 지정된 지점에서 어떤 소리가 들려오게 할 수 있습니다. 이 소리는 천둥소리, 까마귀의 울음소리, 기이한 속삭임 등 다양하게 정할 수 있습니다.</li>\n<li>당신은 잠기지 않은 문이나 창문이 갑자기 열리거나 닫히도록 할 수 있습니다.</li>\n<li>이후 1분간, 당신은 자신의 눈동자 색을 바꿀 수 있습니다.</li>\n</ul>\n<p>만약 당신이 이 주문을 여러 번 시전한다면, 1분간 지속되는 효과를 최대 3개까지 동시에 발휘할 수 있습니다. 또한 당신은 지속시간 중에도 행동을 사용하여 주문의 효과를 취소할 수 있습니다.</p>"
 		},
 		{
 			"id": "Thunderwave",
-			"name": "Thunderwave",
-			"description": "<p>A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed.</p>\n<p>In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.</p>\n<p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</p>"
+			"name": "천둥파도(Thunderwave)",
+			"description": "<p>당신에게서 천둥과 같은 힘의 물결이 퍼져 나옵니다. 당신을 기점으로 한 15 × 15 × 15ft 범위 내의 모든 크리쳐는 건강 내성 굴림을 굴려야 합니다. 이 내성 굴림에 실패한 크리쳐는 2d8점의 천둥 피해를 받으며 당신에게서 10ft 밀려나게 됩니다. 내성에 성공하면 피해는 절반으로 줄어들고 밀려나지도 않습니다.</p><p>또한, 주문의 유효 범위 내에 있는 고정되지 않은 물체는 주문이 발동될 때 모두 자동으로 당신에게서 10ft 멀리 밀려납니다. 이 주문은 주변 300ft까지 들리는 천둥소리가 울려 퍼지게 합니다.</p><p><strong><i>고레벨에서.</i></strong> 당신이 2레벨 이상의 주문 슬롯을 사용하여 이 주문을 시전할 경우, 상승한 주문 슬롯 1레벨당 피해가 1d8점씩 증가합니다.</p>"
 		},
 		{
 			"id": "Time Stop",
