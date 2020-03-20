@@ -1358,8 +1358,8 @@
 		},
 		{
 			"id": "Speak with Animals",
-			"name": "Speak with Animals",
-			"description": "<p>You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.</p>"
+			"name": "동물과의 대화(Speak with Animals)",
+			"description": "<p>당신은 주문의 지속시간 동안 야수들의 의사를 확인하고 언어로 의사소통하는 능력을 얻을 수 있습니다. 야수들이 지닌 지식이나 감각은 그것들의 지능에 따라 제한되지만, 최소한 주변 환경이나 주변에 서식하는 괴물들에 대한 정보는 제공할 수 있을 것입니다. 또한 이전 하루 동안 일어난 일에 대한 것을 물어보아도 해답을 얻을 수 있습니다. 당신은 야수들을 잘 구슬려 작은 부탁을 들어주게 할 수도 있지만, 이는 어디까지나 DM의 결정에 따릅니다.</p>"
 		},
 		{
 			"id": "Speak with Dead",

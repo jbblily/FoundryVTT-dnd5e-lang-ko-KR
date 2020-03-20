@@ -58,8 +58,8 @@
 		},
 		{
 			"id": "Alchemist's supplies",
-			"name": "Alchemist's supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"name": "연금술사의 도구(Alchemist's supplies)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Alchemy Jug",
@@ -143,8 +143,8 @@
 		},
 		{
 			"id": "Backpack",
-			"name": "Backpack",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</span></p>"
+			"name": "배낭(Backpack)",
+			"description": "<p>배낭은 1입방피트, 또는 30lbs 가량의 장비를 담을 수 있습니다. 또한 이 수용량 외에도 침낭을 동여매고 로프를 옆에 차는 등으로 배낭을 이용할 수 있습니다.</p>"
 		},
 		{
 			"id": "Bag of Beans",
@@ -213,13 +213,13 @@
 		},
 		{
 			"id": "Bedroll",
-			"name": "Bedroll",
-			"description": "<p>Roll of cloth used by traveller to sleep in.</p>"
+			"name": "침낭(Bedroll)",
+			"description": "<p>여행자들이 안에 들어가 잠을 자기 위해 사용하는 말아놓은 천입니다.</p>"
 		},
 		{
 			"id": "Bell",
-			"name": "Bell",
-			"description": "<p>A small bell for you to ring.</p>"
+			"name": "종(Bell)",
+			"description": "<p>울릴 수 있는 작은 종입니다.</p>"
 		},
 		{
 			"id": "Belt of Cloud Giant Strength",
@@ -373,8 +373,8 @@
 		},
 		{
 			"id": "Brewer's Supplies",
-			"name": "Brewer's Supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"name": "양조사의 도구(Brewer's Supplies)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Brooch of Shielding",
@@ -388,8 +388,8 @@
 		},
 		{
 			"id": "Bucket",
-			"name": "Bucket",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">A bucket holds 3 gallons of liquid or ½ cubic foot of solids.</span></p>"
+			"name": "물통(Bucket)",
+			"description": "<p>물통은 3갤런의 액체, 또는 0.5입방피트의 고체를 담을 수 있습니다.</p>"
 		},
 		{
 			"id": "Bullseye Lantern",
@@ -398,12 +398,12 @@
 		},
 		{
 			"id": "Calligrapher's Supplies",
-			"name": "Calligrapher's Supplies",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "서기의 도구(Calligrapher's Supplies)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Caltrops",
-			"name": "Caltrops",
+			"name": "마름쇠(Caltrops)",
 			"description": "<p>당신은 행동을 사용하여 마름쇠가 들어 있는 가방을 5 × 5ft의 바닥에 뿌릴 수 있습니다. 해당 지역에 들어간 크리쳐는 DC 15의 민첩 내성에 실패할 경우 멈추게 되며 1점의 관통 피해를 받게 됩니다. 해당 크리쳐는 최소 1점의 hp를 회복하기 전까지 보행 이동속도가 10ft 감소합니다. 자기 이동속도의 절반 이하로 이동하는 크리쳐는 내성 굴림을 굴릴 필요 없이 해당 지역을 지나칠 수 있습니다.</p>"
 		},
 		{
@@ -423,8 +423,8 @@
 		},
 		{
 			"id": "Carpenter's Tools",
-			"name": "Carpenter's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "목공의 도구(Carpenter's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Carpet of Flying",
@@ -433,8 +433,8 @@
 		},
 		{
 			"id": "Cartographer's Tools",
-			"name": "Cartographer's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "지도제작자의 도구(Cartographer's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Censor of Controlling Air Elementals",
@@ -563,13 +563,13 @@
 		},
 		{
 			"id": "Cobbler's Tools",
-			"name": "Cobbler's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "구두장이의 도구(Cobbler's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Common Clothes",
-			"name": "Common Clothes",
-			"description": "<p>Clothes worn by most commoners.</p>"
+			"name": "평민 복장(Common Clothes)",
+			"description": "<p>대부분의 평민이 입는 옷입니다.</p>"
 		},
 		{
 			"id": "Component Pouch",
@@ -578,8 +578,8 @@
 		},
 		{
 			"id": "Cook's Utensils",
-			"name": "Cook's Utensils",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "요리사의 도구(Cook's Utensils)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Crossbow Bolt",
@@ -1043,13 +1043,13 @@
 		},
 		{
 			"id": "Glassblower's Tools",
-			"name": "Glassblower's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "유리제작자의 도구(Glassblower's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Grappling Hook",
-			"name": "Grappling Hook",
-			"description": "<p>A device with iron claws, can be used with rope for dragging or grasping.</p>"
+			"name": "등반용 갈고리(Grappling Hook)",
+			"description": "<p>철제 갈퀴가 달린 장치로, 밧줄과 함께 당기거나 붙잡는 용도로 사용할 수 있습니다.</p>"
 		},
 		{
 			"id": "Greataxe",
@@ -1113,8 +1113,8 @@
 		},
 		{
 			"id": "Healer's Kit",
-			"name": "Healer's Kit",
-			"description": "<p>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</p>"
+			"name": "치유사의 키트(Healer's Kit)",
+			"description": "<p>이 키트는 붕대와 연고, 부목이 포함된 가죽 주머니로 이루어져 있습니다. 이 키트는 10회 사용할 수 있습니다. 당신은 행동을 사용하여 키트의 내용물 1회분을 써서 hp 0의 크리쳐 하나를 지혜(의학) 판정 없이 안정화시킬 수 있습니다.</p>"
 		},
 		{
 			"id": "Heavy Crossbow",
@@ -1203,8 +1203,8 @@
 		},
 		{
 			"id": "Jeweler's Tools",
-			"name": "Jeweler's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "보석세공사의 도구(Jeweler's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Jug",
@@ -1248,8 +1248,8 @@
 		},
 		{
 			"id": "Leatherworker's Tools",
-			"name": "Leatherworker's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</span></p>"
+			"name": "무두장이의 도구(Leatherworker's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Light Crossbow",
@@ -1303,13 +1303,13 @@
 		},
 		{
 			"id": "Map or Scroll Case",
-			"name": "Map or Scroll Case",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</span></p>"
+			"name": "지도나 두루마리 통(Map or Scroll Case)",
+			"description": "<p>이 원통형 가죽 통은 10개까지의 말린 종이나 5개까지의 양피지를 넣어 보관할 수 있습니다.</p>"
 		},
 		{
 			"id": "Mason's Tools",
-			"name": "Mason's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "석공의 도구(Mason's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Maul",
@@ -1328,8 +1328,8 @@
 		},
 		{
 			"id": "Miner's Pick",
-			"name": "Miner's Pick",
-			"description": "<p>It is a hand tool with a hard head atached perpendiocular to the handle.</p>"
+			"name": "광부의 곡괭이(Miner's Pick)",
+			"description": "<p>단단한 머리 부분이 손잡이에 수직으로 부착된 공구입니다.</p>"
 		},
 		{
 			"id": "Morningstar",
@@ -1338,13 +1338,13 @@
 		},
 		{
 			"id": "Musical Instrument",
-			"name": "Musical Instrument",
-			"description": "<p>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</p>"
+			"name": "악기(Musical Instrument)",
+			"description": "<p>도구 표에는 가장 널리 사용되는 악기들이 나와 있습니다. 해당 악기에 대해 숙련을 지니고 있다면, 당신은 악기를 연주할 때 능력 판정에 숙련 보너스를 더할 수 있습니다. 바드는 악기를 주문시전 도구로 사용할 수 있으며, 이에 대한 규칙은 제10장에 나와 있습니다. 각각의 악기마다 따로 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Navigator’s Tools",
-			"name": "Navigator’s Tools",
-			"description": "<p>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</p>"
+			"name": "항해사의 도구(Navigator’s Tools)",
+			"description": "<p>이 도구들은 바다에서 방향을 가늠할 때 사용하는 것들입니다. 항해사의 도구에 숙련을 지니고 있으면 배의 진로를 잡고 운항할 수 있습니다. 또한 이 도구에 숙련이 있으면 바다에서 길을 잃지 않기 위해 능력 판정을 할 때 능력 판정에 숙련보너스를 더할 수 있습니다.</p>"
 		},
 		{
 			"id": "Net",
@@ -1398,8 +1398,8 @@
 		},
 		{
 			"id": "Painter's Supplies",
-			"name": "Painter's Supplies",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "화가의 도구(Painter's Supplies)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Pan Flute",
@@ -1648,8 +1648,8 @@
 		},
 		{
 			"id": "Potter's Tools",
-			"name": "Potter's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "도기 제작자의 도구(Potter's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Pouch",
@@ -1838,8 +1838,8 @@
 		},
 		{
 			"id": "Smith's Tools",
-			"name": "Smith's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "대장장이의 도구(Smith's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Soap",
@@ -1948,8 +1948,8 @@
 		},
 		{
 			"id": "Tinker's Tools",
-			"name": "Tinker's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "땜장이의 도구(Tinker's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Torch",
@@ -1958,8 +1958,8 @@
 		},
 		{
 			"id": "Traveler's Clothes",
-			"name": "Traveler's Clothes",
-			"description": "<p>A set of clothes worn by travellers.</p>"
+			"name": "여행자의 복장(Traveler's Clothes",
+			"description": "<p>여행자들이 입는 옷 한 벌입니다.</p>"
 		},
 		{
 			"id": "Trident",
@@ -2008,8 +2008,8 @@
 		},
 		{
 			"id": "Weaver's Tools",
-			"name": "Weaver's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "직조공의 도구(Weaver's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Whetstone",
@@ -2023,8 +2023,8 @@
 		},
 		{
 			"id": "Woodcarver's Tools",
-			"name": "Woodcarver's Tools",
-			"description": "<p><span style=\"color: #111111;\">These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency</span></p>"
+			"name": "목세공사의 도구(Woodcarver's Tools)",
+			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		{
 			"id": "Yklwa",
