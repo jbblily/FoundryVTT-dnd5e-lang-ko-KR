@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@400;700&display=swap');
+
+.nodesto,
+.dnd5e .form-header,
+.dnd5e.sheet .sheet-header,
+.dnd5e.sheet .sheet-navigation,
+.dnd5e.sheet.actor ul.attributes li.attribute,
+.dnd5e.sheet.actor .ability-scores,
+.dnd5e.sheet.actor .counters .counter h4,
+.dnd5e.sheet.actor .inventory-filters h3,
+.dnd5e.sheet.actor .inventory-filters .filter-title,
+.dnd5e.chat-card .card-header h3 {
+  font-family: "Nodesto", "Signika", "Palatino Linotype", "Do Hyeon", serif;
+}
+
+.dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer {
+  font-family: "Signika", "Palatino Linotype", "Noto Sans KR", serif
+}
