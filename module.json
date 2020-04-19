@@ -1,13 +1,14 @@
 {
     "name": "dnd5e_ko-KR",
     "title": "ko-KR - DND5 System",
-    "description": "<p>Add Korean language to system dnd5e Fvtt</p>",
-    "version": "0.1.12",
-    "minimumCoreVersion" : "0.4.5",
+    "description": "<p>Add Korean language to system dnd5e FVTT</p>",
+    "version": "0.2.0",
+    "minimumCoreVersion" : "0.5.0",
+    "compatibleCoreVersion": "0.5.5",
     "author": "Shoyu Vanilla",
     "esmodules": ["babele-register.js"],
     "scripts": [],
-    "styles": [],
+    "styles": ["styles.css"],
     "packs": [],
     
     "languages": [{
