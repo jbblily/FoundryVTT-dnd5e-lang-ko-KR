@@ -1,7 +1,7 @@
 {
     "name": "dnd5e_ko-KR",
-    "title": "ko-KR - DND5 System",
-    "description": "<p>Add Korean language to system dnd5e FVTT</p>",
+    "title": "ko-KR - D&D 5e System",
+    "description": "<p>D&D 5판 시스템의 한국어화 모듈입니다.</p>",
     "version": "0.2.0",
     "minimumCoreVersion" : "0.5.0",
     "compatibleCoreVersion": "0.5.5",
