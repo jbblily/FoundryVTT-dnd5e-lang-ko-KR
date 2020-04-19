@@ -8,7 +8,7 @@
     "author": "Shoyu Vanilla",
     "esmodules": ["babele-register.js"],
     "scripts": [],
-    "styles": ["styles.css"],
+    "styles": ["style.css"],
     "packs": [],
     
     "languages": [{
