@@ -11,10 +11,12 @@
 .dnd5e.sheet.actor .inventory-filters .filter-title,
 .dnd5e.chat-card .card-header h3 {
   font-family: "Nodesto", "Signika", "Palatino Linotype", "Do Hyeon", serif;
+  word-break: keep-all;
 }
 
 .dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer {
-  font-family: "Signika", "Palatino Linotype", "Noto Sans KR", serif
+  font-family: "Signika", "Palatino Linotype", "Noto Sans KR", serif;
+  word-break: keep-all;
 }
 
 /* Rest buttons in Hit Dice Box */
