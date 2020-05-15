@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Foundry-v0.5.5-informational)
 # Foundryvtt-dnd5e-lang-ko-KR
-* **Version**: 0.2.1
+* **Version**: 0.2.3
 * **Foundry VTT Compatibility**: 0.5.5
 * **Game System Compatibility**: 0.8.8
 * **Module Requirement(s)**: [Translation - Korean [Core]](https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR), [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
