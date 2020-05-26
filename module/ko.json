@@ -321,7 +321,7 @@
 	"DND5E.LimitedUses": "사용 횟수 제한",
 	"DND5E.LongRest": "긴 휴식",
 	"DND5E.OvernightRest": "긴 휴식 (새로운 하루)",
-	"DND5E.LongRestResult": "{name}은 긴 휴식을 취해 {health}점의 HP와 히트 다이스 {dice}개를 회복했습니다.",
+	"DND5E.LongRestResult": "{name}은(는) 긴 휴식을 취해 {health}점의 HP와 히트 다이스 {dice}개를 회복했습니다.",
 	"DND5E.Max": "최대",
 	"DND5E.Modifier": "수정치",
 	"DND5E.Name": "캐릭터 이름",
