@@ -1,0 +1,23 @@
+{
+	"name": "dnd5e_ko-KR",
+	"title": "Translation: Korean [D&D 5e]",
+	"description": "<p>D&D 5판 시스템의 한국어화 모듈입니다.</p>",
+	"version": "0.2.4",
+	"minimumCoreVersion" : "0.6.0",
+	"compatibleCoreVersion": "0.6.0",
+	"author": "Shoyu Vanilla",
+	"esmodules": ["babele-register.js"],
+	"scripts": [],
+	"styles": ["style.css"],
+	"packs": [],
+
+	"languages": [{
+		"lang": "ko",
+		"name": "한국어 (Korean)",
+		"path": "ko.json"
+	}],
+
+	"url": "https://github.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR",
+	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR/master/module/module.json",
+	"download": "https://github.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR/releases/download/v0.2.4/release.zip"
+}

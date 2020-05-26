@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Foundry-v0.6.0-informational)
+
 # Foundryvtt-dnd5e-lang-ko-KR
 
 * **Version**: 0.2.4
