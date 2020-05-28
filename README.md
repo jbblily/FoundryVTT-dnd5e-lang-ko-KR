@@ -4,7 +4,7 @@
 
 * **Version**: 0.2.4
 * **Foundry VTT Compatibility**: 0.6.0
-* **Game System Compatibility**: 0.91
+* **Game System Compatibility**: 0.92
 * **Module Requirements**: [Translation - Korean [Core]](https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR), [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
 
 ## Description
