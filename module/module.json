@@ -1,7 +1,7 @@
 {
 	"name": "dnd5e_ko-KR",
 	"title": "Translation: Korean [D&D 5e]",
-	"description": "<p>D&D 5판 시스템의 한국어화 모듈입니다.</p>",
+	"description": "<p>D&D 5판 시스템의 한국어화 모듈입니다.</p><p>컴펜디움 한국어화를 위해서는 <a href='https://foundryvtt.com/packages/babele/' target='_blank'>Babele</a> 모듈을 설치하고 해당 모듈과 본 모듈을 활성화해야 합니다.</p><p>옵션에서 컴펜디움 항목의 한국어 명칭 옆에 영문 명칭을 병기할지 설정할 수 있습니다.</p>",
 	"version": "0.2.6",
 	"minimumCoreVersion" : "0.6.0",
 	"compatibleCoreVersion": "0.6.0",
