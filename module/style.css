@@ -24,8 +24,14 @@
 	font-size: 10px;
 }
 
-/* Resources' Rest labels with checkboxes */
-.dnd5e.sheet.actor.character .attributes .resource label.checkbox {
-	margin: 0 1px;
-	font-size: 6px;
+.dnd5e.sheet.actor .ability-scores .ability {
+	min-width: 96px;
+}
+
+.dnd5e.sheet.actor.npc .header-exp {
+	flex: 0 0 120px;
+}
+
+.dnd5e input[type="text"] {
+	min-height: 20px;
 }
