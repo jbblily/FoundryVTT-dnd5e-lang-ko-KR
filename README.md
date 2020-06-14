@@ -1,16 +1,15 @@
-![](https://img.shields.io/badge/Foundry-v0.6.0-informational)
+![](https://img.shields.io/badge/Foundry-v0.6.2-informational)
 
 # Foundryvtt-dnd5e-lang-ko-KR
 
-* **Version**: 0.2.6
-* **Foundry VTT Compatibility**: 0.6.0
-* **Game System Compatibility**: 0.92
+* **Version**: 0.2.7
+* **Foundry VTT Compatibility**: 0.6.2
+* **Game System Compatibility**: 0.93
 * **Module Requirements**: [Translation - Korean [Core]](https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR), [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
 
 ## Description
 
 Foundry VTT의 D&D 5e 게임 시스템을 한국어로 출력해 주는 모듈입니다.
-별도로 진행중인 [SRD 번역 프로젝트](https://translation.shoyuvanilla.net/languages/ko/d20-5e-srd/)의 진행 상황을 반영할 예정입니다.
 전반적인 용어 번역은 던전즈 & 드래곤즈의 공식 한국어판을 기준으로 합니다.
 
 ## Installation
