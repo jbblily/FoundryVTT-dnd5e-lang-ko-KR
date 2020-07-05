@@ -1823,8 +1823,8 @@
 		},
 		{
 			"id": "Light Crossbow",
-			"name": "Light Crossbow",
-			"description": "<p>A small crossbow with a wooden haft and a tense cord which is capable of firing a single bolt which can puncture even heavy armor at close range.</p>"
+			"name": "라이트 크로스보우",
+			"description": "<p>나무 손잡이와 가까운 거리에서는 중장 갑옷조차도 뚫을 수 있는 볼트를 발사할 수 있는 팽팽한 시위가 달린 작은 석궁입니다.</p>"
 		},
 		{
 			"id": "Light Crossbow +1",
