@@ -6,7 +6,7 @@ Hooks.once('init', () => {
 		config: true,
 		default: true,
 		type: Boolean,
-		onChange: disableGMAsPC => window.location.reload()
+		onChange: _ => window.location.reload()
 	});
 
 	if (typeof Babele !== 'undefined') {
