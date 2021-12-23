@@ -3,8 +3,8 @@
 # Foundryvtt-dnd5e-lang-ko-KR
 
 * **Version**: 0.2.10
-* **Foundry VTT Compatibility**: 0.7.0
-* **Game System Compatibility**: 0.94
+* **Foundry VTT Compatibility**: 0.8.9
+* **Game System Compatibility**: 1.5.5
 * **Module Requirements**: [Translation - Korean [Core]](https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR), [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
 
 ## Description

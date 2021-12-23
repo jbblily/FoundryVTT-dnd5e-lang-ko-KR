@@ -2,12 +2,22 @@
 	"name": "dnd5e_ko-KR",
 	"title": "Translation: Korean [D&D 5e]",
 	"description": "<p>D&D 5e 시스템의 한국어화 모듈입니다.</p>",
-	"version": "0.2.10",
-	"minimumCoreVersion" : "0.6.0",
-	"compatibleCoreVersion": "0.7.0",
-	"author": "Shoyu Vanilla",
-	"esmodules": ["babele-register.js"],
-	"styles": ["style.css"],
+	"version": "0.3.0",
+	"minimumCoreVersion" : "0.8.0",
+	"compatibleCoreVersion": "9",
+	"author": "Crownel(jbblily)",
+	"esmodules": ["/scripts/babele-register.js"],
+	"dependencies": [
+		{
+		  "name": "babele",
+		  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+		},
+		{
+		  "name": "dnd5e",
+		  "type": "system"
+		}
+		],
+	"styles": ["/styles/style.css"],
 	"system": "dnd5e",
 
 	"languages": [{
@@ -16,7 +26,7 @@
 		"path": "ko.json"
 	}],
 
-	"url": "https://github.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR",
-	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR/master/module/module.json",
-	"download": "https://github.com/ShoyuVanilla/FoundryVTT-dnd5e-lang-ko-KR/releases/download/v0.2.10/release.zip"
+	"url": "https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR",
+	"manifest": "https://raw.githubusercontent.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/master/module/module.json",
+	"download": "https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/releases/download/v0.2.10/release.zip"
 }
