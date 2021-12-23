@@ -13,7 +13,7 @@ Hooks.once('init', () => {
 		Babele.get().register({
 			module: 'dnd5e_ko-KR',
 			lang: 'ko',
-			dir: 'compendium'
+			dir: 'compendium/ko'
 		});
 
 		if (!game.settings.get("dnd5e_ko-KR", "show-original-name")) return;
