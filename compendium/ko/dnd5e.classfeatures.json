@@ -221,7 +221,7 @@
 			"requirements": "레인저 3",
 			"source": "PHB 55p"
 		},
-		"Roguish Archtype": {
+		"Roguish Archetype": {
 			"name": "로그 아키타입",
 			"description": "<p>당신은 로그 3레벨이 되었을 때 시프, 아케인 트릭스터, 어새신의 3가지 아키타입 중 하나를 선택해 그 길을 따를 수 있습니다.</p>\n<p>당신은 선택한 아키타입에 따라 3, 9, 13, 17레벨에 추가적 요소를 얻을 수 있습니다.</p>",
 			"requirements": "로그 3",
@@ -359,7 +359,7 @@
 			"requirements": "바드 3",
 			"source": "PHB 71p"
 		},
-		"Bardic Inspiraton": {
+		"Bardic Inspiration": {
 			"name": "바드의 고양감",
 			"description": "<p>당신은 음악이나 노래를 통해 다른 사람의 힘을 끌어올릴 수 있습니다. 당신은 자기 턴에 추가 행동을 사용해 주변 60ft 내에서 자신을 제외하고 당신의 목소리를 들을 수 있는 크리쳐 하나를 선택해 바드의 고양감을 전해 줄 수 있습니다. 이렇게 선택된 크리쳐는 바드의 고양감 주사위를 얻습니다. 시작 시점에서 이 주사위는 d6입니다.</p>\n<p>이후 10분간, 이 크리쳐는 능력 판정이나 명중 굴림, 혹은 내성 굴림을 할 때 자신이 받은 바드의 고양감 주사위를 갇이 굴려 그 결과를 더할 수 있습니다. 이 주사위는 d20을 굴린 다음 사용을 결정할 수도 있지만, DM이 성공 혹은 실패를 판정한 다음에는 사용할 수 없습니다. 일단 바드의 고양감 주사위를 사용했다면 그 주사위는 사라집니다. 바드의 고양감 주사위는 크리쳐 당 오로지 하나만 가지고 있을 수 있습니다.</p>\n<p>이 요소는 당신의 매력 수정치 만큼 사용할 수 있습니다. (최소 1회) 이렇게 소비한 사용횟수는&nbsp; 긴 휴식을 마칠 때 모두 회복할 수 있습니다.</p>\n<p>당신이 사용하는 바드의 고양감 주사위는 바드 레벨이 상승하며 점점 커집니다. 당신은 5레벨에 d8, 10레벨에 d10, 15레벨에 d12 주사위를 사용하게 될 것입니다.</p>\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">**Foundry 주: 이 항목의 기타 공식은 기본값인 1d6, 사용 횟수는 최소값인 1회로 설정되어 있습니다. 또한 회복 조건은 긴 휴식으로 설정되어 있습니다. (이는 @Compendium[dnd5e.classfeatures.3VDZGs5Ug3hIE322]{고양감의 샘Font of Inspiration} 요소를 얻기 전의 조건입니다.) 필요에 맞게 조정하십시오.</em></p>",
 			"requirements": "바드 1",
@@ -425,8 +425,8 @@
 			"requirements": "바바리안 1",
 			"source": "PHB 75p"
 		},
-		"Unarmored Movement": {
-			"name": "비무장 이동",
+		"Unarmored Movement (Monk)": {
+			"name": "비무장 이동 (몽크)",
 			"description": "<p>몽크 2레벨 때부터, 당신이 갑옷과 방패를 착용하고 있지 않을 때면 이동 속도가 10ft 증가합니다. 이동 속도 보너스는 몽크 레벨이 높아지면서 더 늘어나며 몽크 표를 참조하면 얼마나 늘어나는지 알 수 있습니다.</p>\n<p>몽크 9레벨에 도달하면, 당신은 자기 턴에 수직 표면이나 액체 표면 위를 떨어지거나 빠지지 않고 이동할 수 있는 능력을 얻게 됩니다.</p>",
 			"requirements": "몽크 2",
 			"source": "PHB 64p"
@@ -719,7 +719,7 @@
 			"requirements": "악마 6",
 			"source": "PHB 88p"
 		},
-		"Dark One's Blessing ": {
+		"Dark One's Blessing": {
 			"name": "어두운 이의 축복",
 			"description": "<p>당신은 워락 1레벨에 이 계약을 맺을 때부터, 적대적 크리쳐의 hp를 0으로 만들었을 때 당신의 매력 수정치 + 워락 레벨만큼 임시 hp를 얻을 수 있습니다. (최소 1)</p>",
 			"requirements": "악마 1",
@@ -833,7 +833,7 @@
 			"requirements": "워락 3, 사슬의 계약",
 			"source": "PHB 90p"
 		},
-		"Invocation: Life Drinker": {
+		"Invocation: Lifedrinker": {
 			"name": "영창: 생명을 마시는 자",
 			"description": "<p>당신이 계약 무기로 어떤 크리쳐를 명중시켰다면, 목표는 당신의 매력 수정치만큼 추가로 사령 피해를 받습니다. (최소 1점)</p>",
 			"requirements": "워락 12, 칼날의 계약",
@@ -887,7 +887,7 @@
 			"requirements": "워락 2",
 			"source": "PHB 90p"
 		},
-		"Invocation: Otherwordly Leap": {
+		"Invocation: Otherworldly Leap": {
 			"name": "영창: 외세계의 도약",
 			"description": "<p>당신은 주문 슬롯이나 물질 구성요소를 소비하지 않고 언제나 자신에게 @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{도약Jump} 주문을 시전할 수 있습니다.</p>",
 			"requirements": "워락 9",
@@ -1127,7 +1127,7 @@
 			"requirements": "파이터 1, 팔라딘 2",
 			"source": "PHB 109, 115p"
 		},
-		"Fighting Style: Two Weapon Fighting": {
+		"Fighting Style: Two-Weapon Fighting": {
 			"name": "전투 유파: 쌍수 전투술",
 			"description": "<p>당신은 양손에 각각 무기를 들고 싸울 때, 주로 쓰지 않는 손으로 가한 공격의 피해에도 능력 수정치를 더할 수 있습니다.</p>",
 			"requirements": "레인저 2, 파이터 1",
