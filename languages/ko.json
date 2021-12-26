@@ -40,7 +40,7 @@
 "DND5E.AbilityUseHint": "다음 능력을 어떻게 사용할 것인지 설정합니다: ",
 "DND5E.AbilityUseUnavailableHint": "이 아이템의 남은 사용 횟수가 없습니다!",
 "DND5E.AbilityUseChargedHint": "이 {type}은(는) 충전되었고 사용할 준비가 되었습니다!",
-"DND5E.AbilityUseRechargedHint": "이 {type}은(는) 소진되었고 재충전해야 합니다!",
+"DND5E.AbilityUseRechargeHint": "이 {type}은(는) 소진되었고 재충전해야 합니다!",
 "DND5E.AbilityUseNormalHint": "이 {type}은(는) 사용 횟수 {max} 회/{per} 중 {value} 회가 남았습니다.",
 "DND5E.AbilityUseConsumableChargeHint": "이 {type}을(를) 사용하면 남은 사용 횟수 {value} 회 중 1 회를 소모합니다.",
 "DND5E.AbilityUseConsumableQuantityHint": "이 {type}을(를) 사용하면 남은 개수 {quantity} 개 중 1 개를 소모합니다.",
