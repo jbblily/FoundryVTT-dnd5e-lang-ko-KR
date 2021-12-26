@@ -943,7 +943,7 @@
 		},
 		"Otherworldly Patron": {
 			"name": "외세계의 후견자",
-			"description": "<p>당신은 워락 1레벨 때 악마 등 어떤 존재와 계약을 맺은 것인지 결정해야 합니다. 당신은 자신이 선택한 후견자에 따라 6, 10, 14레벨에 추가적 요소를 얻을 수 있습니다.</p>\n<p><strong>악마 The Fiend</strong></p>\n<p>당신은 하계의 악마와 계약을 맺었습니다. 당신의 의도와는 상관 없겠지만, 이들의 목적은 대개 사악한 것입니다. 악마들은 세상 모든 것을 타락시키거나 파괴하길 원하며, 당신이라고 예외가 되는 것은 아닙니다. 계약을 맺을 정도로 강력한 악마는 데모고르곤이나 오르커스, 프라츠울브루, 바포맷 같은 데몬 대공이나, 아스모데우스, 디스파터, 메피스토펠레스, 벨리알 같은 아크데빌들입니다. 특별히 강력한 핏 핀드나 발러, 울트롤로스나 유골로스 군주들 역시 계약을 맺을 수 있습니다.</p>\n<p><strong>확장된 주문 목록 Expanded Spell List</strong></p>\n<p>악마들은 워락 주문 목록에 아래 주문들을 추가하여 당신이 배울 수 있게 합니다. 아래 주문들은 이제 당신의 워락 주문 목록에 추가될 것입니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 57px;\"><strong>주문 레벨</strong></td>\n<td style=\"width: 339px;\"><strong>주문</strong></td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">1st</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{타오르는 손Burning Hands}, @Compendium[dnd5e.spells.arzCrMRgcNiQuh43]{명령Command}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">2nd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.zwGsAv6kmwzYGhh3]{시각/청각 박탈Blindness/Deafness}, @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{타오르는 광선Scorching Ray}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">3rd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{화염구Fireball}, @Compendium[dnd5e.spells.TwlD4PLcltv7Xh7j]{악취 구름Stinking Cloud}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">4th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.avD5XUtkBPQQR97c]{화염 방패Fire Shield}, @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{불꽃의 벽Wall of Fire}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">5th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5e1xTohkzqFqbYH4]{화염 직격Flame Strike}, @Compendium[dnd5e.spells.SLxA9QhrggTz0taU]{신성화Hallow}(불경화 형태로)</td>\n</tr>\n</tbody>\n</table>",
+			"description": "당신은 워락 1레벨 때 악마 등 어떤 존재와 계약을 맺은 것인지 결정해야 합니다. 당신은 자신이 선택한 후견자에 따라 6, 10, 14레벨에 추가적 요소를 얻을 수 있습니다.",
 			"requirements": "워락 1",
 			"source": "PHB 86p"
 		},
@@ -1288,6 +1288,12 @@
 			"description": "<p>당신은 바드 2레벨 때부터 부드러운 음악이나 노래를 불러 짧은 휴식을 취하는 동안 상처입은 동료들의 활력을 회복하는 데 도움이 되는 능력을 얻습니다. 만약 당신이나 다른 우호적인 크리쳐가 짧은 휴식을 취하는 동안 당신의 공연을 들으며 히트 다이스를 소비했다면, 짧은 휴식을 마칠 때 추가로 1d6점의 hp를 더 회복할 수 있습니다.</p>\n<p>이렇게 추가로 회복되는 hp의 양은 바드 레벨이 상승하며 점점 증가합니다. 9레벨에 1d8, 13레벨에 1d10, 17레벨에 1d12점의 hp를 더 회복할 수 있습니다.</p>\n<p><em>**Foundry 주: 이 항목의 치유 공식은 기본값인 1d6으로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>",
 			"requirements": "바드 2",
 			"source": "PHB 71p"
+		},
+		"Expanded Spell List": {
+			"name": "확장된 주문 목록",
+			"description": "<p>악마들은 워락 주문 목록에 아래 주문들을 추가하여 당신이 배울 수 있게 합니다. 아래 주문들은 이제 당신의 워락 주문 목록에 추가될 것입니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 57px;\"><strong>주문 레벨</strong></td>\n<td style=\"width: 339px;\"><strong>주문</strong></td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">1st</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{타오르는 손Burning Hands}, @Compendium[dnd5e.spells.arzCrMRgcNiQuh43]{명령Command}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">2nd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.zwGsAv6kmwzYGhh3]{시각/청각 박탈Blindness/Deafness}, @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{타오르는 광선Scorching Ray}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">3rd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{화염구Fireball}, @Compendium[dnd5e.spells.TwlD4PLcltv7Xh7j]{악취 구름Stinking Cloud}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">4th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.avD5XUtkBPQQR97c]{화염 방패Fire Shield}, @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{불꽃의 벽Wall of Fire}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">5th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5e1xTohkzqFqbYH4]{화염 직격Flame Strike}, @Compendium[dnd5e.spells.SLxA9QhrggTz0taU]{신성화Hallow}(불경화 형태로)</td>\n</tr>\n</tbody>\n</table>",
+			"requirements": "워락 1",
+			"source": ""
 		}
 	}
 }
