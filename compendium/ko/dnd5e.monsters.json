@@ -1,0 +1,800 @@
+{
+  "label": "몬스터 (SRD)",
+  "entries": {
+    "Aboleth": {
+      "name": "아볼레스"
+    },
+    "Acolyte": {
+    },
+    "Adult Black Dragon": {
+      "name": "블랙 드래곤 성체"
+    },
+    "Adult Blue Dragon": {
+      "name": "블루 드래곤 성체"
+    },
+    "Adult Brass Dragon": {
+      "name": "브라스 드래곤 성체"
+    },
+    "Adult Bronze Dragon": {
+      "name": "브론즈 드래곤 성체"
+    },
+    "Adult Copper Dragon": {
+      "name": "카퍼 드래곤 성체"
+    },
+    "Adult Gold Dragon": {
+      "name": "골드 드래곤 성체"
+    },
+    "Adult Green Dragon": {
+      "name": "그린 드래곤 성체"
+    },
+    "Adult Red Dragon": {
+      "name": "레드 드래곤 성체"
+    },
+    "Adult Silver Dragon": {
+      "name": "실버 드래곤 성체"
+    },
+    "Adult White Dragon": {
+      "name": "화이트 드래곤 성체"
+    },
+    "Air Elemental": {
+      "name": "에어 엘리멘탈"
+    },
+    "Ancient Black Dragon": {
+      "name": "고대 블랙 드래곤"
+    },
+    "Ancient Blue Dragon": {
+      "name": "고대 블랙 드래곤"
+    },
+    "Ancient Brass Dragon": {
+      "name": "고대 브라스 드래곤"
+    },
+    "Ancient Bronze Dragon": {
+    },
+    "Ancient Copper Dragon": {
+    },
+    "Ancient Gold Dragon": {
+    },
+    "Ancient Green Dragon": {
+    },
+    "Ancient Red Dragon": {
+    },
+    "Ancient Silver Dragon": {
+    },
+    "Ancient White Dragon": {
+    },
+    "Androsphinx": {
+      "name": "안드로스핑크스"
+    },
+    "Animated Armor": {
+      "name": "움직이는 갑옷"
+    },
+    "Ankheg": {
+      "name": "안케그"
+    },
+    "Ape": {
+      "name": "유인원"
+    },
+    "Archmage": {
+      "name": "아크메이지"
+    },
+    "Assassin": {
+      "name": "암살자"
+    },
+    "Avatar of Death": {
+      "name": "죽음의 화신"
+    },
+    "Awakened Shrub": {
+      "name": "각성한 관목"
+    },
+    "Awakened Tree": {
+      "name": "각성한 나무",
+      "description": "<p>각성한 나무는 각성 주문이나 그와 비슷한 마법에 의해 지각력과 기동성을 갖게 된 평범한 나무입니다.</p>\n<p></p>"
+    },
+    "Axe Beak": {
+      "name": "도끼부리새"
+    },
+    "Azer": {
+      "name": "에이저"
+    },
+    "Baboon": {
+      "name": "개코원숭이"
+    },
+    "Badger": {
+      "name": "오소리"
+    },
+    "Balor": {
+      "name": "발러"
+    },
+    "Bandit": {
+      "name": "도둑"
+    },
+    "Bandit Captain": {
+      "name": "도둑 두목"
+    },
+    "Barbed Devil": {
+    },
+    "Basilisk": {
+      "name": "바실리스크"
+    },
+    "Bat": {
+      "name": "박쥐"
+    },
+    "Bearded Devil": {
+    },
+    "Behir": {
+      "name": "베히어"
+    },
+    "Berserker": {
+    },
+    "Black Bear": {
+      "name": "검은곰"
+    },
+    "Black Dragon Wyrmling": {
+    },
+    "Black Pudding": {
+      "name": "블랙 푸딩"
+    },
+    "Blink Dog": {
+      "name": "블링크 독"
+    },
+    "Blood Hawk": {
+      "name": "블러드 호크"
+    },
+    "Blue Dragon Wyrmling": {
+    },
+    "Boar": {
+      "name": "멧돼지"
+    },
+    "Bone Devil": {
+    },
+    "Brass Dragon Wyrmling": {
+    },
+    "Bronze Dragon Wyrmling": {
+    },
+    "Brown Bear": {
+      "name": "갈색곰"
+    },
+    "Bugbear": {
+      "name": "버그베어"
+    },
+    "Bulette": {
+    },
+    "Camel": {
+      "name": "낙타"
+    },
+    "Cat": {
+      "name": "고양이"
+    },
+    "Centaur": {
+      "name": "켄타우로스"
+    },
+    "Chain Devil": {
+      "name": "체인 데빌"
+    },
+    "Chimera": {
+      "name": "키메라"
+    },
+    "Chuul": {
+    },
+    "Clay Golem": {
+      "name": "클레이 골렘"
+    },
+    "Cloaker": {
+      "name": "클로커"
+    },
+    "Cloud Giant": {
+    },
+    "Cockatrice": {
+      "name": "코카트리스"
+    },
+    "Commoner": {
+      "name": "일반인"
+    },
+    "Constrictor Snake": {
+      "name": "왕뱀"
+    },
+    "Copper Dragon Wyrmling": {
+    },
+    "Couatl": {
+      "name": "코아틀"
+    },
+    "Crab": {
+      "name": "게"
+    },
+    "Crocodile": {
+      "name": "악어"
+    },
+    "Cult Fanatic": {
+      "name": "광신도"
+    },
+    "Cultist": {
+      "name": "사교도"
+    },
+    "Darkmantle": {
+    },
+    "Death Dog": {
+    },
+    "Deep Gnome": {
+      "name": "지저 노움"
+    },
+    "Deer": {
+      "name": "사슴"
+    },
+    "Deva": {
+      "name": "데바"
+    },
+    "Dire Wolf": {
+      "name": "다이어 울프"
+    },
+    "Djinni": {
+      "name": "지니"
+    },
+    "Doppelganger": {
+      "name": "도플갱어"
+    },
+    "Draft Horse": {
+    },
+    "Dragon Turtle": {
+      "name": "드래곤 터틀"
+    },
+    "Dretch": {
+    },
+    "Drider": {
+      "name": "드라이더"
+    },
+    "Drow": {
+      "name": "드로우"
+    },
+    "Druid": {
+      "name": "드루이드"
+    },
+    "Dryad": {
+      "name": "드라이어드"
+    },
+    "Duergar": {
+      "name": "듀에르가"
+    },
+    "Dust Mephit": {
+    },
+    "Eagle": {
+      "name": "독수리"
+    },
+    "Earth Elemental": {
+      "name": "어스 엘리멘탈"
+    },
+    "Efreeti": {
+      "name": "이프리티"
+    },
+    "Elephant": {
+      "name": "코끼리"
+    },
+    "Elk": {
+      "name": "엘크"
+    },
+    "Erinyes": {
+    },
+    "Ettercap": {
+    },
+    "Ettin": {
+      "name": "에틴"
+    },
+    "Fire Elemental": {
+      "name": "파이어 엘리멘탈"
+    },
+    "Fire Giant": {
+    },
+    "Flesh Golem": {
+      "name": "플레시 골렘"
+    },
+    "Flying Snake": {
+    },
+    "Flying Sword": {
+    },
+    "Frog": {
+      "name": "개구리"
+    },
+    "Frost Giant": {
+    },
+    "Gargoyle": {
+      "name": "가고일"
+    },
+    "Gelatinous Cube": {
+    },
+    "Ghast": {
+      "name": "가스트"
+    },
+    "Ghost": {
+      "name": "유령"
+    },
+    "Ghoul": {
+      "name": "구울"
+    },
+    "Giant Ape": {
+      "name": "거대 유인원"
+    },
+    "Giant Badger": {
+      "name": "거대 오소리"
+    },
+    "Giant Bat": {
+      "name": "거대 박쥐"
+    },
+    "Giant Boar": {
+      "name": "거대 멧돼지"
+    },
+    "Giant Centipede": {
+      "name": "거대 지네"
+    },
+    "Giant Constrictor Snake": {
+      "name": "거대 왕뱀"
+    },
+    "Giant Crab": {
+      "name": "거대 게"
+    },
+    "Giant Crocodile": {
+      "name": "거대 악어"
+    },
+    "Giant Eagle": {
+      "name": "거대 독수리"
+    },
+    "Giant Elk": {
+      "name": "거대 엘크"
+    },
+    "Giant Fire Beetle": {
+      "name": "거대 발광 딱정벌레"
+    },
+    "Giant Fly": {
+      "name": "거대 파리"
+    },
+    "Giant Frog": {
+      "name": "거대 개구리"
+    },
+    "Giant Goat": {
+      "name": "거대 염소"
+    },
+    "Giant Hyena": {
+      "name": "거대 하이에나"
+    },
+    "Giant Lizard": {
+      "name": "거대 도마뱀"
+    },
+    "Giant Octopus": {
+      "name": "거대 문어"
+    },
+    "Giant Owl": {
+      "name": "거대 부엉이"
+    },
+    "Giant Poisonous Snake": {
+      "name": "거대 독뱀"
+    },
+    "Giant Rat": {
+      "name": "거대 쥐"
+    },
+    "Giant Rat (Diseased)": {
+    },
+    "Giant Scorpion": {
+      "name": "거대 전갈"
+    },
+    "Giant Sea Horse": {
+      "name": "거대 해마"
+    },
+    "Giant Shark": {
+      "name": "거대 상어"
+    },
+    "Giant Spider": {
+      "name": "거대 거미"
+    },
+    "Giant Toad": {
+      "name": "거대 두꺼비"
+    },
+    "Giant Vulture": {
+      "name": "거대 대머리 독수리"
+    },
+    "Giant Wasp": {
+      "name": "거대 말벌"
+    },
+    "Giant Weasel": {
+      "name": "거대 족제비"
+    },
+    "Giant Wolf Spider": {
+      "name": "거대 늑대거미"
+    },
+    "Gibbering Mouther": {
+      "name": "지버링 마우서"
+    },
+    "Glabrezu": {
+    },
+    "Gladiator": {
+      "name": "검투사"
+    },
+    "Gnoll": {
+      "name": "놀"
+    },
+    "Goat": {
+      "name": "염소"
+    },
+    "Goblin": {
+      "name": "고블린"
+    },
+    "Gold Dragon Wyrmling": {
+    },
+    "Gorgon": {
+      "name": "고르곤"
+    },
+    "Gray Ooze": {
+      "name": "그레이 우즈"
+    },
+    "Green Dragon Wyrmling": {
+    },
+    "Green Hag": {
+    },
+    "Grick": {
+    },
+    "Griffon": {
+      "name": "그리폰"
+    },
+    "Grimlock": {
+    },
+    "Guard": {
+    },
+    "Guardian Naga": {
+    },
+    "Gynosphinx": {
+    },
+    "Half-Red Dragon Veteran": {
+    },
+    "Harpy": {
+    },
+    "Hawk": {
+    },
+    "Hell Hound": {
+    },
+    "Hezrou": {
+    },
+    "Hill Giant": {
+    },
+    "Hippogriff": {
+    },
+    "Hobgoblin": {
+    },
+    "Homunculus": {
+    },
+    "Horned Devil": {
+    },
+    "Hunter Shark": {
+    },
+    "Hydra": {
+    },
+    "Hyena": {
+    },
+    "Ice Devil": {
+    },
+    "Ice Mephit": {
+    },
+    "Imp": {
+    },
+    "Invisible Stalker": {
+    },
+    "Iron Golem": {
+    },
+    "Jackal": {
+    },
+    "Killer Whale": {
+    },
+    "Knight": {
+    },
+    "Kobold": {
+    },
+    "Kraken": {
+    },
+    "Lamia": {
+    },
+    "Lemure": {
+    },
+    "Lich": {
+      "name": "리치"
+    },
+    "Lion": {
+    },
+    "Lizard": {
+    },
+    "Lizardfolk": {
+    },
+    "Mage": {
+    },
+    "Magma Mephit": {
+    },
+    "Magmin": {
+    },
+    "Mammoth": {
+    },
+    "Manticore": {
+    },
+    "Marilith": {
+    },
+    "Mastiff": {
+    },
+    "Medusa": {
+    },
+    "Merfolk": {
+    },
+    "Merrow": {
+    },
+    "Mimic": {
+    },
+    "Minotaur": {
+    },
+    "Minotaur Skeleton": {
+    },
+    "Mule": {
+    },
+    "Mummy": {
+    },
+    "Mummy Lord": {
+    },
+    "Nalfeshnee": {
+    },
+    "Night Hag": {
+    },
+    "Nightmare": {
+    },
+    "Noble": {
+    },
+    "Ochre Jelly": {
+    },
+    "Octopus": {
+    },
+    "Ogre": {
+    },
+    "Ogre Zombie": {
+    },
+    "Oni": {
+    },
+    "Orc": {
+    },
+    "Otyugh": {
+    },
+    "Owl": {
+    },
+    "Owlbear": {
+    },
+    "Panther": {
+    },
+    "Pegasus": {
+    },
+    "Phase Spider": {
+    },
+    "Pit Fiend": {
+    },
+    "Planetar": {
+    },
+    "Plesiosaurus": {
+    },
+    "Poisonous Snake": {
+    },
+    "Polar Bear": {
+    },
+    "Pony": {
+    },
+    "Priest": {
+    },
+    "Pseudodragon": {
+    },
+    "Purple Worm": {
+    },
+    "Quasit": {
+    },
+    "Quipper": {
+    },
+    "Rakshasa": {
+    },
+    "Rat": {
+    },
+    "Raven": {
+    },
+    "Red Dragon Wyrmling": {
+    },
+    "Reef Shark": {
+    },
+    "Remorhaz": {
+    },
+    "Rhinoceros": {
+    },
+    "Riding Horse": {
+    },
+    "Roc": {
+    },
+    "Roper": {
+    },
+    "Rug of Smothering": {
+    },
+    "Rust Monster": {
+    },
+    "Saber-Toothed Tiger": {
+      "name": "검치호랑이"
+    },
+    "Sahuagin": {
+    },
+    "Salamander": {
+      "name": "샐러맨더"
+    },
+    "Satyr": {
+      "name": "사티르"
+    },
+    "Scorpion": {
+      "name": "전갈"
+    },
+    "Scout": {
+    },
+    "Sea Hag": {
+    },
+    "Sea Horse": {
+      "name": "해마"
+    },
+    "Shadow": {
+    },
+    "Shambling Mound": {
+    },
+    "Shield Guardian": {
+    },
+    "Shrieker": {
+      "name": "쉬리커"
+    },
+    "Silver Dragon Wyrmling": {
+    },
+    "Skeleton": {
+      "name": "스켈레톤"
+    },
+    "Solar": {
+    },
+    "Specter": {
+    },
+    "Spider": {
+    },
+    "Spirit Naga": {
+    },
+    "Sprite": {
+    },
+    "Spy": {
+    },
+    "Steam Mephit": {
+    },
+    "Stirge": {
+    },
+    "Stone Giant": {
+    },
+    "Stone Golem": {
+    },
+    "Storm Giant": {
+    },
+    "Succubus/Incubus": {
+    },
+    "Swarm of Bats": {
+    },
+    "Swarm of Beetles": {
+    },
+    "Swarm of Centipedes": {
+    },
+    "Swarm of Insects": {
+      "name": "벌레 떼"
+    },
+    "Swarm of Poisonous Snakes": {
+    },
+    "Swarm of Quippers": {
+    },
+    "Swarm of Rats": {
+      "name": "쥐 떼"
+    },
+    "Swarm of Ravens": {
+    },
+    "Swarm of Spiders": {
+    },
+    "Swarm of Wasps": {
+    },
+    "Tarrasque": {
+      "name": "타라스크"
+    },
+    "Thug": {
+    },
+    "Tiger": {
+      "name": "호랑이"
+    },
+    "Treant": {
+      "name": "트렌트"
+    },
+    "Tribal Warrior": {
+      "name": "부족 전사"
+    },
+    "Triceratops": {
+      "name": "트리케라톱스"
+    },
+    "Troll": {
+      "name": "트롤"
+    },
+    "Tyrannosaurus Rex": {
+      "name": "티라노사우르스 렉스"
+    },
+    "Unicorn": {
+      "name": "유니콘"
+    },
+    "Vampire": {
+      "name": "뱀파이어"
+    },
+    "Vampire Spawn": {
+      "name": "뱀파이어 종자"
+    },
+    "Veteran": {
+      "name": "베테랑 전사"
+    },
+    "Violet Fungus": {
+    },
+    "Vrock": {
+    },
+    "Vulture": {
+    },
+    "Warhorse": {
+    },
+    "Warhorse Skeleton": {
+    },
+    "Water Elemental": {
+      "name": "워터 엘리멘탈"
+    },
+    "Weasel": {
+    },
+    "Werebear": {
+      "name": "웨어베어"
+    },
+    "Wereboar": {
+      "name": "웨어보어"
+    },
+    "Wererat": {
+    },
+    "Weretiger": {
+    },
+    "Werewolf": {
+    },
+    "White Dragon Wyrmling": {
+    },
+    "Wight": {
+    },
+    "Will-o'-Wisp": {
+    },
+    "Winter Wolf": {
+    },
+    "Wolf": {
+    },
+    "Worg": {
+    },
+    "Wraith": {
+      "name": "레이스"
+    },
+    "Wyvern": {
+      "name": "와이번"
+    },
+    "Xorn": {
+      "name": "조른"
+    },
+    "Young Black Dragon": {
+    },
+    "Young Blue Dragon": {
+    },
+    "Young Brass Dragon": {
+    },
+    "Young Bronze Dragon": {
+    },
+    "Young Copper Dragon": {
+    },
+    "Young Gold Dragon": {
+    },
+    "Young Green Dragon": {
+    },
+    "Young Red Dragon": {
+    },
+    "Young Silver Dragon": {
+    },
+    "Young White Dragon": {
+    },
+    "Zombie": {
+      "name": "좀비"
+    }
+  }
+}
