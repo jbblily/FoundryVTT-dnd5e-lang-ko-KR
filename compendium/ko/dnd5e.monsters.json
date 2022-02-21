@@ -7,7 +7,7 @@
     },
     "Acolyte": {
       "name": "수행사제",
-      "description": ""
+      "description": "<blockquote>\n<p>솔라리움의 기둥은 반짝이고, 아트리움 주위를 향 냄새가 감돈다. 환상적인 금 세공을 두른 기둥은 태양신의 온기에 흠뻑 젖는다. 돔 형태로 깎은 천장에 난 한 구멍에서 햇빛이 마치 폭포처럼 쏟아져 내려와 밝은 빛무리로 우리를 질식시키려는 듯이 떨어진다. 내 스승은 부드러운 목소리를 가지고 희끗한 머리칼이 벗겨진 정수리를 둘러싼, 중년의 사제이다. 나는 내 스승으로부터 걸어나와 조금 떨어진 곳에 있는, 그늘진 벽감 안의 석상에 다가갔다. 그 석상은 우리의 신을 사람의 모습으로 묘사한 것이다. 그것은 엄숙하게 서있는 자세로, 정돈되지 않은 머리칼은 가슴까지 오는 수염과 비슷한 위치까지 길게 자라있으며, 완고한 얼굴의 태양이 꼭대기에 장식된 지팡이를 손에 쥐고 있는 한 노인의 모습이었다. 나는 아직 14살이지만, 그 석상 앞에 무릎을 꿇고 곧바로 기도하기 시작했다. 수행사제 훈련을 받는 앞으로의 6년은 오직 축복 뿐이라는 것을 알고 있었다.<br /><em>“The Gleaming Star”, by Bishop Bernard Portis.</em></p>\n</blockquote>\n<p> 수행사제는 특정 신이나 여신을 헌신적인 추종자들 중 자신이 선택한 신을 더 잘 섬기기 위해 성직자의 길을 걷기로 결심한 사람들을 말합니다. 보통 10대를 넘지 않으며 (그러나 어떤 수행사제들은 10대보대 늦게 시작하게도 합니다), 신의 교리로 정해진 규율에 따라 수년간 훈련받습니다. (보통 3~10년 정도) 그 시간 동안 그들의 신과 가르침에 대한 모든 기록 자료를 암기하고 공부하며, 신에게서 부여받은 마법 (치유 혹은 피해)을 배우고, 종종 도움이 필요한 사람에게 도움을 베풀거나 그들의 여신이나 신의 말씀을 전파하기도 합니다. 그러나 모든 수행사제가 완벽한 사제의 수준까지 올라설 수 있는 것은 아닙니다. 많은 수행사제들은 교회에 매우 헌신적이며, 평생을 수행사제로 남아 신전의 벽 밖에 있는 평신도 공동체 가까이서 함께 일합니다.</p>\n<p>수행사제들은 그들이 선택한 신의, 신비로운 방식을 통해 수행한다는 것에 주의하세요. 이 경우, 수행사제들은 신전의 팔라딘 계층보다 거의 충분한 신체 단련을 받지 못한다는 것을 의미합니다. (만약 신의 가르침 외의 것에 특별히 관심을 기울이지 않는다면 말입니다) 이 경우, 수행사제는 그들 자신과 동료를 지키기 위해, 혹은 다친 파티를 도우려 수호신을 부르기 위해 몇가지 간단한 신성 마법을 시전할 수 있습니다. 보통 반짝이는 금빛 불꽃과 눈부시게 선명한 빛줄기가 쏟아지는 것처럼 방출되는 신의 마법은, 그 기본 성질부터 정말로 특별한 것입니다. Cure Wounds, Sacred Flame, Sanctuary와 같은 주문은 성직 공부 초기부터 수행사제라면 모두가 연습하는 것입니다. 신의 가호가 필요할 때나 부상당한 동료를 치료해줄 야전치유사가 필요할 때 수행사제들은 손쉬운 동맹이 될 수 있습니다. 그러나 수행사제를 다룰 때 주의해야할 점은, 노예상 놀(slavering gnoll) 무리와 근접 전투를 해야할 때에는 주문이 쉽게 방해받을 수 있다는 점입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Adult Black Dragon": {
       "name": "블랙 드래곤 성체"
@@ -40,7 +40,7 @@
       "name": "화이트 드래곤 성체"
     },
     "Air Elemental": {
-      "name": "바람 정령"
+      "name": "에어 엘리멘탈"
     },
     "Ancient Black Dragon": {
       "name": "고대 블랙 드래곤"
@@ -99,33 +99,39 @@
       "name": "죽음의 화신"
     },
     "Awakened Shrub": {
-      "name": "각성한 관목"
+      "name": "각성한 관목",
+      "description": "<p>나뭇잎의 리듬감있는 바스락거림, 관목 사이로 얼기설기 얽힌 뿌리들, 그리고 땅 속에 남겨진 텅 빈 구멍들... 이것들은 모두 이 매혹적인 작은 크리처의 흔적입니다. 각성한 관목들은 원래 평범한 숲속 식물이었습니다. 각성 주문(Awaken spell)을 시전해 각성한 관목을 탄생시킨, 가장 강한 드루이드가 시전한 자연 마법으로 인해 이들은 약간의 인지력을 부여받았습니다. </p>\n<p>사소할 정도로 미약한 의지력을 가진 이 관목 자체는 주문 시전자에게 30일동안 @JournalEntry[매혹]된 상태입니다. 그 기간동안 드루이드는 각성한 관목을 마음대로 부릴 수 있습니다. 각성한 관목에 주문을 시전하면 스스로 움직일 수도 있습니다. 관목은 뿌리와 가지를 이용해 숲바닥을 딛고 나아가며, 드루이드가 정한 구역을 어기적거리며 돌아다닙니다.</p>\n<p><strong>드루이드의 작은 도우미.</strong>각성 주문과 같은 비전 마법을 할 수 있을 정도로 숙련된 메이지라면 이 관목을 순식간에 깨어나게 할 수 있겠지만, 이 능력을 주로 사용하는 것은 숲속의 드루이드들입니다. 각성한 관목만이 가진 독특한 특징이라면 완벽하게 가만히 서있는 상태에서는 평범한 관목과 전혀 구별이 되지 않는다는 점입니다. 각성한 관목이 위장능력을 활용해 보초병의 역할을 함으로써 드루이드들의 은신처를 더욱 비밀스럽게 숨겨줍니다.</p>\n<p>숲의 친구가 나에게 추천한 바에 따르면 : 관목은 소그룹으로 나누어서 사용하는 것이 좋다. 귀찮은 침입자들을 제압하기 위해서 말이다. 이 단순한 관목들은 숫자가 많을 수록 좋은데, 만약 하나가 없어진다 해도 다른 것들이 이를 쉽게 채울 수 있기 때문이다. 관목에 걸린 마법때문에 창조자가 알려준 언어로 말할 수도 있기 때문에, 각성한 관목이 경고문을 말하도록 설계하여 웬만한 충돌을 피하도록 할 수도 있다. 그러나 관목은 가장 간단한 작업조차도 완수하기 힘들 정도로 섬세한 조작은 어렵기 때문에, “살아있는 알림”으로서의 활용이 가장 현명한 선택일 것이다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Awakened Tree": {
       "name": "각성한 나무",
       "description": "<p>각성한 나무는 각성 주문이나 그와 비슷한 마법에 의해 지각력과 기동성을 갖게 된 평범한 나무입니다.</p>\n<p></p>"
     },
     "Axe Beak": {
-      "name": "도끼부리새"
+      "name": "도끼부리새",
+			"description": "<p>도끼부리새는 커다랗고 공격적인 조류입니다. 이 새는 장난쳐서는 안될 동물로 익히 알려져 있을 정도로 악명이 깊습니다. 도끼부리새는 초원에서부터 시작해 빽빽하고 더운 밀림에까지 서식하며, 크기나 외모 면에서 볼 때 날지 못하는 새인 에뮤를 닮았습니다. 도끼부리새는 동그랗고 통통한 몸체를 가졌으며, 빠른 속도로 달리거나 걷어찰 수 있는 굳센 두 다리가 몸통에서 뻗어나와 있습니다. 길고 우아한 목이 몸에서 자라나와 있으며 그 끝에는 깃털없는 머리가 달려있습니다. 머리끝에는 날카로운 쐐기 모양의 부리가 달려입니다. 손도끼를 연상시키는 이 부리 덕분에 이 크리처는 도끼부리새라는 무시무시한 이름이 붙었습니다.</p>\n<p><strong>질문있도끼부리새.(Let Me Axe You a Question)</strong> 도끼부리새는 꽤나 오랜 시간 동안 연구되어 왔으며, 생물학자들은 날지 못하는 이 새의 수천년간의 발자취를 추적하고 있습니다. 도끼부리새는 고대종으로서 지금까지 거의 변화하지 않은 종으로도 알려져 있지만, 그뿐만이 아닙니다. 도끼부리새의 가장 유명한 점은 (부리를 제외하면) 그 성질머리입니다. 도끼부리새는 극도의 영역 동물이며, 영역에 들어온 침입자들이 공격을 그만둘 때까지 끈질기게 쫓아가서 공격하는 것으로 알려져 있습니다. 놀랍게도, 몇몇 도끼부리새들은 인간형 종족들과의 엄격하고 지속적인 상호작용을 통해 길들여지기도 합니다. 이 짐승은 탑승 동물의 역할을 하기도 하며, 다 자란 오크 전사를 보조할 수 있을 정도로 힘이 셉니다. 전투 중에 불운하게도 이 새 앞을 지나간다면, 도끼부리새는 가엾은 적들을 향해 강력한 목을 휘둘러, 포물선을 그리며 그 뾰족한 부리를 꽂아넣을 것입니다. 만약 (사지를 가르고 플레이트 아머를 꿰뚫는) 그 부리로도 충분하지 않았다면 발톱이 난, 힘센 발로 강력한 발차기를 날릴 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Azer": {
       "name": "에이저",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Baboon": {
-      "name": "개코원숭이"
+      "name": "개코원숭이",
+      "description": "<p>개코원숭이는 초원이나 나무가 드문드문 자란 삼림지에서 서식하며, 항상 '부대'(troop)라고 불리는 작은 무리로 움직입니다. 주로 땅에서만 생활하는 포유류인 개코원숭이는 강력한 상체를 이용해 놀라운 속도로 나무 위로 빠르게 올라갑니다. 이 크리처의 크기에 현혹되지 마세요. 삼림의 개코원숭이 한 마리가 배고픈 늑대 무리 전체보다 더 사나울 수도 있습니다. 어리숙한 모험가들은 개코원숭이를 쉬운 표적으로 간과하곤 하는데, 한눈에 보기에 3~4피트 길이정도이며, 최근 기록에 따르면 최대 40 파운드까지 무게가 나가기 때문입니다. 이정도면 건강한 인간 아이보다도 작습니다. 그러나, 이는 단순히 착각으로 숲의 원숭이들은 준비되지 않은 여행자들을 손쉽게 제압할 수 있습니다. 개와 닮은 주둥이 안에는 치명적으로 날카로운 송곳니가 숨겨져 있으며, 그들의 눈에는 놀라울 정도로 지적인 정신이 깃들어있기 때문입니다.</p>\n<p><strong>이빨 부대</strong>개코원숭이들은 부대로 둘러쌀 때 가장 강합니다. 적을 쓰러뜨리기 위해 부대를 이뤄 간단한 무리 전술을 구사하기 때문입니다. 원숭이들은 키 큰 수풀 사이를 헤치고 다니면서 몰래 기습해서 먹잇감을 사냥하거나, 다함께 모여 특정 표적을 찾아내고 그것을 하나하나 무자비하게 찢어버립니다. 부대는 한 마리의 알파 개체가 이끄는데, 그 개체가 주로 다른 동료들을 지키는 방비역을 합니다. 알파 개체 아래서 부대는 음식이나 자원을 서로 나누거나 유대를 강화하기 위해 공동 그루밍을 하는 등 협력적인 활동을 합니다. 어린 개코원숭이는 작은 가족 그룹에서 길러지는데, 한번에 여러 어른 개코원숭이가 그를 지도합니다. 이렇게 개코원숭이들에게는 환상적인 공동체가 있으며, 우리 동물 왕국에 있어서 독특한 특징을 가집니다. 그들에게는 넓은 서식지가 필요하며, 여행자들은 여행길을 지날 때 개코원숭이 부대와의 예상치 못한 조우에 조심스럽게 대처해야 합니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Badger": {
-      "name": "오소리"
+      "name": "오소리",
+      "description": "<blockquote>\n<p>Strolling through the forest one spring morning I did find myself brought down to the earth by a most unusual hole gaping wide in the forest floor. Thinking myself a rather clever sleuth in finding some ill-witted bandit's secret treasures, I did quickly reach my hand within the tunnel only to be greeted by something oddly fuzzy and a most severe pain to boot! Let my incident (and missing finger) with the woodland badger be warning to those lacking in wisdom; do not reach into places where your hand does not belong!</p>\n</blockquote>\n<p>- Merchant Lord Ellemond Doughty.</p>\n<p>The common forest dwelling badger is a creature of ingenuity and sheer determination. This creature, resembling a most rotund and powerful weasel, busies itself upon the forest floor catching its prey of insects and small mammals all the while toiling away at creating itself a sett, or more commonly called, a burrow. The badger's coat is decked in marvelous black and white stripes running the length of its body. With gentle eyes and an otherwise calm demeanor, the badger exudes an image of a more timid beast; however, this outer appearance should be observed with caution. Armed with thick, elongated claws made for churning through the toughest of soil and a set of powerful jaws to match, badgers are quick to defend themselves should a foolish soul harass them. As long as you do not agitate the badger, it will find no recourse to harm you.</p>\n<p><strong>Miraculous Mandibles.</strong> A badger's most intriguing feature is a set of peculiar jawbones with provide it with a spectacular method of defense. The animal's jaws are set into long cavities within its skull allowing the badger to lock its jaws in place thus increasing its already powerful bite strength and avoid the possibility of mandible dislocation. A truly remarkable evolutionary advantage in avoiding combat (rather than confronting its adversary) is the badger's natural odor. These creatures can release a powerful musk from scent glands located near their rears which can easily drive away predators. It is for these reasons that many forest dwelling cultures revere the badger as a guardian of the forest and attempt to utilize the badger's unique abilities in their own bid for survival in the wilds of our world.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Balor": {
       "name": "발러"
     },
     "Bandit": {
-      "name": "도둑"
+      "name": "도둑",
+      "description": "<p>Bandits of our humble world come in a variety of shapes and sizes; be they a halfling pickpocket or the swarthy Dragonborn sea-captain plundering unfortunate vessels. Here we will view the commonalities of what would be considered the “bandit” class of criminal. Be advised while reviewing this information that not all bandits should be viewed with a scornful eye. While many seek harm or riches from their quarry, others thieve to survive in a world most unfair.</p>\n<p><strong>The Good.</strong> We begin with those bandits who could be seen as “noble criminals”. These bandits consist of the most downtrodden of our nations, those citizens who have struggled through poverty and oppression to scrape out a meager existence clinging to any comfort they can grasp. Consider what would drive a person to commit something so desperate as robbery or open theft in a village street. Bandits of a nobler sort may still be selfish with their earnings, taking what they have stolen to enrich their own lives or those of immediate relations. There are some bandits, however, who seek to use their pilfered goods to improve the lives of the poorer community. Be aware that often these bandits are desperate and afraid, especially during the act of robbery. They are scared, driven to crime by poor circumstances, so they may not require violence to disperse as more often than not they will not physically harm their victims. Keep an open mind as you travel through the world young adventurer and remember that were the tables turned, you may wish for mercy for such a minor infraction.</p>\n<p><strong>The Bad and Ugly.</strong> For every good-hearted soul stealing from those with too much and giving to the unfortunate, there is a truly villainous spirit lurking behind the brush of a nearby road, lying in wait for an unsuspecting victim. During your travels, adventurer, these sorts may be the most common instances of banditry you will experience. Armed with swords, clubs, and bows, the more nefarious of the bandit world prefer to ambush their prey from the shadows of hills and trees, catching traveling parties unaware. These treacherous thieves will attempt diversion and trickery in order to catch their quarry off guard should their crew be outnumbered. Bandits have no boundaries of borders or locale, so caution should be taken whether you walk upon a forested road or sail the high seas as you island hop for fame. Danger lurks in every corner of our world adventurer, be prepared and discerning should you encounter a party of brigands lest your career end well before your legend is written.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Bandit Captain": {
-      "name": "도둑 두목"
+      "name": "도둑 두목",
+      "description": "<p>도둑 무리를 통제하려면 강렬한 성품과 무자비한 교활함, 그리고 교묘한 말솜씨가 있어야 합니다. 도둑 두목은 이런 자질을 대단히 많이 갖고 있습니다. </p>\n<p>해적 두목은 도둑 두목이 변화한 형태로, 이기적인 불평분자들로 이루어진 승조원을 통솔할 뿐만 아니라 배를 보호하고 지시를 내립니다. 승조원을 하나로 통제하기 위해 두목은 정해진 규율을 통해 보상이나 벌을 내려야 합니다.</p>\n<p>도적 두목이나 해적 두목은 보물보다도 악명을 더 갈망합니다. 두목의 허영심이나 자만심에 호소하는 죄수는 두목의 화려한 명성을 모르거나 모른다고 주장하는 죄수보다 더 좋은 대접을 받을 가능성이 높습니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Barbed Devil": {
       "name": "바브드 데빌"
@@ -134,7 +140,8 @@
       "name": "바실리스크"
     },
     "Bat": {
-      "name": "박쥐"
+      "name": "박쥐",
+      "description": "<p>Bats are a common fixture within the secluded forests and lightless caverns of our world. Bats are a nocturnal creature prized by arcanists for their ability to navigate terrain in near total darkness. This alone makes them a prized choice for a summoned familiar. Varying from the size of a mouse to that of a house cat, bats have a unique feature amongst mammals: the gift of flight! Stretched thin between needle-thin boney “hands” are fleshy membranes which span out wide from the bat's delicate body, allowing the bats to take to the skies in search of insects and woodland fruits to indulge upon.</p>\n<p><strong>Chitter Chatter.</strong> Presumed blind by many from nonsense tales told to children, bats have eyesight nearly akin to our own, though notably less sharp. What makes these creatures truly unique is their ability to navigate in the pitch black of night. The bats utilize a series of chirps and screeches researchers have dubbed “echolocation” to pinpoint objects or prey within their flightpath. The echolocation chirps emitted by the bats bounce back towards the tiny creature's proportionally massive ears, allowing the bats to make split second corrections to their navigation without the aid of their eyes. It should be again noted that the bat makes a clever familiar choice, as they may navigate those places too dim and dangerous for our mortal eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Bearded Devil": {
       "name": "비어드 데빌",
@@ -159,17 +166,20 @@
       "name": "블랙 푸딩"
     },
     "Blink Dog": {
-      "name": "블링크 독"
+      "name": "블링크 독",
+      "description": "<p> </p>\n<blockquote>\n<p>Bathing your very own Blink Dog comes with a set of challenges all its own.  Often it is simply better to let the beast care for its own hygiene (circumstances allowing) as your precious pooch will likely blink off to the nearest mud puddle as soon as you've finished cleaning them. <br /><em>Caring for your Blink Dog, pg. 46.</em></p>\n</blockquote>\n<p>Blink Dogs are a notable curiosity amongst the common canine species.  On the outside, the hound appears to be quite similar to many a hunting mutt: a tannish, yellow complexion of the fur, average in size (standing anywhere from two and a half to three feet in height) and no markings or traits rendering it particularly unique.  However, the secret of this dog lies within.  The Blink Dog possesses an uncanny ability to “blink” or teleport at will from location to location in a flash.  In a similar vein to the spells utilized by mages to transport themselves across distances in a flash, the Blink Dog tears through the fabric of our reality, vanishes instantaneously and appears up to forty feet away from its original location.  The Blink Dog is unable to carry living things along with it, however any equipment or objects the hound currently holds will be transported.  Blink Dogs have an above average intelligence in comparison to other canines and are able to speak their own language, called “Blink Dog”, to others of their kind.  What these discussions entail is a mystery, though it is speculated that often the packs of dogs will discuss their intense hatred for other ethereal quadrupeds as they are known to attack the beasts on sight.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Blood Hawk": {
-      "name": "블러드 호크"
+      "name": "블러드 호크",
+      "description": "<p>The Blood Hawk is a variety of the common hawk species (detailed previously in this tome) which takes its name from the blood red color of its plumage as well as the bird's overly aggressive nature towards any other living creature. Blood hawks are fearsome little raptors, swooping down from the skies above like a crimson bolt to harry their quarry with vicious talons and a honed, dagger-sharp beak.</p>\n<p><strong>Fearless Flyers.</strong> Though almost unrecognizable in a grouping of fellow hawk species, the blood hawk eschews the solitary ways of its feathered brethren. Seemingly empty of aggression towards others of their kind, blood hawks swarm in large flocks who hunt with precision unison. Razor sharp talons easily slice through cloth and flesh to leave deep, weeping gashing in their prey. The blood hawks need only wait and watch with their keen little eyes after their initial barrage as the target will slowly bleed out into the dirt, the birds' talons having severed crucial arteries. It should always be a priority to the adventurer to check the plumage of a bird before straying too close. Take it from this traveler, red means you're dead!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Blue Dragon Wyrmling": {
       "name": "블루 드래곤 워믈링",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Boar": {
-      "name": "멧돼지"
+      "name": "멧돼지",
+      "description": "<p>Boars are hardy, rotund beasts who inhabit the shrouded woodlands of our world, snuffling about for a root or mushroom to enjoy or upturning the foliage in search of a suitable trench to wallow in.  Resembling nothing more than an overgrown domesticated pig, a boar is anything but its breakfast-table-bound cousin.  Standing anywhere from 24 to 38 inches tall upon stocky legs, the hefty wild boar's most dangerous asset (its massive head) takes prominence, ending in a pair of deadly sharp tusks.  The head, which encompasses over a third of the boar's entire body length, is made up of a thick mass of bone and muscles which allows the boar to smash into objects and enemies while inflicting little harm upon itself.  Charging up to speeds of 25 miles per hour, the boar can use its charge to deadly effect as the creatures hardy skull and gouging tusks will make short work of most common defenses.  Should you be out on the hunt for a wild boar, it should be noted that the creatures are of a ruddy and substantial endurance, seemingly able to fight off death in order to gore its enemy one last time.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Bone Devil": {
       "name": "본 데빌"
@@ -193,7 +203,8 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Camel": {
-      "name": "낙타"
+      "name": "낙타",
+      "description": "<p>Camels are a unique species of even-toed ungulates who thrive within the deserts and arid climates of our planet. Known the world over for their large back humps (varying in number between one or two humps depending on species), camels have become an integral part of desert life due to their rugged albeit stubborn nature, nutritious meat and milk, and transportation utility. Camels have been domesticated for millennia. Highly sought after for their ability to survive within the harshest of deserts, the earliest records of camels in our world show them as domestic pack animals (much as they are utilized today) carrying heavy cargo across sandy expanses of inhospitable desert. The noble camel, however, may hold more secrets than its surface reveals.</p>\n<p><strong>Watch Out, They Spit.</strong> When asking a commoner about the camel's most unique feature they will undoubtedly tell you that it is the fleshy humps upon the camel's tall back. Commonly, these humps were thought to hold a reservoir of fresh water so the camel may survive the sandy dunes of its homeland; this is, however, not the case at all. Dissection of the dromedary beast has shown researchers that these humps are actually composed of fatty tissue which have collected into the humps as to not overheat the beast by being spread across the body. Camels, in fact, need only drink once every ten-day as their insulated coat keeps them at an adequate temperature and they absorb sufficient water vapor through exhaling via the nostrils. Camels also have a leathery mouth-lining allowing the herbivores to chew and swallow even the thorniest of cacti should they require water in such a fashion. Should you be in the desert and in need of a sturdy beast, adventurer, why not invest your gold into the camel? Just be mindful, they enjoy spitting on those they do not trust!</p>"
     },
     "Cat": {
       "name": "고양이"
@@ -256,7 +267,7 @@
     },
     "Death Dog": {
       "name": "죽음의 개",
-      "description": "<p>죽음의 개는 평원과 사막을 배회하는, 머리가 둘 달린 못생긴 사냥개입니다. 죽음의 개의 심장에는 증오가 타오르고 있으며, 사람의 살점에 대한 식욕이 들끓어 여행자와 탐험가들을 공격합니다. 죽음의 개 타액은 역병을 불러오는데, 그 희생자는 살점이 천천히 썩어 뼈에서 떨어지게 됩니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "description": "<p>죽음의 개는 평원과 사막을 배회하는, 머리가 둘 달린 못생긴 사냥개입니다. 죽음의 개의 심장에는 증오가 타오르고 있으며, 사람의 살점에 대한 식욕이 들끓어 여행자와 탐험가들을 공격합니다. 죽음의 개 타액은 역병을 불러 일으키는데, 그 희생자는 살점이 천천히 썩어 뼈에서 떨어지게 됩니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Deep Gnome": {
       "name": "지저 노움",
@@ -279,7 +290,8 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Draft Horse": {
-      "name": "수레 말"
+      "name": "수레 말",
+      "description": "<p>When the job of lugging lumber or trucking trade goods down a country road is simply too much for a humanoid to bear, they may find solace in the knowledge that there is a loyal, stalwart beast ready to shoulder the heavy load for them: the draft horse.  Draft horses are a breed of horse who are more readily acclimated to rugged terrain and bearing great weights.  Often covered in thicker fur to survive in more difficult climates than their short haired brethren, draft horses have stout, powerful legs and gargantuan hooves adept at clinging to the loose gravel of a mountain trail.  Many breeds of draft horse exist within the world, so the picky merchant is never without option should they entertain the idea of purchasing such a beast.  The draft horse is capable of moving loads up to 540 lbs and may easily pull a cart laden with adventurers and their spoils down the open road should they become lazy in their victories.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Dragon Turtle": {
       "name": "드래곤 터틀"
@@ -312,7 +324,7 @@
       "name": "독수리"
     },
     "Earth Elemental": {
-      "name": "땅 정령"
+      "name": "어스 엘리멘탈"
     },
     "Efreeti": {
       "name": "이프리티"
@@ -334,7 +346,7 @@
       "name": "에틴"
     },
     "Fire Elemental": {
-      "name": "불 정령"
+      "name": "파이어 엘리멘탈"
     },
     "Fire Giant": {
       "name": "불 거인"
