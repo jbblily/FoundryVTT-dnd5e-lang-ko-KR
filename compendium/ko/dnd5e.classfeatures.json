@@ -972,31 +972,31 @@
 			"source": "PHB 82p"
 		},
 		"Superior Inspiration": {
-			"name": "우월한 고양감",
+			"name": "우수한 고양감",
 			"description": "<p>바드 20레벨에 도달하면, 당신이 우선권을 굴릴 때 바드의 고양감을 모두 사용한 상태일 경우 사용횟수 1회를 회복하게 됩니다.</p>",
 			"requirements": "바드 20",
 			"source": "PHB 71p"
 		},
 		"Superior Hunter's Defense: Uncanny Dodge": {
-			"name": "우월한 사냥꾼의 방어: 놀라운 회피",
+			"name": "우수한 사냥꾼의 방어: 놀라운 회피",
 			"description": "<p>당신은 눈에 보이는 공격자에게 공격받아 명중당했을 때, 반응행동을 사용하여 그 공격의 피해를 절반으로 줄일 수 있습니다.</p>",
 			"requirements": "헌터 15",
 			"source": "PHB 56p"
 		},
 		"Superior Hunter's Defense: Stand Against the Tide": {
-			"name": "우월한 사냥꾼의 방어: 파도에 맞서기",
+			"name": "우수한 사냥꾼의 방어: 파도에 맞서기",
 			"description": "<p>적대적인 크리쳐가 당신에게 근접 공격을 가했으나 빗나간 경우, 당신은 반응행동을 사용해 당신이 선택한 다른 크리쳐에게 그 공격을 다시 가하도록 할 수 있습니다. 단, 이때 공격자가 스스로를 공격하게 만들 수는 없습니다.</p>",
 			"requirements": "헌터 15",
 			"source": "PHB 56p"
 		},
 		"Superior Hunter's Defense: Evasion": {
-			"name": "우월한 사냥꾼의 방어: 회피기동",
+			"name": "우수한 사냥꾼의 방어: 회피기동",
 			"description": "<p>당신은 레드 드래곤의 화염 브레스나 @Compendium[dnd5e.spells.IyikgTEOTv701jgQ]{번개Lightning Bolt} 주문 등 , 범위 효과에 포함되었을 때 몸을 날려 피하는 법을 배웁니다. 민첩 내성에 성공하면 절반의 피해만 받는 효과의 목표가 되었을 때, 당신이 내성에 성공하면 아예 피해를 받지 않을 수 있습니다. 또한, 내성에 실패해도 절반의 피해만 받게 됩니다.</p>",
 			"requirements": "헌터 15",
 			"source": "PHB 56p"
 		},
 		"Superior Critical": {
-			"name": "우월한 치명타",
+			"name": "우수한 치명타",
 			"description": "<p>파이터 15레벨에 도달하면, 당신의 무기 공격은 명중 굴림 주사위에서 18-20이 나왔을 때 치명타를 가하게 됩니다.</p>",
 			"requirements": "챔피언 15",
 			"source": "PHB 112p"
