@@ -382,11 +382,11 @@
 			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		"Costume Clothes": {
-			"name": "분장용 복장 Costume Clothes",
+			"name": "분장용 복장",
 			"description": "<p>모든 종류의 예능 공연장에서 공연자와 예술가들이 사용하는 완벽한 의상입니다. 또는 단순한 개성을 거부하는 사람들을 위한 의상입니다.</p>"
 		},
 		"Crossbow Bolt +1": {
-			"name": "석궁 볼트 Crossbow Bolt +1",
+			"name": "석궁 볼트 +1",
 			"description": "<p>이 탄환은 모든 종류의 석궁에 쓰이며 일반적으로 짧은 금속제 막대에 좁은 촉이 달려있습니다. 볼트에는 마법이 깃들어 있습니다.</p>\n<p>당신은 이 마법 석궁 볼트를 사용해서 공격할 때 명중과 피해 굴림에 +1보너스를 받을 수 있습니다. 일단, 이 석궁볼트가 목표에 명중하여 피해를 주었다면, 탄환은 마법의 힘을 잃게 됩니다.</p>"
 		},
 		"Crossbow Bolt +2": {
@@ -406,39 +406,39 @@
 			"description": "<p>이 탄환은 모든 종류의 석궁에 쓰이며 일반적으로 짧은 금속제 막대에 좁은 촉이 달려있습니다.</p>"
 		},
 		"Crowbar": {
-			"name": "쇠지렛대 Crowbar",
+			"name": "쇠지렛대",
 			"description": "<p>쇠지렛대를 사용할 수 있는 환경에서 이를 사용하면 해당하는 근력 판정에 이점을 받을 수 있습니다.</p>"
 		},
 		"Crystal": {
-			"name": "수정 Crystal",
+			"name": "수정",
 			"description": "<p>이 크리스탈 호부는 사용자가 비전이나 원시 또는 신의 에너지를 전달하는 데 도움을 주는 주문 매개체 역할을 합니다.</p>"
 		},
 		"Dagger +1": {
-			"name": "대거 Dagger +1",
+			"name": "단검 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Dagger +2": {
-			"name": "대거 Dagger +2",
+			"name": "단검 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Dagger": {
-			"name": "대거 Dagger",
-			"description": "<p>작은 칼자루와 코등이가 달린 짧은 금속제 칼날입니다. 대거는 단련된 전사의 훌륭한 보조 무장이며 암살자와 도둑의 숨겨진 칼날입니다.</p>"
+			"name": "단검",
+			"description": "<p>작은 칼자루와 코등이가 달린 짧은 금속제 칼날입니다. 단검은 단련된 전사의 훌륭한 보조 무장이며 암살자와 도둑의 숨겨진 칼날입니다.</p>"
 		},
 		"Dart +1": {
-			"name": "다트 Dart +1",
+			"name": "다트 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Dart +2": {
-			"name": "다트 Dart +2",
+			"name": "다트 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Dart +3": {
-			"name": "다트 Dart +3",
+			"name": "다트 +3",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Dart": {
-			"name": "다트 Dart",
+			"name": "다트",
 			"description": "<p>짧은 나무 축으로 정교하게 제작하고 날카로운 나무나 금속 끝을 깃털을 엇갈리게 해 만든 작은 투척 도구입니다. 다트는 피부에 구멍이 나도록 충분히 힘을 주어 던질 수 있다.</p>"
 		},
 		"Decanter of Endless Water": {
@@ -446,7 +446,7 @@
 			"description": "<p><em>기타 물건</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">이 뚜껑달린 플라스크는 흔들면 물이 담긴 것처럼 찰랑대는 소리를 냅니다. 정수통의 무게는 2lbs 정도 입니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">당신은 행동을 사용해 마개를 열고 3가지 명령어 중 하나를 말할 수 있으며, 이때 담수나 해수가 플라스크 밖으로 쏟아져 나옵니다. (어떤 물을 쏟을지는 당신이 선택할 수 있습니다.) 이 물은 당신의 다음 턴이 시작할 때까지 쏟아집니다. 당신은 명령어로 아래 선택지 중 하나를 고를 수 있습니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">• \"개울\"을 명령하면 물 1갤런이 나옵니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">• \"샘\"을 명령하면 물 5갤런이 나옵니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">• \"간헐천\"을 명령하면 30갤런이 용솟음쳐 나오며 30ft 높이, 1ft 너비로 솟구칩니다. 당신은 추가 행동으로 30ft 내에서 당신이 볼 수 있는 대상에게 이 정수통을 조준할 수 있습니다. 솟구치는 물을 맞은 대상은 DC 13의 근력 내성에 실패하면 1d4점의 타격 피해를 입으며 넘어집니다. 크리쳐 대신 누군가 들고 있거나 장비하고 있지 않은 200lbs이하 무게의 물건을 조준할 수도 있으며, 그 경우 조준된 물체는 넘어지거나 15ft 거리를 밀려나게 됩니다.</p>"
 		},
 		"Deck of Illusions": {
-			"name": "환영의 카드 Deck of Illusions",
+			"name": "환영의 카드",
 			"description": "<p><em>기타 물건</em></p>\n<p>이 상자 속에는 카드 한 벌이 들어 있습니다. 이 카드패는 모두 34장의 카드로 되어 있지만, 대개 처음 찾을 때 1d20 − 1장의 카드가 부족한 상태로 발견됩니다.<br />이 카드패에 담겨진 마법의 힘은 당신이 무작위로 카드 한 장을 뽑았을 때 발동합니다. (당신은 카드패를 대신해 실제 트럼프 카드들을 이용해서 이 과정을 흉내 낼 수 있습니다.) 카드패에서 카드를 뽑는 것은 행동을 사용해야 하는 일이며, 이후 당신으로부터 30ft 거리에 뽑은 카드를 던질 수 있습니다.</p>\n<p>뽑아서 던진 카드에 있는 환영이 생겨나며, 이 환영은 해제될 때까지 계속 유지됩니다. 환영은 마치 실제처럼 보이며, 실체와 같은 크기를 지니고, 진짜처럼 행동하지만, 실제로는 어떠한 피해도 입힐 수 없습니다. 120ft 이내의 보이는 거리에 환영 존재가 있으면, 당신은 행동을 사용하여 환영을 마법적으로 이동시킬 수 있습니다. 이 때 환영은 던진 카드와 30ft 이상 떨어질 수 없습니다. 무엇이든 환영에 물리적으로 접촉할 경우 통과하게 되므로, 환영이라는 사실은 바로 들통나게 됩니다. 또한 직접 접촉하지 않는다고 해도 누군가 행동을 사용하여 DC 15의 지능(수사) 판정에 성공할 경우, 환영임은 드러나게 됩니다. 환영의 정체가 들키게 되면 곧 그 환영은 투명해집니다.</p>\n<p>환영은 카드가 제거되거나 환영 자체가 무효화될 때까지 지속됩니다. 환영이 끝나고 나면 그 카드의 그림이 사라지며, 카드는 다시 사용할 수 없습니다.</p>\n<table style=\"height:549px\" border=\"1\">\n<tbody>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\"><strong>사용되는 카드</strong></td>\n<td style=\"height:15px;width:338.021px\"><strong>환영</strong></td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ace of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.ZyIBOoZZD0nDaO2s]{Adult Red Dragon}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">King of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.D5UqYD1EnTrJaMTO]{Knight} and four @Compendium[dnd5e.monsters.E9CvDPDg5dFEpVjS]{Guard}s</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Queen of hearts</td>\n<td style=\"height:15px;width:338.021px\">Succubus or Incubus</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Jack of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.K15Yl8JmB5iPircc]{Druid}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ten of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.Aw2wmqGIatxe2ImI]{Cloud Giant}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Nine of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.KLCkHep28HBfdsky]{Ettin}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Eight of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.QtJairF0h18BRhEM]{Bugbear}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Two of hearts</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.TjWQOgI3A4UAl7lC]{Goblin}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ace of diamonds</td>\n<td style=\"height:15px;width:338.021px\">Beholder</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">King of diamonds</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.B7lBOr1AahNZs4a6]{Archmage} and Mage Apprentice</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Queen of diamonds</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.xvh2UOKv1bh03Gih]{Night Hag}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Jack of Diamonds</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.EMvcuOpu7ABCmBWi]{Assassin}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ten of diamonds</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.45Z5kogZEhawX1Ey]{Fire Giant}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Nine of diamonds</td>\n<td style=\"height:15px;width:338.021px\">Ogre Mage</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Eight of diamonds</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.R2GPY9BhRmmwZwkh]{Gnoll}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Two of diamonds</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.5ngbctIMeEnuC1p1]{Kobold}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ace of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.bfh29vIEoGzI240e]{Lich}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">King of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.PVD5wRdyO7iCJPs1]{Priest} and two @Compendium[dnd5e.monsters.CHEUjiYrVM9X0vIT]{Acolyte}s</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Jack of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.J8xjoG4Dxb8WkHtV]{Veteran}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ten of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.Buxe6dDK5Mw7kxe6]{Frost Giant}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Nine of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.ZHAFrnCwCz17dmLc]{Troll}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Eight of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.pYXovIksKvzswLCu]{Hobgoblin}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Two of spades</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.TjWQOgI3A4UAl7lC]{Goblin}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ace of clubs</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.h98AuPfomEPcCibP]{Iron Golem}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">King of clubs</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.rb7OJt822wIO52qY]{Bandit Captain} and three @Compendium[dnd5e.monsters.n4TEv7inVUkyZviN]{Bandit}s</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Queen of clubs</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.3o2rQBqpzjIHmrBW]{Erinyes}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Jack of clubs</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:60.2431px\">Ten of clubs</td>\n<td style=\"height:15px;width:338.021px\">@Compendium[dnd5e.monsters.9g4N9sjyh8Ql46to]{Hill Giant}</td>\n</tr>\n<tr style=\"height:33px\">\n<td style=\"width:60.2431px;height:33px\">Nine of clubs</td>\n<td style=\"width:338.021px;height:33px\">@Compendium[dnd5e.monsters.eIGowKTkEBC9gUzx]{Ogre}</td>\n</tr>\n<tr style=\"height:33px\">\n<td style=\"width:60.2431px;height:33px\">Eight of clubs</td>\n<td style=\"width:338.021px;height:33px\">@Compendium[dnd5e.monsters.LBf4Yyuv0i8pALW7]{Orc}</td>\n</tr>\n<tr style=\"height:33px\">\n<td style=\"width:60.2431px;height:33px\">Two of clubs</td>\n<td style=\"width:338.021px;height:33px\">@Compendium[dnd5e.monsters.5ngbctIMeEnuC1p1]{Kobold}</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"width:60.2431px;height:15px\">Joker (2)</td>\n<td style=\"width:338.021px;height:15px\">You (the deck's owner)</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p>"
 		},
 		"Disguise Kit": {
@@ -475,7 +475,7 @@
 		},
 		"Efficient Quiver": {
 			"name": "효율적인 화살통 Efficient Quiver",
-			"description": "<p>이 화살통의 세 부분은 각각 이차원 공간에 연결되어 있으며, 화살통은 얼마나 많은 물건이 들어가 있더라도 2lbs 무게밖에 나가지 않습니다. 가장 작은 부분에는 60개의 화살이나 볼트, 혹은 그보다 작은 물체가 들어갑니다. 중간 크기 부분에는 18개의 자벨린이나 그와 유사한 물체가 들어갑니다. 또한 가장 큰 부분에는 더 기다란 물체가 6개 들어가는데, 활이나 쿼터스태프, 창 등등이 여기에 포함됩니다.</p>\n<p>당신은 일반적으로 화살통이나 칼집에서 무기를 뽑는 것처럼 안에 들어 있는 물건들을 사용할 수 있습니다.</p>"
+			"description": "<p>이 화살통의 세 부분은 각각 이차원 공간에 연결되어 있으며, 화살통은 얼마나 많은 물건이 들어가 있더라도 2lbs 무게밖에 나가지 않습니다. 가장 작은 부분에는 60개의 화살이나 볼트, 혹은 그보다 작은 물체가 들어갑니다. 중간 크기 부분에는 18개의 투창이나 그와 유사한 물체가 들어갑니다. 또한 가장 큰 부분에는 더 기다란 물체가 6개 들어가는데, 활이나 쿼터스태프, 창 등등이 여기에 포함됩니다.</p>\n<p>당신은 일반적으로 화살통이나 칼집에서 무기를 뽑는 것처럼 안에 들어 있는 물건들을 사용할 수 있습니다.</p>"
 		},
 		"Elemental Gem of Air": {
 			"name": "물의 원소 보석 Elemental Gem of Water",
@@ -690,23 +690,23 @@
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +3 보너스를 받게 됩니다. </p>"
 		},
 		"Greataxe": {
-			"name": "대도끼 Greataxe",
+			"name": "그레이트액스",
 			"description": "<p>이 거대한 도끼는 뾰족한 축의 양쪽에 두 개의 두 개의 초승달이 달린 날을 특징으로 합니다. 두 손으로 휘둘려 적을 두 손으로 갈기갈기 찢도록 설계되었습니다.</p>\n<p><strong>중량형.</strong> 소형 크기의 캐릭터들은 중량형 무기를 사용하여 명중 굴림을 굴릴 때 불리점을 받게 됩니다. 중량형 무기의 크기와 무게는 소형 크리쳐가 효율적으로 사용하기엔 너무 크고 무겁습니다.</p>\n<p><strong>양손.</strong> 이 무기를 사용해 공격하려면 양손이 다 필요합니다. 이 속성은 무기로 공격할 때만 관련이 있으며, 단순히 들고 있을 때는 무관합니다.</p>"
 		},
 		"Greatclub +1": {
-			"name": "대곤봉 Greatclub +1",
+			"name": "대곤봉 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은  피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Greatclub +2": {
-			"name": "대곤봉 Greatclub +2",
+			"name": "대곤봉 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은  피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Greatclub +3": {
-			"name": "대곤봉 Greatclub +3",
+			"name": "대곤봉b +3",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은  피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +3 보너스를 받게 됩니다. </p>"
 		},
 		"Greatclub": {
-			"name": "대곤봉 Greatclub",
+			"name": "대곤봉",
 			"description": "<p>단순한 곤봉의 더 크게 변화시킨 것으로, 끝에 거대한 나무 매듭이 있는 두툼한 나무 자루는 불운한 적들에게 타격의 피해를 입힙니다.</p>"
 		},
 		"Greatsword +1": {
@@ -746,23 +746,23 @@
 			"description": "<p>무거운 금속제 머리 부분이 손잡이에 수직으로 달린 도구로, 물건을 부수거나 못을 박는 용도로 쓰입니다.</p>"
 		},
 		"Hand Crossbow +1": {
-			"name": "손 석궁 Hand Crossbow +1",
+			"name": "손 석궁 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Hand Crossbow +2": {
-			"name": "손 석궁 Hand Crossbow +2",
+			"name": "손 석궁 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Hand Crossbow": {
-			"name": "손 석궁 Hand Crossbow",
+			"name": "손 석궁",
 			"description": "<p>한 손으로 들거나 손목에 부착해 가벼운 볼트를 발사하도록 고안된 경량형 석궁입니다.</p>"
 		},
 		"Handaxe +1": {
-			"name": "핸드액스 Handaxe +1",
+			"name": "핸드액스 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Handaxe +2": {
-			"name": "핸드액스 Handaxe +2",
+			"name": "핸드액스 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Handaxe +3": {
@@ -858,31 +858,31 @@
 			"description": "<p><em>기타 물품</em></p>\n<p>당신은 행동을 사용해 이 뿔피리를 불 수 있습니다. 그러면 발할라에 있는 전사 영혼들이 당신으로 부터 60ft 내에 소환된겁니다. 이 영혼들은 @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}와 같은 게임 수치를 지니고 있습니다. 이들은 1시간이 지나거나 hp가 0이하로 떨어지면 발할라로 돌아갈 것입니다. 일단 이 뿔피리를 사용했다면, 이후 7일간은 다시 사용할 수 없습니다.</p>\n<p>발할라의 뿔피리는 4종류가 존재한다고 알려져 있으며, 각각은 서로 다른 금속으로 만들어져 있습니다. 뿔피리의 종류는 얼마나 많은 전사가 나타나는가를 결정하며, 이를 사용하기 위해 필요한 요구조건도 달라집니다. GM은 뿔피리의 종류를 직접 결정하거나 무작위로 정할 수 있습니다.</p>\n<table style=\"height:147px;width:375px\">\n<thead>\n<tr style=\"height:33px\">\n<th style=\"width:38.0208px;height:33px\">d100</th>\n<th style=\"width:42.4653px;height:33px\">뿔피리의 종류</th>\n<th style=\"width:69.1319px;height:33px\">소환되는 광전사</th>\n<th style=\"width:211.354px;height:33px\">요구 조건</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height:15px\">\n<td style=\"width:38.0208px;height:15px\">01-40</td>\n<td style=\"width:42.4653px;height:15px\">은</td>\n<td style=\"width:69.1319px;height:15px\">2d4 + 2</td>\n<td style=\"width:211.354px;height:15px\">없음</td>\n</tr>\n<tr style=\"height:33px\">\n<td style=\"width:38.0208px\">41-75</td>\n<td style=\"width:42.4653px\">Brass</td>\n<td style=\"width:69.1319px\">3d4 + 3</td>\n<td style=\"width:211.354px\">Proficiency with all simple weapons</td>\n</tr>\n<tr style=\"height:33px\">\n<td>76-90</td>\n<td>Bronze</td>\n<td>4d4 + 4</td>\n<td>Proficiency with all medium armor</td>\n</tr>\n<tr style=\"height:33px\">\n<td style=\"width:38.0208px;height:33px\"><strong>91-00</strong></td>\n<td style=\"width:42.4653px;height:33px\"><strong>Iron</strong></td>\n<td style=\"width:69.1319px;height:33px\"><strong>5d4 + 5</strong></td>\n<td style=\"width:211.354px;height:33px\"><strong>Proficiency with all martial weapons</strong></td>\n</tr>\n</tbody>\n</table>\n<p>만약 뿔피리의 요구 조건을 갖추지 못한 자가 뿔피리를 분다면, 소환된 광전사들은 뿔피리를 분 자를 공격하기 시작합니다. 만약 당신이 요구조건을 갖추고 뿔피리를 불었다면, 소환된 광전사들은 당신과 동료들에게 우호적이며 당신의 명령을 따를 것입니다.</p>"
 		},
 		"Iron Pot": {
-			"name": "쇠 주전자 Iron Pot",
+			"name": "쇠 주전자",
 			"description": "<p>1갤런의 액체가 들어갈 수 있습니다.</p>"
 		},
 		"Iron Spike": {
-			"name": "쇠 말뚝 Iron Spike",
+			"name": "쇠 말뚝",
 			"description": "<p><span style=\"color:#191813;font-size:13px\">A spike of 10 inches long made of iron. Can be improvised to block doors. Usually sold in bundles of 10. 쇠로 만든 10인치 길이의 뾰족한 말뚝, 즉석에서 문을 막을 수 있습니다. 보통 10개들이 묶음으로 판매합니다.</span></p>"
 		},
 		"Javelin +1": {
-			"name": "자벨린 Javelin +1",
+			"name": "투창 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Javelin +2": {
-			"name": "자벨린 Javelin +2",
+			"name": "투창 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Javelin of Lightning": {
-			"name": "번개의 투창 Javelin of Lightning",
-			"description": "<p>이 자벨린은 마법 무기입니다. 당신이 이 무기를 던지며 명령어를 외친다면, 이는 5ft 길이의 번개 모습으로 변해 목표를 향해 120ft 거리까지 날아갑니다. 이 자벨린이 날아가는 직선거리 내의 모든 크리쳐는 DC 13의 민첩 내성을 굴려야 하며, 실패할 시 4d6점의 번개 피해를 입게 됩니다. 내성에 성공한 경우 피해는 절반으로 줄어듭니다. 번개는 목표에 도달하면 다시 자벨린으로 변합니다. 목표에 장거리 무기 공격을 가합니다. 목표가 자벨린 공격에 명중한 경우 무기의 본래 피해에 더해 4d6점의 번개 피해를 입게 됩니다.</p>\n<p>이렇게 자벨린의 기능을 한 번 발동하고 나면, 다음날 새벽까지 다시 발동할 수 없습니다. 물론 그 동안에도 계속 보통 마법 무기로서 이 자벨린을 사용할 수 있습니다.</p>"
+			"name": "번개의 투창",
+			"description": "<p>이 투창은 마법 무기입니다. 당신이 이 무기를 던지며 명령어를 외친다면, 이는 5ft 길이의 번개 모습으로 변해 목표를 향해 120ft 거리까지 날아갑니다. 이 투창이 날아가는 직선거리 내의 모든 크리쳐는 DC 13의 민첩 내성을 굴려야 하며, 실패할 시 4d6점의 번개 피해를 입게 됩니다. 내성에 성공한 경우 피해는 절반으로 줄어듭니다. 번개는 목표에 도달하면 다시 투창으로 변합니다. 목표에 장거리 무기 공격을 가합니다. 목표가 투창 공격에 명중한 경우 무기의 본래 피해에 더해 4d6점의 번개 피해를 입게 됩니다.</p>\n<p>이렇게 투창의 기능을 한 번 발동하고 나면, 다음날 새벽까지 다시 발동할 수 없습니다. 물론 그 동안에도 계속 보통 마법 무기로서 이 투창을 사용할 수 있습니다.</p>"
 		},
 		"Javelin": {
-			"name": "자벨린 Javelin",
+			"name": "투창",
 			"description": "<p>이 가볍고 유연한 창은 투척용으로 고안되었지만 근접 전투에도 쓰일 수 있을 정도로 다재다능합니다.</p>"
 		},
 		"Jeweler's Tools": {
-			"name": "보석세공사의 도구 Jeweler's Tools",
+			"name": "보석세공사의 도구",
 			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		"Jug": {
@@ -914,23 +914,23 @@
 			"description": "<p><em>기타 물건</em></p>\n<p>이 깃 달린 랜턴에 불을 붙이면, 기름 1파인트를 사용해 6시간 동안 불을 밝힐 수 있습니다. 이 때는 30ft 반경까지 밝은 빛을, 추가로 30ft까지는 약한 빛을 냅니다. 랜턴이 밝은 빛을 비추는 범위 내에 들어온 투명한 크리쳐나 물체들은 즉시 투명화가 풀리고 모습을 드러내게 됩니다. 당신은 행동을 사용해 랜턴의 갓을 내릴 수 있으며, 이 때는 오직 5ft 범위에만 약한 빛을 내게 됩니다.</p>"
 		},
 		"Leather Armor": {
-			"name": "레더 아머 Leather Armor",
+			"name": "레더 아머",
 			"description": "<p>레더 아머, 즉 가죽 갑옷의 가슴판과 어깨 보호대는 기름에 끓여 단단해진 가죽으로 만들었습니다. 다른 부분들은 보다 부드럽고 유연한 재질로 되어 있습니다.</p>"
 		},
 		"Leatherworker's Tools": {
-			"name": "무두장이의 도구 Leatherworker's Tools",
+			"name": "무두장이의 도구",
 			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		"Light Crossbow +1": {
-			"name": "경석궁 Light Crossbow +1",
+			"name": "경석궁 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Light Crossbow +2": {
-			"name": "경석궁 Light Crossbow +2",
+			"name": "경석궁 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Light Crossbow": {
-			"name": "경석궁 Light Crossbow",
+			"name": "경석궁",
 			"description": "<p>나무 손잡이와 가까운 거리에서는 중장 갑옷조차도 뚫을 수 있는 볼트를 발사할 수 있는 팽팽한 시위가 달린 작은 석궁입니다.</p>"
 		},
 		"Light Hammer +1": {
@@ -943,7 +943,7 @@
 		},
 		"Light Hammer": {
 			"name": "경량 망치 Light Hammer",
-			"description": "<p>이 튼튼한 망치는 민첩하게 휘두르거나 다른 무기와 함께 사용할 수 있을 만큼 작습니다.</p>\n<p><strong>경량형.</strong> 경량형 무기는 작고 다루기 쉽기 때문에, 무기 2개를 동시에 사용하여 전투할 때 이상적입니다. 제9장에서 쌍수 전투 에 대한 규칙을 참조하시기 바랍니다</p>\n<p><strong>투척.</strong> 만약 무기에 투척 속성이 붙어 있다면, 당신은 이 무기를 던져서 장거리 공격을 할 수 있다는 뜻입니다. 만약 이 무기가 근 접 무기라면, 당신은 근접 공격을 가할 때도 똑같은 수정치를 사 용하여 명중과 피해 굴림을 굴릴 수 있습니다. 예를 들어, 당신이 핸드액스를 던졌다면, 당신은 근력을 사용해 명중/피해 굴림을 굴립니다. 반면 당신이 대거를 던졌다면, 대거는 교묘함 속성이 붙어 있기 때문에 근력과 민첩 중 원하는 수정치를 선택할 수 있 습니다.</p>"
+			"description": "<p>이 튼튼한 망치는 민첩하게 휘두르거나 다른 무기와 함께 사용할 수 있을 만큼 작습니다.</p>\n<p><strong>경량형.</strong> 경량형 무기는 작고 다루기 쉽기 때문에, 무기 2개를 동시에 사용하여 전투할 때 이상적입니다. 제9장에서 쌍수 전투 에 대한 규칙을 참조하시기 바랍니다</p>\n<p><strong>투척.</strong> 만약 무기에 투척 속성이 붙어 있다면, 당신은 이 무기를 던져서 장거리 공격을 할 수 있다는 뜻입니다. 만약 이 무기가 근 접 무기라면, 당신은 근접 공격을 가할 때도 똑같은 수정치를 사 용하여 명중과 피해 굴림을 굴릴 수 있습니다. 예를 들어, 당신이 핸드액스를 던졌다면, 당신은 근력을 사용해 명중/피해 굴림을 굴립니다. 반면 당신이 단검를 던졌다면, 단검은 교묘함 속성이 붙어 있기 때문에 근력과 민첩 중 원하는 수정치를 선택할 수 있 습니다.</p>"
 		},
 		"Lock": {
 			"name": "자물쇠 Lock",
@@ -990,7 +990,7 @@
 			"description": "<p>이 마법 무기를 사용하면 명중과 피해에 +1 보너스를 받을 수 있습니다. 이 보너스는 구조물을 공격할 때는 +3으로 증가합니다.</p>\n<p>당신이 이 무기로 명중 굴림을 굴릴 때 20이 나오면, 목표는 추가로 7점의 타격 피해를 입게 됩니다. 만약 목표가 구조물이라면 이 피해는 14점으로 증가합니다. 만약 구조물이 이렇게 피해를 받아 hp가 25점 이하가 되었다면, 구조물은 즉시 파괴됩니다.</p>\n<p><em>**파운드리 노트 : 공격 및 피해 굴림에 대한 보너스는 +1로 설정되어 있습니다. 구조물을 공격할 경우 두 결과 모두에 각각 +2를 주십시오. 또한 구조물에 대해 명중굴림이 20이 나오면 기타 피해를 한번 더 굴려주세요.</em></p>"
 		},
 		"Mace": {
-			"name": "철퇴 Mace",
+			"name": "철퇴",
 			"description": "<p>금속제 몽둥이 끝에 고정시킨 무거운 타격용 무기입니다. 머리 부분에는 갑옷에 구멍을 내고 갑옷 아래의 뼈를 부술 수 있도록 고안된 못과 칼날이 달려 있습니다.</p>"
 		},
 		"Magnifying Glass": {
@@ -1334,51 +1334,51 @@
 			"description": "<p><em>이 물약의 투명한 액체는 해당하는 종류의 거인의 손톱 조각이 떠다닌다.</em></p>\n<p>당신이 이 물약을 마시면, 당신의 근력 점수는 이후 1시간 동안 29 로 변화합니다. 이 물약은 당신의 근력이 이미 해당 점수보다 높다면 효과가 없습니다.</p>"
 		},
 		"Potion of Superior Healing": {
-			"name": "상급 치유의 물약 Potion of Superior Healing",
+			"name": "상급 치유의 물약",
 			"description": "<p><em>물약을 흔들면 붉은 액체가 반짝이며 흔들린다.</em></p>\n<p>이 붉은색 마법 액체를 마신 캐릭터는 8d4+8점의 hp를 회복합니다. </p>"
 		},
 		"Potion of Supreme Healing": {
-			"name": "최상급 치유의 물약 Potion of Supreme Healing",
+			"name": "최상급 치유의 물약",
 			"description": "<p><em>물약을 흔들면 붉은 액체가 반짝이며 흔들린다.</em></p>\n<p>이 붉은색 마법 액체를 마신 캐릭터는 10d4+20점의 hp를 회복합니다.</p>"
 		},
 		"Potion of Thunder Resistance": {
-			"name": "천둥 저항의 물약 Potion of Thunder Resistance",
+			"name": "천둥 저항의 물약",
 			"description": "<p><em>그 물약은 무분별한색의 음료이며 약간 고약한 냄새가 난다.</em></p>\n<p>당신이 이 물약을 마시면, 당신은 1시간 동안 천둥 피해에 대해 저항을 얻게 됩니다.</p>"
 		},
 		"Potion of Water Breathing": {
-			"name": "수중 호흡의 물약 Potion of Water Breathing",
+			"name": "수중 호흡의 물약",
 			"description": "<p><em>이 물약의 흐릿한 녹색 액체에서는 바다 냄새가 나며, 안에서는 해파리 같은 거품이 피어오릅니다.</em></p>\n<p>당신은 이 물약을 마시고 이후 1시간 동안 수중에서 호흡할 수 있게 됩니다.</p>\n<p> </p>"
 		},
 		"Potter's Tools": {
-			"name": "도기 제작자의 도구 Potter's Tools",
+			"name": "도기 제작자의 도구",
 			"description": "<p>이 특별한 도구들은 무언가 만들거나 거래할 때 필요한 것입니다. 장인의 도구에 대한 숙련을 지니고 있으면, 제작시 능력 판정에 숙련 보너스를 더할 수 있습니다. 장인의 도구들은 각각 다른 숙련이 필요합니다.</p>"
 		},
 		"Pouch": {
-			"name": "주머니 Pouch",
+			"name": "주머니",
 			"description": "<p>가죽이나 천으로 만들어진 주머니는 20개의 슬링 탄환이나 50개의 블로우건 바늘, 혹은 다른 물건들을 보관할 수 있습니다. 주문 구성요소들을 보관하는 주머니는 따로 구성요소 주머니라고 부릅니다. 주머니에는 부피 0.2 입방피트, 무게 6파운드까지의 장비를 담을 수 있습니다.</p>"
 		},
 		"Prayer Book": {
-			"name": "기도서 Prayer Book",
+			"name": "기도서",
 			"description": "<p>신자들이 따를 수 있도록 특정한 권력에 헌신하는 기도와 경구가 담긴 책입니다.</p>"
 		},
 		"Prayer Wheel": {
-			"name": "기도용 바퀴 Prayer Wheel",
+			"name": "기도용 바퀴",
 			"description": "<p>신자들을 위한 보조물로서, 이 원통에는 금속, 나무, 뼈, 돌, 가죽, 또는 거친 면으로 만든 방추체를 달 수 있습니다.</p>"
 		},
 		"Quarterstaff +1": {
-			"name": "육척봉 Quarterstaff +1",
+			"name": "육척봉 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Quarterstaff +2": {
-			"name": "육척봉 Quarterstaff +2",
+			"name": "육척봉 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Quarterstaff": {
-			"name": "육척봉 Quarterstaff",
+			"name": "육척봉",
 			"description": "<p>튼튼한 손잡이로 감싼 두꺼운 나무 줄기는 단단한 지팡이 외에도 뛰어난 가능성의 무기가 된다.</p>"
 		},
 		"Quiver": {
-			"name": "화살통 Quiver",
+			"name": "화살통",
 			"description": "<p><span style=\"color:#191813;font-size:13px\">화살통에는 화살이 20발 들어간다.</span></p>"
 		},
 		"Rapier +1": {
@@ -1443,7 +1443,7 @@
 		},
 		"Robe of Useful Items": {
 			"name": "로브, 유용한 물건의 로브 Robe of Useful Items",
-			"description": "<p><em>기타 물건</em></p>\n<p>이 로브는 다양한 형태와 색깔의 천이 덧대어져 만들어졌습니다. 이 로브를 입고 있을 때 당신은 행동을 사용해 불어있는 천 중 하나를 뜯어내 사용할 수 있으며, 이때 천은 그려진 형태대로의 물건으로 변합니다.</p>\n<p>로브는 아래 형태의 조각들이 각각 2장씩 있습니다. 모든 천조각을 다 떼어내면 이 로브는 그냥 평범한 옷이 됩니다.</p>\n<ul>\n<li>x2 대거 조각</li>\n<li>x2 황소눈 랜턴 (기름이 차 있음) 조각</li>\n<li>x2 강철 거울 조각</li>\n<li>x2 10ft 길이 장대 조각</li>\n<li>x2 마 로프 (50 feet, 말려져 있음) 조각</li>\n<li>x2 가방Sack 조각</li>\n</ul>\n<p>이 평범한 천들에 더해, 로브에는 4d4개의 특별한 조각이 붙어 있습니다. 각각의 조각들이 무엇인지는 GM이 정하거나 아래 표에서 무작위로 고를 수 있습니다.</p>\n<table style=\"height:150px\" border=\"1\">\n<tbody>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\"><strong>d100</strong></td>\n<td style=\"height:15px;width:186.91px\"><strong>천조각</strong></td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">01-08</td>\n<td style=\"height:15px;width:186.91px\">100 gp가 들어있는 가방(bag)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">09-15</td>\n<td style=\"height:15px;width:186.91px\">500gp 상당의 은 상자 (1ft 길이, 6인치 너비와 깊이)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">16-22</td>\n<td style=\"height:15px;width:186.91px\">쇠 문(10ft 너비에 10ft 높이까지, 당신의 선택에 따라 빗장이 있을 수 있음), 당신이 선택한 장소에 생겨나 열리며, 이 문에는 경첩이 달려서 여닫을 수 있음.</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">23-30</td>\n<td style=\"height:15px;width:186.91px\">100gp 상당의 보석 10개</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">31-44</td>\n<td style=\"height:15px;width:186.91px\">나무 사다리 (24 ft 높이)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">45-51</td>\n<td style=\"height:15px;width:186.91px\">안장 배낭이 있는 승용마</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">52-59</td>\n<td style=\"height:15px;width:186.91px\">10×10ft 너비에 깊이 10ft인 구덩이. 당신으로부터 10ft 내의 지면 어디에든 만들 수 있음.</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">60-68</td>\n<td style=\"height:15px;width:186.91px\">치유의 물약 4개</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">69-75</td>\n<td style=\"height:15px;width:186.91px\">나룻배 Rowboat (12 ft 길이)</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">76-83</td>\n<td style=\"width:186.91px\">1-3 레벨 주문이 들어있는 주문 두루마리</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">84-90</td>\n<td style=\"width:186.91px\"> @Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff} 두 마리</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">91-96</td>\n<td style=\"width:186.91px\">창문 (2×4 ft 크기. 최대 2 ft 너비) 당신이 원하는 수직 표면 어디에든 생겨날 수 있음</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">97-00</td>\n<td style=\"width:186.91px\">휴대용 공성추</td>\n</tr>\n</tbody>\n</table>\n<p><em>파운드리 노트: 필요에 따라 4d4 조각을 계산하도록 기타 공식이 설정되어 있습니다.</em></p>\n<p><em>또한 남은 조각을 확인하기 위해 여기서 물건을 삭제하는 것이 좋습니다.</em></p>\n<p><em>가격 가이드는 가능한 최대 물건 수에 더해 5*물건으로 계산되었습니다. 필요한 경우 조각 수와 DM의 세계 경제를 반영하도록 조정하세요.</em></p>"
+			"description": "<p><em>기타 물건</em></p>\n<p>이 로브는 다양한 형태와 색깔의 천이 덧대어져 만들어졌습니다. 이 로브를 입고 있을 때 당신은 행동을 사용해 불어있는 천 중 하나를 뜯어내 사용할 수 있으며, 이때 천은 그려진 형태대로의 물건으로 변합니다.</p>\n<p>로브는 아래 형태의 조각들이 각각 2장씩 있습니다. 모든 천조각을 다 떼어내면 이 로브는 그냥 평범한 옷이 됩니다.</p>\n<ul>\n<li>x2 단검 조각</li>\n<li>x2 황소눈 랜턴 (기름이 차 있음) 조각</li>\n<li>x2 강철 거울 조각</li>\n<li>x2 10ft 길이 장대 조각</li>\n<li>x2 마 로프 (50 feet, 말려져 있음) 조각</li>\n<li>x2 가방Sack 조각</li>\n</ul>\n<p>이 평범한 천들에 더해, 로브에는 4d4개의 특별한 조각이 붙어 있습니다. 각각의 조각들이 무엇인지는 GM이 정하거나 아래 표에서 무작위로 고를 수 있습니다.</p>\n<table style=\"height:150px\" border=\"1\">\n<tbody>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\"><strong>d100</strong></td>\n<td style=\"height:15px;width:186.91px\"><strong>천조각</strong></td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">01-08</td>\n<td style=\"height:15px;width:186.91px\">100 gp가 들어있는 가방(bag)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">09-15</td>\n<td style=\"height:15px;width:186.91px\">500gp 상당의 은 상자 (1ft 길이, 6인치 너비와 깊이)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">16-22</td>\n<td style=\"height:15px;width:186.91px\">쇠 문(10ft 너비에 10ft 높이까지, 당신의 선택에 따라 빗장이 있을 수 있음), 당신이 선택한 장소에 생겨나 열리며, 이 문에는 경첩이 달려서 여닫을 수 있음.</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">23-30</td>\n<td style=\"height:15px;width:186.91px\">100gp 상당의 보석 10개</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">31-44</td>\n<td style=\"height:15px;width:186.91px\">나무 사다리 (24 ft 높이)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">45-51</td>\n<td style=\"height:15px;width:186.91px\">안장 배낭이 있는 승용마</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">52-59</td>\n<td style=\"height:15px;width:186.91px\">10×10ft 너비에 깊이 10ft인 구덩이. 당신으로부터 10ft 내의 지면 어디에든 만들 수 있음.</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">60-68</td>\n<td style=\"height:15px;width:186.91px\">치유의 물약 4개</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">69-75</td>\n<td style=\"height:15px;width:186.91px\">나룻배 Rowboat (12 ft 길이)</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">76-83</td>\n<td style=\"width:186.91px\">1-3 레벨 주문이 들어있는 주문 두루마리</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">84-90</td>\n<td style=\"width:186.91px\"> @Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff} 두 마리</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">91-96</td>\n<td style=\"width:186.91px\">창문 (2×4 ft 크기. 최대 2 ft 너비) 당신이 원하는 수직 표면 어디에든 생겨날 수 있음</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">97-00</td>\n<td style=\"width:186.91px\">휴대용 공성추</td>\n</tr>\n</tbody>\n</table>\n<p><em>파운드리 노트: 필요에 따라 4d4 조각을 계산하도록 기타 공식이 설정되어 있습니다.</em></p>\n<p><em>또한 남은 조각을 확인하기 위해 여기서 물건을 삭제하는 것이 좋습니다.</em></p>\n<p><em>가격 가이드는 가능한 최대 물건 수에 더해 5*물건으로 계산되었습니다. 필요한 경우 조각 수와 DM의 세계 경제를 반영하도록 조정하세요.</em></p>"
 		},
 		"Robes": {
 			"name": "로브 Robes",
@@ -1454,39 +1454,39 @@
 			"description": "<p>뼈, 돌, 금속 또는 좀 더 이국적인 재료로 정교하게 조각되거나 모양을 이룬 막대입니다. 이러한 막대기는 주문 사용자에 의해 주의력과 비전 에너지의 매개체로 사용된다.</p>\n<p><strong style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">비전 매개체. </strong><span style=\"color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">비전 매개체는 보주, 수정, 막대, 특별 제작된 지팡이, 나무로 만들어진 짧은 봉 등등의 특별한 물건입니다. 이러한 도구는 비전 주문의 힘을 끌어낼 수 있도록 고안되었습니다. 소서러나 워락, 위저드 등은 이러한 물건을 주문시전 도구로 사용 할 수 있습니다.</span></p>"
 		},
 		"Rope of Climbing": {
-			"name": "등반의 로프 Rope of Climbing",
+			"name": "등반의 로프",
 			"description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em>기타 물건</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">이 60ft 길이의 비단 로프는 3lbs 무게이며 최대 3,000lbs 무게까지를 견딜 수 있습니다. 당신이 로프의 한쪽 끝을 잡고 행동을 사용하여 명령어를 말하면, 로프는 스스로 움직이기 시작합니다. 당신은 추가 행동으로 로프의 다른 쪽 끝을 당신이 원하는 방향으로 보낼 수 있습니다. 로프는 당신의 턴 마다 10ft씩 움직이며 당신이 지정한 방향으로 나아가며, 로프의 최대 길이까지 가거나 당신이 멈추라 할 때 멈춥니다. 또한 당신은 명령을 내려 로프가 스스로 어떤 물체에 단단히 묶이게 하거나 풀 수 있으며, 매듭을 짓거나 스스로 똬리를 틀게 할 수 있습니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">만약 당신이 매듭짓도록 명령을 내리면, 로프는 1ft 간격으로 매듭을 지으며, 전체 길이가 50ft로 짧아지지만, 로프를 타고 등반하려 할 때는 판정에 이점을 받게 됩니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">로프는 AC20이며 20점의 hp를 지니고 있습니다. 로프는 최소 1점의 hp라도 남아 있으면 5분마다 1점씩의 hp를 재생합니다. 만약 로프의 hp가 0으로 떨어지면 로프는 파괴되어 버립니다.</p>"
 		},
-		"Saddle, Pack": {
-			"name": "안장 Saddle, Pack",
-			"description": "<p>기본적인 안장을 위한 승마용 짐입니다.</p>"
+		"Sack": {
+			"name": "자루",
+			"description": "<p>1 평방 피트 혹은 30 파운드의 짐을 넣을 수 있는 자루이다.</p>"
 		},
 		"Scale Mail": {
-			"name": "스케일 메일 Scale Mail",
+			"name": "스케일 메일",
 			"description": "<p>이 갑옷은 물고기 비늘처럼 겹쳐진 금속 조각으로 덮인 가죽 상의와 각반으로 구성되어 있습니다. 그 의상에는 건틀렛이 포함되어 있습니다.</p>"
 		},
 		"Scimitar +1": {
-			"name": "시미터 Scimitar +1",
+			"name": "시미터 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Scimitar +2": {
-			"name": "시미터 Scimitar +2",
+			"name": "시미터 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Scimitar": {
-			"name": "시미터 Scimitar",
+			"name": "시미터",
 			"description": "<p>이 곡선형 칼날은 감싸인 손잡이 부근에서부터 넓적하고 어숨푸레한 끝을 향해 활처럼 가늘어집니다.</p>"
 		},
 		"Sealing Wax": {
-			"name": "봉인 밀랍 Sealing Wax",
+			"name": "봉인 밀랍",
 			"description": "<p>봉인 밀랍은 녹은 후 빠르게 굳어져 눈에 띄는 조작 없이는 분리하기 어렵게 합니다.</p>"
 		},
 		"Shawm": {
-			"name": "숌 Shawm",
+			"name": "숌",
 			"description": "<p>청중들에게 경외감, 경이감 또는 두려움을 불러일으키기 위한 숌입니다.</p>\n<p>만약 여러분이 주어진 악기에 숙련 되어 있다면, 여러분은 악기로 음악을 연주하기 위한 어떤 능력 판정에도 여러분의 숙련도 보너스를 추가할 수 있습니다. 바드는 악기를 주문 매개체로 사용할 수 있습니다. 악기 종류마다 각기 다른 숙련이 요구됩니다.</p>"
 		},
 		"Shield +1": {
-			"name": "방패 Shield +1",
+			"name": "방패 +1",
 			"description": "<p>이 방패를 들고 있으면 AC에 +1보너스를 받을 수 있습니다.원래 종류의 방패가 제공하는 AC에 추가로 마법적인 보너스가 더 적용되는 것입니다.</p>"
 		},
 		"Shield": {
@@ -1514,23 +1514,23 @@
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Shortsword": {
-			"name": "숏소드 Shortsword",
+			"name": "숏소드",
 			"description": "<p>튼튼한 코등이와 가죽으로 싼 손잡이가 달린 중간 크기의 칼날입니다. 짧은 공격범위를 다재다능함으로 보완하는 무기입니다.</p>"
 		},
 		"Shovel": {
-			"name": "삽 Shovel",
+			"name": "삽l",
 			"description": "<p>넓적한 날과 일반적으로 뒤집혀진 면이 있는 이 도구는 석탄, 흙, 눈 또는 여러 물질을 옮기는데 사용됩니다.</p>"
 		},
 		"Sickle +1": {
-			"name": "낫 Sickle +1",
+			"name": "낫 +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Sickle +2": {
-			"name": "낫 Sickle +2",
+			"name": "낫 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Sickle": {
-			"name": "낫 Sickle",
+			"name": "낫",
 			"description": "<p>짧은 자루 위에 장착된 초승달 갈고리 칼날로, 한 손에 들 수 있을 만큼 가벼워서 농작물이나 적을 베어낼 수 있습니다.</p>\n<p><strong>경량형</strong>. 경량형 무기는 작고 다루기 쉽기 때문에, 무기 2개를 동시에 사용하여 전투할 때 이상적입니다.</p>"
 		},
 		"Signal Whistle": {
@@ -1743,7 +1743,7 @@
 		},
 		"Trident": {
 			"name": "삼지창 Trident",
-			"description": "<p>여러 곳에 표적을 찔러 고정시키도록 설계된 여러 갈래의 창입니다. 종종 적을 함정에 빠뜨리고 괴롭히기 위해 그물과 함께 사용됩니다.</p>\n<p><strong>투척.</strong> 만약 무기에 투척 속성이 붙어 있다면, 당신은 이 무기를 던져서 장거리 공격을 할 수 있다는 뜻입니다. 만약 이 무기가 근접 무기라면, 당신은 근접 공격을 가할 때도 똑같은 수정치를 사용하여 명중과 피해 굴림을 굴릴 수 있습니다. 예를 들어, 당신이 핸드액스를 던졌다면, 당신은 근력을 사용해 명중/피해 굴림을 굴립니다. 반면 당신이 대거를 던졌다면, 대거는 교묘함 속성이 붙어 있기 때문에 근력과 민첩 중 원하는 수정치를 선택할 수 있습니다.</p>\n<p><strong>다용도.</strong> 이 무기는 한손이나 양손으로 다룰 수 있습니다. 상세정보 다용도에 있는 피해값은 이 무기를 양손으로 사용했을 때 가해지는 피해값을 말합니다.</p>"
+			"description": "<p>여러 곳에 표적을 찔러 고정시키도록 설계된 여러 갈래의 창입니다. 종종 적을 함정에 빠뜨리고 괴롭히기 위해 그물과 함께 사용됩니다.</p>\n<p><strong>투척.</strong> 만약 무기에 투척 속성이 붙어 있다면, 당신은 이 무기를 던져서 장거리 공격을 할 수 있다는 뜻입니다. 만약 이 무기가 근접 무기라면, 당신은 근접 공격을 가할 때도 똑같은 수정치를 사용하여 명중과 피해 굴림을 굴릴 수 있습니다. 예를 들어, 당신이 핸드액스를 던졌다면, 당신은 근력을 사용해 명중/피해 굴림을 굴립니다. 반면 당신이 단검를 던졌다면, 단검은 교묘함 속성이 붙어 있기 때문에 근력과 민첩 중 원하는 수정치를 선택할 수 있습니다.</p>\n<p><strong>다용도.</strong> 이 무기는 한손이나 양손으로 다룰 수 있습니다. 상세정보 다용도에 있는 피해값은 이 무기를 양손으로 사용했을 때 가해지는 피해값을 말합니다.</p>"
 		},
 		"Trinket": {
 			"name": "잡동사니 Trinket",
@@ -1778,8 +1778,8 @@
 			"description": "<p>튼튼한 나무 손잡이는 간단하지만 효과적인 곤봉입니다. 이 무기들은 적을 때려눕히거나, 살을 멍들게 하거나 뼈가 부러지게 하는 데 사용됩니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Dagger": {
-			"name": "잔혹한 대거 Vicious Dagger",
-			"description": "<p>작은 칼자루와 코등이가 달린 짧은 금속제 칼날입니다. 대거는 단련된 전사의 훌륭한 보조 무장이며 암살자와 도둑의 숨겨진 칼날입니다.</p>\n<p><span style=\"color:#191813;font-family:'Noto Sans KR', Signika, sans-serif;font-size:13px\">당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</span></p>"
+			"name": "잔혹한 단검 Vicious Dagger",
+			"description": "<p>작은 칼자루와 코등이가 달린 짧은 금속제 칼날입니다. 단검은 단련된 전사의 훌륭한 보조 무장이며 암살자와 도둑의 숨겨진 칼날입니다.</p>\n<p><span style=\"color:#191813;font-family:'Noto Sans KR', Signika, sans-serif;font-size:13px\">당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</span></p>"
 		},
 		"Vicious Dart": {
 			"name": "잔혹한 다트 Vicious Dart",
@@ -1810,7 +1810,7 @@
 			"description": "<p>단단한 나무 관에 장착된 대형 석궁은 수동 크랭크를 사용하여 두꺼운 강철 볼트를 발사하여 갑옷과 살을 관통하는 치명적인 가속력을 발휘합니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Javelin": {
-			"name": "잔혹한 자벨린 Vicious Javelin",
+			"name": "잔혹한 투창 Vicious Javelin",
 			"description": "<p>이 가볍고 유연한 창은 투척용으로 고안되었지만 근접 전투에도 쓰일 수 있을 정도로 다재다능합니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Light Crossbow": {
@@ -1818,19 +1818,19 @@
 			"description": "<p>나무 손잡이와 가까운 거리에서는 중장 갑옷조차도 뚫을 수 있는 볼트를 발사할 수 있는 팽팽한 시위가 달린 작은 석궁입니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Light Hammer": {
-			"name": "잔혹한 경량 망치 Vicious Light Hammer",
+			"name": "잔혹한 경량 망치",
 			"description": "<p>이 튼튼한 망치는 민첩하게 휘두르거나 다른 무기와 함께 사용할 수 있을 만큼 작습니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Longbow": {
-			"name": "잔혹한 롱보우 Vicious Longbow",
+			"name": "잔혹한 롱보우",
 			"description": "<p>나무 여러 장을 덧대어 만든 두꺼운 활대를 구부려 치명적인 화살을 먼 거리까지 발사할 수 있는 팽팽한 시위를 달았습니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Longsword": {
-			"name": "잔혹한 장검 Vicious Longsword",
+			"name": "잔혹한 장검",
 			"description": "<p>적을 베기 위해 고안된 긴 칼날의 롱소드는 매우 다재다능한 무기로, 더 많은 참격을 위해 두 손으로 휘두를 수 있습니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Rapier": {
-			"name": "잔혹한 레이피어 Vicious Rapier",
+			"name": "잔혹한 레이피어",
 			"description": "<p>얇고 탄력있는 금속제 칼날로, 무게는 가볍지만 사거리가 길어 번개같은 신속함으로 적의 방어가 약한 지점을 재빨리 공격할 수 있도록 고안되었습니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Shortbow": {
@@ -1838,19 +1838,19 @@
 			"description": "<p>이 양손 활은 전통적인 롱보우의 변종보다는 다소 작아서, 이동하거나 말에 탑승한 채로 빠르게 공격하기에 적합합니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Shortsword": {
-			"name": "잔혹한 숏소드 Vicious Shortsword",
+			"name": "잔혹한 숏소드",
 			"description": "<p>튼튼한 코등이와 가죽으로 싼 손잡이가 달린 중간 크기의 칼날입니다. 짧은 공격범위를 다재다능함으로 보완하는 무기입니다.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Vicious Warhammer": {
-			"name": "잔혹한 전쟁망치 Vicious Warhammer",
+			"name": "잔혹한 워해머",
 			"description": "<p>한 손과 방패 혹은 두 손으로 휘둘러 뇌진탕을 가할 수 있는 중금속 망치.</p>\n<p>당신이 이 마법 무기를 사용해 공격했을 때 명중 굴림에서 20이 나오면, 목표는 무기가 가하는 종류의 피해를 추가로 2d6점 더 입게 됩니다.</p>"
 		},
 		"Viol": {
-			"name": "비올 Viol",
+			"name": "비올",
 			"description": "<p>청중들에게 경외감, 경이감 또는 두려움을 불러일으키기 위한 비올입니다.</p>\n<p>만약 여러분이 주어진 악기에 숙련 되어 있다면, 여러분은 악기로 음악을 연주하기 위한 어떤 능력 판정에도 여러분의 숙련도 보너스를 추가할 수 있습니다. 바드는 악기를 주문 매개체로 사용할 수 있습니다. 악기 종류마다 각기 다른 숙련이 요구됩니다.</p>"
 		},
 		"Wand of Magic Detection": {
-			"name": "마법봉, 마법 탐지의 마법봉 Wand of Magic Detection",
+			"name": "마법봉, 마법 탐지의 마법봉",
 			"description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">이 마법봉은 3회 충전되어 있습니다. 당신은 마법봉을 들고 행동을 사용하며 충전을 1회 소비하여 @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detect Magic} 주문을 시전할 수 있습니다. 이 마법봉은 매일 새벽 1d3회의 힘을 재충전합니다.</p>"
 		},
 		"Wand of Magic Missiles": {
@@ -1894,19 +1894,19 @@
 			"description": "<p>잔인한 스파이크가 단단한 자루의 뒷면에 장착되어 있으며, 치명적인 힘으로 갑옷에 구멍을 낼 수 있도록 설계되었습니다.</p>"
 		},
 		"Warhammer +1": {
-			"name": "전쟁망치 Warhammer +1",
+			"name": "워해머 Warhammer +1",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +1 보너스를 받게 됩니다. </p>"
 		},
 		"Warhammer +2": {
-			"name": "전쟁망치 Warhammer +2",
+			"name": "워해머 +2",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +2 보너스를 받게 됩니다. </p>"
 		},
 		"Warhammer +3": {
-			"name": "전쟁망치 Warhammer +3",
+			"name": "워해머 +3",
 			"description": "<p><em>악마의 축복, 천상체의 유산, 미친 실험이나 능숙한 기술 등으로 이 무기는 소유자에게 더 많은 피를 흘리게끔 강화되었습니다.</em></p>\n<p>당신은 이 마법 무기를 사용할 때, 명중과 피해 판정에 +3 보너스를 받게 됩니다. </p>"
 		},
 		"Warhammer": {
-			"name": "전쟁망치 Warhammer",
+			"name": "워해머",
 			"description": "<p>한 손과 방패 혹은 두 손으로 휘둘러 뇌진탕을 가할 수 있는 중금속 망치.</p>\n<p><strong style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">다용도.</strong><span style=\"color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\"> 이 무기는 한손이나 양손으로 다룰 수 있습니다. 괄호 안에 있는 피해값은 이 무기를 양손으로 사용했을 때 가해지는 피해값을 말합니다.</span></p>"
 		},
 		"Waterskin": {
