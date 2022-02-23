@@ -42,7 +42,7 @@
 			"source": "PHB 71p"
 		},
 		"Tranquility": {
-			"name": "고요함",
+			"name": "평정심",
 			"description": "<p>몽크 11레벨에 도달하면, 당신은 주변을 평화의 기운으로 감싸는 특별한 명상에 들어갈 수 있습니다. 긴 휴식을 끝낼 때, 당신은 @Compendium[dnd5e.spells.gvdA9nPuWLck4tBl]{성역화Sanctuary} 주문의 효과를 얻습니다. 이 효과는 당신의 다음 긴 휴식이 시작될 때까지 지속됩니다. (일반적인 성역화 주문처럼 사전에 종료될 수 있습니다.) 이 주문의 내성 DC는 8 + 당신의 지혜 수정치 + 당신의 숙련 보너스입니다.</p>",
 			"requirements": "열린 손의 길 11",
 			"source": "PHB 66p"
