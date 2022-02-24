@@ -1330,6 +1330,7 @@
       "source": "PHB 64p"
     },
     "Unarmored Movement": {
+      "name": "비무장 이동"
     },
     "Unarmored Movement (Monk)": {
       "name": "비무장 이동 (몽크)",
