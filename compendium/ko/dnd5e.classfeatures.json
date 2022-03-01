@@ -205,7 +205,7 @@
     },
     "Defensive Tactics: Escape the Horde": {
       "name": "방어적 전술: 무리 탈출",
-      "description": "<p>당신에게 가해지는 모든 기회 공격에는 불리점이 가해집니다.</p>",
+      "description": "<p>당신에게 가해지는 모든 기회 공격에는 불리함이 가해집니다.</p>",
       "requirements": "헌터 7",
       "source": "PHB 56p"
     },
@@ -282,8 +282,8 @@
       "source": "PHB 82p"
     },
     "Draconic Resilience": {
-      "name": "용의 탄성",
-      "description": "<p>당신은 몸속을 흐르는 마력 덕분에 선조룡의 신체적 특징을 이어받을 수 있습니다. 1레벨 때 당신의 최대 hp가 1점 증가하며, 소서러 레벨이 올라갈 때마다 1점씩 추가로 hp가 늘어납니다.</p>\n<p>또한 당신의 피부는 부분부분 윤기나는 드래곤의 비늘 같은 것으로 얇게 덮여있습니다. 갑옷을 착용하지 않은 경우, 당신의 AC는 13 + 민첩 수정치가 됩니다.</p>",
+      "name": "용의 회복성",
+      "description": "<p>당신은 몸속을 흐르는 마력 덕분에 선조룡의 신체적 특징을 이어받을 수 있었습니다. 1레벨 때 당신의 최대 hp가 1점 증가하며, 소서러 레벨이 올라갈 때마다 1점씩 추가로 hp가 늘어납니다.</p>\n<p>또한 당신의 피부는 부분부분 윤기나는 드래곤의 비늘 같은 것으로 얇게 덮여있습니다. 갑옷을 착용하지 않은 경우, 당신의 AC는 13 + 민첩 수정치가 됩니다.</p>",
       "requirements": "용의 혈통 1",
       "source": "PHB 82p"
     },
@@ -306,8 +306,8 @@
       "source": "PHB 49p"
     },
     "Druidic": {
-      "name": "드루이드 어",
-      "description": "<p>드루이드의 비밀 언어인 드루이드 어를 알고 있습니다. 드루이드 어로 말할 수 있으며 숨겨진 메시지를 남길 때 드루이드 어를 사용할 수 있습니다. 드루이드 어를 아는 사람은 자동적으로 이 메시지를 찾을 수 있습니다. 드루이드 어를 모르는 사람은 이 메시지의 존재를 DC 15 지혜 (감지) 판정 성공으로 알아낼 수 있지만, 마법 없이는 이를 해독할 수 없습니다.</p>"
+      "name": "드루이드어",
+      "description": "<p>드루이드의 비밀 언어인 드루이드어를 알고 있습니다. 드루이드어로 말할 수 있으며 숨겨진 메시지를 남길 때 드루이드어를 사용할 수 있습니다. 드루이드어를 아는 사람은 자동적으로 이 메시지를 찾을 수 있습니다. 드루이드어를 모르는 사람은 이 메시지의 존재를 DC 15 지혜 (감지) 판정 성공으로 알아낼 수 있지만, 마법 없이는 이를 해독할 수 없습니다.</p>"
     },
     "Eldritch Invocations": {
       "name": "섬뜩한 영창",
@@ -316,7 +316,7 @@
       "source": "PHB 86p, 89p"
     },
     "Eldritch Master": {
-      "name": "섬뜩한 대가",
+      "name": "섬뜩한 주인",
       "description": "<p>워락 20레벨에 도달하면, 당신은 후견자에게 청원하며 내면의 신비한 힘을 끌어내 당신이 소비한 주문 슬롯을 회복할 수 있습니다. 이렇게 계약 마법 슬롯을 모두 회복하려면, 1분간 후견자에게 청원을 해야 합니다. 일단 한 번 주문 슬롯을 이렇게 회복했다면, 긴 휴식을 마쳐야 다시 이 특성을 사용할 수 있습니다.</p>",
       "requirements": "워락 20",
       "source": "PHB 87p"
@@ -341,19 +341,19 @@
     },
     "Evasion": {
       "name": "회피기동",
-      "description": "<p>7레벨에 도달하면, 당신은 레드 드래곤의 화염 브레스나 @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{얼음 폭풍Ice Storm} 주문 등, 범위 효과에 포함되었을 때 몸을 날려 피하는 법을 배웁니다. 민첩 내성에 성공하면 절반의 피해만 받는 효과의 목표가 되었을 때, 당신이 내성에 성공하면 아예 피해를 받지 않을 수 있습니다. 또한 내성에 실패해도 절반의 피해만 받게 됩니다.</p>",
+      "description": "<p>7레벨에 도달하면, 레드 드래곤의 화염 브레스나 @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{얼음 폭풍Ice Storm} 주문 등 당신이 어떤 효과의 대상이 되었을 때, 몸을 날려 피하는 법을 배웁니다. 효과의 목표로서 민첩 내성에 성공해 절반의 피해만 받을 경우, 아예 피해를 받지 않게 됩니다. 또한 내성에 실패해도 절반의 피해만 받게 됩니다.</p>",
       "requirements": "로그 7, 몽크 7",
       "source": "PHB 59, 65p"
     },
     "Evocation Savant": {
       "name": "방출계 전공",
-      "description": "<p>위저드 2레벨부터, 당신은 방출계 주문을 자신의 주문책에 옮겨 넣을 때 들여야 하는 시간과 비용이 절반이 됩니다.</p>",
+      "description": "<p>위저드 2레벨부터, 당신은 방출계 주문을 자신의 주문책에 옮겨적을 때 드는 시간과 비용이 절반이 됩니다.</p>",
       "requirements": "방출학파 2",
       "source": "PHB 94p"
     },
     "Expanded Spell List": {
       "name": "확장된 주문 목록",
-      "description": "<p>당신이 워락 주문을 습득할 때, 악마는 확장된 주문 목록에서 습득할 주문을 선택할 수 있도록 허가합니다. 아래 주문들이 워락 주문 목록에 추가됩니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 57px;\"><strong>주문 레벨</strong></td>\n<td style=\"width: 339px;\"><strong>주문</strong></td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">1st</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{타오르는 손Burning Hands}, @Compendium[dnd5e.spells.arzCrMRgcNiQuh43]{명령Command}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">2nd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.zwGsAv6kmwzYGhh3]{시각/청각 박탈Blindness/Deafness}, @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{타오르는 광선Scorching Ray}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">3rd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{화염구Fireball}, @Compendium[dnd5e.spells.TwlD4PLcltv7Xh7j]{악취 구름Stinking Cloud}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">4th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.avD5XUtkBPQQR97c]{화염 방패Fire Shield}, @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{불꽃의 벽Wall of Fire}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">5th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5e1xTohkzqFqbYH4]{화염 직격Flame Strike}, @Compendium[dnd5e.spells.SLxA9QhrggTz0taU]{신성화Hallow}(불경화 형태로)</td>\n</tr>\n</tbody>\n</table>",
+      "description": "<p>워락 주문을 습득할 때, 악마는 당신으로 하여금 확장된 주문 목록에서 습득할 주문을 고를 수 있도록 허가합니다. 아래 주문들이 워락 주문 목록에 추가됩니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 57px;\"><strong>주문 레벨</strong></td>\n<td style=\"width: 339px;\"><strong>주문</strong></td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">1st</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{타오르는 손Burning Hands}, @Compendium[dnd5e.spells.arzCrMRgcNiQuh43]{명령Command}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">2nd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.zwGsAv6kmwzYGhh3]{시각/청각 박탈Blindness/Deafness}, @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{타오르는 광선Scorching Ray}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">3rd</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{화염구Fireball}, @Compendium[dnd5e.spells.TwlD4PLcltv7Xh7j]{악취 구름Stinking Cloud}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">4th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.avD5XUtkBPQQR97c]{화염 방패Fire Shield}, @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{불꽃의 벽Wall of Fire}</td>\n</tr>\n<tr>\n<td style=\"width: 57px;\">5th</td>\n<td style=\"width: 339px;\">@Compendium[dnd5e.spells.5e1xTohkzqFqbYH4]{화염 직격Flame Strike}, @Compendium[dnd5e.spells.SLxA9QhrggTz0taU]{신성화Hallow}(불경화 형태로)</td>\n</tr>\n</tbody>\n</table>",
       "requirements": "워락 1"
     },
     "Expertise (Bard)": {
@@ -394,7 +394,7 @@
     },
     "Favored Enemy": {
       "name": "선호하는 적",
-      "description": "<p>당신은 레인저 1레벨 때부터 특정한 종류의 적에 맞서는 경험을 쌓았습니다. 당신은 그러한 적을 추적하고 사냥하는 방법, 심지어는 이야기를 나누는 방법에 대해서도 알게 됩니다.</p>\n<p>기괴체, 야수, 천상체, 구조물, 용족, 원소, 요정, 악마, 거인, 괴물류, 점액류, 식물, 언데드 중 한 가지 종류를 정해 선호하는 적으로 정합니다. 혹은 인간형 그리쳐 종족 둘(예를 들자면 놀과 오크 등)을 정해 선호하는 적으로 삼을 수도 있습니다.</p>\n<p>이렇게 선호하는 적을 추적할 때 당신은 지혜(생존) 판정에 유리함을 받으며, 그러한 적들에 대한 정보를 기억하기 위한 지능 판정에도 유리함을 받습니다.</p>\n<p>당신이 선호하는 적으로 선택한 종족이 대화를 나눌 수 있는 능력을 지니고 있다면, 당신은 이 특성을 얻을 때 적이 사용하는 언어 한 가지도 배우게 됩니다.</p>\n<p>당신은 6레벨과 14레벨에 도달할 때 다시 한 종류씩 선호하는 적을 추가로 선택할 수 있으며, 이때 새로운 언어도 하나씩 배울 수 있습니다. 이처럼 새로이 선호하는 적을 고르는 것은 레벨이 오르는 과정에서 마주친 괴물들에 대한 경험에 의한 것입니다.</p>",
+      "description": "<p>당신은 레인저 1레벨 때부터 특정한 종류의 적에 맞서는 경험을 쌓았습니다. 당신은 그러한 적을 추적하고 사냥하는 방법, 심지어는 이야기를 나누는 방법에 대해서도 알게 됩니다.</p>\n<p>기괴체, 야수, 천상체, 구조물, 용족, 원소, 요정, 악마, 거인, 괴물류, 점액류, 식물, 언데드 중 한 가지 종류를 정해 선호하는 적으로 정합니다. 혹은 인간형 크리처 종족 둘(예를 들자면 놀과 오크 등)을 정해 선호하는 적으로 삼을 수도 있습니다.</p>\n<p>이렇게 선호하는 적을 추적할 때 당신은 지혜(생존) 판정에 유리함을 받으며, 그러한 적들에 대한 정보를 기억하기 위한 지능 판정에도 유리함을 받습니다.</p>\n<p>당신이 선호하는 적으로 선택한 종족이 대화를 나눌 수 있는 능력을 지니고 있다면, 당신은 이 특성을 얻을 때 적이 사용하는 언어 한 가지도 배우게 됩니다.</p>\n<p>당신은 6레벨과 14레벨에 도달할 때 다시 한 종류씩 선호하는 적을 추가로 선택할 수 있으며, 이때 새로운 언어도 하나씩 배울 수 있습니다. 이처럼 새로이 선호하는 적을 고르는 것은 레벨이 오르는 과정에서 마주친 괴물들에 대한 경험에 의한 것입니다.</p>",
       "requirements": "레인저 1",
       "source": "PHB 54p"
     },
@@ -406,12 +406,12 @@
     },
     "Feral Senses": {
       "name": "야생 감각",
-      "description": "<p>레인저 18레벨에 도달하면, 당신은 보이지 않는 적과 싸울 때 유용한 초자연적 감각을 얻게 됩니다. 당신이 볼 수 없는 크리처를 공격할 때, 당신은 볼 수 없다는 이유로는 명중 굴림에 불리점을 받지 않습니다.</p>\n<p>또한 주변 30ft 내에 투명한 크리처가 있다면, 당신은 그 위치를 파악할 수 있습니다. 단, 은신한 적도 자동 발견하는 것은 아닙니다. 당신은 시각 상실이나 청각 상실 상태가 아니어야 합니다.</p>",
+      "description": "<p>레인저 18레벨에 도달하면, 당신은 보이지 않는 적과 싸울 때 유용한 초자연적 감각을 얻게 됩니다. 당신이 볼 수 없는 크리처를 공격할 때, 당신은 볼 수 없다는 이유로는 명중 굴림에 불리함을 받지 않습니다.</p>\n<p>또한 주변 30ft 내에 투명한 크리처가 있다면, 당신은 그 위치를 파악할 수 있습니다. 단, 은신한 적도 자동 발견하는 것은 아닙니다. 또한 실명이나 실청 상태가 아니어야 합니다.</p>",
       "requirements": "레인저 18",
       "source": "PHB 55p"
     },
     "Fiendish Resilience": {
-      "name": "악마의 탄성",
+      "name": "악마의 회복성",
       "description": "<p>악마 10레벨에 도달하면, 당신은 짧은 휴식이나 긴 휴식을 마칠 때마다 한 가지 속성의 피해를 선택해 그 피해에 대한 저항을 얻을 수 있습니다. 이 저항은 당신이 이 특성을 이용해 다른 종류의 피해를 선택할 때까지 유지됩니다. 마법 무기나 은제 무기로 가해지는 피해는 이 저항을 무시할 수 있습니다.</p>",
       "requirements": "악마 10",
       "source": "PHB 88p"
@@ -446,7 +446,7 @@
     },
     "Fighting Style: Protection": {
       "name": "전투 유파: 보호술",
-      "description": "<p>당신이 볼 수 있는 크리처가 당신 주변 5ft 이내의 다른 크리처를 목표로 공격을 가할 때, 당신은 반응행동을 사용해 그 명중 굴림에 불리점을 가할 수 있습니다. 이 특성을 사용하려면 방패를 장비하고 있어야 합니다.</p>",
+      "description": "<p>당신이 볼 수 있는 크리처가 당신 주변 5ft 이내의 다른 크리처를 목표로 공격을 가할 때, 당신은 반응행동을 사용해 그 명중 굴림에 불리함을 가할 수 있습니다. 이 특성을 사용하려면 방패를 장비하고 있어야 합니다.</p>",
       "requirements": "파이터 1, 팔라딘 2",
       "source": "PHB 109, 115p"
     },
@@ -876,7 +876,7 @@
     },
     "Metamagic: Heightened Spell": {
       "name": "마법변형: 주문 상승화",
-      "description": "<p>당신은 내성 굴림으로 효과에 저항할 수 있는 주문을 시전할 때, 술법 점수 3점을 소비해 주문의 목표 중 하나를 선택합니다. 이 목표는 주문에 대한 첫 번째 내성 굴림에 불리점을 받습니다.</p>",
+      "description": "<p>당신은 내성 굴림으로 효과에 저항할 수 있는 주문을 시전할 때, 술법 점수 3점을 소비해 주문의 목표 중 하나를 선택합니다. 이 목표는 주문에 대한 첫 번째 내성 굴림에 불리함을 받습니다.</p>",
       "requirements": "소서러 3",
       "source": "PHB 81p"
     },
@@ -1140,7 +1140,7 @@
     },
     "Second-Story Work": {
       "name": "성큼뛰기",
-      "description": "<p>당신이 로그 3레벨에 이 아키타입을 선택하면, 평소보다 더 빠르게 등반할 수 있는 능력을 얻게 됩니다. 당신은 등반시 추가로 이동력을 소모하지 않습니다.</p>\n<p>또한, 당신이 도움닫기를 한 후 도약할 때, 당신의 멀리뛰기 거리는 당신의 민첩수정치 +1당 1ft만큼 증가합니다.</p>",
+      "description": "<p>당신이 로그 3레벨에 이 아키타입을 선택하면, 평소보다 더 빠르게 등반할 수 있는 능력을 얻게 됩니다. 당신은 등반 시 추가로 이동력을 소모하지 않습니다.</p>\n<p>또한, 당신이 도움닫기를 한 후 도약할 때, 당신의 멀리뛰기 거리는 당신의 민첩수정치 +1당 1ft만큼 증가합니다.</p>",
       "requirements": "시프 3",
       "source": "PHB 60p"
     },
@@ -1170,7 +1170,7 @@
     },
     "Sneak Attack": {
       "name": "암습 공격",
-      "description": "<p>당신은 로그 1레벨 때부터 적의 빈틈을 찔러 교묘한 일격을 가하는 방법을 익혔습니다. 턴마다 한 번, 당신은 유리함을 받은 채로 명중 굴림을 굴려 명중시킨 공격의 피해에 추가로 1d6점을 더할 수 있습니다. 이 공격은 교묘함 속성을 지닌 무기나 장거리 무기로 가한 것이어야 합니다. 또한 목표 주변 5ft 내에 당신 외에도 목표가 적대하는 다른 크리처가 있는 경우라면, 명중 굴림에 유리함이 없이도 추가 피해를 가할 수 있습니다. 단, 당신의 명중 굴림에 불리점이 없어야 하며, 목표 주변의 다른 크리처는 행동불능 상태가 아니어야 합니다.</p>\n<p>추가 피해의 양은 로그 레벨이 올라갈수록 커집니다. 로그 표의 암습 공격 항목을 참조하십시오.</p>",
+      "description": "<p>당신은 로그 1레벨 때부터 적의 빈틈을 찔러 교묘한 일격을 가하는 방법을 익혔습니다. 턴마다 한 번, 당신은 유리함을 받은 채로 명중 굴림을 굴려 명중시킨 공격의 피해에 추가로 1d6점을 더할 수 있습니다. 이 공격은 교묘함 속성을 지닌 무기나 장거리 무기로 가한 것이어야 합니다. 또한 목표 주변 5ft 내에 당신 외에도 목표가 적대하는 다른 크리처가 있는 경우라면, 명중 굴림에 유리함이 없이도 추가 피해를 가할 수 있습니다. 단, 당신의 명중 굴림에 불리함이 없어야 하며, 목표 주변의 다른 크리처는 행동불능 상태가 아니어야 합니다.</p>\n<p>추가 피해의 양은 로그 레벨이 올라갈수록 커집니다. 로그 표의 암습 공격 항목을 참조하십시오.</p>",
       "requirements": "로그 1",
       "source": "PHB 59p"
     },
