@@ -3,77 +3,99 @@
   "entries": {
     "Aboleth": {
       "name": "아볼레스",
-      "description": "<p>아볼레스는 지하 호수나 깊은 바다의 바위가 많은 곳을 은신처로 삼는데, 종종 그 주위를 고대의 몰락한 아볼레스 도시 유적이 둘러싸고 있기도 합니다. 아볼레스는 존재의 대부분을 물속에서 보내지만, 때때로 방문객이나 이성을 잃은 숭배자들을 맞이하기 위해 물밖으로 올라옵니다.</p>"
+      "description": "<p>아볼레스는 지하 호수나 바위로 가득한 심해를 본거지로 삼는데, 본거지 주변에는 종종 몰락한 고대 아볼레스 도시의 유적이 에워싸고 있기도 합니다. 아볼레스는 대부분의 시간을 수중에서 보내지만, 때때로 방문자나 미친 숭배자들을 맞이하기 위해 수면 위로 올라오기도 합니다.</p>"
     },
     "Acolyte": {
       "name": "수행사제",
-      "description": "<blockquote>\n<p>솔라리움의 기둥은 반짝이고, 아트리움 주위를 향 냄새가 감돈다. 환상적인 금 세공을 두른 기둥은 태양신의 온기에 흠뻑 젖는다. 돔 형태로 깎은 천장에 난 한 구멍에서 햇빛이 마치 폭포처럼 쏟아져 내려와 밝은 빛무리로 우리를 질식시키려는 듯이 떨어진다. 내 스승은 부드러운 목소리를 가지고 희끗한 머리칼이 벗겨진 정수리를 둘러싼, 중년의 사제이다. 나는 내 스승으로부터 걸어나와 조금 떨어진 곳에 있는, 그늘진 벽감 안의 석상에 다가갔다. 그 석상은 우리의 신을 사람의 모습으로 묘사한 것이다. 그것은 엄숙하게 서있는 자세로, 정돈되지 않은 머리칼은 가슴까지 오는 수염과 비슷한 위치까지 길게 자라있으며, 완고한 얼굴의 태양이 꼭대기에 장식된 지팡이를 손에 쥐고 있는 한 노인의 모습이었다. 나는 아직 14살이지만, 그 석상 앞에 무릎을 꿇고 곧바로 기도하기 시작했다. 수행사제 훈련을 받는 앞으로의 6년은 오직 축복 뿐이라는 것을 알고 있었다.<br /><em>“The Gleaming Star”, by Bishop Bernard Portis.</em></p>\n</blockquote>\n<p> 수행사제는 특정 신이나 여신을 헌신적인 추종자들 중 자신이 선택한 신을 더 잘 섬기기 위해 성직자의 길을 걷기로 결심한 사람들을 말합니다. 보통 10대를 넘지 않으며 (그러나 어떤 수행사제들은 10대보대 늦게 시작하게도 합니다), 신의 교리로 정해진 규율에 따라 수년간 훈련받습니다. (보통 3~10년 정도) 그 시간 동안 그들의 신과 가르침에 대한 모든 기록 자료를 암기하고 공부하며, 신에게서 부여받은 마법 (치유 혹은 피해)을 배우고, 종종 도움이 필요한 사람에게 도움을 베풀거나 그들의 여신이나 신의 말씀을 전파하기도 합니다. 그러나 모든 수행사제가 완벽한 사제의 수준까지 올라설 수 있는 것은 아닙니다. 많은 수행사제들은 교회에 매우 헌신적이며, 평생을 수행사제로 남아 신전의 벽 밖에 있는 평신도 공동체 가까이서 함께 일합니다.</p>\n<p>수행사제들은 그들이 선택한 신의, 신비로운 방식을 통해 수행한다는 것에 주의하세요. 이 경우, 수행사제들은 신전의 팔라딘 계층보다 거의 충분한 신체 단련을 받지 못한다는 것을 의미합니다. (만약 신의 가르침 외의 것에 특별히 관심을 기울이지 않는다면 말입니다) 이 경우, 수행사제는 그들 자신과 동료를 지키기 위해, 혹은 다친 파티를 도우려 수호신을 부르기 위해 몇가지 간단한 신성 마법을 시전할 수 있습니다. 보통 반짝이는 금빛 불꽃과 눈부시게 선명한 빛줄기가 쏟아지는 것처럼 방출되는 신의 마법은, 그 기본 성질부터 정말로 특별한 것입니다. Cure Wounds, Sacred Flame, Sanctuary와 같은 주문은 성직 공부 초기부터 수행사제라면 모두가 연습하는 것입니다. 신의 가호가 필요할 때나 부상당한 동료를 치료해줄 야전치유사가 필요할 때 수행사제들은 손쉬운 동맹이 될 수 있습니다. 그러나 수행사제를 다룰 때 주의해야할 점은, 노예상 놀(slavering gnoll) 무리와 근접 전투를 해야할 때에는 주문이 쉽게 방해받을 수 있다는 점입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "description": "<blockquote>\n<p>심방에는 향 내음이 맴돌고, 아름다운 금줄 세공으로 장식되어 반짝거리는 솔라리움의 기둥은 태양신의 빛이 베푸는 온기에 흠뻑 젖어 있었다.\n마치 눈부신 광환 속에 우리 모두를 익사시켜 버리려는 폭포수처럼, 사원의 돔형 천장을 깎아낸 둥근 구멍 하나로부터 햇빛이 쏟아져 내려왔다.\n나는 부드러운 목소리를 지녔으며 벗겨진 머리 주변에 잿빛으로 희끗거리는 머리카락이 고리처럼 둘러싼 중년의 사제인 내 스승님으로부터 떨어져, 그늘진 벽감 속에 세워진 조각상에 다가갔다.\n이 조각상은 인간형 종족의 모습을 취한 우리 주님, 정돈되지 않은 머리카락을 가슴 길이까지 오는 수염만큼이나 길게 늘어뜨리고 근엄한 표정의 태양이 윗부분에 달린 지팡이를 움켜쥐고 부동자세로 엄숙하게 선 그분을 묘사한 것이다.\n아직 열네 살에 불과한 나는 주님의 조각상 앞에 무릎을 꿇고 곧바로 기도하기 시작했다.\n앞으로 펼쳐진 6년간의 수행사제 훈련 기간은 오직 축복뿐이라는 사실을, 나는 알고 있었다.\n<br /><em>“The Gleaming Star”, 저자: Bishop Bernard Portis.</em></p>\n</blockquote>\n<p>수행사제는 특정한 신의 헌신적인 신자로, 자신이 선택한 신을 더 잘 모시기 위해 성직에 몸을 담기로 결정한 사람들입니다.\n보통 십대를 넘어가지 않는(그러나 일부 수행사제는 그보다 늦은 나이에 시작하기도 함) 수행사제는 자신이 모시는 신의 교리의 제한에 따라 몇 년(보통 3~10년) 동안 수련을 하게 됩니다.\n수련 기간에 수행사제는 신과 그 가르침에 대한 모든 기록된 자료를 암기하고 공부하며, 자신이 섬기는 신이 선사한 마법(치유나 피해)을 학습하며, 종종 공동체 바깥으로 나가 도움이 필요한 사람에게 도움을 베풀거나 신의 전언을 전도하기도 합니다.\n모든 수행사제가 완전한 자격을 갖춘 사제가 될 수 있는 것은 아니지만, 많은 수행사제는 계속하여 신전에 깊이 헌신하며 평생 수행사제로 남아 성전 외부의 평신도 공동체와 긴밀하게 협력합니다.</p>\n<p>수행사제는 자신이 선택한 신에 따라 마법적인 수련을 한다는 점에 유의하십시오.\n따라서 (신의 교리에 따라 명시되어 있지 않은 한) 수행사제들이 사원의 팔라딘 계급에 대비하여 충분한 무술 훈련을 받는 일은 드뭅니다.\n그러므로 수행사제는 자신과 아군을 방어하기 위해 기초적인 신성 마법을 시전하거나, 다친 일행을 보조하기 위해 섬기는 신에게 도움을 청할 수 있습니다.\n일반적으로 반짝이는 금빛 불꽃이 유성우처럼 쏟아지고 휘황찬란하고 강렬한 빛을 뿜어내는 신성 마법은 그 기본 성질부터가 정말로 특별한 것입니다.\n수행사제들은 신학을 연구하는 초기에 상처 치료, 신성한 불길, 성역화 등의 주문을 연습합니다.\n다친 동포를 치료해줄 위생병이나 신성한 보호가 필요한 경우, 수행사제는 유용한 아군이 될 수 있습니다.\n그러나 수행사제의 주문은 침 흘리는 놀 무리와 근접전을 벌여야만 할 상황이 오면 쉽게 방해받을 수 있으니, 수행사제를 안전하게 보호하세요.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Adult Black Dragon": {
-      "name": "블랙 드래곤 성체"
+      "name": "블랙 드래곤 성체",
+      "description": ""
     },
     "Adult Blue Dragon": {
-      "name": "블루 드래곤 성체"
+      "name": "블루 드래곤 성체",
+      "description": ""
     },
     "Adult Brass Dragon": {
-      "name": "브라스 드래곤 성체"
+      "name": "브라스 드래곤 성체",
+      "description": ""
     },
     "Adult Bronze Dragon": {
-      "name": "브론즈 드래곤 성체"
+      "name": "브론즈 드래곤 성체",
+      "description": ""
     },
     "Adult Copper Dragon": {
-      "name": "카퍼 드래곤 성체"
+      "name": "카퍼 드래곤 성체",
+      "description": ""
     },
     "Adult Gold Dragon": {
-      "name": "골드 드래곤 성체"
+      "name": "골드 드래곤 성체",
+      "description": ""
     },
     "Adult Green Dragon": {
-      "name": "그린 드래곤 성체"
+      "name": "그린 드래곤 성체",
+      "description": ""
     },
     "Adult Red Dragon": {
-      "name": "레드 드래곤 성체"
+      "name": "레드 드래곤 성체",
+      "description": ""
     },
     "Adult Silver Dragon": {
-      "name": "실버 드래곤 성체"
+      "name": "실버 드래곤 성체",
+      "description": ""
     },
     "Adult White Dragon": {
-      "name": "화이트 드래곤 성체"
+      "name": "화이트 드래곤 성체",
+      "description": ""
     },
     "Air Elemental": {
-      "name": "에어 엘리멘탈"
+      "name": "에어 엘리멘탈",
+      "description": ""
     },
     "Ancient Black Dragon": {
-      "name": "고대 블랙 드래곤"
+      "name": "블랙 드래곤 원시체",
+      "description": ""
     },
     "Ancient Blue Dragon": {
-      "name": "고대 블랙 드래곤"
+      "name": "블루 드래곤 원시체",
+      "description": ""
     },
     "Ancient Brass Dragon": {
-      "name": "고대 브라스 드래곤"
+      "name": "브라스 드래곤 원시체",
+      "description": ""
     },
     "Ancient Bronze Dragon": {
-      "name": "고대 브론즈 드래곤"
+      "name": "브론즈 드래곤 원시체",
+      "description": ""
     },
     "Ancient Copper Dragon": {
-      "name": "고대 카퍼 드래곤"
+      "name": "카퍼 드래곤 원시체",
+      "description": ""
     },
     "Ancient Gold Dragon": {
-      "name": "고대 골드 드래곤"
+      "name": "골드 드래곤 원시체",
+      "description": ""
     },
     "Ancient Green Dragon": {
-      "name": "고대 그린 드래곤"
+      "name": "그린 드래곤 원시체",
+      "description": ""
     },
     "Ancient Red Dragon": {
-      "name": "고대 레드 드래곤"
+      "name": "레드 드래곤 원시체",
+      "description": ""
     },
     "Ancient Silver Dragon": {
-      "name": "고대 실버 드래곤"
+      "name": "실버 드래곤 원시체",
+      "description": ""
     },
     "Ancient White Dragon": {
-      "name": "고대 화이트 드래곤"
+      "name": "화이트 드래곤 원시체",
+      "description": ""
     },
     "Androsphinx": {
-      "name": "안드로스핑크스"
+      "name": "안드로스핑크스",
+      "description": ""
     },
     "Animated Armor": {
       "name": "움직이는 갑옷",
@@ -93,10 +115,11 @@
     },
     "Assassin": {
       "name": "암살자",
-      "description": "<p><strong>암살자들</strong>은 독을 사용하는 법을 훈련했으며, 귀족, 길드장, 군주 등을 비롯해 그들에게 대가를 지불할 수 있는 모든 사람을 위해 일하는 무자비한 살인마입니다.</p>"
+      "description": "<p><strong>암살자</strong>는 독을 사용하는 법을 훈련했으며, 귀족, 길드장, 군주 등을 비롯해 그들에게 대가를 지불할 수 있는 모든 사람을 위해 일하는 무자비한 살인마입니다.</p>"
     },
     "Avatar of Death": {
-      "name": "죽음의 화신"
+      "name": "죽음의 화신",
+      "description": ""
     },
     "Awakened Shrub": {
       "name": "각성한 관목",
@@ -108,7 +131,7 @@
     },
     "Axe Beak": {
       "name": "도끼부리새",
-			"description": "<p>도끼부리새는 커다랗고 공격적인 조류입니다. 이 새는 장난쳐서는 안될 동물로 익히 알려져 있을 정도로 악명이 깊습니다. 도끼부리새는 초원에서부터 시작해 빽빽하고 더운 밀림에까지 서식하며, 크기나 외모 면에서 볼 때 날지 못하는 새인 에뮤를 닮았습니다. 도끼부리새는 동그랗고 통통한 몸체를 가졌으며, 빠른 속도로 달리거나 걷어찰 수 있는 굳센 두 다리가 몸통에서 뻗어나와 있습니다. 길고 우아한 목이 몸에서 자라나와 있으며 그 끝에는 깃털없는 머리가 달려있습니다. 머리끝에는 날카로운 쐐기 모양의 부리가 달려입니다. 손도끼를 연상시키는 이 부리 덕분에 이 크리처는 도끼부리새라는 무시무시한 이름이 붙었습니다.</p>\n<p><strong>질문있도끼부리새.(Let Me Axe You a Question)</strong> 도끼부리새는 꽤나 오랜 시간 동안 연구되어 왔으며, 생물학자들은 날지 못하는 이 새의 수천년간의 발자취를 추적하고 있습니다. 도끼부리새는 고대종으로서 지금까지 거의 변화하지 않은 종으로도 알려져 있지만, 그뿐만이 아닙니다. 도끼부리새의 가장 유명한 점은 (부리를 제외하면) 그 성질머리입니다. 도끼부리새는 극도의 영역 동물이며, 영역에 들어온 침입자들이 공격을 그만둘 때까지 끈질기게 쫓아가서 공격하는 것으로 알려져 있습니다. 놀랍게도, 몇몇 도끼부리새들은 인간형 종족들과의 엄격하고 지속적인 상호작용을 통해 길들여지기도 합니다. 이 짐승은 탑승 동물의 역할을 하기도 하며, 다 자란 오크 전사를 보조할 수 있을 정도로 힘이 셉니다. 전투 중에 불운하게도 이 새 앞을 지나간다면, 도끼부리새는 가엾은 적들을 향해 강력한 목을 휘둘러, 포물선을 그리며 그 뾰족한 부리를 꽂아넣을 것입니다. 만약 (사지를 가르고 플레이트 아머를 꿰뚫는) 그 부리로도 충분하지 않았다면 발톱이 난, 힘센 발로 강력한 발차기를 날릴 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "description": "<p>도끼부리새는 커다랗고 공격적인 조류입니다. 이 새는 장난쳐서는 안될 동물로 익히 알려져 있을 정도로 악명이 깊습니다. 도끼부리새는 초원에서부터 시작해 빽빽하고 더운 밀림에까지 서식하며, 크기나 외모 면에서 볼 때 날지 못하는 새인 에뮤를 닮았습니다. 도끼부리새는 동그랗고 통통한 몸체를 가졌으며, 빠른 속도로 달리거나 걷어찰 수 있는 굳센 두 다리가 몸통에서 뻗어나와 있습니다. 길고 우아한 목이 몸에서 자라나와 있으며 그 끝에는 깃털없는 머리가 달려있습니다. 머리끝에는 날카로운 쐐기 모양의 부리가 달려입니다. 손도끼를 연상시키는 이 부리 덕분에 이 크리처는 도끼부리새라는 무시무시한 이름이 붙었습니다.</p>\n<p><strong>질문있도끼부리새.(Let Me Axe You a Question)</strong> 도끼부리새는 꽤나 오랜 시간 동안 연구되어 왔으며, 생물학자들은 날지 못하는 이 새의 수천년간의 발자취를 추적하고 있습니다. 도끼부리새는 고대종으로서 지금까지 거의 변화하지 않은 종으로도 알려져 있지만, 그뿐만이 아닙니다. 도끼부리새의 가장 유명한 점은 (부리를 제외하면) 그 성질머리입니다. 도끼부리새는 극도의 영역 동물이며, 영역에 들어온 침입자들이 공격을 그만둘 때까지 끈질기게 쫓아가서 공격하는 것으로 알려져 있습니다. 놀랍게도, 몇몇 도끼부리새들은 인간형 종족들과의 엄격하고 지속적인 상호작용을 통해 길들여지기도 합니다. 이 짐승은 탑승 동물의 역할을 하기도 하며, 다 자란 오크 전사를 보조할 수 있을 정도로 힘이 셉니다. 전투 중에 불운하게도 이 새 앞을 지나간다면, 도끼부리새는 가엾은 적들을 향해 강력한 목을 휘둘러, 포물선을 그리며 그 뾰족한 부리를 꽂아넣을 것입니다. 만약 (사지를 가르고 플레이트 아머를 꿰뚫는) 그 부리로도 충분하지 않았다면 발톱이 난, 힘센 발로 강력한 발차기를 날릴 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Azer": {
       "name": "에이저",
@@ -120,75 +143,83 @@
     },
     "Badger": {
       "name": "오소리",
-      "description": "<blockquote>\n<p>Strolling through the forest one spring morning I did find myself brought down to the earth by a most unusual hole gaping wide in the forest floor. Thinking myself a rather clever sleuth in finding some ill-witted bandit's secret treasures, I did quickly reach my hand within the tunnel only to be greeted by something oddly fuzzy and a most severe pain to boot! Let my incident (and missing finger) with the woodland badger be warning to those lacking in wisdom; do not reach into places where your hand does not belong!</p>\n</blockquote>\n<p>- Merchant Lord Ellemond Doughty.</p>\n<p>The common forest dwelling badger is a creature of ingenuity and sheer determination. This creature, resembling a most rotund and powerful weasel, busies itself upon the forest floor catching its prey of insects and small mammals all the while toiling away at creating itself a sett, or more commonly called, a burrow. The badger's coat is decked in marvelous black and white stripes running the length of its body. With gentle eyes and an otherwise calm demeanor, the badger exudes an image of a more timid beast; however, this outer appearance should be observed with caution. Armed with thick, elongated claws made for churning through the toughest of soil and a set of powerful jaws to match, badgers are quick to defend themselves should a foolish soul harass them. As long as you do not agitate the badger, it will find no recourse to harm you.</p>\n<p><strong>Miraculous Mandibles.</strong> A badger's most intriguing feature is a set of peculiar jawbones with provide it with a spectacular method of defense. The animal's jaws are set into long cavities within its skull allowing the badger to lock its jaws in place thus increasing its already powerful bite strength and avoid the possibility of mandible dislocation. A truly remarkable evolutionary advantage in avoiding combat (rather than confronting its adversary) is the badger's natural odor. These creatures can release a powerful musk from scent glands located near their rears which can easily drive away predators. It is for these reasons that many forest dwelling cultures revere the badger as a guardian of the forest and attempt to utilize the badger's unique abilities in their own bid for survival in the wilds of our world.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "description": "<blockquote>\n<p>어느 봄날 아침, 나는 숲을 따라 산책하다가 숲 바닥에 커다랗게 뚫려 있는 매우 부자연스러운 구멍을 따라 땅바닥으로 몸을 낮추었다. 나는 내가 어느 멍청한 도적이 숨겨둔 보물을 찾아낸 똑똑한 탐정이라고 생각하면서 빠르게 터널 안으로 손을 뻗었지만, 내 손에서는 이상할 정도로 보송보송한 감촉만 느껴지더니 이윽고 엄청나게 심한 고통이 찾아왔다! 어리석은 사람들은 숲의 오소리를 만나 내가 당한 사고(와 사라진 손가락)을 반면교사 삼아, 그대의 손이 속해 있지 않은 장소에는 손을 넣지 마시게나!</p>\n</blockquote>\n<p>- 상인왕 엘레몬드 다우티.</p>\n<p>평범한 숲에 사는 오소리는 재주가 뛰어나고 순수한 투지로 가득한 생물입니다. 퉁퉁하고 강인한 족제비를 닮은 이 생물은 숲 바닥을 따라 벌레와 작은 포유류를 잡아먹으면서 굴을 파는 데 열중하곤 합니다. 오소리의 털가죽은 몸 전체에 난 기묘한 검은색과 하얀색 줄무늬로 장식되어 있습니다. 부드러운 눈빛과 차분한 태도 탓에, 오소리는 겁 많은 짐승 같은 분위기를 풍깁니다. 하지만 이런 외관은 유의해서 관찰해야만 합니다. 가장 단단한 흙이라도 휘저을 수 있는 두껍고 길쭉한 발톱과 여기에 어울리는 강력한 턱으로 무장한 오소리는 어리석은 이들이 괴롭히려고 들면 재빨리 스스로를 방어합니다. 오소리를 위협하지만 않는다면, 오소리 역시 해를 끼치지 않을 것입니다.</p>\n<p><strong>경이로운 아래턱.</strong> 오소리에게 가장 두드러지는 특징은 훌륭한 방어 수단을 제공하는 일련의 기묘한 턱뼈입니다. 이 짐승의 아랫턱은 두개골 내의 긴 구멍을 따라 나 있어 오소리가 턱을 고정할 수 있으므로, 안 그래도 강한 치악력이 더 배가되며 하악골이 탈구되는 일 역시 방지됩니다. (적과 맞서는 대신) 전투를 피할 때 진정으로 놀라운 진화적 이점은 오소리의 타고난 악취입니다. 이 크리처는 엉덩이 부근에 있는 냄새샘으로부터 강렬한 사향을 내뿜어 포식자를 쉽게 쫓아 버릴 수 있습니다. 이러한 이유로 숲에 기반을 둔 많은 문화권에서는 오소리를 숲의 수호자로 존경하고, 야생에서 생존을 위해 오소리의 독특한 능력을 활용하려고 시도합니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Balor": {
-      "name": "발러"
+      "name": "발러",
+      "description": ""
     },
     "Bandit": {
-      "name": "도둑",
-      "description": "<p>Bandits of our humble world come in a variety of shapes and sizes; be they a halfling pickpocket or the swarthy Dragonborn sea-captain plundering unfortunate vessels. Here we will view the commonalities of what would be considered the “bandit” class of criminal. Be advised while reviewing this information that not all bandits should be viewed with a scornful eye. While many seek harm or riches from their quarry, others thieve to survive in a world most unfair.</p>\n<p><strong>The Good.</strong> We begin with those bandits who could be seen as “noble criminals”. These bandits consist of the most downtrodden of our nations, those citizens who have struggled through poverty and oppression to scrape out a meager existence clinging to any comfort they can grasp. Consider what would drive a person to commit something so desperate as robbery or open theft in a village street. Bandits of a nobler sort may still be selfish with their earnings, taking what they have stolen to enrich their own lives or those of immediate relations. There are some bandits, however, who seek to use their pilfered goods to improve the lives of the poorer community. Be aware that often these bandits are desperate and afraid, especially during the act of robbery. They are scared, driven to crime by poor circumstances, so they may not require violence to disperse as more often than not they will not physically harm their victims. Keep an open mind as you travel through the world young adventurer and remember that were the tables turned, you may wish for mercy for such a minor infraction.</p>\n<p><strong>The Bad and Ugly.</strong> For every good-hearted soul stealing from those with too much and giving to the unfortunate, there is a truly villainous spirit lurking behind the brush of a nearby road, lying in wait for an unsuspecting victim. During your travels, adventurer, these sorts may be the most common instances of banditry you will experience. Armed with swords, clubs, and bows, the more nefarious of the bandit world prefer to ambush their prey from the shadows of hills and trees, catching traveling parties unaware. These treacherous thieves will attempt diversion and trickery in order to catch their quarry off guard should their crew be outnumbered. Bandits have no boundaries of borders or locale, so caution should be taken whether you walk upon a forested road or sail the high seas as you island hop for fame. Danger lurks in every corner of our world adventurer, be prepared and discerning should you encounter a party of brigands lest your career end well before your legend is written.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "name": "도적",
+      "description": "<p>세계 곳곳의 도적은 그 형태와 규모가 다양합니다. 하플링 소매치기에서부터 불운한 선박을 약탈하는 속이 시커먼 드래곤본 선장까지, 이들은 다양한 형태를 취하고 있습니다. 여기에서 “도적” 등급의 범죄자로 간주되는 존재들의 공통점을 알아보겠습니다. 이 정보를 검토하면서, 모든 도적을 경멸의 눈으로 봐야 하는 것은 아니라는 점에 유의하세요. 많은 도적이 목표에게 해를 입히거나 재물을 탐하지만, 어떤 도적은 불공평하기 그지없는 세계에서 살아남고자 도둑질을 합니다.</p>\n<p><strong>좋은 놈.</strong> “고결한 범죄자”로 간주할 수 있는 도적들부터 시작하겠습니다. 이런 도적들은 국민 중에서도 가장 짓밟혀 왔던 사람들, 자신이 손에 쥘 수 있는 일말의 위안이나마 필사적으로 긁어모으기 위해 가난과 압제에 시달리며 투쟁해 온 사람들입니다. 어떤 사람이 강도 행위를 저지르거나 마을 거리에서 공개적으로 도둑질을 했다면, 왜 이런 선택을 할 정도로 절박한 상황에 몰렸을지 그 이유를 생각해 보세요. 더 고결한 부류의 도적이라고 해도, 훔쳐낸 것으로 자기 자신이나 직계 가족의 삶을 풍요롭게 하는 등 자신이 약탈한 수익을 두고 이기적으로 굴 수 있습니다. 하지만 어떤 도적들은 자신들이 훔쳐낸 물건을 사용하여 더 가난한 주민들의 삶을 개선하려고 하기도 합니다. 이러한 도적들은 특히나 강도 행위를 저지를 때 자포자기하고 겁에 질려 있는 경우가 많다는 점에 유의하세요. 이들은 두려움에 질려 있고, 열악한 환경 탓에 범죄를 저지르게 되었으므로 피해자에게 신체적인 위해를 가하지 않는 경우가 더 많으므로 이들을 해산시키는 데에는 폭력이 필요하지 않을 수도 있습니다. 젊은 모험가들을 위해 조언하자면, 세계를 여행할 때 편견은 내려놓고 상황이 바뀌었다면 이렇게 작은 범죄 행위에 대해 자비를 바라는 것은 당신이었을 수도 있음을 기억하세요.</p>\n<p><strong>나쁜 놈, 이상한 놈.</strong> 마음씨 고운 자들은 지나치게 많이 가진 자들에게 빼앗아 불운한 자들에게 이를 주기도 하지만, 때때로 가까운 길가의 덤불 속에 숨어 이상한 낌새를 알아차리지 못한 희생자를 덮치려고 기다리는, 진짜 악한들도 존재하는 법입니다. 모험가들이 여행할 때 맞닥뜨리게 되는 강도 행위란 대개 이런 형태일 것입니다. 검, 몽둥이, 활로 무장한 더 부도덕한 도적들은 언덕과 나무 그늘 속에 숨어 목표를 습격할 순간을 기다리며, 눈치채지 못한 여행자 일행을 붙잡곤 합니다. 이 위험한 도둑들은 자신들의 수가 더 적을 때는 일행을 갈라 속임수를 써서 목표가 방심하도록 유도할 것입니다. 도적에게는 국경이나 지역의 경계가 없으므로, 숲이 우거진 길을 걷고 있든, 명성을 얻기 위해 섬에서 섬을 오가며 외해로 항해할 때든 조심해야 합니다. 세계 곳곳에는 위험이 도사리고 있으니, 모험가들은 도적단과 마주치더라도 미리 대비하고 분별력 있게 행동하여 자신의 행적이 전설로 기록되기 전에 먼저 모험이 끝장나 버리는 일이 없도록 주의해야 합니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Bandit Captain": {
-      "name": "도둑 두목",
-      "description": "<p>도둑 무리를 통제하려면 강렬한 성품과 무자비한 교활함, 그리고 교묘한 말솜씨가 있어야 합니다. 도둑 두목은 이런 자질을 대단히 많이 갖고 있습니다. </p>\n<p>해적 두목은 도둑 두목이 변화한 형태로, 이기적인 불평분자들로 이루어진 승조원을 통솔할 뿐만 아니라 배를 보호하고 지시를 내립니다. 승조원을 하나로 통제하기 위해 두목은 정해진 규율을 통해 보상이나 벌을 내려야 합니다.</p>\n<p>도적 두목이나 해적 두목은 보물보다도 악명을 더 갈망합니다. 두목의 허영심이나 자만심에 호소하는 죄수는 두목의 화려한 명성을 모르거나 모른다고 주장하는 죄수보다 더 좋은 대접을 받을 가능성이 높습니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "name": "도적 두목",
+      "description": "<p>도적 무리를 일사불란하게 통제하려면, 강렬한 성품과 무자비한 교활함, 그리고 뛰어난 언변이 있어야 합니다.\n도적 두목은 이런 자질을 대단히 많이 갖고 있습니다.</p>\n<p>해적 선장은 도적 두목이 변형된 형태로, 이기적인 불평분자들로 이루어진 승조원을 통솔할 뿐만 아니라 배를 보호하고 지시를 내려야 합니다.\n승무원을 일사불란하게 통제하기 위해 선장은 정해진 규율을 통해 보상이나 벌을 내려야 합니다.</p>\n<p>도적 두목이나 해적 선장은 보물보다 악명을 더 갈망합니다.\n두목이나 선장의 허영심이나 자부심에 호소하는 죄수는 화려한 명성을 모르거나, 모른다고 주장하는 죄수보다 더 좋은 대접을 받을 가능성이 높습니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Barbed Devil": {
-      "name": "바브드 데빌"
+      "name": "바브드 데빌",
+      "description": ""
     },
     "Basilisk": {
-      "name": "바실리스크"
+      "name": "바실리스크",
+      "description": ""
     },
     "Bat": {
       "name": "박쥐",
-      "description": "<p>Bats are a common fixture within the secluded forests and lightless caverns of our world. Bats are a nocturnal creature prized by arcanists for their ability to navigate terrain in near total darkness. This alone makes them a prized choice for a summoned familiar. Varying from the size of a mouse to that of a house cat, bats have a unique feature amongst mammals: the gift of flight! Stretched thin between needle-thin boney “hands” are fleshy membranes which span out wide from the bat's delicate body, allowing the bats to take to the skies in search of insects and woodland fruits to indulge upon.</p>\n<p><strong>Chitter Chatter.</strong> Presumed blind by many from nonsense tales told to children, bats have eyesight nearly akin to our own, though notably less sharp. What makes these creatures truly unique is their ability to navigate in the pitch black of night. The bats utilize a series of chirps and screeches researchers have dubbed “echolocation” to pinpoint objects or prey within their flightpath. The echolocation chirps emitted by the bats bounce back towards the tiny creature's proportionally massive ears, allowing the bats to make split second corrections to their navigation without the aid of their eyes. It should be again noted that the bat makes a clever familiar choice, as they may navigate those places too dim and dangerous for our mortal eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "description": "<p>박쥐는 세계 곳곳의 외딴 숲과 빛이 들지 않는 동굴에서 흔히 볼 수 있는 동물입니다. 박쥐는 거의 완전한 어둠 속에서 지형을 탐색하는 능력 때문에 비전술사들이 높이 평가하는 야행성 크리처입니다. 이 능력만으로도, 박쥐는 패밀리어로 소환할 가치가 있는 선택지가 되었습니다. 쥐만 한 크기부터 집고양이만 한 크기까지 크기가 다양한 박쥐는 포유류에게는 드문 특성, 즉 날 수 있는 재주를 보유하고 있습니다. 바늘처럼 가늘고 뼈가 앙상한 “손” 사이에 가늘게 뻗어 있는 두껍고 부드러운 막이 박쥐의 섬세한 몸에 넓게 펼쳐져 있으므로, 박쥐는 마음껏 먹을 수 있는 숲의 과일과 곤충을 찾아 하늘로 날아갈 수 있습니다.</p>\n<p><strong>수다쟁이.</strong> 아이들에게 들려주곤 하는 터무니없는 이야기 속에서는 박쥐가 눈이 멀었다고 추정하지만, 박쥐는 명백히 덜 예리하긴 해도 우리와 별반 다르지 않은 시력을 가지고 있습니다. 이 크리처를 진정으로 특별하게 하는 점은 칠흑처럼 검은 밤의 어둠 속에서 길을 찾는 능력입니다. 박쥐는 연구자들이 “반향정위”라고 부르는 일련의 지저귐과 울음소리를 활용하여 비행경로에 있는 물체나 사냥감을 정확히 찾아냅니다. 박쥐가 낸 반향정위 울음소리가 반사되어 이 작은 크리처의 상대적으로 거대한 귓속에 들어오므로, 박쥐는 시각에 의존하지 않아도 순식간에 이동 방향을 바꿀 수 있습니다. 재차 강조하자면 박쥐는 인간의 눈에는 너무 어둡고 위험한 장소에서도 길을 찾을 수 있으므로, 패밀리어로 고를 수 있는 현명한 선택지입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Bearded Devil": {
       "name": "비어드 데빌",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Behir": {
-      "name": "베히어"
+      "name": "베히어",
+      "description": ""
     },
     "Berserker": {
       "name": "광전사",
-      "description": "<p>문명화되지 않은 땅에서 고함치는, 예측불가의 광전사들은 전쟁 집단으로 결집해 어디서든 호시탐탐 갈등이 벌어지는 곳을 찾아다닙니다.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "description": "<p>문명화되지 않은 땅에서 고함치는, 예측할 수 없는 광전사들은 전투 집단으로 결집하여 어디서든 호시탐탐 갈등이 벌어지는 곳을 찾아다닙니다.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Black Bear": {
       "name": "검은곰",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Black Dragon Wyrmling": {
-      "name": "블랙 드래곤 워믈링",
+      "name": "블랙 드래곤 유생체",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Black Pudding": {
-      "name": "블랙 푸딩"
+      "name": "블랙 푸딩",
+      "description": ""
     },
     "Blink Dog": {
-      "name": "블링크 독",
-      "description": "<p> </p>\n<blockquote>\n<p>Bathing your very own Blink Dog comes with a set of challenges all its own.  Often it is simply better to let the beast care for its own hygiene (circumstances allowing) as your precious pooch will likely blink off to the nearest mud puddle as soon as you've finished cleaning them. <br /><em>Caring for your Blink Dog, pg. 46.</em></p>\n</blockquote>\n<p>Blink Dogs are a notable curiosity amongst the common canine species.  On the outside, the hound appears to be quite similar to many a hunting mutt: a tannish, yellow complexion of the fur, average in size (standing anywhere from two and a half to three feet in height) and no markings or traits rendering it particularly unique.  However, the secret of this dog lies within.  The Blink Dog possesses an uncanny ability to “blink” or teleport at will from location to location in a flash.  In a similar vein to the spells utilized by mages to transport themselves across distances in a flash, the Blink Dog tears through the fabric of our reality, vanishes instantaneously and appears up to forty feet away from its original location.  The Blink Dog is unable to carry living things along with it, however any equipment or objects the hound currently holds will be transported.  Blink Dogs have an above average intelligence in comparison to other canines and are able to speak their own language, called “Blink Dog”, to others of their kind.  What these discussions entail is a mystery, though it is speculated that often the packs of dogs will discuss their intense hatred for other ethereal quadrupeds as they are known to attack the beasts on sight.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "name": "점멸 개",
+      "description": "<p> </p>\n<blockquote>\n<p>직접 점멸 개를 목욕시키는 것은 그 자체로 일련의 도전입니다. 종종 당신의 소중한 강아지가 청소를 마치자마자 가장 가까운 진흙 웅덩이로 순간이동해 버릴 가능성이 높기 때문에, (상황이 허락하는 한) 이 야수가 스스로 청결을 유지하게끔 하는 것이 가장 좋습니다.\n<br /><em>당신의 점멸 개 돌보기, 46페이지.\n</em></p>\n</blockquote>\n<p>점멸 개는 일반적인 개과 동물 중에서도 주목할 만한 특이한 짐승입니다. 외관만 보았을 때, 이 개는 황갈색을 띤 노리끼리한 털결을 지니고 높이가 약 2.5~3ft에 달하는 평균적인 크기에 특이점이 있다고 볼 만한 흔적이 없으므로, 일견 대부분의 사냥개와 비슷해 보입니다. 하지만, 이 개의 진정한 비밀은 그 안에 내재되어 있습니다. 점멸 개는 원하는 대로 눈 깜빡할 사이에 한 장소에서 다른 장소로 “점멸”하거나 순간이동하는 기이한 능력이 있습니다. 마법사들이 순식간에 먼 거리를 이동하기 위해 사용하는 주문과 비슷한 맥락으로, 점멸 개는 현실의 구조를 찢어발겨 즉시 사라져 원래의 장소로부터 최대 40ft 이상 떨어진 장소에 나타납니다. 점멸 개가 살아있는 것을 운반하여 같이 이동할 수는 없으나, 개가 소지하고 있는 장비나 물건은 모두 함께 순간이동됩니다. 점멸 개는 다른 개과 동물과 비교했을 때 평균을 넘어선 지능을 보유하며, 다른 개과 동물에게 “점멸 개 언어”라고 하는 자신만의 언어로 말할 수 있습니다. 이들이 무슨 말을 하는지는 비밀에 싸여 있으나, 점멸 개는 또다른 에테리얼 네발 야수에게 달려드는 것으로 알려져 있으므로 아마도 이들에 대한 강력한 증오심을 토로하는 것이 아닐까 추측되고 있습니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Blood Hawk": {
       "name": "블러드 호크",
-      "description": "<p>The Blood Hawk is a variety of the common hawk species (detailed previously in this tome) which takes its name from the blood red color of its plumage as well as the bird's overly aggressive nature towards any other living creature. Blood hawks are fearsome little raptors, swooping down from the skies above like a crimson bolt to harry their quarry with vicious talons and a honed, dagger-sharp beak.</p>\n<p><strong>Fearless Flyers.</strong> Though almost unrecognizable in a grouping of fellow hawk species, the blood hawk eschews the solitary ways of its feathered brethren. Seemingly empty of aggression towards others of their kind, blood hawks swarm in large flocks who hunt with precision unison. Razor sharp talons easily slice through cloth and flesh to leave deep, weeping gashing in their prey. The blood hawks need only wait and watch with their keen little eyes after their initial barrage as the target will slowly bleed out into the dirt, the birds' talons having severed crucial arteries. It should always be a priority to the adventurer to check the plumage of a bird before straying too close. Take it from this traveler, red means you're dead!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "description": "<p>블러드 호크는 (이 책 앞부분에 서술된) 일반적인 매의 아종으로, 피처럼 붉은 깃털색 뿐만 아니라 살아 있는 다른 모든 생물에게 보여주는 이 새의 과도한 공격성 때문에 이런 이름이 붙여지게 되었습니다. 블러드 호크는 작지만 무시무시한 맹금류로, 높은 하늘에서 마치 핏빛 화살처럼 급강하하여 사나운 발톱과 단검처럼 날카로운 부리로 사냥감을 공격합니다.</p>\n<p><strong>겁 없는 비행사.</strong> 비슷한 매 무리와 거의 구별할 수 없으나, 블러드 호크는 다른 고독한 깃털 동료들과는 사뭇 다른 길을 택합니다. 동족에 대해서는 공격성이 없어 보이는 블러드 호크는 정밀하게 합심하여 사냥하는 거대한 무리로 움직입니다. 칼날처럼 날카로운 발톱은 먹잇감의 의복과 살갗을 쉽게 찢어내 깊고 진물이 흐르는 큰 상처를 남깁니다. 블러드 호크는 첫 공격으로 주요 동맥을 끊어낸 다음 표적이 천천히 흙으로 자신의 피를 흘리는 모습을 그 예리하고 작은 눈으로 지켜보고만 있으면 됩니다. 모험가들은 언제나 먼저 지나치게 가까이 다가가기 전에 새의 깃털 색을 확인해야 합니다. 여행자들이여, 반드시 명심하세요. 붉은색은 곧 죽음을 뜻합니다!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Blue Dragon Wyrmling": {
-      "name": "블루 드래곤 워믈링",
+      "name": "블루 드래곤 유생체",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Boar": {
       "name": "멧돼지",
-      "description": "<p>Boars are hardy, rotund beasts who inhabit the shrouded woodlands of our world, snuffling about for a root or mushroom to enjoy or upturning the foliage in search of a suitable trench to wallow in.  Resembling nothing more than an overgrown domesticated pig, a boar is anything but its breakfast-table-bound cousin.  Standing anywhere from 24 to 38 inches tall upon stocky legs, the hefty wild boar's most dangerous asset (its massive head) takes prominence, ending in a pair of deadly sharp tusks.  The head, which encompasses over a third of the boar's entire body length, is made up of a thick mass of bone and muscles which allows the boar to smash into objects and enemies while inflicting little harm upon itself.  Charging up to speeds of 25 miles per hour, the boar can use its charge to deadly effect as the creatures hardy skull and gouging tusks will make short work of most common defenses.  Should you be out on the hunt for a wild boar, it should be noted that the creatures are of a ruddy and substantial endurance, seemingly able to fight off death in order to gore its enemy one last time.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "description": "<p>멧돼지는 가려진 삼림 지대에 서식하는 강인하고 퉁퉁한 짐승으로, 뿌리식물이나 버섯을 찾기 위해 코를 킁킁거리거나 뒹굴기에 적합한 도랑을 찾아 잎사귀를 뒤집곤 합니다. 웃자란 집돼지를 닮았지만, 멧돼지는 아침 식사 식탁에 빠지지 않는 사촌과는 차원이 다릅니다. 멧돼지가 다부진 다리로 지탱하고 서면 24~38인치에 달하는 이 강인한 짐승의 가장 위험한 자산(그 거대한 머리)이 제일 먼저 두드러지고, 한 쌍의 위험하고 날카로운 엄니로 끝을 냅니다. 멧돼지의 몸 전체에서 3분의 1을 차지하는 머리는 두꺼운 뼈 덩어리와 근육으로 이루어져 있으므로 멧돼지는 자신은 거의 해를 입지 않으면서도 물체와 적을 부숴버릴 수 있습니다. 시간당 최대 25마일의 속도로 돌진하는 멧돼지는 단단한 두개골과 구멍을 뚫을 수 있는 엄니로 돌격하여 그 치명적인 효과로 평범한 방어막 대부분을 쉽게 해치워 버립니다. 멧돼지를 사냥하려고 한다면, 이 생물은 건강하고 상당한 지구력을 지니고 있으므로 마지막으로 한 번만 더 적을 들이받기 위해서라면 죽음과 맞서 싸울 수 있는 것처럼 보인다는 점을 유의하세요.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Bone Devil": {
-      "name": "본 데빌"
+      "name": "본 데빌",
+      "description": ""
     },
     "Brass Dragon Wyrmling": {
-      "name": "브라스 드래곤 워믈링"
+      "name": "브라스 드래곤 유생체",
+      "description": ""
     },
     "Bronze Dragon Wyrmling": {
-      "name": "브론즈 드래곤 워믈링"
+      "name": "브론즈 드래곤 유생체",
+      "description": ""
     },
     "Brown Bear": {
       "name": "갈색곰",
@@ -204,62 +235,75 @@
     },
     "Camel": {
       "name": "낙타",
-      "description": "<p>Camels are a unique species of even-toed ungulates who thrive within the deserts and arid climates of our planet. Known the world over for their large back humps (varying in number between one or two humps depending on species), camels have become an integral part of desert life due to their rugged albeit stubborn nature, nutritious meat and milk, and transportation utility. Camels have been domesticated for millennia. Highly sought after for their ability to survive within the harshest of deserts, the earliest records of camels in our world show them as domestic pack animals (much as they are utilized today) carrying heavy cargo across sandy expanses of inhospitable desert. The noble camel, however, may hold more secrets than its surface reveals.</p>\n<p><strong>Watch Out, They Spit.</strong> When asking a commoner about the camel's most unique feature they will undoubtedly tell you that it is the fleshy humps upon the camel's tall back. Commonly, these humps were thought to hold a reservoir of fresh water so the camel may survive the sandy dunes of its homeland; this is, however, not the case at all. Dissection of the dromedary beast has shown researchers that these humps are actually composed of fatty tissue which have collected into the humps as to not overheat the beast by being spread across the body. Camels, in fact, need only drink once every ten-day as their insulated coat keeps them at an adequate temperature and they absorb sufficient water vapor through exhaling via the nostrils. Camels also have a leathery mouth-lining allowing the herbivores to chew and swallow even the thorniest of cacti should they require water in such a fashion. Should you be in the desert and in need of a sturdy beast, adventurer, why not invest your gold into the camel? Just be mindful, they enjoy spitting on those they do not trust!</p>"
+      "description": "<p>낙타는 사막과 매우 건조한 기후에서 살아가는 독특한 우제류의 한 종입니다. (종에 따라 1개나 2개의 혹으로 다양한) 커다란 등의 혹으로 유명한 낙타는 튼튼하지만 완고한 성질, 영양가 있는 고기와 우유, 그리고 운송 능력으로 인해 사막 생활에서 빼놓을 수 없는 한 부분이 되었습니다. 낙타는 수천 년 전부터 길들여졌습니다. 가장 가혹한 사막에서도 생존할 수 있는 능력으로 많은 사람에게 사랑받은 낙타는 세상에서 가장 오래된 기록에 따르면 (오늘날 활용되는 방식과 비슷하게) 황량한 사막의 광활한 모래밭을 가로질러 무거운 화물을 싣고 다니는 가축의 형태로 모습을 드러냈습니다. 그렇지만 고귀한 낙타는 보이는 모습 그 이상의 비밀을 숨기고 있을지도 모릅니다.</p>\n<p><strong>조심하세요, 침을 뱉으니까요.</strong> 평범한 사람에게 낙타의 가장 독특한 특징이 무엇인지 묻는다면, 의심할 여지 없이 낙타의 높은 등에 달린 살덩이 혹이라고 대답할 것입니다. 일반적으로 이 혹은 낙타가 고향의 모래 언덕에서 살아남을 수 있도록 신선한 담수를 비축하기 위한 목적이라고 여겨졌으나, 사실은 전혀 그렇지 않습니다. 단봉낙타를 해부한 결과, 연구자들은 이 혹이 실제로는 지방 조직으로 구성되어 있음을 밝혀냈습니다. 지방 조직이 몸 전체로 퍼지면 몸이 과열될 수 있으므로, 지방을 혹에 모아둔 것입니다. 사실 낙타는 열흘에 한 번만 물을 마셔도 됩니다. 낙타의 단열 모피가 적절한 온도를 유지하고, 콧구멍을 통해 숨을 내쉬면서 적절한 양의 수증기를 흡수하기 때문입니다. 또한 낙타의 입 안에는 가죽 같은 내벽이 있으므로 이런 방식으로 물이 필요한 경우 가장 가시가 많은 선인장이라도 씹고 삼킬 수 있습니다. 모험가님, 사막에서 데리고 다닐 튼튼한 짐승이 필요하다면 낙타에 돈을 투자하지 않을 이유가 있을까요? 이것 하나만 조심하세요. 낙타는 신뢰하지 않는 존재에게 침을 뱉는 것을 즐긴답니다!</p>"
     },
     "Cat": {
-      "name": "고양이"
+      "name": "고양이",
+      "description": "<p>인류가 집고양이를 길들이면서 얻게 된 긍정적인 효과를 그 누가 부정할 수 있을까요? 고양이는 건물에 원하지 않은 유해조수가 들어오지 않도록 지키거나, 서재에서 보내는 아늑한 저녁에 주인의 무릎에 웅크리고 누워 있으면서 몇 번이고 자신에게 소중한 동반자가 될 자격이 있음을 증명했습니다. 불길한 징조로 여겨지는 완전히 새까만 단모종 고양이에서부터 차가운 북부의 푹신푹신한 털로 뒤덮이고 우스꽝스러울 정도로 평평한 얼굴의 고양이까지 다양한 고양이들은 선택할 수 있는 품종이 거의 무한한 것처럼 보입니다. (저자 주: 최근 털이 나지 않는 고양이가 있어, 그 주인은 기분 좋은 털결 없이 그 살가죽을 그대로 쓰다듬어야 한다는 소문을 들었습니다. 이 확인되지 않은 발견에 대한 더 많은 증거를 찾아낼 수 있을 것입니다.) 그러나 우리의 고양잇과 동료는 모험가의 예리한 눈으로 본다면 훨씬 더 많은 것을 제공할 수 있습니다!</p>\n<p><strong>완벽한 친구.</strong> 안전한 가게에 콕 박혀 있는 늙은 물약 제조자 옆에 있든, 혹은 내륙 지역의 완만한 구릉 지대를 용감하게 이동하는 젊은 신참 레인저와 함께 있든, 고양이는 세상 어디에서나 발견됩니다. 작고 가벼운 이 민첩한 사냥꾼은 누군가의 어깨 위나 마차에 실은 물건 위에 꼭 맞습니다. 고양이는 패밀리어를 이런 형태와 연결하는 솜씨 좋은 마법사에게도 유용합니다. 발바닥에서 순식간에 날카로운 발톱을 세울 수 있는 고양이는 작은 짐승들에게 치명적인 사냥꾼입니다. 또한 고양이는 유연한 척추 덕분에 잘 구슬리면 닿기 어려운 장소에도 억지로 들어갈 수 있으며, 심지어는 아주 위험한 높이에서 추락해도 살아남을 수 있습니다. 연구자들은 고양이에게 떨어진 각도와 관계없이 발로 착지하는 기묘한 능력이 있는 것처럼 보인다는 사실을 발견했습니다. 이보다 덜 민첩한 크리처와 비교할 때 아주 유리한 점이라고 할 수 있겠죠. (주인에게 맛있는 음식을 달라고 소리 내서 야옹거리길 선호하지 않는 한) 아주 조용한 고양이는 더 안전한 거리에서 이 패밀리어의 눈을 통해 주변 환경을 관찰하길 선호하는 경우 적절한 침투 요원이 될 수 있습니다. 마법적인 존재든 물질적인 존재든, 평범한 고양이는 뛰어난 동반자이며 적절한 동물 친구를 모색하고 있을 때 고려해 볼 만하다는 게 이 저자의 의견입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Centaur": {
       "name": "켄타우로스",
-      "description": "<p>켄타우로스들은 원래 평야나 숲 속에서 무리지어 배회하거나 큰 집단으로 사냥하는 모습이 발견되곤 합니다. 목 아래부터는 남성이나 여성의 상체이며, 하반신은 말과 닮은 이 크리처는 힘이 센 것으로 유명하며, 용감한 사냥꾼으로 칭송받습니다. </p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "description": "<p>켄타우로스들은 주로 평야나 숲 속에서 무리지어 배회하거나 큰 집단으로 사냥하는 모습이 발견되곤 합니다. 목 아래로는 남성이나 여성의 상체가 있고 하반신은 말과 닮은 이 크리처는 힘이 센 것으로 유명하며, 용감한 사냥꾼으로 칭송받습니다. </p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Chain Devil": {
-      "name": "체인 데빌"
+      "name": "체인 데빌",
+      "description": ""
     },
     "Chimera": {
-      "name": "키메라"
+      "name": "키메라",
+      "description": ""
     },
     "Chuul": {
-      "name": "추울"
+      "name": "추울",
+      "description": ""
     },
     "Clay Golem": {
-      "name": "진흙 골렘"
+      "name": "진흙 골렘",
+      "description": ""
     },
     "Cloaker": {
-      "name": "클로커"
+      "name": "클로커",
+      "description": ""
     },
     "Cloud Giant": {
-      "name": "구름 거인"
+      "name": "구름 거인",
+      "description": ""
     },
     "Cockatrice": {
       "name": "코카트리스",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Commoner": {
-      "name": "일반인"
+      "name": "일반인",
+      "description": "<p>“일반인”이라고 알려진 시민 계급에게 붙여진 이 무례함 그 자체인 꼬리표는 결코 옳지 않습니다! 일반인은 모든 종족, 사회적 계급, 직업, 성격을 망라합니다. 교활한 드래곤본 상인부터 활기 넘치는 인간 선술집 주인, 또는 뛰어난 솜씨를 갖춘 엘프 유리공예사까지, 일반인은 주로 귀족이 아닌 존재를 표현할 때 적합합니다. 일반인은 현명할 수도 있고 어리석을 수도 있으며, 강인할 수도 있고 겁쟁이일 수도 있습니다. 세상의 모든 일반인들은 각각 자신만의 독특함으로 존경을 받아야만 합니다. 일반인은 도시, 마을, 도로 위, 숲, 산 등 인간형 종족의 손길이 닿은 모든 곳에서 찾아볼 수 있습니다.</p>\n<p><strong>프롤레타리아의 힘.</strong> 하나의 분명한 사실 중 하나는 일반인이 보통 가장 평균적인 시민이라는 점입니다. 이들은 용감한 모험가와는 다르며, 성벽 밖에서 평화를 상정하며 살아가는 것을 선호합니다. 그러나 (보통 군중심리의 법칙에 더 가깝긴 해도) 평범한 시민 한 사람이라고 해도 일어나 자신만의 놀라운 싸움을 시작할 수 있습니다. 모험가들이여, 가장 단순해 보이는 일반인이라도 숙련된 파이터를 놀라게 하는 추잡한 싸움을 할 수 있다는 사실을 기억하세요. 그러나 대부분의 일반인은 무술에 덜 숙련되어 있으므로, 이들이 몽둥이나 깨진 병, 의자, 통, 돌, 그리고 요리도구 등의 일반적이지 않은 무기를 사용한다고 해도 놀랄 필요는 없습니다. 도시에 있든, 길 위에 있든 간에 일반적인 사람들과 평화롭게 지내는 것은 언제나 현명한 선택입니다. 이들이 단순해 보이는 모습 아래 깊숙히 뛰어난 능력이나 현명한 정보를 숨기고 있을 수도 있으니까요.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Constrictor Snake": {
-      "name": "왕뱀"
+      "name": "보아뱀",
+      "description": "<p>정글 바닥의 덤불 사이를 미끄러지듯 지나가는 길쭉한 실루엣이 아직 보이지 않는 무언가를 추적하여 낙엽 위를 소리 없이 미끄러지듯 움직입니다. 길쭉한 관 모양의 몸통만 한 두께인 이 짐승의 몸 전체는 완전히 다 자란 사슴을 질식시킬 수 있을 정도로 강인한 근육 덩어리로 둘러싸여 있습니다. 튼튼한 몽둥이 모양의 머리와 탐색하는 혀를 지닌 보아뱀은 사냥감을 향해 아주 은밀하게 다가갑니다. 흐릿한 시야를 설치류에게로 향한 채로, 뱀은 갈라진 혀끝으로 공기를 맛보고 쥐가 있는 위치를 정확하게 알아냅니다. 사냥은 눈 깜짝할 사이에 끝납니다. 활에서 쏘아진 화살처럼 빠르게 공격한 뱀은 바늘 같은 송곳니를 먼저 쥐의 몸뚱이에 박고 설치류의 가슴 주변에 몸을 칭칭 감아 으스러뜨리고 그 작은 짐승의 마지막 숨결을 쥐어짭니다. 흉측한 한 번의 꿀꺽 삼키는 모습으로 쥐는 뱀의 몸속으로 자취를 감춥니다. 보아뱀은 주로 정글에 서식하며 얼룩이 있는 비늘을 영리한 위장 수단으로 활용하여 주변의 나뭇잎 사이에 모습을 감춥니다. 대부분의 독사와는 다르게, 보아뱀의 치사량의 신경독을 주입하기 위한 빈 송곳니를 갖고 있지 않습니다. 대신 이런 뱀들은 강인한 힘으로 사냥감을 교살해 죽여 버립니다. 대부분의 보아뱀은 평범한 인간형 종족에게는 별로 위협이 되지 않으나, 완전히 자란 조랑말 한 마리를 삼킬 정도로 큰 종도 있습니다. 정글 바닥의 물과 울창한 덤불을 조심하세요. 이 치명적인 야수들은 이런 곳에 숨기를 선호하니까요.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Copper Dragon Wyrmling": {
-      "name": "카퍼 드래곤 워믈링"
+      "name": "카퍼 드래곤 유생체",
+      "description": ""
     },
     "Couatl": {
-      "name": "코아틀"
+      "name": "코아틀",
+      "description": ""
     },
     "Crab": {
-      "name": "게"
+      "name": "게",
+      "description": "<blockquote>\n<p>예전에 한 번 엄청나게 큰 게를 본 적이 있었는데, 다 자라난 골리앗의 손을 깨끗하게 잘라낼 정도로 집게발이 커다랗고 군인의 투구를 껍데기로 사용하고 있더구만! 맹세컨대 진짜라니까!<br /><em>- 황동 사슴 선술집의 어느 소란스러운 고객의 이야기.</em></p>\n</blockquote>\n<p>대륙 연안 지역에 거주하거나 자주 방문하는 사람들에게 상식인 이야기 이상으로 작은 게에 대해서 더 무엇을 말할 수 있을까요? 게는 보통 인간 성인의 손바닥보다 크지 않은 유례 없이 튼튼한 작은 크리처로, 가리비 모양의 갑각 양쪽으로 여덟 개의 마디로 나눠진 다리가 튀어나와 있습니다. 이 단단한 키틴질 갑각 꼭대기에는 (달팽이와 크게 다르지 않은) 두 개의 검은 눈 줄기가 튀어나와 있으며, 이를 통해 게는 해안선과 바다를 볼 수 있습니다. 어떤 종류의 게는 단단한 외피가 없으며, 버려진 소라 껍질에 무단으로 거주하는 것을 선호하는 모습이 관측되었습니다. 이는 게에게 다소 영리하고 튼튼한 이동형 집을 제공합니다. 게의 작은 입 근처에 있는 아홉 번째, 열 번째 다리는 전갈과 닮은 두 개의 거대한 집게발로, 집게발 안쪽 날에는 각각 무딘 톱니가 돋아나 있습니다. 게는 먹이를 찾기 위해 주로 이 발톱을 사용하여 다른 작은 수생 동물의 껍데기를 부숴서 열거나, 수중 식물의 작은 조각을 잘라내 먹습니다.</p>\n<p>소환사가 원하는 가장 위험한 동료는 아닐 수도 있겠지만, 게는 물과 육지 모두에서 숨을 쉴 수 있는 능력이 있으므로 이 갑각류 동물은 매우 유용한 동료가 될 수도 있습니다. 그러나 게가 옆으로 기어가는 모습이 비위가 약한 소환사에게 구토를 유발한다는 사실이 밝혀졌으므로, 처음으로 게 패밀리어의 시야를 통해 볼 때는 주의하는 것이 좋습니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Crocodile": {
       "name": "악어",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Cult Fanatic": {
-      "name": "광신도",
-      "description": "<p>광신도들은 대체로 사교집단의 리더십의 부산물입니다. 사교집단은 카리스마와 교리를 이용해 의지가 약한 자들에게 영향을 미치고, 그들을 먹잇감처럼 노립니다. 대부분은 무엇보다도 자신만의 권력에 관심이 있습니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "name": "사교 광신도",
+      "description": "<p>사교 광신도는 대체로 사교도 집단의 지도층 중 일부입니다. 사교도 집단은 카리스마와 교리를 이용해 의지가 약한 자들에게 영향을 미치고, 그들을 먹잇감처럼 노립니다. 대부분은 그 무엇보다도 개인적인 권력에 가장 관심이 있습니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Cultist": {
-      "name": "사교도"
+      "name": "사교도",
+      "description": "<p>모험가여, 만약에 내가 사교도의 모든 특성을 정확하게 나열한다면 이 책의 분량은 여러 권으로 늘어날 것입니다. 사교도는 그 이름대로 주로 동료들과 사악하고 불경한 종교의식을 거행하는 비밀스러운 지하 조직(또는 사교 집단)의 구성원을 의미합니다. 모험가들이여, 조심하십시오! 모든 사교도 집단이 단순히 종교적인 구실을 기반으로 하는 것은 아닙니다. 어떤 사교 집단은 정치적인 운동을 추구하기도 하고, 어떤 집단은 권력에 굶주려 있기도 하며, 역사 속에서 오래전 잊혀진 힘에 간섭하고자 하는 존재들도 있습니다. 여기에서는 일반적인 사교 활동의 기초에 대해 설명할 것입니다.</p>\n<p><strong>다른 상황에서는 친구.</strong> 사교도는 일상생활을 오가면서 사교 활동을 완전히 비밀로 합니다. 사교도의 매우 흥미로운 점은 이들이 종종 평범한 사람들과 자연스럽게 섞이려고 시도한다는 점입니다. 즉 이들은 여러분이 가장 즐겨 찾는 선술집의 바텐더일 수도 있으며, 문 근처의 경비병일 수도 있고, 심지어는 무대 위의 무용수조차도 겉보기에는 사악해 보이는 지하 공동체의 일원일 수 있습니다. 이제 분명히 말하자면, 사교도 활동은 세상에 있는 보다 즉각적으로 당면한 위협과 비교하면 상대적으로 드문 편이므로, 모두를 의심해야 한다는 피해망상을 조장하는 것은 아닙니다. 그러나 은밀한 동작이나 손짓, 기묘한 상징이나 표식, 심지어는 속삭여진 암호까지, 현명한 모험가라면 사교도 집단의 손길이 닿아 있다는 사실을 확신할 수 있는 이런 상징을 예리하게 주시해야 합니다. 사교도가 하나 이상의 끔찍한 실존계에 갇혀 있거나 잠들어 있는 고대의 강력한 존재에게 동조하는 일은 상당히 일반적입니다. 이들은 이 사악하고 신과 같은 힘이 있는 존재가 관련된 많은 목표가 있지만, 이런 목표에는 보통 정치 구조를 조종하거나, 수천, 혹은 수백 명의 죽음을 불러오거나, 단순하게는 필멸자의 세계에 절망과 혼란을 불어넣는 등의 목표가 포함됩니다. 환경 때문에 벼랑 끝까지 밀려난 절망적이고 겁이 많은 도적들과는 다르게, 사교도는 보통 구제할 수 없는 적입니다. 이들은 학습을 받고, 세뇌당하고, 심지어는 후원자에게 직접 조종당해 사악한 짓을 저질렀습니다. 사교도 집단 안에 너무 깊숙하게 연루되어 환심을 산 사람들은, 불운하지만 보통 사회로는 돌아갈 수 없는 상태가 됩니다. 사교도 집단은 세심한 주의를 기울여 처리하고 파괴해야만 합니다. 비록 사교의 배후에 있는 인간형 앞잡이들은 쉽게 처리할 수 있지만, 우주적인 사악한 힘이 작용하고 있으며 이미 이런 앞잡이들 뒤에서 활발하게 활동하고 있을 수도 있음을 기억해야 합니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Darkmantle": {
       "name": "다크맨틀",
@@ -267,50 +311,59 @@
     },
     "Death Dog": {
       "name": "죽음의 개",
-      "description": "<p>죽음의 개는 평원과 사막을 배회하는, 머리가 둘 달린 못생긴 사냥개입니다. 죽음의 개의 심장에는 증오가 타오르고 있으며, 사람의 살점에 대한 식욕이 들끓어 여행자와 탐험가들을 공격합니다. 죽음의 개 타액은 역병을 불러 일으키는데, 그 희생자는 살점이 천천히 썩어 뼈에서 떨어지게 됩니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "description": "<p>죽음의 개는 평원과 사막을 배회하는, 머리가 둘 달린 못생긴 사냥개입니다. 죽음의 개의 심장에는 증오가 타오르고 있으며, 인간형 종족의 살점에 대한 들끓는 식욕으로 여행자와 탐험가들을 공격합니다. 죽음의 개 타액은 역병을 유발하는데, 그 타액에 당한 희생자는 살점이 천천히 썩어 뼈에서 떨어지게 됩니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Deep Gnome": {
       "name": "지저 노움",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Deer": {
-      "name": "사슴"
+      "name": "사슴",
+      "description": "<p>사슴은 얼어붙은 툰드라부터 전원 지대의 쾌적한 목초지까지, 다양한 지역에서 보기 드물지 않게 찾아볼 수 있는 동물입니다. 이 튼튼한 반추동물의 키는 4.5ft에서 거의 7ft에 달하며, 주로 숲 바닥에 떨어진 나뭇잎과 평원에 있는 식물을 먹으며 살아갑니다. 사슴은 암컷과 수컷의 성적인 이형성이 두드러집니다. ‘수사슴’이라고도 하는 수컷은 머리에 여러 갈래로 갈라진 뿔을 달고 있으며, 이 뿔은 매년 빠졌다가 다시 자라납니다. ‘암사슴’이라고 하는 암컷은 수컷과는 다르게 뿔이 없지만 무리를 지키려고 할 때는 수사슴 못지않게 강인합니다.</p>\n<p><strong>사슴아 맙소사.</strong>.\n일반적으로 사슴은 보통 자기 영역을 돌아다니는 인간형 종족이 보이자마자 달아나곤 하는 유순한 크리처입니다. 그러나 짝짓기철의 수사슴과 맞닥뜨리는 불운한 상황에 처한다면 다른 길로 돌아가는 게 좋을 것입니다. 수사슴의 뿔은 약한 갑옷과 살을 쉽게 관통할 수 있으며, 창처럼 간단하게 몸을 찢어버릴 수 있습니다. 암사슴의 소중한 자식(새끼 사슴)에게 지나치게 가까이 간다면, 틀림없이 어미 사슴의 그 단단한 몸체에 믿을 수 없을 정도로 강한 힘을 실어주는 단단한 발굽 맛을 보게 될 것입니다. 모험가가 살아남길 원한다면, 이런 강력한 근접 방어 능력을 우회하기 위해서라도 사슴은 멀리 떨어진 거리에서 사냥하는 편이 좋습니다. 사슴고기는 사냥한 고기 특유의 냄새가 조금 있긴 하지만 맛있고 속이 꽉 차 있으며, 사슴 가죽은 유사시 온기를 얻거나 은신처로 사용할 수 있습니다<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Deva": {
-      "name": "데바"
+      "name": "데바",
+      "description": ""
     },
     "Dire Wolf": {
-      "name": "다이어 울프"
+      "name": "다이어 울프",
+      "description": ""
     },
     "Djinni": {
-      "name": "지니"
+      "name": "지니",
+      "description": ""
     },
     "Doppelganger": {
       "name": "도플갱어",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Draft Horse": {
-      "name": "수레 말",
-      "description": "<p>When the job of lugging lumber or trucking trade goods down a country road is simply too much for a humanoid to bear, they may find solace in the knowledge that there is a loyal, stalwart beast ready to shoulder the heavy load for them: the draft horse.  Draft horses are a breed of horse who are more readily acclimated to rugged terrain and bearing great weights.  Often covered in thicker fur to survive in more difficult climates than their short haired brethren, draft horses have stout, powerful legs and gargantuan hooves adept at clinging to the loose gravel of a mountain trail.  Many breeds of draft horse exist within the world, so the picky merchant is never without option should they entertain the idea of purchasing such a beast.  The draft horse is capable of moving loads up to 540 lbs and may easily pull a cart laden with adventurers and their spoils down the open road should they become lazy in their victories.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+      "name": "짐말",
+      "description": "<p>인간형 종족에게 시골길을 따라 짐을 나르거나 무역품을 수송하는 일이 인간형 종족이 감당하기에는 너무 버거운 일인 경우, 이들에게는 짐말이라는 충직하고 튼튼한 동물이 대신 이 무거운 짐을 감당해줄 수 있다는 사실로부터 위안을 얻을 수 있을 것입니다. 짐말은 험한 지형에 더 잘 적응하고 매우 무거운 무게도 견뎌낼 수 있는 품종의 말입니다. 훨씬 더 가혹한 기후에서도 살아남기 위해 종종 단모종의 다른 말보다 더 두꺼운 털로 뒤덮여 있는 짐말은 튼튼하고 강인한 다리와 거대한 발굽을 가지고 있으므로 산길의 헐거운 자갈에 떨어지지 않고 잘 매달릴 수 있습니다. 세상에는 많은 품종의 짐말이 존재하므로, 아무리 까다로운 상인이라도 짐말을 구매하려고 할 때는 입맛에 맞는 짐말을 찾아낼 수 있을 것입니다. 짐말은 최대 540파운드의 짐을 운송할 수 있으며, 탁 트인 길을 따라 승리에 취해 느긋해진 모험가와 이들의 전리품을 실은 수레를 쉽게 끌고 갈 수 있습니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Dragon Turtle": {
-      "name": "드래곤 터틀"
+      "name": "드래곤 터틀",
+      "description": ""
     },
     "Dretch": {
-      "name": "드레치"
+      "name": "드레치",
+      "description": "<blockquote>\n<p>웅성거리는 소리는 그 크리처들이 시야 속으로 들어오기 전부터 들려왔습니다. 계곡 너머로부터, 우리는 드레치 부대의 소리를 들었죠. 야유하고, 으르렁거리고, 신음하는 소리가 모두 섞인 형언할 수 없는 소음을 내며, 이 천박한 데몬들은 우리를 짓눌러 죽이려고 하면서도 자신들의 존재 그 자체를 한탄하고 있었습니다. 문으로 드레치들이 물밀듯 쏟아지자, 이들이 어떤 전략을 취하려는 것인지 똑똑히 보이더군요. 이 어리석고 서투른 짐승들은 서로를 짓누르고 그 위로 차곡차곡 쌓이며, 그들의 무게를 합친 엄청난 무게로 문을 강제로 열어 버리려고 시도하던 겁니다. 마침내 기둥이 부서지기 시작하고 그 유독하고 숨 막히는 가스가 우리의 폐부에 엄습해온 순간… 나는 이 자리에서 죽겠구나, 그렇게 생각했습니다.<br /><em>- 어느 이름 없는 병사의 입으로 전해진 데몬 침공전에 대한 회고.</em></p>\n</blockquote>\n<p><strong>그 냄새 맡았어?</strong> 모든 데몬 중에서도 가장 비천한 존재인 드레치는 그 숫자만으로도 어비스의 세력을 한층 더 늘려놓는 작고 못생긴 끔찍한 크리처입니다. 드레치는 몇 가지의 추가적인 특징이 있는 창백하고 땅딸막한 인간형 종족을 닮았습니다. 드레치는 축 처지고 뾰족한 귀와 불규칙하게 창백한 잇몸으로부터 돌출된 엉망진창으로 부서지고 더러운 이빨을 가지고 있습니다. 끝부분에는 구부러진 손톱이 달린 길고 가느다란 팔이 부풀어 오른 배를 감싸고, 제대로 발달하지 못한 발 옆의 바닥으로 손이 질질 끌리고 있습니다. 드레치의 창백한 피부에는 검고 푸르스름한 정맥 혈관이 거미줄처럼 그로테스크하게 기어가고 있습니다. 지능이 낮고 하찮은 드레치는 어비스어로 불평불만을 중얼거리거나 짖는 듯한 일련의 소리로 현재 상태에 대한 불만족스러움을 나타내며 어비스에서의 삶 대부분을 보냅니다. 드레치는 순전히 그 어리석음 때문에 일상적인 업무 대부분에도 부적합하며, 헬의 크리처들과의 영원히 계속되는 전쟁 속에서 다른 데몬들은 드레치를 대포에 공급할 사료로 활용합니다. 전투에서, 드레치는 그 멍청함 때문에 단 하나의 명확한 전략, 즉 적을 향해 미친듯이 달려드는 인해 전술밖에 사용할 수 없으므로 사뭇 한심한 광경을 자아냅니다. 드레치는 나약하고 겁이 많으며(상급 데몬이 위협해서 다시 전장으로 돌려보내지 않는 한 적이 하나만 보여도 도망칠 것입니다.) 적군을 숫자로 압도하는 것을 선호합니다. 충분한 수의 드레치 선발대가 적의 방어선을 돌파하면, 드레치들은 몸에서 부패한 공기로 찬 악취 구름을 살포합니다. 이 가스는 하루에 한 번 다시 충전됩니다. 모든 독으로부터 면역이 있는 드레치는 그렇게 악취 구름을 살포한 후 적들이 독에 시름시름 죽어가는 동안 그 막대기 같은 팔로 계속 적들을 내리칩니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Drider": {
-      "name": "드라이더"
+      "name": "드라이더",
+      "description": ""
     },
     "Drow": {
-      "name": "드로우"
+      "name": "드로우",
+      "description": "<blockquote>\n<p>독 전문가, 확인. 고대의 악으로부터 은총을 받음, 확인. 어둠 속에서 상대방을 볼 수 있음, 확인. 이제 이 질문을 해 보겠는데… 왜 드로우 소굴을 들쑤시려고 하는 겁니까?<br /><strong>- 어느 지하 안내서에서 발췌.</strong></p>\n</blockquote>\n<p>한때 드로우는 일반적으로 알고 있는 숲과 도시의 엘프들과 동일한 존재였으나, 여러 엘프 파벌의 신념 체계가 분열하면서 특정한 엘프 종파가 지상 아래로 숨어 그곳에서 발견한 거대한 지하 동굴에 피신하게 되었습니다. 동굴 속에서 그 엘프들의 피부색은 칠흑처럼 검게 변했으며, 이들의 머리색은 하얀색과 은색으로 색이 바래 버렸습니다. 여위고 당당한 태도의 이 엘프들은 단순하게 드로우라고 알려지게 되었습니다. 지층 아래에서 수 세기를 보내면서, 드로우는 주목할 만한 방식으로 새로운 환경에 적응했습니다.</p>\n<p><strong>어둠이 그대의 편이라고 생각합니까?</strong> 드로우의 엘프 시각은 한때 밝은 햇빛 아래에서 수 마일을 볼 수 있도록 적응되었으나 빛이 들지 않는 환경에서 점점 창백해졌으며 지하의 칠흑같은 어둠 속에서 무엇이든 볼 수 있도록 변했습니다. 드로우는 어둠을 유리하게 활용하는 방법 역시 습득했으며, 때때로는 밤의 그림자 속에 몸을 숨기고 지상으로 몰래 올라와 근처의 마을을 습격하기도 합니다. 그러나 이렇게 적응한 대가로, 드로우의 피부와 눈은 더 이상 불타는 듯한 태양을 견딜 수 없게 되었습니다. 이에 따라 다크 엘프는 햇빛을 피하기 위해 야음을 틈타거나 충분할 정도로 자기 자신을 가려야만 합니다. 드로우는 여전히 엘프 특유의 비전학 능력을 어느 정도 유지하고 있으므로 매혹당하거나 주문에 의해 잠들지 않습니다. (드로우는 모계 사회를 이루고 있으므로) 수많은 드로우 여성은 뛰어난 소서러이자 판테온에서 더 사악한 측면에 있는 신들을 주로 선택하는 사제입니다. 다른 똑똑한 드로우는 지하 버섯과 동굴 벽을 기어 다니는 생물들로부터 특정한 독을 뽑아내는 방법을 고안해 냈습니다. 이런 독은 그 가용성과 전설적인 위력 모두로 전문가 사이에 잘 알려져 있습니다. 드로우 군단의 모든 군인이 적어도 한 병의 강력한 독으로 무장하고 있는 것은 드문 일이 아닙니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Druid": {
       "name": "드루이드",
-      "description": "<p>드루이드들은 숲이나 여타 외딴 야생 지대에 살며, 자연세계를 몬스터와 문명의 침입으로부터 보호합니다. 몇몇은 부족의 샤먼인데, 아픈 자를 치료해주거나, 동물의 영혼에 기도해주거나, 영적인 인도를 해주곤 합니다.</p><p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
+      "description": "<p>드루이드들은 숲이나 여타 외딴 야생 지대에 살며, 자연세계를 몬스터와 문명의 침입으로부터 보호합니다. 어떤 드루이드는 병자를 치료하고, 동물의 영혼에 기도하고, 영적인 인도를 제공하는 부족의 샤먼이기도 합니다.</p><p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Dryad": {
-      "name": "드라이어드"
+      "name": "드라이어드",
+      "description": ""
     },
     "Duergar": {
       "name": "듀에르가",
@@ -321,50 +374,64 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Eagle": {
-      "name": "독수리"
+      "name": "독수리",
+      "description": "<p>높은 곳으로부터 들려오는 자부심 가득한 울음소리, 흐릿한 깃털, 목전까지 다가와 피부에 닿을 듯한 길고 바늘처럼 날카로운 갈고리 발톱을 보고 있다면, 당신은 독수리라는 맹금류를 화나게 한 것일지도 모릅니다. 독수리는 식사를 위해 통통한 물고기와 설치류, 파충류 등을 찾아 삼림 지대와 산악 지대의 창공을 가로지르는 고귀한 새입니다. 독수리의 날개 길이는 어떤 인간형 종족만큼이나 크고, 때로는 6.5ft에서 7ft 길이에 달하기도 합니다. 이 강인한 날개와 예리한 시야 덕분에 독수리는 높은 곳에서 먹이를 급습할 수 있으므로, 아무런 낌새도 알아차리지 못한 먹잇감을 깜짝 놀라게 할 수 있습니다. 나는 독수리 한 마리가 하늘에서 급강하하더니 한 귀족 여성의 조그마한 반려동물인 테리어를 떠올려 울부짖는 개를 여인의 손으로부터 비틀어 빼내더니 오후의 창공을 향해 사라져 가는 모습을 본 적이 있습니다. 정말로 강인한 새라니까요!</p>\n<p><strong>하늘을 나아가다.</strong> 독수리는 가능하다면 혼자 있는 것을 선호합니다. 독수리는 속세로부터 높이 떨어진 산맥의 단애면에 손수 만든 둥지를 틀곤 합니다. 둥지 안에서 독수리는 두 개의 알을 낳고 고립되어 있는 소가족을 꾸려나가며, 이 가족에서는 (보통 더 커다란) 새끼 암컷이 씨족 안의 다른 수컷들보다 우위를 차지합니다. 새끼들은 스스로 나는 방법을 터득할 정도로 커지기 전까지 부모 새가 먹었다가 게워낸 음식을 받아먹으며 보살핌을 받고 자라납니다. 이 시점에 새끼 독수리는 둥지에서 외면당하게 되며, 바깥 세상으로 쫓겨나 자립해야 합니다.</p>\n<p><strong>론 레인저.</strong> 독수리는 이 맹금류가 단순한 반려동물이 아니라 모험가와 동등한 동료임을 이해하는 사람들에게 훌륭한 동반자가 됩니다. 특히 레인저는 사냥 동료로 독수리를 선호하는 것처럼 보이는데, 이는 독수리가 사냥 중에 이리저리 먼 곳을 돌아다니면서 탐사 중에 발견한 전리품을 그 주인에게로 가지고 돌아올 수 있기 때문입니다. 이런 특수한 형태의 현대적인 독수리 사냥은 독수리를 추적자로도 활용하는데, 이는 독수리가 아주 먼 거리에서도 사냥감을 포착하고 주인에게 돌아와 사냥감을 향해 안내할 수 있기 때문입니다. 세상 밖을 여행하려고 하고 있으며 함께 여행할 동료를 얻기 위해서라면 많은 인내심을 발휘할 수 있다면, 독수리는 노련한 사냥꾼에게 권장할 만한 선택지입니다.</p>"
     },
     "Earth Elemental": {
-      "name": "어스 엘리멘탈"
+      "name": "대지 엘리멘탈",
+      "description": ""
     },
     "Efreeti": {
-      "name": "이프리티"
+      "name": "이프리티",
+      "description": ""
     },
     "Elephant": {
-      "name": "코끼리"
+      "name": "코끼리",
+      "description": ""
     },
     "Elk": {
-      "name": "엘크"
+      "name": "엘크",
+      "description": "<blockquote>\n<p>아니, 아니 그것들이 무서울 거라고는 상상하지 못할 순 있어. 하지만 진짜 무섭다니까! 수컷 흰꼬리사슴보다 큰 데다가 그 무지막지한 뿔과 가까이 다가가면 그 두 배는 더 위험하다고. 아, 게다가 그것들이 내는 소리란! 마치 한밤중 저주받은 숲 전체에서 울려 퍼지는 밴시의 흐느낌 소리 같다니까. 나 보면서 웃지 마! 웃지 말라니까... 추운 겨울 저녁에 그 소리를 들으려고 기다리고 있으면 오줌 지린 채로 주저앉아서 내 말 들었어야 했다고 생각하고 있을 거다.<br /><em>블리스터록 스티드 근처에서 여행하던 어느 사냥꾼.</em></p>\n</blockquote>\n<p>키가 5피트이고 무게가 700파운드가 넘는 엘크는 자연계에서 찾아볼 수 있는 가장 큰 사슴의 한 종입니다. 모르는 사람들의 눈에 보이는 엘크는 수컷에게 (암컷에게는 없는) 갈라진 뿔이 있는 더 작은 친척과 매우 닮은 거대한 사슴처럼 보일 것입니다. 그러나 사슴과 엘크 사이에는 몇 가지 차이점이 있습니다. 가장 두드러지는 차이점은 엘크가 숲 전체에 메아리치는 일련의 우짖는 소리 내지는 비명 소리를 내길 선호한다는 점입니다. 이 우짖는 소리는 (발정기라고 하는) 짝짓기철이 다가오고 있다는 신호이며, 이때 지배적인 성향의 수컷들은 암컷에게 선택받기 위해 날카로운 뿔로 서로 싸움을 벌입니다. 조용한 숲 속에서 엘크의 날카로운 울음소리를 듣게 된다면, 페로몬투성이의 혼란스러운 싸움을 끝까지 볼 생각이 아니라면 돌아가는 것이 좋을 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Erinyes": {
-      "name": "에리니에스"
+      "name": "에리니에스",
+      "description": ""
     },
     "Ettercap": {
       "name": "에터캡",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Ettin": {
-      "name": "에틴"
+      "name": "에틴",
+      "description": ""
     },
     "Fire Elemental": {
-      "name": "파이어 엘리멘탈"
+      "name": "파이어 엘리멘탈",
+      "description": ""
     },
     "Fire Giant": {
-      "name": "불 거인"
+      "name": "화염 거인",
+      "description": ""
     },
     "Flesh Golem": {
-      "name": "육체 골렘"
+      "name": "살점 골렘",
+      "description": ""
     },
     "Flying Snake": {
-      "name": "비행 뱀"
+      "name": "비행 뱀",
+      "description": "<p>정글과 열대 기후에 서식하는 비행 뱀은 길들일 의지가 있는 사람들이 선호하는 독특한 작은 파충류입니다. 땅에 있는 일반적인 뱀과 거의 판박이로 닮은 비행 뱀은 어떤 기묘한 생물학적인 필요성에 의해서든, 마법적인 간섭에 의해서든 날개를 가지도록 진화했습니다. 이 얇은 피막이 난 날개는 비행 뱀이 어설프게나마 공중을 활공하여 손쉽게 정글 바닥에 있는 잡동사니를 피할 수 있도록 합니다. 반짝거리는 청록색 비늘을 지닌 밝은 색의 이 날아다니는 뱀이 지붕 모양으로 우거진 덩굴과 울창한 나뭇잎 사이로 유연하게 내리덮치며 활공하는 모습은 정말 보기 아름답습니다. 이 작고 가느다란 바람의 달인은 종종 정글에 있는 광신도나 부족 마술 사용자의 수하가 되기도 합니다. 길들이기 위해 약간의 구슬리기와 부드러운 시도를 거듭한다면, 얼마나 많은 모험이든 팔뚝에 휘감겨 있을 독특하고 기이할 정도로 충성스러운 동료를 얻을 수도 있을 것입니다. 누군가는 비행 뱀을 전령으로 사용하기도 합니다. 크기가 작고, 상대적으로 비밀스럽게 나무 꼭대기를 통과해 이동할 수 있기 때문이겠죠!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Flying Sword": {
-      "name": "비행 검"
+      "name": "비행 검",
+      "description": "<p>모방은 마법 능력이 있는 존재들이 선호하는 속임수이며, 비행 검은 마법의 영역에서 단순하지만 가장 효과적인 모방의 예시입니다. 비행 검은 단순하게 말하자면 날아다니는 검입니다. (보통은 집, 서재, 또는 탑을 지킬 목적으로) 마법사가 주문을 걸어서 만들어진 마법적인 비행 검은 주인이 배치한 어느 장소에서나 평온하게 놓여 있습니다. 이 마법에 걸린 검은 “모든 침입자를 죽여라” 등의 단순한 지시를 받으며, 이런 상황이 발생하기 전까지는 움직이지 않고 놓여 있습니다. 움직이지 않는 동안, (마법적인 아우라를 보도록 수련한 존재가 아니라면) 평범한 검과 구분할 수 없으며, 이것이 이 검의 가장 악랄한 특징을 보여줍니다. 이렇게 있는 동안 검은 지정된 상황 전까지 오래도록 대기하며, 그런 상황이 오면 일어나 움직입니다. 검은 숨겨져 있던 장소에서 둥둥 떠올라 마치 훈련된 전사가 확신을 갖고 휘두르는 것처럼, 자신이 파괴되거나 적이 죽을 때까지 어리석은 침입자를 베고 찌릅니다. 파괴 시 검에 부여된 주문이 해제되면서 다시 평범한 물건으로 돌아갑니다.</p>\n<blockquote>\n<p>저자 주: 주문은 대부분의 일반적인 무기에 부여될 수 있으므로 조심성 많은 모험가는 곤봉, 도끼, 석궁 또는 망치 등의 다른 무기 역시 경계해야 합니다.</p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Frog": {
-      "name": "개구리"
+      "name": "개구리",
+      "description": "개구리\n<p>개구리는 우리 행성에 사는 가장 흔한 양서류입니다. 개구리는 대부분의 삶을 수원 근처에서 살아가며 이런 이유로 늪과 습지, 수렁 근처에서 자주 볼 수 있습니다. 이는 물론 가까운 수원이 없으면 개구리의 매끄러운 피부가 말라붙어 죽을 수도 있기 때문에 필요한 조건입니다. 본질적으로 벌레를 먹는 생물인 개구리는 길고 끈적끈적한 혀로 모든 종류의 곤충을 잡아먹습니다(저자 주: 남부의 늪지대에서, 공중에서 바로 작은 새의 털을 뽑아내고 잡아먹을 정도로 커다란 개구리 종을 목격했다고 맹세한 제보자들도 있었습니다!). 개구리는 뒷다리가 앞다리에 비해 훨씬 더 길고 접혀 있으므로, 기묘한 방식으로 이동합니다. 이 독특한 진화 때문에 개구리는 뒷다리를 완전히 뻗어 멋지게 점프하고 폴짝폴짝 뛸 수 있게 되었습니다.</p>\n<p><strong>올챙이는 개구리로 진화합니다.</strong> 개구리가 처음 태어났을 땐 새끼손톱만한 크기의 젤리 같은 알의 형태입니다. 부화하면 작은 개구리는 이제 살아있는 작은 혜성처럼 생긴 올챙이 상태가 되며, 알처럼 둥근 머리와 길고 잽싸게 움직이는 긴 꼬리로 물에서 헤엄쳐 다닐 수 있게 됩니다. 몇 주의 과정을 거쳐 새끼 개구리로부터 사지가 자라나며, 올챙이는 좀 더 알아보기 쉬운 모습의 성체로 진화합니다. 연구원들이 “변태”라고 명명한, 곤충에게서 가장 많이 볼 수 있는 매혹적인 발달 과정이죠. 변화무쌍한 세계에서, 평범한 개구리만큼이나 환상적인 변신 과정을 거치는 다른 크리처가 더 있을까요?</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Frost Giant": {
-      "name": "서리 거인"
+      "name": "서리 거인",
+      "description": ""
     },
     "Gargoyle": {
       "name": "가고일",
@@ -395,20 +462,24 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Giant Bat": {
-      "name": "거대 박쥐"
+      "name": "거대 박쥐",
+      "description": "<blockquote>\n<p>저자 주: 해당 크리처에 대한 설명은 “박쥐”에 대한 설명으로 충분할 것입니다. “거대”란 상대적인 용어이며, 해당 크리처는 평균적인 박쥐보다 더 거대할 뿐이라는 점에 유의하십시오.</p>\n</blockquote>\n<p>박쥐는 세계 곳곳의 외딴 숲과 빛이 들지 않는 동굴에서 흔히 볼 수 있는 동물입니다. 박쥐는 거의 완전한 어둠 속에서 지형을 탐색하는 능력 때문에 비전술사들이 높이 평가하는 야행성 크리처입니다. 이 능력만으로도, 박쥐는 패밀리어로 소환할 가치가 있는 선택지가 되었습니다. 쥐만 한 크기부터 집고양이만 한 크기까지 크기가 다양한 박쥐는 포유류에게는 드문 특성, 즉 날 수 있는 재주를 보유하고 있습니다. 바늘처럼 가늘고 뼈가 앙상한 “손” 사이에 가늘게 뻗어 있는 두껍고 부드러운 막이 박쥐의 섬세한 몸에 넓게 펼쳐져 있으므로, 박쥐는 마음껏 먹을 수 있는 숲의 과일과 곤충을 찾아 하늘로 날아갈 수 있습니다.</p>\n<p><strong>수다쟁이.</strong> 아이들에게 들려주곤 하는 터무니없는 이야기 속에서는 박쥐가 눈이 멀었다고 추정하지만, 박쥐는 명백히 덜 예리하긴 해도 우리와 별반 다르지 않은 시력을 가지고 있습니다. 이 크리처를 진정으로 특별하게 하는 점은 칠흑처럼 검은 밤의 어둠 속에서 길을 찾는 능력입니다. 박쥐는 연구자들이 “반향정위”라고 부르는 일련의 지저귐과 울음소리를 활용하여 비행경로에 있는 물체나 사냥감을 정확히 찾아냅니다. 박쥐가 낸 반향정위 울음소리가 반사되어 이 작은 크리처의 상대적으로 거대한 귓속에 들어오므로, 박쥐는 시각에 의존하지 않아도 순식간에 이동 방향을 바꿀 수 있습니다. 재차 강조하자면 박쥐는 인간의 눈에는 너무 어둡고 위험한 장소에서도 길을 찾을 수 있으므로, 패밀리어로 고를 수 있는 현명한 선택지입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Giant Boar": {
       "name": "거대 멧돼지",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Giant Centipede": {
-      "name": "거대 지네"
+      "name": "거대 지네",
+      "description": "<p>어두운 숲의 덤불을 헤매거나 축축한 지하 묘지의 황폐한 돌벽에서 벗어나 꿈틀거리곤 하는 거대 지네는 크기를 제외하면 모든 면에서 평범한 작은 지네와 매우 유사합니다. 이 미끄러지듯 기어 다니는 절지동물은 머리 끝부분 길이가 몇 인치에 달하는 뾰족한 턱이 있으며, 크기는 작은 개만 한 크기입니다. 평균적인 지네와 유사하게, 이 생물은 관형 몸뚱이의 양쪽 옆부분에 살금살금 움직이는 수많은 다리가 달려 있으며 멧돼지의 공격성에 부들부들 떨곤 합니다. 거대 지네는 다음 식사 외에는 별로 생각하지 않으며, 자신의 영역에 들어오는 거의 모든 크리처를 레더 아머쯤은 쉽게 부술 수 있는 으스러뜨리는 턱으로 공격합니다. 지네가 희생자를 그 턱으로 무는 데 성공하면 (드물게는) 목표의 혈관으로 강력한 독을 흘려 넣으면, 미약한 마비 효과가 발생하여 해당 크리처는 중독된 동안 의식불명 상태에 빠질 수 있습니다. 거대 지네의 영역에서 휴식을 취하기로 결심한 경우, 부츠를 신을 때는 조심하십시오.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Giant Constrictor Snake": {
-      "name": "거대 왕뱀"
+      "name": "거대 왕뱀",
+      "description": ""
     },
     "Giant Crab": {
-      "name": "거대 게"
+      "name": "거대 게",
+      "description": "<blockquote>\n<p>“...예전에 한 번 엄청나게 큰 게를 본 적이 있었는데, 다 자라난 골리앗의 손을 깨끗하게 잘라낼 정도로 집게발이 커다랗고 군인의 투구를 껍데기로 뒤집어 쓰고 있더군! 맹세컨대 진짜야!”</p>\n<p>- 황동 사슴 선술집의 어느 소란스러운 고객의 이야기.</p>\n</blockquote>\n<section class=\"secret\">\n<p>대륙 연안 지역에 거주하거나 자주 방문하는 사람들에게 상식인 이야기 이상으로 작은 게에 대해서 더 무엇을 말할 수 있을까요? 게는 보통 인간 성인의 손바닥보다 크지 않은 유례 없이 튼튼한 작은 크리처로, 가리비 모양의 갑각 양쪽으로 여덟 개의 마디로 나눠진 다리가 튀어나와 있습니다. 이 단단한 키틴질 갑각 꼭대기에는 (달팽이와 크게 다르지 않은) 두 개의 검은 눈 줄기가 튀어나와 있으며, 이를 통해 게는 해안선과 바다를 볼 수 있습니다. 어떤 종류의 게는 단단한 외피가 없으며, 버려진 소라 껍질에 무단으로 거주하는 것을 선호하는 모습이 관측되었습니다. 이는 게에게 다소 영리하고 튼튼한 이동형 집을 제공합니다. 게의 작은 입 근처에 있는 아홉 번째, 열 번째 다리는 전갈과 닮은 두 개의 거대한 집게발로, 집게발 안쪽 날에는 각각 무딘 톱니가 돋아나 있습니다. 게는 먹이를 찾기 위해 주로 이 발톱을 사용하여 다른 작은 수생 동물의 껍데기를 부숴서 열거나, 수중 식물의 작은 조각을 잘라내 먹습니다.</p>\n</section>\n<p>소환사가 원하는 가장 위험한 동료는 아닐 수도 있겠지만, 게는 물과 육지 모두에서 숨을 쉴 수 있는 능력이 있으므로 이 갑각류 동물은 매우 유용한 동료가 될 수도 있습니다. 그러나 게가 옆으로 기어가는 모습이 비위가 약한 소환사에게 구토를 유발한다는 사실이 밝혀졌으므로, 처음으로 게 패밀리어의 시야를 통해 볼 때는 주의하는 것이 좋습니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Giant Crocodile": {
       "name": "거대 악어",
@@ -423,10 +494,12 @@
       "description": "<p>위대한 거대 엘크는 그 모습을 드러내는 것이 중요한 사건(예 : 왕의 탄생 등)의 전조로 여겨질 정도로 희귀합니다. 전설에 따르면 물질계를 방문할 때 거대한 엘크의 형태를 취하는 신이 있습니다. 따라서 많은 문화권에서는 이 크리처를 사냥하는 것이 신의 진노를 불러일으키는 것이라고 믿습니다.</p>\n<p></p>"
     },
     "Giant Fire Beetle": {
-      "name": "거대 발광 딱정벌레"
+      "name": "거대 발광 딱정벌레",
+      "description": "<p>호기심 많은 탐험가들은 지하 깊숙한 곳에서 껍데기가 새까만 거대 발광 딱정벌레 떼를 맞닥뜨리기도 합니다. 비록 평범한 딱정벌레보다 상대적으로 거대하다는 의미에 불과하지만, 거대 발광 딱정벌레의 폭은 인간 성인의 손바닥만 한 크기입니다. 이 작고 유순한 거대 곤충은 동굴이나 지하 묘지, 웃자란 이끼 등의 어둑한 장소를 돌아다니며 먹을 만한 조각을 찾아내거나 은신처로 삼을 조용하고 습한 장소를 찾곤 합니다.</p>\n<p><strong>빛과 어둠.</strong> 흥미롭게도, 태양광이 없는 곳에서 진화하며 이 불쌍한 크리처는 완전히 시각을 상실했습니다. 그러나 거대 발광 딱정벌레에게도 감지하는 감각은 있습니다. 특별한 안테나를 사용하는 이 튼튼한 곤충은 약간 제한된 범위 내에서 세상을 “볼” 수 있습니다. (수많은 초보자가 자랑하듯이) 진정한 보상은 거대 딱정벌레의 턱 양쪽 측면과 배 맨 뒷부분에 있는 주황색의 발광샘입니다. 이 불꽃 같은 색상의 샘은 공생하는 발광 진균류로 가득 차 있으며, 이 진균류는 숙주로부터 분리된 이후로도 최대 일주일 동안 계속 빛이 납니다. 어떤 현명한 모험가들은 살아있는 발광 딱정벌레를 잡아 빈 랜턴에 넣어 외딴 동굴을 헤매는 동안 더 긴 시간 길을 밝힙니다.</p>\n<p><strong>최후의 수단.</strong> 보통은 평온한 성격의 곤충인 거대 발광 딱정벌레가 간혹 매우 굶주린 상황에는 먹이를 지키는 모습이 관측되었습니다. 맛좋은 음식 조각이 있고 이를 위협하는 존재가 가까이 있을 때, 해당 딱정벌레가 음식으로부터 달아나는 일은 드뭅니다. 거대 발광 딱정벌레는 공격을 할 정도로 위협을 느낀 경우 가장 질긴 레더 아머라도 뚫을 수 있는 그 거대한 턱으로 아프게 물어버릴 수 있습니다. 심한 열상을 입고 싶지 않다면, 이 곤충 떼에 접근할 때는 조심하십시오. 야수의 특성을 서술한 어느 오래된 문헌에 의하면, 어떤 종의 거대 발광 딱정벌레는 가연성 액체를 분비하고 이 혼합물에 불을 붙여 부주의한 사람들에게 심한 화상을 초래했다고 합니다. 이는 과학적으로 입증된 적이 없지만 새로운 발견은 항상 일어나는 법이죠!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Giant Fly": {
-      "name": "거대 파리"
+      "name": "거대 파리",
+      "description": ""
     },
     "Giant Frog": {
       "name": "거대 개구리",
@@ -441,7 +514,8 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Giant Lizard": {
-      "name": "거대 도마뱀"
+      "name": "거대 도마뱀",
+      "description": "<blockquote>\n<p>저자 주: 해당 크리처에 대한 설명은 “도마뱀”에 대한 설명으로 충분할 것입니다. “거대”란 상대적인 용어이며, 해당 크리처는 평균적인 도마뱀보다 더 거대할 뿐이라는 점에 유의하십시오..</p>\n<p>“이봐요 거기 굿베리 구경꾼 씨! 내 새로운 귀걸이 좀 봐요!”<br /><em>내가 여행을 다니는 동안 귓불에 도마뱀을 매달고 온 어느 노움 거주민의 말.</em></p>\n</blockquote>\n<p>숲에서 산봉우리에 이르기까지, 모든 지역에 서식하는 가장 흔한 파충류는 물론 도마뱀입니다. 물론 이 책을 읽는 모든 사람에게 친숙할 이 네 발 달린 친구는 무수히 많은 다양한 품종과 크기가 있습니다. 이 작은 파충류를 매우 독특하게 만드는(그리고 훌륭한 패밀리어 중 하나가 될 수 있게 하는) 요소는 다양한 표면에 달라붙는 능력입니다. 능숙하게 등반할 줄 아는 도마뱀은 깎아지를 듯한 표면을 오르고 패밀리어의 주인이 관측을 위해 원할 만한 숨겨진 유리한 장소를 찾아낼 수 있습니다. 어떤 종류의 도마뱀은 피부의 색깔을 바꿀 수 있으므로, 더 많은 속임수를 쓸 수 있습니다!\n그러나 보잘것없는 도마뱀은 대부분의 인간형 종족에게 그저 성가신 것 정도이기 때문에, 공격에는 별다른 도움을 제공하지 못합니다. 현명한 주인이 세계를 관찰할 수 있도록, 도마뱀은 그림자 속에 두는 편이 가장 좋은 것일지도 모릅니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Giant Octopus": {
       "name": "거대 문어",
@@ -452,10 +526,12 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Giant Poisonous Snake": {
-      "name": "거대 독뱀"
+      "name": "거대 독사",
+      "description": "<blockquote>\n<p>저자 주: 해당 크리처에 대한 설명은 “독사”에 대한 설명으로 충분할 것입니다. “거대”란 상대적인 용어이며, 해당 크리처는 평균적인 독사보다 더 거대할 뿐이라는 점에 유의하십시오.</p>\n</blockquote>\n<p>뱀은 세계의 표면을 기어 돌아다니는 가장 수가 많고 다양한 파충류 중 하나입니다. 언뜻 보기에는 비늘이 돋아난 벌레처럼 보일 뿐인 뱀은 사실 고도로 발달한 포식자로, 더 작은 파충류나 설치류, 조류 등을 은밀하게 사냥하기 위해 땅을 기어서 미끄러지듯 움직입니다. 수많은 종의 뱀이 있지만, 이 문서에서는 독성이 있는 종에 대해서만 다루도록 하겠습니다. 독사에게는 독이 없는 뱀과 구분이 되는 특징이 있습니다. 바로 동공의 모양입니다. 독샘이 없는 뱀은 동공이 둥글지만, 독성이 있는 뱀은 집고양이처럼 길게 찢어진 동공을 가지고 있습니다. 그러나 교활한 뱀은 비늘투성이 거죽 아래에 이보다 더 많은 것들을 숨기고 있습니다.</p>\n<p><strong>나를 밟지 마시오.</strong>  식물의 뿌리나 막대기, 나뭇가지 등과 유사할 뿐만 아니라 가죽에 얼룩덜룩한 검은색, 갈색, 녹색 및 황갈색의 환상적인 패턴으로 위장한 뱀은 주변 환경과 조화를 이루는 데에는 통달했습니다. 심지어는 태양열 아래에서 몸을 덥히기 위해 바위에 웅크리고 있더라도, 지나가면서 슬쩍 본다면 뱀을 보지 못하고 지나칠 수도 있습니다. 비록 시력은 상대적으로 떨어지지만, 뱀에게는 주변 환경을 감지하는 놀라운 감각이 발달해 있습니다. 뱀은 혓바닥으로 “냄새를 맡을” 수 있습니다! 네, 뱀은 입에서 혀를 내밀고 매혹적인 소리를 내면서 혀로 미세한 냄새를 수집하여 주변 환경에 있는 먹잇감이나 포식자의 냄새를 맡을 수 있습니다. 뱀의 입 안에는 속이 빈 두 송곳니의 형태로, 뱀의 가장 위험한 자산이 깃들어 있습니다. 뱀은 그림자 속에서 공격하길 선호하므로, 싸움을 피하기 위해 먹잇감을 향해 거리가 충분할 때까지 조용하게 이동할 수 있습니다. 그런 다음 독사는 눈 깜짝할 사이에 맹렬하게 공격하여 부주의한 먹잇감을 턱으로 잡아챈 다음 속이 빈 송곳니를 통해 통제된 양의 매우 유독한 독을 주입합니다. 그러면 이 불쌍한 크리처가 뱀의 강력한 독으로 사망하는 것은 그저 시간 문제일 뿐입니다. 뱀의 종 중에서 대부분은 인간형 종족에게는 위험하지 않지만, 파충류를 식별하는 데 익숙하지 않은 사람들은 주의하는 것이 좋습니다. 만일의 경우를 대비하여 독사 개체군이 살고 있다고 알려진 지역으로 갈 때는 해독제를 가지고 가는 것이 좋습니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Giant Rat": {
-      "name": "거대 쥐"
+      "name": "거대 쥐",
+      "description": "<p>오물 속의 거주자이자 하수구의 청소부, 감염의 매개체인 쥐처럼 인류의 삶에 큰 영향을 미칠 수 있는 단일 동물은 없다고 봐도 좋습니다. 무질서하게 개발된 대도시의 도심부터 가난한 농부의 작은 헛간까지, 쥐는 재빠르게 들어갈 수 있을 만한 곳이라면 구석구석 어디에나 퍼져 있습니다. 손바닥보다 크지 않은 크기부터 (꼬리를 포함하여) 팔뚝만 한 길이까지 다양한 이 작은 설치류는 사뭇 수완이 좋은 작은 도둑입니다. 쥐들은 문 아랫부분 사이의 틈처럼 좁은 공간에도 몸을 욱여넣을 수 있을 정도로 자신의 몸을 압축할 수 있습니다. 수영할 수 있으며 어둠 속에서도 길을 찾을 수 있으므로, 어떤 쥐들은 작은 배관용 파이프를 기어 올라와 터널을 날쌔게 통과하여 상인의 집으로 들어가는 모습이 관측되기도 합니다.</p>\n<p><strong>정말 대단하쥐.</strong> 많은 사람은 쥐를 평범한 유해동물 그 이상으로 생각하지 않지만, 마법적인 패밀리어로 활용되지 않는 쥐조차도 매우 지능이 뛰어납니다. 연구자들은 쥐가 복잡한 미로를 통과하고, 지렛대 방식의 퍼즐을 풀고, 다른 동물에게는 찾아볼 수 없었던 수준으로 주변 세계를 이해하고 있다는 사실을 관측해냈습니다. 어떤 머리 좋은 거리의 주민은 쥐를 훈련시켜 적절한 보상을 받는 대가로 음식을 훔치거나 남들이 보고 있지 않을 때 동전 지갑에서 몇 개의 반짝거리는 동전을 훔쳐내도록 하기도 합니다. 그러나 동료로 쥐를 선택할 때는 신중하게 고려하는 것이 좋습니다. 어떤 쥐들은 그 짧은 털가죽 사이에 거주하는 곤충을 통해 감염되는 치명적인 질병을 옮길 수도 있기 때문입니다. 날카롭고 꼭 달라붙는 발톱과 함께, 쥐는 가늘고 길쭉한 앞니로 세게 물어버릴 수도 있습니다. 젊은 영웅이여, 근처에 쥐가 있다면 주의를 기울이십시오. 그렇게 단순한 작은 동물조차도 그 까맣고 깜빡이지 않는 눈 속에 비밀을 품고 있을 수도 있으니 말입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>\n"
     },
     "Giant Rat (Diseased)": {
       "name": "거대 쥐 (감염)",
@@ -490,44 +566,51 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Giant Weasel": {
-      "name": "거대 족제비"
+      "name": "거대 족제비",
+      "description": "<p>족제비는 눈 덮인 툰드라부터 침엽수 숲, 꽃이 만발한 평원에 이르기까지 다양한 장소에서 살아갑니다. 족제비는 길이가 약 8인치에 달하고 밤색부터 창백한 흰색까지 모피의 색상이 다양한 작고 몸이 길쭉한 포유류입니다. 족제비는 몸이 길쭉하기 때문에 설치류의 굴에 쉽게 끼어 들어가 그 안에 있는 생물을 끌어내 맛있게 먹을 수 있습니다. 족제비는 매년 수많은 설치류를 먹어 치우므로, 효과적으로 영역 내 유해조수의 수를 제어할 수 있습니다. 그러나 이 작은 청소부는 때로 그 자체로 유해조수로 취급됩니다. 시골 농부들은 닭장으로 몰래 숨어드는 교활한 족제비가 자신들이 기르는 가금류를 훔쳐 가거나 물어 죽였다고 보고합니다.\n비록 세계에서 가장 위험한 포유류는 아니지만, 족제비는 날카로운 이빨로 아프게 물 수 있습니다. 솜씨 좋게 찾아낸 식사를 하는 족제비를 자극하고 싶지 않다면, 호기심 많은 손가락을 어느 작은 설치류가 사는 굴로 집어넣을 때는 조심하십시오.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>\n"
     },
     "Giant Wolf Spider": {
-      "name": "거대 늑대거미"
+      "name": "거대 늑대거미",
+      "description": "<blockquote>\n<p>저자 주: 해당 크리처에 대한 설명은 “거미”에 대한 설명으로 충분할 것입니다. “거대”란 상대적인 용어이며, 해당 크리처는 평균적인 거미보다 더 거대할 뿐이라는 점에 유의하십시오.</p>\n</blockquote>\n<p>거미는 세상에서 가장 작은, 그러나 수많은 두려움의 대상이 되는 생명체 중 하나입니다. 거미는 이중으로 분할된 몸에 여덟 개의 가느다란 다리가 튀어나와 있는 거미류의 생물입니다. 거미의 작은 머리 위에는 여덟 개의 반짝이는 눈이 있으며, 거미는 이 눈을 통해 상대적으로 모호하게 세상을 봅니다. 거미의 눈이 그 눈의 숫자에 비해 상대적으로 나쁠 수도 있지만, 거미에게는 아주 영리한 속임수가 하나 있습니다. 바로 거미줄입니다!</p>\n<p><strong>어떤 벌레.</strong> 독창적인 작은 건축가인 거미는 정교한 집을 짓는 데 사용하는 “거미줄”이라는 비단실을 꽁무니에서 만들어 냅니다. 어느 정도는 그물과 비슷하게 생긴 거미줄은 두 가지 목적을 수행합니다. 그 끈적끈적한 표면으로 먹잇감을 붙잡는 것과, 거미가 포식자들로부터 떨어져 있을 안전한 공간을 제공하는 것입니다. 벌레가 거미줄에 붙잡히면, 거미는 빠르게 이상한 낌새를 알아차리지 못한 크리처를 거미줄 다발로 칭칭 감아 나중에 섭취하기 위해 저장해 둡니다. 모든 거미에게는 어느 정도 독이 있지만, 많은 거미는 여행 중인 모험가에게 유해하지 않을 것입니다. 그저 거미줄이 보이면 피하고, 이 거미줄이 평범한 거미 종이 만든 것인지만 확인하면 됩니다. 무수히 많은 거대 변종과 마법적인 변종 역시 비슷한 거미줄 위에 도사리고 있으니까요!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Gibbering Mouther": {
       "name": "지버링 마우서",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Glabrezu": {
-      "name": "글라브레주"
+      "name": "글라브레주",
+      "description": ""
     },
     "Gladiator": {
       "name": "검투사",
-      "description": "<p>검투사들은 소란스러운 군중의 즐거움을 위해 싸웁니다. 어떤 검투사는 매 경기를 생사를 건 싸움으로 여기는 잔혹한 핏 파이터인 반면, 다른 검투사는 많은 요금을 요구하지만 죽을 때까지 싸우는 경우가 거의 없는 전문 결투사입니다.</p>\n<p></p>"
+      "description": "<p>검투사들은 소란스러운 군중의 즐거움을 위해 싸웁니다. 어떤 검투사는 매 경기를 생사를 건 싸움으로 여기는 잔혹한 투기장의 싸움꾼이지만, 어떤 검투사는 많은 비용을 요구하지만 죽을 때까지 싸우는 경우가 거의 없는 전문 결투사입니다.</p>\n<p></p>"
     },
     "Gnoll": {
       "name": "놀",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Goat": {
-      "name": "염소"
+      "name": "염소",
+      "description": "<p>아, 가축으로 길러지는 염소는 목동의 제일가는 친구이자 동시에 철천지원수입니다. 영양이나 양과 비슷한 뿌리로부터 유래된 염소는 농장 가축의 세계에서 주류를 차지하게 되었습니다. 염소는 짧고 뻣뻣하며 풍성한 모피가 있으며 민첩한 발이 있다는 점을 제외하면 털을 깎은 양과 비슷하게 생겼습니다. 염소의 머리 위에는 단단한 뿔 한 쌍이 달려 있으며, 이 뿔은 종에 따라 짧고 마디진 것부터 길고 둥글게 휘어진 채로 튀어나온 것까지 다양합니다. 염소는 박진감 넘치게 서로 들이박는 경주로 수컷 염소(혹은 숫염소)끼리 힘을 겨루거나 자신의 몸을 방어하기 위해 뿔을 사용합니다. 염소의 짝짓기철이면 계속 마을에서는 산에 있는 염소끼리 달가닥거리면서 뿔이 맞부딪히는 소리를 들을 수 있습니다.</p>\n<p><strong>악과 쓰레기의 화신.</strong> 염소가 괜히 아무거나 먹어 치울 수 있는 능력으로 유명한 것이 아닙니다. 염소는 보통 선호하는 노지에서 풀과 잡초를 뜯어먹곤 하지만, 일부 목동들은 염소가 철제 못이나 찢어진 천 조각, 심지어는 마차 바퀴까지 다양한 것을 먹어버렸다고 보고했습니다! 또한 염소의 이미지는 세계의 여러 사악한 사교도 집단에서는 염소를 사악한 존재를 나타내는 악의 상징으로도 사용되었습니다. 어쩌면 이는 바라보는 이의 두려움을 자아내는 염소의 사악해 보이는 수직 동공 때문일 수도 있고, 어쩌면 염소가 일부 문화권에서 희생 제의에 자주 사용되면서 사교도 집단에서 염소로 자신들의 모습을 드러내려는 것일지도 모릅니다. 이유야 어떻든, 염소는 그 완고한 성격으로 많은 이들을 힘들게 하지만 그 고기와 젖, 무리로 모여 있을 때의 유용성 때문이라도 훌륭한 가축으로서 우리의 삶에서 떼어놓을 수 없는 존재가 되었습니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>\n"
     },
     "Goblin": {
-      "name": "고블린"
+      "name": "고블린",
+      "description": "<blockquote>\n<p>작고 썩어빠진 조무래기들… 그 녀석들은 우리가 그놈들이 모시는 “왕의” 영역에 들어갔다는 사실을 깨닫기도 전에 길에 매복해 있다가 우릴 습격했지. 덤불에서 튀어나와 우리 수레에 마치 파도처럼 부딪히면서 고약하게 으르렁거리는 말을 주절거리면서 공격해 오더군. 그 녀석들이 올 것을 대비해야 했어. 생각해 보면, 그 녀석들의 무장은 어찌나 형편없던지 한 놈은 작은 쇠못이 박힌 반쪽만 남은 빗자루 손잡이를 흔들어 대더라니까. 그렇든 말든, 그 자식들이 기습 공격으로 우릴 압도해 버리고는 다음 달을 위해 비축해 둔 캠프의 식량을 잔뜩 털어가 버렸지 뭔가.<br /><em>어퍼 와일드 발디르가드의 캡틴 윌 프리드몬트.</em></p>\n</blockquote>\n<p>고블린은 자연계 구석구석 어디에나 상존해 있지만 그럭저럭 관리할 수 있는, 몸집이 아주 작은 사악한 크리처입니다. (버그베어와 홉고블린을 포함하는) 고블리노이드라고 칭하는 크리처군에 있는 고블린은 평균적인 하플링보다 크지 않은 고약한 인간형 종족입니다. 고블린의 피부색은 밝은 황토색부터 진한 밤색, 역겨운 연두색까지 다양하며, 체모는 가늘고 기름기가 번들거리며, 입에는 금이 가고 날카로운 이빨이 박혀 있습니다. 고블린들은 입에 거품을 문 동료들과 함께 느슨한 집합체나 부족을 형성하여 그들의 힘이 수로 확실히 드러날 수 있도록 합니다. 또한 부족의 삶은 고블린의 혼란스러운 정치 체계로부터 조잡한 계급 제도가 성립되도록 합니다. 고블린은 모두 채집자, 노예주, 전사 등으로서 부족을 위해 무언가 기여합니다. 어떤 기여도 할 수 없다면 죽습니다.</p>\n<p><strong>사회 속에서 살아가는 존재.</strong> 최후까지 변덕을 부리는 고블린은 (고블린들에게 위험할 수도 있는 방식을 포함한) 어떤 수단으로든 그 누구보다 강한 권력과 지배권을 가장 갈망합니다. 충분한 강한 힘이나 명석한 지능이 있는 고블린은 고블린 대장 계급으로 올라가 수십 명의 고블리노이드 동료들로 구성된 본거지의 구성원들에게 명령을 내릴 수 있습니다. 압도적인 야망을 품은 경우, 드물게는 고블린 대장이 근처의 경쟁하는 고블리노이드 부족 본거지를 점령하고는 스스로 고블린 여왕/왕으로 등극하기도 합니다. 특별한 사례 중 하나로, 내장 찢는 자 그렐드 여왕은 수백 명의 오크로 구성된 캠프를 노예로 삼고는 근방의 웨스터홀트 시를 포위하고 도시 전체를 약탈했다는 기록이 보고되기도 했습니다.</p>\n<p><strong>이를 갈고 깨물고, 속임수를 쓰고 함정을 설치하고.</strong> 고블린은 세상에 알려진 중에서는 가장 혼란스러운 본거지를 유지하고 있으며, 이를 위해 아주 많은 수의 노예를 필요로 합니다. 고블린이 약탈한 존재를 모두 죽이는 것은 아닙니다. 고블린과 그 친족은 노예를 소유하는 것으로 알려져 있으며, 자신들의 서서히 확장되는 던전을 건축하기 위해 상인의 마차로부터 붙잡힌 인간들을 납치합니다. 고블린 본거지에는 온갖 종류의 함정, 즉 어디로도 통하지 않는 터널, 인간은 통과할 수 없을 정도로 좁은 통로, 화살 구멍, 안에 못이 박힌 구덩이, 그리고 임박한 모든 위협으로부터 부족에게 경고를 보낼 다수의 경보 체계 등이 있습니다. 고블린은 본거지 내의 혼란스러운 배치를 활용하여 본거지의 중심부에 안전하게 보관되어 있는 어렵게 얻어낸 전리품으로부터 침입자들을 쫓아냅니다.</p>\n<p><strong>그리고 불길 위에서 춤을 춘다.</strong> 고블린은 보통 탐욕스럽고 멍청하게 여겨지긴 하지만, 신앙 구조에서는 이런 혼란스러운 성향을 잠시 접어둡니다. 이들은 특히 고블린의 신, 내지는 저 아래에서 도사리는 자로도 칭해지는 다른 고블리노이드 신격의 최고위 신에게 의존합니다. 이 신은 폭력 행위, 맹목적인 잔혹성, 타인의 노예화, 그리고 고블린의 적과 벌이는 전쟁을 조장합니다. 고블린 부족은 예배 시간에 함께 모여 춤을 추고, 피와 뼈로 의식을 행하고, 거대한 모닥불을 피우고, 그들의 사악한 후원자에 대한 헌신으로 본거지 전체를 혼란에 빠뜨릴 것입니다. 흥청망청 먹고 마시는 연회에 고무된 고블린들은 이후 며칠 동안 극도로 공격적이고 불안정해지며, 자신들이 모시는 신의 잔혹한 갈망을 충족시키기 위해 주변 지역을 휩쓸고 다닙니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>\n"
     },
     "Gold Dragon Wyrmling": {
-      "name": "골드 드래곤 워믈링"
+      "name": "골드 드래곤 유생체",
+      "description": ""
     },
     "Gorgon": {
-      "name": "고르곤"
+      "name": "고르곤",
+      "description": ""
     },
     "Gray Ooze": {
       "name": "그레이 우즈",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Green Dragon Wyrmling": {
-      "name": "그린 드래곤 워믈링",
+      "name": "그린 드래곤 유생체",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Green Hag": {
@@ -539,39 +622,48 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Griffon": {
-      "name": "그리폰"
+      "name": "그리폰",
+      "description": ""
     },
     "Grimlock": {
-      "name": "그림락"
+      "name": "그림락",
+      "description": "<p>그림락은 현대 인류로부터 수백 년의 세월을 거쳐 진화한 지하에 기거하는 몬스터의 한 종입니다. 그림락은 한때 지하 깊숙한 동굴에 도사린 사악하고 타인을 조종하는 데 능한 주인을 섬기는 인간 사교도 무리였습니다. 이 흑마술사들은 사교도들의 정신에 마법적으로 간섭하여 아무것도 예상하지 못하고 있던 이 앞잡이들을 노예나 다름없는 존재로 바꿔 버렸습니다. 그들의 야만적인 주인에게 경의를 표하기 위해, 사교도였던 존재들은 그들의 거짓 신들과 더 가까워지기 위해 식인 풍습을 성스러운 의식으로 받아들이기 시작했습니다. 그러나 이런 노예화와 고립은 사교도들을 변질시켰습니다. 이들의 피부는 창백한 잿빛이 되었고, 굵은 체모가 울퉁불퉁한 몸 전체에 듬성듬성 자라났으며, 미칠 것만 같은 어둠 때문에 새로운 크리처로 거듭난 그림락들은 시각을 상실하고야 말았습니다. 변이가 일어나고 눈이 먼 그림락들은 흔적도 없이 사라진 주인들의 인도 없이 그대로 남겨지고야 말았습니다. 그림락은 지금도 지하 깊숙한 곳을 배회하고 있습니다. 그 얼룩덜룩한 잿빛 피부가 주변 환경의 돌과 비슷해 보이기 때문에, 그림락은 그림자 속에 도사리고 있기를 선호합니다. 바위 꼭대기 위의 높은 곳에 숨은 채로 기다리면서 그림락은 못 박인 손으로 날카롭게 깎은 뼈로 만든 몽둥이를 쥐고 있습니다. 지하 세계로 여행을 하게 될 때면 귀를 기울이십시오. 타락한 주인들을 숭배하는 그림락의 열띤 속삭임이 이들이 살금살금 배회하는 동굴 전역에 울려 퍼지고 있을 테니까요.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>\n"
     },
     "Guard": {
-      "name": "경비대원"
+      "name": "경비대원",
+      "description": "<blockquote>\n<p>“.... 그러더니 그 녀석이 내게 이렇게 말하더군. “믹! 또 왕실 경비대를 속일 수 있다고 생각한 건 아니죠? 이번에는 절대 안 됩니다!” 그렇게 말했지. 글쎄다, 이 미키 어르신은 이런 경우를 대비해서 한두 가지 속임수를 준비해 두고 있거든. 그리고 늙은 머나밴드 대장이 언제나 지껄여대는 퍼플 포지스 스피리츠 한 병이면 속임수를 쓰고 도망칠 필요도 없단 말이지. 미키 텐티스만큼이나 똑똑하고 잘생긴 경비대원은 없다네!”</p>\n</blockquote>\n<p>- 친근한 플럼프 여관에서 엿들은 이야기.</p>\n<p>왕국 국민 중 살면서 경비대원 부류와 아직 한 번이라도 교류해보지 않은 사람이 누가 있을까요? 넓은 지역에 걸친 해안 도시에 거주하는 사람들은 거리를 순찰하고, 출입구를을 지키고, 화물을 검사하고, 물론 공정한 도시의 시민들을 지원(하거나 체포)하는 무장한 경비대를 매일 가까이서 봅니다. 그러나 경비대원은 도시의 성곽이나 문에만 있는 것이 아닙니다. 용병이든 전문직이든, 경비대원은 종종 상대적으로 덜 안정적인 지역을 여행하면서 길을 순찰하고 길 잃은 동물이나 도적 떼를 쓸어버리거나, 소중한 화물이나 중요한 시민을 보호하기 위해 경계하곤 합니다. 이 서적에서 다뤘던 도적이나 사교도처럼, 경비대원은 그 종류가 매우 다양합니다. 많은 경비대원이 고도로 훈련되고 조직된 것처럼 보일 수도 있지만, 대부분의 경비대원은 시장의 번화한 거리에서 몸싸움을 하거나 뒤집힌 마차에서 떨어진 물건을 줍는 도적 몇 명을 해산시키는 것 외에는 별다른 행동을 관찰하지 않는다는 점을 고려해야 합니다. 경비대원은 조직 상부에서 흔히 연상하곤 하는, 머리가 희끗희끗해진 단련된 전직 군인 유형의 인물들이 아닙니다. 젊은 모험가여, 세심하게 관찰하고 법의 경고를 주의 깊게 관찰하십시오. 그대들의 악랄한 시선에 경비대원은 별다른 위협처럼 보이지 않을 수도 있지만, 도시의 지하 감옥에서 기다리고 있는 것들은 이런 위협을 감수할 가치가 없을지도 모릅니다!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Guardian Naga": {
-      "name": "가디언 나가"
+      "name": "가디언 나가",
+      "description": ""
     },
     "Gynosphinx": {
-      "name": "가이노스핑크스"
+      "name": "가이노스핑크스",
+      "description": ""
     },
     "Half-Red Dragon Veteran": {
-      "name": "하프 레드 드래곤 베테랑"
+      "name": "하프 레드 드래곤 베테랑",
+      "description": ""
     },
     "Harpy": {
       "name": "하피",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Hawk": {
-      "name": "매"
+      "name": "매",
+      "description": "<p>Following from our studies of the eagle comes to the smaller yet no less deadly hawk. Another bird of prey, the hawk may be differentiated from eagle species by its smaller frame. Hawks on average weigh no more than eight pounds and have a wingspan of only five feet. These miniscule raptors bear dark brown to deep red plumage unlike the eagle's most common golden hue. Several species of these birds of prey have been observed employing different tactics in their hunting patterns as well; while the mighty eagle soars down from on high and lifts its prey off into the air with it, hawks prefer to lurk in the cover of trees, waiting for the opportune time to swoop in and surprise their prey from the shadows. Due to their keen eyesight as well as their smaller profile, hawks have been utilized as messenger birds by desert cultures for centuries. Clever and loyal, the hawk may be an option for the adventurer who prefers a raptor who enjoys the cover of shadows and stealth to aid them in their hunts.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Hell Hound": {
       "name": "헬 하운드",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Hezrou": {
-      "name": "헤즈로우"
+      "name": "헤즈로우",
+      "description": ""
     },
     "Hill Giant": {
-      "name": "언덕 거인"
+      "name": "언덕 거인",
+      "description": ""
     },
     "Hippogriff": {
       "name": "히포그리프",
@@ -582,23 +674,28 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Homunculus": {
-      "name": "호문쿨루스"
+      "name": "호문쿨루스",
+      "description": "<blockquote>\n<p>Begin your ritual in complete silence and scribe the runic circles upon the floor of your chamber in pure white chalk. Next, mold a simple poppet of your desired servant out of wet clay pulled from a local source and place the poppet into the center of your circle making sure it sits upright. Employing the use of a tool, grate your mandrake root into a fine powder and sprinkle the root mixed with both the ashes of your hearth and blood drawn fresh from your body around the runic circle rotating in a counterclockwise motion. With this completed, place your hand within the circle and speak your servant's chosen name to command it into life. Should you follow these instructions to the letter, your homunculus will spring to life in an instant.”<br /><em>- Copied from a faded page of Minions and the Menial: Your Guide to Magical Companions.</em></p>\n</blockquote>\n<p><strong>Alchemical Aids.</strong> A homunculus is a manner of minor construct not uncommon to mages and artificers. These squirrel sized companions are molded out of wads of clay and given life through a rare ritual taught to more experienced spellcasters. The homunculi have the extraordinary ability to experience the thoughts and senses of their master as the two share a special telepathic bond that may only be broken in death of if one of the parties ventures to a separate plane of existence. The homunculus is also gifted a language upon awakening and may act as a servant, spy, or even simple messenger for their master. It is not at all uncommon to see those in possession of a homunculus to utilize them in completing simple chores about their abodes so the spellcaster may focus on more tedious tasks. An odd caveat of this homunculus ritual is that the spellcaster may only be in possession of one clay companion at a time; should the caster attempt to create a new homunculus the process with always fail. Unless the creature or spellcaster dies, it will remain at the caster's side as a loyal companion for the whole of their life.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Horned Devil": {
-      "name": "혼드 데빌"
+      "name": "혼드 데빌",
+      "description": ""
     },
     "Hunter Shark": {
       "name": "사냥꾼 상어",
       "description": "<p>사냥꾼 상어는 거대 상어보다는 작고 암초 상어보다는 크고 사나우며, 깊은 물속에서 자주 나타납니다. 보통 혼자서 사냥하지만, 같은 구역에서 여러 사냥꾼 상어들이 먹이를 먹기도 합니다. 다 자란 사냥꾼 상어는 15~20 피트 정도의 길이입니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Hydra": {
-      "name": "히드라"
+      "name": "히드라",
+      "description": ""
     },
     "Hyena": {
-      "name": "하이에나"
+      "name": "하이에나",
+      "description": "<p>The hyenas who roam the grasslands and deserts of our natural world are perhaps some of the most curious non-magical creatures to exist. Hyenas resemble a medium sized dog with a short, wide muzzle and overly long neck. Adorned with patterns of spots or stripes marking their fur, to the untrained eyes a hyena would appear to be nothing more than a wild dog; however, these curious creatures are more closely related to wildcats in their behavior with fellows. Hyenas communally groom unlike several wild dog species and display similar scent marking and mating patterns as other feliforms. These sorts of behaviors build a solid community within the hyenas' pack, sowing tight knit bonds between the beasts.</p>\n<p><strong>Give Us a Smile.</strong> Hyenas display a unique characteristic in their vocalizations between the pack; instead of a yowl or bark as one would expect, the hyenas instead communicate via yips, chirps, and “laughs”. Each member of the pack has its own unique “laugh” which signals to the pack both their identity and current mood. These chittering “laughs” have given the hyena (regardless of species to commoners) the moniker of The Laughing Hyena. One should instead feel caution over joy should you hear the caterwauling yips of a hyena pack in the distance. These beasts are highly intelligent and when banded together and utilizing their preferred hunting patterns they may easily overtake a large mercantile caravan.</p>\n<p><strong>The Hungering Savagery.</strong> The hyena's most sinister aspect is their relation to the Demon Lord of the Gnolls, Yeenoghu. Gnolls, of course, resemble massive humanoid hyenas brandishing bloody weapons and sowing destruction in their horrid wakes. Finding the hyena either useful or ironic, Gnolls will bring packs of slavering hyenas with them on raids into villages or leave the beasts (which they purposefully starve) at their dens to kill any unwary explorers. Adventurers should be observant when investigating the happenings of hyenas in an area, as if the beasts seem more ravenous than expected it may be that Yeenoghu's minions are not far behind.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Ice Devil": {
-      "name": "아이스 데빌"
+      "name": "아이스 데빌",
+      "description": ""
     },
     "Ice Mephit": {
       "name": "아이스 메핏",
@@ -609,32 +706,40 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Invisible Stalker": {
-      "name": "보이지 않는 스토커"
+      "name": "보이지 않는 스토커",
+      "description": ""
     },
     "Iron Golem": {
-      "name": "강철 골렘"
+      "name": "강철 골렘",
+      "description": ""
     },
     "Jackal": {
-      "name": "재칼"
+      "name": "재칼",
+      "description": "<p>Jackals are a species of wild dog who roam the deserts and wilting grasslands of our planet. Jackals are closely related to coyotes, the two species commonly hunt and travel through similar territories causing confusion among untrained researchers. Often a bright golden to light beige tone, the jackal's fur is marked with notable black stirpes which run horizontally in thick bands across the beasts' bodies. Jackals have a unique social structure among canids as they most often shirk life with a pack in favor of finding a singular, monogamous mate with whom they remain in a wide territory. This is not to say that some jackals do not form packs; however, it will be more common in your travels to spot a bachelor or breeding pair rather than a whole cluster of these beasts. Much like the savannah's hyenas, the jackal does not escape the skeptical eye of the trained adventurer as the warning sign of evil upon the horizon. Gifted sentience and the ability of shape-changing by the Demon Lord Graz'zt, newly created beasts dubbed Jackalweres resemble humanoid jackals in their hybrid forms. Now bound to the Demon Lord, the Jackalwere assumes the life of a slaver, plucking unsuspecting humanoids from their comfortable lives by rendering them helpless under the Jackalwere's magical, sleep inducing gaze. Beware young adventurers, for the small jackal you see feasting upon carrion by the road's edge may be the servant of a demonic overlord in magical disguise.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Killer Whale": {
       "name": "살인 고래",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Knight": {
-      "name": "기사"
+      "name": "기사",
+      "description": "<p>Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Kobold": {
-      "name": "코볼드"
+      "name": "코볼드",
+      "description": "<blockquote>\n<p>\"... I still have the damnable sting blisters from their catapults. WASPS! WHAT CREATURE PUTS WASPS IN BAGS AND THROWS THEM AT YOU?! Next Kobold I see I'm turning to paste…\"<br />- Guard Captain Nathaniel Greenbow, interviewed for this bestiary.</p>\n</blockquote>\n<p>Kobolds are conniving, cowardly humanoids of a reptilian appearance who infest the dungeons, catacombs, and caverns of our world. Appearing as tiny dragonoids with scaled flesh and crocodile-like snouts, Kobolds are perhaps more clever than their outward appearance would lead one to believe. Within their tiny heads (as the creatures stand no more than two and a half feet tall) lies a brain churning with myriad ideas, though many include idiotically dangerous schemes. It is not uncommon for many Kobolds to perish before their first complete decade of life.</p>\n<p><strong>Mob Mentality.</strong> Kobolds, much like rodents, breed at an astonishingly quick rate as compared to other humanoid species. Egg-layers like their draconic kin, Kobolds mature rapidly upon emerging from their shells, and assume their place within the ranks of their chittering society. Even upon reaching maturity, however, the Kobold is still a weak creature causing the colonies to stick together when exploring or hunting. Though Kobolds may defeat larger foes with sheer numbers, it is often at the cost of massive casualties on the Kobold's side. This, of course, hardly deters the resentful Kobolds, who have more eggs incubating away with the next infantry reinforcements just moments away from joining the fold.</p>\n<p><strong>Launch the Centipult.</strong> Stupid yet clever, Kobolds truly excel at two things: burrow-making and creating traps for unwary adventurers. Traps, of course, are the Kobold's speciality and they take relish in littering their lairs with copious defenses hewn from the natural resources of their home. Perhaps crushing logs were torn from the rafter struts of an abandoned temple, or carnivorous insects were placed into dropping ceramic pots to smash down upon foolish intruders. Never underestimate the ability of a Kobold to find some unsuspected way to impede your progress.</p>\n<p><strong>Trade Offs.</strong> Though strong in numbers, Kobolds may be defeated in several ways. Firstly, the creatures are born and mature within near total darkness, thus the sun weakens them and blinds their sensitive eyes. Kobolds are also nigh defenseless without the aid of their allies at their backs; often a lone Kobold with attempt to scurry away should they be caught out without their pack. Greedy and determined when it comes to self-preservation, Kobolds may be easily manipulated with smooth talk or a shiny trinket to line their pockets. Draconic in nature as well, the scuttling dragonoids can be used as crude translators of the dragon's tongue should you require such services on your journey.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Kraken": {
-      "name": "크라켄"
+      "name": "크라켄",
+      "description": ""
     },
     "Lamia": {
-      "name": "라미아"
+      "name": "라미아",
+      "description": ""
     },
     "Lemure": {
-      "name": "레뮤어"
+      "name": "레뮤어",
+      "description": "<blockquote>\n<p>Avernus, the realm of fire and blood, revealed itself to me in a wave of heat and the wails of the unfortunate. As I peered into the first circle of the Nine Hells I did spy the quarry of my search with relative ease, The Maggot Pit. Here, deep within the valley of a parched and cracking mountain range lay a pit perhaps a mile in diameter, flanked all around by devilish guards. Within the milky pit writhed millions of ghostly pale worms, biting and squirming beneath their fellows. It was here that the lowly devils did bring up cart after cart piled high with the wretched and weakened souls of the pitiful dead, who were unceremoniously prodded to the edge of the pit and thrown within the writhing “waters” below. The sight of the lamentable being that emerged from that pool haunts my visions to this very day… <br /><em>- Alaband the Curious, Mage in the Circle of the Constellar.</em></p>\n</blockquote>\n<p>Wretched and foul, the Lemure is perhaps the weakest being to emerge shrieking from the Nine Hells into our plane of existence. Lemures resemble nothing more than a living ooze which has attempted to take the form of something vaguely humanoid. A malformed head with humanoid features sits atop the puddle of a creature, its pink and rotting flesh slithering beneath two stunted arms. Only able to cry out incoherently, the Lemure acts at the whim of its infernal masters, reduced in this form to a babbling fool. These creatures are the first troops sent through to another plane as the infantry in a never ending war which the Archdevils of the Nine Hells wage upon their foes. Though the Lemure has nearly no will of its own, the creature does have the strength to return to life should it be killed within its home of the Nine Hells. Be sure to pack a fair portion of holy water or utilize a Bless incantation should you slay on of these beasts in the realm of the devils, lest it only return to life within the Maggot Pit a few days after its demise.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Lich": {
       "name": "리치",
@@ -645,13 +750,16 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Lizard": {
-      "name": "도마뱀"
+      "name": "도마뱀",
+      "description": "<blockquote>\n<p>“이봐요 거기 굿베리 구경꾼 씨! 내 새로운 귀걸이 좀 봐요!”\n<br /><em>내가 여행을 다니는 동안 귓불에 도마뱀을 매달고 온 어느 노움 거주민의 말.</em></p>\n</blockquote>\n<p>숲에서 산봉우리에 이르기까지, 모든 지역에 서식하는 가장 흔한 파충류는 물론 도마뱀입니다. 물론 이 책을 읽는 모든 사람에게 친숙할 이 네 발 달린 친구는 무수히 많은 다양한 품종과 크기가 있습니다. 이 작은 파충류를 매우 독특하게 만드는(그리고 훌륭한 패밀리어 중 하나가 될 수 있게 하는) 요소 중 하나는 다양한 표면에 달라붙는 능력입니다. 능숙하게 등반할 줄 아는 도마뱀은 깎아지를 듯한 표면을 오르고 패밀리어의 주인이 관측을 위해 원할 만한 숨겨진 유리한 장소를 찾아낼 수 있습니다. 어떤 종류의 도마뱀은 피부의 색깔을 바꿀 수 있으므로, 더 많은 속임수를 쓸 수 있습니다! 그러나 보잘것없는 도마뱀은 대부분의 인간형 종족에게 그저 성가신 것 정도이기 때문에, 공격에는 별다른 도움을 제공하지 못합니다. 현명한 주인이 세계를 관찰할 수 있도록, 도마뱀은 그림자 속에 두는 편이 가장 좋을 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Lizardfolk": {
       "name": "도마뱀인",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Mage": {
+      "name": "Mage",
+      "description": "<p>Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.</p>\n<p></p>"
     },
     "Magma Mephit": {
       "name": "마그마 메핏",
@@ -670,16 +778,20 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Marilith": {
-      "name": "마릴리프"
+      "name": "마릴리프",
+      "description": ""
     },
     "Mastiff": {
-      "name": "마스티프"
+      "name": "마스티프",
+      "description": "<p>Mastiffs are a large, muscular breed of loyal canine who are often found standing dutifully at their Master's side or guarding precious cargo upon less secure roads. Standing tall with a soft, tan coat, Mastiffs are often identified by their wrinkled and jowly face, the jaws of which are constantly oozing a steady stream of hot drool. Mastiffs are intelligent companions who can be trained from an early age as guard and hunting animals. Armed with stout jaws lined with deadly sharp teeth, a Mastiff is certainly a worthy challenge for any bandit who dares to run afoul the dog's Master. I have even observed these dogs working as beasts of burden and comfortable mounts for the smaller folk (halflings and gnomes) of the countryside. Here, the Mastiff replaces the horse in such duties as pulling carts, working as plow animals, and delivering parcels as swift courier beasts. Should you need a companion not bent towards droning conversation, perhaps indulge in a Mastiff to keep you company upon the lonely roads of our world. Just… watch out for the drool.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Medusa": {
-      "name": "메두사"
+      "name": "메두사",
+      "description": ""
     },
     "Merfolk": {
-      "name": "어인"
+      "name": "어인",
+      "description": "<p>Adorned in shells and brightly hued aquatic plants, the Merfolk who inhabit the oceans of our world are truly unique in their evolution. Though many modern researchers do not abide by this tale, it is rumored that Merfolk evolved from a colony of humans whose city sank below the waves in a catastrophic accident. The Merfolk themselves, however, choose neither to confirm or deny this tale. Very basically, Merfolk resemble an average humanoid with a few key differences. Where one would expect to find legs beneath the torso of a human, they would instead find the powerful tail of a relatively sized fish. Merfolk also have frilled gills adorning their necks allowing them to breathe the salty waters of the ocean's depths. Several additional fins grace the Merfolk's lithe body about the biceps and hips. Upon the Merfolk's humanoid head rests a single, large frill webbed by translucent skin which may raise or fold back depending on the Merfolk's mood.</p>\n<p><strong>Murmaider.</strong> Merfolk live along the coastal waters of continental shelves, rarely allowing themselves to drift down into the darker depths of the ocean's abyss. Here in the more shallow tides, the Merfolk build their homes into thriving coral reefs, labyrinthian undersea caverns, and even the hollowed out remains of once coastal cities or sunken vessels. Anywhere shrouded from the view of prying land-dwellers makes the perfect home for a Merfolk. The Merfolk's reclusiveness is so well known, that mariners would tell fanciful tales of meeting a Merfolk for a midnight tryst, only to be abandoned at sunrise by the elusive creature. Most of the mariner's fellows would shove the notion aside, having never seen a living or dead Merfolk in all their years at sea. This is not to say that Merfolk will flee from intruders should an unfortunate landlubber find their way into a Merfolk's abode. Armed with spears of sharpened coral and powerful webbed hands ending in dagger-like barbs the Merfolk are well equipped to defend themselves within their aquatic homes. Take care on the open seas, adventurer, and never run afoul of the Merfolk.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Merrow": {
       "name": "메로우",
@@ -690,13 +802,16 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Minotaur": {
-      "name": "미노타우르스"
+      "name": "미노타우르스",
+      "description": ""
     },
     "Minotaur Skeleton": {
-      "name": "미노타우르스 스켈레톤"
+      "name": "미노타우르스 스켈레톤",
+      "description": ""
     },
     "Mule": {
-      "name": "노새"
+      "name": "노새",
+      "description": "<p>Mules are sturdy beasts of burden whom thrive in any climate of our marvelous world. The offspring of a horse and donkey, the now sterile, stubborn mule provides a plentiful sum of benefits from both of its progenitors. Mules can be difficult to tell apart from the common donkey; however, they are easily identified by several features: Mules are taller on average than a donkey with a flatter spine and shorter ears in comparison to a donkey's notoriously floppy ears. Something they retain from their parents is their surefooted nature, allowing mules to pass through difficult terrain such as muddy trails and rocky outcrops with more ease than other beasts. Beware the ass-end of this quiet creature, however, as mules have a mighty kick which they can deliver at force behind themselves much like a horse. Mules make excellent beasts of burden for the traveling merchant or road-bound adventuring party who needs an extra hoof or four to carry along their well-earned spoils. Why not take a mule, young adventurer, should you wager your next gambit at the hands of the goblins will provide you with ample reward?</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Mummy": {
       "name": "미라",
@@ -707,7 +822,8 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Nalfeshnee": {
-      "name": "날페쉬니"
+      "name": "날페쉬니",
+      "description": ""
     },
     "Night Hag": {
       "name": "밤의 마녀",
@@ -718,66 +834,80 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Noble": {
-      "name": "귀족"
+      "name": "귀족",
+      "description": "<p>Nobles, those of our nations born with a silver spoon in their mouths and the wealth with which to buy influence and power across the world. Nobles can run the gamut of humanoid races, so long as these folks have the wealth to back up their claim to a noble title. Not all nobles are born into wealth however; in rare cases nobles may earn their status by dedicated work to the lords of their regions or by simply having titles given to them via friends finding themselves in positions of power. Through all of the perfume and powders adorning a noble's body, no stink is so ever present as that of corruption wafting just below the flowery mask.</p>\n<p><strong>Entourage.</strong> Nobles rarely travel alone outside of their massive estates, prefering to be flanked by a retinue of trained bodyguards and faithful servants. This should always be kept in mind when dealing with nobles; there is never simply the nobleman/woman alone beyond their estate walls. Should a brigand be fearsome enough to make it through the noble's well-paid defenses, the monied elite is certainly a force to be reckoned with. Noble-birthed children receive some of the finest martial training in the land from an early age and are well equipped to strike back with sword or rapier. Keep an eye on your own footwork should you misstep and leave yourself open to a noble's well practiced parry. Be mindful of whom you may approach in a fight, as a noble has so much more to offer than their warm blood spilt carelessly upon the earth.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Ochre Jelly": {
       "name": "오커 젤리",
       "description": "<p> </p>"
     },
     "Octopus": {
-      "name": "문어"
+      "name": "문어",
+      "description": "<p>A highly developed sea creature, the octopus is a common fixture of the seas and coastlines. These octopods resemble nothing more than a wet piece of bulbous taffy with eight sprawling tentacles slithering out of its central body. Upon this gelatinous body lie two observant eyes and were one to look underneath the creature they would find a sharpened bird-like beak ready to steal a probing finger away. Octopi are solely waterborne animals due to their inability to breathe air, though with effort they may remain upon land for very short durations. Sailors find pleasure in attempting to take these intelligent beasts for pets, only to find that the octopus has escaped whatever confines it was stored in time and time again. As long as an opening is as wide as its hard chitinous beak, the moldable octopus' body will follow into inconceivably tight spaces.</p>\n<p>Many breeds of octopus also bear special pigmentation cells which expand and contract to change their body's color. This provides the octopus with an advantage when hunting for its prey of fish and crabs as they can blend in almost seamlessly with the ocean floor or a bed of coral. Rather than outright fight (unless left with no choice) the octopus has the unique defense of spraying a cloud of ink from the underside of its body to blind its foes and make a speedy escape. Do consider the octopus as a worthy familiar form should you find yourself at sea for an extended time!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Ogre": {
-      "name": "오우거"
+      "name": "오우거",
+      "description": ""
     },
     "Ogre Zombie": {
-      "name": "오우거 좀비"
+      "name": "오우거 좀비",
+      "description": ""
     },
     "Oni": {
-      "name": "오니"
+      "name": "오니",
+      "description": ""
     },
     "Orc": {
       "name": "오크",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Otyugh": {
-      "name": "오트여그"
+      "name": "오트여그",
+      "description": "<p>An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw. An otyugh buries itself under mounds of offal and carrion, leaving only its sensory stalk exposed. When an edible creature happens by, the otyugh's tentacles erupt from the filth and grab hold of it. Otyughs make the most of any opportunity to ambush and devour prey. They use a limited form of telepathy to urge sentient creatures toward their lairs, sometimes by pretending to be something else.</p>\n<p><strong>Dwellers in Darkness.</strong> Otyughs tolerate bright light only when considerable stores of carrion or garbage lie within reach. In the wilderness, they dwell in stagnant swamps, scum-filled ponds, and damp forest dells. The scent of graveyards, city sewers, village middens, and manure-filled animal pens attracts them to civilized areas. Since otyughs lack concern for anything but food, their nests sometimes accumulate a variety of treasures shed from their victims and mixed among the junk.</p>\n<p><strong>Symbiotic Guardians.</strong> Sentient subterranean beings can coexist with otyughs, employing them as garbage disposals. With such plentiful sustenance, otyughs grow fat in their wallows, unmoved by any other drive or desire. This sedentary gluttony makes them reliable guardians. As long as it is fed, an otyugh refrains from attacking other creatures. However, would-be otyugh masters can easily underestimate the quantity of waste, carrion, and meat necessary to keep an otyugh from wandering off in search of food. More than one \"trained\" otyugh has eaten its keeper after devouring all the waste in its wallow.</p>"
     },
     "Owl": {
-      "name": "부엉이"
+      "name": "부엉이",
+      "description": "<p>Owls are staple birds within our realm, as their mysterious gaze and quiet nature lends them as favorite pets to those of the arcane world. Owls are medium-sized birds of prey with flat, disk shaped faces and large dark eyes. A sharp beak sits at the center of their ovular face, built for tearing the flesh of small rodents. As deadly as they are silent, owls are nocturnal beasts who hunt from the shadows of treetops, barn lofts, or simply high above in an open field. Owls are able to fly in near silence due to a set of specialized feathers along their wing-tops, giving them the ability to glide down and surprise an unsuspecting vole without ever being heard. Owls are not the most sociable creatures, preferring to keep to their roosts in solitude making them treasured by arcanists as the bird primarily sits quietly throughout the day, lost in sleep. Owls also have a unique vocalization among birds, emitting a mournful hoot-hoot sound rather than the typical songbird tweeting. Perhaps consider the owl should you be uninterested in sociable animals or if you wish to send messages in relative secrecy in the dead of night.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Owlbear": {
       "name": "부엉이곰",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Panther": {
-      "name": "팬서"
+      "name": "팬서",
+      "description": "<p>Panthers are large stealthy jungle cats who tread silently and ambush their quarry from the cover of the shrouded jungle foliage.  Coming in coat varieties of tawny and yellow splotches to pure, midnight black, panthers are characterised by their sleek, short haired bodies and large canine teeth utilized for piercing and tearing.  These cats come armed with a full set of retractable claws at the end of muscular paws the size of dinner plates.  Panthers are among the deadliest predators lurking within the jungle.  Though stealthy, panthers may be easily scared away by persistent humanoids if the beast is not defending a fresh kill as the creature knows when to fight and when to flee should the odds not be in the panther's favor.  Panthers are swift climbers as well and have the ability to haul a fully grown antelope corpse up and into a tree to be consumed in privacy.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Pegasus": {
-      "name": "페가수스"
+      "name": "페가수스",
+      "description": ""
     },
     "Phase Spider": {
-      "name": "페이즈 거미"
+      "name": "페이즈 거미",
+      "description": "<p>A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Pit Fiend": {
-      "name": "핏 악마"
+      "name": "핏 악마",
+      "description": ""
     },
     "Planetar": {
-      "name": "플래네타"
+      "name": "플래네타",
+      "description": ""
     },
     "Plesiosaurus": {
       "name": "플레시오사우르스",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Poisonous Snake": {
-      "name": "독사"
+      "name": "독사",
+      "description": "<p>Snakes rank among the most plentiful and diverse reptiles to slither across our planet's surface. Resembling nothing more than a scaly worm at first look, snakes are actually highly developed predators who slither across the ground in order to stealthily hunt their prey of smaller reptiles, rodents, and birds. Though there are many species of snake, we will only discuss the poisonous varieties within this article. Poisonous snakes bear a marked identifier separating them from their nonpoisonous brethren: the shape of their pupils. While snakes lacking venom glands have rounded pupils, those snakes with a venomous bite have slitted pupils much like those of a common domestic cat. The devious snake, however, has so much more beneath its scaly surface.</p>\n<p><strong>Don't Tread on Me.</strong> Ever camouflaged both by their similarities to roots, sticks, or branches as well as the marvelous patterns of black, browns, greens, and tans speckling their hides, snakes are masters of blending into their surroundings. Even perched on a rock to warm their bodies in the heat of the sun, snakes can certainly be missed by just a passing glance. While the creature's eyesight is relatively poor, snakes have adapted an amazing ability to sense the world around them. Snakes \"smell\" with their tongues! Yes, by flicking their tongues out of their mouths with a fascinating flourish, these reptiles are able to smell prey or predators in their environment by collecting the miniscule scents on their tongues. Within the snake's mouth lies its most deadly asset in the form of two, hollow fangs. Snakes prefer to strike from the shadows, allowing their quiet method of travel to get them close enough to their prey to avoid a fight. The creature then lashes out in the blink of an eye, catching the unwary prey in their jaws while injecting them with a controlled dose of highly toxic venom through their hollow fangs. Then it's only a matter of moments until the poor creature is left dead by the snake's potent toxins. While the majority of snake species are not deadly to humanoids, caution is advised for those not well versed in identifying reptiles. Antidote should always be carried in areas known to house populations of poisonous snakes, just in case.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Polar Bear": {
       "name": "북극곰",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Pony": {
-      "name": "조랑말"
+      "name": "조랑말",
+      "description": "<p>Sturdy and dutiful, ponies represent a small fraction of the horse breeds currently catalogued. It should be clear that for all identification purposes, ponies are not young horses. Ponies are classified by the naturalists of our lands as any horse who is under a height of 14 hands total. Thus, ponies are simply nothing more than small horses. Ponies often make treasured gifts to the children of upper class society as they are prized for their beauty and calm demeanor. Ponies are also used by the small folk of the realm in a way very similar to how a human would utilize a full-sized horse. It seems the relative scale of the pony is quite pleasing to the halflings and gnomes. I would thus ask you to look for our entries on draft horses, war horses, or simply horses to learn more about the varieties of horses who are described there in further detail.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Priest": {
       "name": "성직자",
@@ -788,23 +918,28 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Purple Worm": {
-      "name": "퍼플 웜"
+      "name": "퍼플 웜",
+      "description": ""
     },
     "Quasit": {
       "name": "콰짓",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Quipper": {
-      "name": "퀴퍼"
+      "name": "퀴퍼",
+      "description": "<blockquote>\n<p>There was a rumor, started by some Svirfneblin culture centuries ago, which stated a swarm of hungry quippers could devour an entire horse in under a minute. No one has yet volunteered to sacrifice their beast to the swarm to test this boast to date.<br /><em>- A note on my studies in the Underdark.</em></p>\n</blockquote>\n<p>The Quipper is a variety of carnivorous fish found in almost any body of water regardless of location. Approximately the size of an adult human's fist, these tiny beasts are ravenous when they sense any scrap of food is nearby. The quipper's jaw is lined with a jagged row of dagger-sharp teeth which they use to strip flesh from bones at lightning speed. The quipper's ability to see even within the darkness of a frigid cavern lake makes them extremely deadly to the unwary traveler who takes an accidental plunge into the darkened waters. Though it is not entirely unheard of to see quippers on their own it is far more common that they travel in swirling swarms. These clouds of razor-toothed fish can sense blood in the water from great distances, able to sniff a single drop of the life giving fluid in over 200 liters of water. I suggest that any adventurer steer well clear of any water they are not certain is free of quippers.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Rakshasa": {
-      "name": "락샤사"
+      "name": "락샤사",
+      "description": ""
     },
     "Rat": {
-      "name": "쥐"
+      "name": "쥐",
+      "description": "<p>Denizens of filth, scavengers in our sewers, and vectors of contaigens, no singular animal may present such impact upon humanoid life as does the rat. Common place from the sprawling urban metropolis to the tiny barn of a poor farmer, rats inhabit every nook and cranny they may scurry in to. These small rodents, who can range in size from no bigger than your palm to the length of a forearm (with tail included) are quite ingenious little thieves. Rats are able to compress their bodies in such a manner that they can fit through spaces as small as the gap in the bottom of your door. Able to swim and navigate in the dark, some rats have been observed climbing out of small plumbing pipes, having scampered through the length of the tunnel to make it inside a merchant's abode.</p>\n<p><strong>Rats Off to You.</strong> While many may dismiss the rat as nothing more than a common pest, even those not utilized as magical familiars are highly intelligent little creatures. Researchers have observed rats completing complex mazes, solving lever-action puzzles, and understanding the world around them to a degree unseen in other animals. A clever street-dweller could certainly train a rat to filch food or a few shiny coins from an unwatched coin purse, should the rat get adequate reward itself. Do be wise in your selection of companion, however, as some rats carry deadly diseases from insects that nestle in their short fur. Along with its sharp, clinging claws, the rat packs a powerful bite thanks to its elongated incisor teeth. Be observant, young hero, should you see a rat nearby, for the simple creature may house a secret within its black, unblinking eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Raven": {
-      "name": "갈까마귀"
+      "name": "갈까마귀",
+      "description": "<p>Ah yes, a personal favorite of this author, the raven is a singularly noble and clever bird vested in a shroud of twilight. The ebony feathered bird reaches height of nearly two and a half feet tall and bears a thick, dark beak which is perfectly utilized in its scavenging diet of carrion, unattended grains, and insects. However, something truly special lurks behind the dark abyss of this bird's eyes. Should you be prepared, adventurer, the effort put into training the raven will be given back tenfold.</p>\n<p><strong>Musings and Mimicry.</strong> Ravens are unique specimens among birds; by listening intently and practicing often the raven is able to mimic sounds it hears perfectly. From noises of forest animals to the precise timbre of their master's call, ravens are among the most seamless mimics to be found in the animal kingdom. Truly adventurer, the possibilities to employ the raven's mimicry are nearly limitless! You may see another example of this perfect mimicry in a larger cousin to this bird as well: the humanoid Kenku. Raven-like in form these little humanoids share the feathers and large beaks of their brethren, as well as their ability to copy the sounds of the world around them. Consider a second listen when you hear a voice but cannot place its location, for perhaps the raven speaks from the rafters above you, upon a midnight dreary.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Red Dragon Wyrmling": {
       "name": "레드 드래곤 워믈링",
@@ -815,17 +950,20 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Remorhaz": {
-      "name": "레모래즈"
+      "name": "레모래즈",
+      "description": ""
     },
     "Rhinoceros": {
       "name": "코뿔소",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Riding Horse": {
-      "name": "승용마"
+      "name": "승용마",
+      "description": "<blockquote>\n<p>A horse is a horse, of course of course.<br /><em>Dolan Dullard's Book of Actual Rhymes</em></p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Roc": {
-      "name": "로크"
+      "name": "로크",
+      "description": ""
     },
     "Roper": {
       "name": "로퍼",
@@ -848,14 +986,16 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Salamander": {
-      "name": "샐러맨더"
+      "name": "샐러맨더",
+      "description": ""
     },
     "Satyr": {
       "name": "사티르",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Scorpion": {
-      "name": "전갈"
+      "name": "전갈",
+      "description": "<p>Scorpions are one of nature's odd mismatches of evolution which then successfully thrives within our natural world. Cousin to the common spider, a scorpion bears nearly no resemblance to the web-spinner beyond its eight legs. Scorpions host a segmented body that culminates in a long, knob-ended tail bearing a needle-like stinger upon its end. This stinger bears a venomous toxin which can range from mildly irritating to direly deadly depending upon the species. At the other end of the scorpion's body lay two crab-like claws that aid it in gripping prey while the scorpion's venom works through the unfortunate insect's body.</p>\n<p><strong>Chitin and Hate.</strong> Scorpions may live in a variety of environments, but they are most numerous in deserts and dusty plains. These little arachnids find solace from the harsh rays of the sun within scrub brush, under rocks, and within stolen burrows deep below the earth. From these nestled hideouts the scorpion can quickly lash out at any unsuspecting morsel who wanders into their domain. Make doubly sure to carry an antitoxin in your pack when venturing out into the desert, adventurer, for within a hero's sturdy boots is one of the scorpion's favorite places to hide.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Scout": {
       "name": "척후병",
@@ -866,68 +1006,84 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Sea Horse": {
-      "name": "해마"
+      "name": "해마",
+      "description": "<p>Seahorses are one of the most docile and beautiful creatures in all of our oceans. Seahorses sport a narrow, long body ending in a curled tail with which they cling to sea plants. The seahorse's head is long and narrow (resembling its land-dwelling namesake) tipped with a flute-like nose. Seahorses lack many of the supportive fins in comparison to other sea creatures, rather they have one long fin along their spine and two miniscule fins on opposite sides of their torsos which allow the tiny creatures to propel themselves through the water. Unfortunately these docile creatures do not make the best familiar choices as they only inhabit tropical, shallow waters to utilize the cover of corals for protection. Seahorses should be observed and enjoyed, but I would advise endangering your familiar by placing it into this beautiful little form.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Shadow": {
       "name": "섀도우",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Shambling Mound": {
-      "name": "솀블링 마운드 "
+      "name": "솀블링 마운드 ",
+      "description": ""
     },
     "Shield Guardian": {
-      "name": "실드 가디언"
+      "name": "실드 가디언",
+      "description": ""
     },
     "Shrieker": {
-      "name": "쉬리커"
+      "name": "쉬리커",
+      "description": "<p>Shriekers are the most common natural alarm systems found deep within the caverns of the Underdark. Shriekers are massive, humanoid sized mushrooms with porous caps bearing an off-white coloration. Should the Shrieker remain completely still, no observer save those versed in Underdark mycology would notice that this fungus serves another purpose. Upon coming into contact with the Shrieker (typically within a distance of thirty feet) the mushroom will emit a loud, high pitched screech which can alert any creature within three hundred feet in all directions. Tread with caution through the mushroom patches of the Underdark adventurers, should stealth fail you, the Shrieker will be there to alert any foe within earshot!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Silver Dragon Wyrmling": {
-      "name": "실버 드래곤 워믈링"
+      "name": "실버 드래곤 워믈링",
+      "description": ""
     },
     "Skeleton": {
-      "name": "스켈레톤"
+      "name": "스켈레톤",
+      "description": "<blockquote>\n<p>The first time you see those hollow sockets staring back at you with some semblance of thought inside the skull, I advise to quash any feelings of accomplishment.  The skeletal servant you have raised is little more than a brainless husk.  Without proper, and I mean proper, instruction, the bones in front of you might as well have remained dusty upon the floor.  Explain the orders carefully and lay out the steps of your new servant's tasks with exceeding care.  Also, should you catch your skeletal friend partaking in the activities of their former life, do not scold them.  The mundane routine of chopping wood or swinging a hammer can allow for more malleable servants as time continues.<br /><em>The Book of Dark Servants, Vol III.</em></p>\n</blockquote>\n<p>Skeletons are beings raised into undeath by the will of necromantic magic.  The necromantic magics used within the ritual can either be cast by a trained hand or simply seep into the bones of the skeleton in areas of concentrated death.  Cemeteries, catacombs, and battle fields are all subject to the sporadic rising of skeletons into their new lives.  The magic not only keeps the skeleton “living”, but it also binds joints and bones together like spectral ligaments.  With its second life, the skeleton acts as a semi-mindless creature serving its master's will.</p>\n<p><strong>Spooky Scary.</strong> For the up and coming necromancer, skeletons make worthy guards for a hidden repository of forbidden knowledge.  Skeletons will follow simple to mildly complex orders given (such as forming a protective circle or constructing minor defenses) without the necromancer needing to worry about the durability of their creations.  The skeletons will avoid danger and refuse to injure themselves unless explicitly ordered by their master.  Skeletons do seem to grow rather bored without direction and have been observed ambling around an area performing simple actions from their past lives.  One notable skeleton I recall was still able to cast their fishing line, though clumsily at best, into the nearby lake.  Skeletons, however, are not utilized for their prior skills but as guardians of the necromancer who summoned them back from the hells.  Skeletons are more than capable when swinging a sword or firing a crossbow, finding martial prowess in death that they may have lacked in life thanks to the dark power flowing through their marrow.</p>\n<blockquote>\n<p>Author's Note: Not all skeletal adversaries in an adventurer's journey will be humanoid.  Be wary, as significant magics can summon back more powerful skeletal monsters.</p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Solar": {
-      "name": "솔라"
+      "name": "솔라",
+      "description": ""
     },
     "Specter": {
       "name": "스펙터",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Spider": {
-      "name": "거미"
+      "name": "거미",
+      "description": "<p>Spiders are one of the smallest, yet most feared, denizens of our planet. Spiders are arachnids with eight thin legs protruding from their dual-segmented body. Atop the spider's tiny head are eight glistening eyes with which it views the world in relative obscurity. While the spider's eyesight may be poor regardless of the number of eyes, they have a clever trick up their sleeves: the spider's web!</p>\n<p><strong>Some Bug.</strong> Ingenious little architects, spiders produce a silken thread from their rears dubbed “webbing” which they use to construct elaborate homes. Resembling something of a net, the spider's web serves a dual purpose: to capture food upon its sticky surface and to give the spider a safe place to perch away from predators. Once an insect is trapped within the web, the spider quickly wraps the unsuspecting creature in a bundle of webbing, saving its prize for later consumption. While all spiders are venomous in some capacity, many will not be harmful to the adventurer on their travels. Simply avoid webs where you see them and be quite sure that the web which you see only belongs to a standard spider species, as a plethora of gigantic and magical varieties also lurk within similar webs!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Spirit Naga": {
-      "name": "스피릿 나가"
+      "name": "스피릿 나가",
+      "description": ""
     },
     "Sprite": {
-      "name": "스프라이트"
+      "name": "스프라이트",
+      "description": "<p>Related to the fey pixie who dances merrily through sunlit glades, Sprites resemble their more fanciful kin in size only.  Sprites are tiny humanoids held aloft by a pair of dragonfly's wings who inhabit glades dappled with mushrooms, wild flowers, and occasionally fellow fey creatures such a living trees whom allow the Sprites to construct villages within their ample boughs.  Here in the bosom of nature's serenity the Sprites exist with one purpose: protect their home at all costs.  Unlike their Pixie kin, Sprites are fearsome warriors and adept poison crafters willing to lay down their lives to protect their glade.  Should an intruder enter into their territory, the Sprites will take to the trees and bushes causing all manner of racket in an attempt to scare off the intruder without conflict.  If the intruder remains, they will dart out and surround the invader, filling it with poison tipped arrows.  The poison is not deadly, rather, it renders the victim unconscious so the Sprites may flee to a safer location within the forest.</p>\n<p><strong>Closer to the Heart.</strong> While Sprites make fearsome warriors, they are not without reason in analyzing their enemies.  Upon rendering a creature unconscious, the Sprite can touch the creature and learn the true nature of the creature's heart, be they good or evil, by “seeing” their heart.  As the heart never lies, the Sprite can make keen judgements about the creature's intentions and determine if they are truly a threat using this “heart sight”.  In some instances, Sprites have been known to ally themselves with good natured creatures, especially if that creature has come to topple an evil-aligned fey creature in their forest home.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Spy": {
-      "name": "스파이"
+      "name": "스파이",
+      "description": "<p>Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Steam Mephit": {
-      "name": "스팀 메핏"
+      "name": "스팀 메핏",
+      "description": "<p>Mephits are tiny, humanoid creatures who hail from the elemental planes.  As chaotic as their homeland, mephits are similar in nature to devilish imps and thrive in places where they can sew discord and oppress others of their kind.  Steam mephits are an amalgamation of both water and fire mephits who consider themselves to be the most superior of all mephit varieties.  The shrill little creatures stand only a foot or so in height, their body composed of living steam coalesced into a spindly humanoid form, one end tapering into a pointed beak-like nose.  These mephits hail from the plane set between the elemental plane of fire and elemental plane of water.  This “steam plane” is a boiling, humid world marred by pocked and barren rocky outcrops jettisoning geysers of steam hundreds of feet into the air.  A human unprotected in this environment would see their skin blister away right before their eyes boil from their sockets like runny eggs.  To the steam mephit, however, this is a paradise.  Steam mephits are skilled in very minor magics used to aid them in their tenuous existence on the plane of steam.  The mephit is also able to unleash a small jet of superheated steam from its mouth to scald its enemies should it need to.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Stirge": {
-      "name": "스터지"
+      "name": "스터지",
+      "description": "<p>Stirges are foul little nasties who lurk deep within caverns and catacombs. Stirges resemble nothing more than a slightly oversized bat crossed with a mosquito; however, upon closer inspection the Stirge reveals much more. Coated in greasy, pink flesh (save for a small tufted mane of white fur about its head and neck) the Stirge is equipped with a pair of small, bat-like wings made of stretched flesh between struts of thin bone. The skin here at the wing is so thin that light may easily shine through the beast's wings revealing the tiny vesicles within. Stirges also possess a set of six, spindly legs above their pig-like tail. Each leg is tipped with a set of hooked claws which allows the fiend to grip into the flesh of its prey and hang on should a struggle ensue. However, there is one more feature that makes the Stirge truly repugnant.</p>\n<p><strong>What's Your Type?</strong> Stirges are notable for their ravenous desire to consume the blood of living organisms. These beasts accomplish this foul act with aid from the needle-sharp proboscis waiting at the end of its oversized snout. Gifted with the ability of flight, the Stirge dives down upon an unsuspecting enemy and clamps onto their body with the aid of their barbed claws. The Stirge then drives its proboscis into their victim's flesh, sucking out ounce after ounce of warm blood. Only when the Stirge is sufficiently sated (or battered away) will it release its victim to flee into the darkness where it may digest its liquid lunch. Act fast if Stirges are in the area, lest a swarm of them suck you dry before you have time to react.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Stone Giant": {
-      "name": "바위 거인"
+      "name": "바위 거인",
+      "description": ""
     },
     "Stone Golem": {
       "name": "바위 골렘",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Storm Giant": {
-      "name": "폭풍 거인"
+      "name": "폭풍 거인",
+      "description": ""
     },
     "Succubus/Incubus": {
       "name": "서큐버스/인큐버스",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Swarm of Bats": {
-      "name": "박쥐 떼"
+      "name": "박쥐 떼",
+      "description": "<blockquote>\n<p>Author's Note:  Please see below the entry for “Bat” which will suffice for the description of this creature.  Please note that “Swarms” function slightly differently in combat than singular creatures.  Please use the rules for “Swarms” befitting your particular game system.</p>\n</blockquote>\n<p>Bats are a common fixture within the secluded forests and lightless caverns of our world.  Bats are a nocturnal creature prized by arcanists for their ability to navigate terrain in near total darkness.  This alone makes them a prized choice for a summoned familiar.  Varying from the size of a mouse to that of a house cat, bats have a unique feature amongst mammals: the gift of flight!  Stretched thin between needle-thin boney “hands” are fleshy membranes which span out wide from the bat's delicate body, allowing the bats to take to the skies in search of insects and woodland fruits to indulge upon.</p>\n<p><strong>Chitter Chatter.</strong> Presumed blind by many from nonsense tales told to children, bats have eyesight nearly akin to our own, though notably less sharp.  What makes these creatures truly unique is their ability to navigate in the pitch black of night.  The bats utilize a series of chirps and screeches researchers have dubbed “echolocation” to pinpoint objects or prey within their flightpath.  The echolocation chirps emitted by the bats bounce back towards the tiny creature's proportionally massive ears, allowing the bats to make split second corrections to their navigations without the aid of their eyes.  It should be again noted that the bat makes a clever familiar choice, as they may navigate those places too dim and dangerous for our mortal eyes</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Swarm of Beetles": {
       "name": "딱정벌레 떼",
@@ -942,17 +1098,20 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Swarm of Poisonous Snakes": {
-      "name": "독사 떼"
+      "name": "독사 떼",
+      "description": ""
     },
     "Swarm of Quippers": {
       "name": "퀴퍼 떼",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Swarm of Rats": {
-      "name": "쥐 떼"
+      "name": "쥐 떼",
+      "description": "<blockquote>\n<p>Author's Note:  Please see below the entry for “Rat” which will suffice for the description of this creature.  Please note that “Swarms” function slightly differently in combat than singular creatures.  Please use the rules for “Swarms” befitting your particular game system.</p>\n</blockquote>\n<p>Denizens of filth, scavengers in our sewers, and vectors of contaigens, no singular animal may present such an impact upon humanoid life as does the rat.  Common place from the sprawling urban metropolis to the tiny barn of a poor farmer, rats inhabit every nook and cranny they may scurry in to.  These small rodents, who can range in size from no bigger than your palm to the length of a forearm (with tail included) are quite ingenious little thieves.  Rats are able to compress their bodies in such a manner that they can fit through spaces as small as the gap in the bottom of your door.  Able to swim and navigate in the dark, some rats have been observed climbing out of small plumbing pipes, having scampered through the length of the tunnel to make it inside a merchant's abode.</p>\n<p><strong>Rats Off to You.</strong> While many may dismiss the rat as nothing more than a common pest, even those not utilized as magical familiars are highly intelligent little creatures.  Researchers have observed rats completing complex mazes, solving lever-action puzzles, and understanding the world around them to a degree unseen in other animals.  A clever street-dweller could certainly train a rat to filch food or a few shiny coins from an unwatched coin purse, should the rat get adequate reward itself.  Do be wise in your selection of companion, however, as some rats carry deadly diseases from insects that nestle in their short fur.  Along with its sharp, clinging claws, the rat packs a powerful bite thanks to its elongated incisor teeth.  Be observant, young hero, should you see a rat nearby, for the simple creature may house a secret within its black, unblinking eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Swarm of Ravens": {
-      "name": "갈까마귀 떼"
+      "name": "갈까마귀 떼",
+      "description": "<blockquote>\n<p>Author's Note:  Please see below the entry for “Raven” which will suffice for the description of this creature.  Please note that “Swarms” function slightly differently in combat than singular creatures.  Please use the rules for “Swarms” befitting your particular game system.</p>\n</blockquote>\n<p>Ah yes, a personal favorite of this author, the raven is a singularly noble and clever bird vested in a shroud of twilight.  The ebony feathered bird reaches height of nearly two and a half feet tall and bears a thick, dark beak which is perfectly utilized in its scavenging diet of carrion, unattended grains, and insects.  However, something truly special lurks behind the dark abyss of this bird's eyes.  Should you be prepared, adventurer, the effort put into training the raven will be given back tenfold.</p>\n<p><strong>Musings and Mimicry. </strong> Ravens are unique specimens among birds; by listening intently and practicing often the raven is able to mimic sounds it hears perfectly.  From noises of forest animals to the precise timbre of their master's call, ravens are among the most seamless mimics to be found in the animal kingdom.  Truly adventurer, the possibilities to employ the raven's mimicry are nearly limitless!  You may see another example of this perfect mimicry in a larger cousin to this bird as well: the humanoid Kenku.  Raven-like in form these little humanoids share the feathers and large beaks of their brethren, as well as their ability to copy the sounds of the world around them.  Consider a second listen when you hear a voice but cannot place its location, for perhaps the raven speaks from the rafters above you, upon a midnight dreary.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Swarm of Spiders": {
       "name": "거미 떼",
@@ -963,23 +1122,28 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Tarrasque": {
-      "name": "타라스크"
+      "name": "타라스크",
+      "description": ""
     },
     "Thug": {
       "name": "불량배",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Tiger": {
-      "name": "호랑이"
+      "name": "호랑이",
+      "description": "<p>Pounce. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a  <strong>DC 13 Strength</strong> saving throw or be knocked <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>. If the target is <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>, the tiger can make one bite attack against it as a bonus action.</p>\n<p>Actions</p>\n<p>Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>8 (1d10 + 3) <em>piercing damage</em></strong>.</p>\n<p>Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>7 (1d8 + 3) <em>slashing damage</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Treant": {
-      "name": "트렌트"
+      "name": "트렌트",
+      "description": ""
     },
     "Tribal Warrior": {
-      "name": "부족 전사"
+      "name": "부족 전사",
+      "description": "<p>Beholden to a culture and leadership all their own, tribal warriors shirk the trappings of governments and laws in preference of following powerful chieftains, ravaging warlords, or tight-knit tribal collectives banded together for mutual benefit. Tribal warriors act not like the guards of the city gates; rather, they function on hierarchies of honor, physical prowess, and in the legacy of deeds won in battle. Equipped with simple weapons such as spears, shortswords, or blunt maces the tribal warrior thrives within the heat of a battle, relishing in the decimation of their enemies. Theirs is a world of power struggles played upon the field of war rather than behind the closed doors of a council chamber. While one on one fights may be availed to combatants who prove themselves a worthy challenge, the tribal warrior is often not far from their allies. Utilizing simple combat techniques to pincer or route adversaries, the tribal warrior is no stranger to guerilla combat. Should you enter a tribe's hard won territory it will be likely that the tribe was alerted miles ahead of your approach to their borders. Be cautious, be wise, and keep an eye upon the rustling trees of the roadways should you stray into a land most unfamiliar. Tribal warriors respect honor and might, should you show them both then bloodshed of a greater order may be quickly avoided.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Triceratops": {
-      "name": "트리케라톱스"
+      "name": "트리케라톱스",
+      "description": ""
     },
     "Troll": {
       "name": "트롤",
@@ -1006,13 +1170,16 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Violet Fungus": {
-      "name": "보랏빛 곰팡이"
+      "name": "보랏빛 곰팡이",
+      "description": "<p>Lurking within abandoned mines and moist caverns rests the humanoid-sized mushroom dubbed the Violet Fungus.  Named for its vibrant purple cap, the violet fungus loses all semblance to an average mushroom there.  Standing tall upon a thick white trunk, the violet fungus creeps across cavern floors at a laborious pace utilizing tiny cillia-like tendrils at its base.  Keeping this snail's pace, the violet fungus roams the depths for its preferred sustenance: rotting flesh.  Should a living morsel wander precariously close to the fungus, the violet fungus will lash out with one of four long feeler tentacles rooted deep inside its purple cap.  These feelers contain special enzymes which, upon contact with living flesh, rots the organic material instantly.  Should a creature fall victim to the fungus, it will be consumed along with the other detritus littering the cavern floor.  Violet fungi themselves have a special relationship with the death they consume.  A violet fungus that is destroyed will regrow within two weeks from the remains of its former body should the remains not be fully burned.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Vrock": {
-      "name": "브록"
+      "name": "브록",
+      "description": ""
     },
     "Vulture": {
-      "name": "대머리독수리"
+      "name": "대머리독수리",
+      "description": "<p>Vultures are some of the most reviled birds to travel our skies. The bird's bald, featherless head and black body plumage lend it a sinister facade. The vulture's outer appearance along with its penchant to scavenge carrion for sustenance has settled the bird squarely into the designation of “evil” in the eyes of many common-folk. The bird's connection with death, as the vulture will circle a dead or dying creature from high above, also adds to the revulsion felt towards this markedly important creature.</p>\n<p><strong>By Committee.</strong> Vultures congregate in groups called “committees” or “wakes” on whether or not they are feasting together respectively. These groups squabble for scraps of meat, ripping away rotting flesh from a carcass with their sharp and powerful beaks. It is not uncommon for fights to break out between the hungry birds. Due to their desire to scavenge dead flesh, vultures play a vital role in our ecosystem, as they act as vital decomposers in landscapes where insects or fungi may not exist as readily. Be on the lookout for vultures in your travels, as they can be the sign of nature at work or perhaps something more sinister beneath the talons of this bird.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Warhorse": {
       "name": "군용마",
@@ -1023,10 +1190,12 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Water Elemental": {
-      "name": "물 정령"
+      "name": "물 정령",
+      "description": ""
     },
     "Weasel": {
-      "name": "족제비"
+      "name": "족제비",
+      "description": "<p>Weasels dwell in a variety of locations from snowy tundra, to pine forests, to the open flowery plains of our planet. Weasels are tiny, long bodied mammals reaching approximately eight inches in length and bearing coat colorations ranging from chestnut brown to pale white. The weasel's long body allows it to easily wedge itself into a rodent's burrow and pull the critter out for a tasty meal. Weasels make quite effective pest controllers in their territories as they eat multitudes of rodents annually. These little cleaners are, however, often considered to be pests in their own right; farmers across the countryside report that their poultry is killed or stolen away by sneaky weasels making their way into their chicken coops. While not the most deadly mammal in the world, the weasel does pack a nasty, sharp-toothed bite. Keep your curious fingers out of any small rodent burrows you find, lest you end up provoking a weasel during his well-earned meal.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Werebear": {
       "name": "웨어베어",
@@ -1041,7 +1210,8 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Weretiger": {
-      "name": "웨어타이거"
+      "name": "웨어타이거",
+      "description": ""
     },
     "Werewolf": {
       "name": "웨어울프",
@@ -1052,63 +1222,80 @@
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Wight": {
-      "name": "와이트"
+      "name": "와이트",
+      "description": ""
     },
     "Will-o'-Wisp": {
       "name": "도깨비불",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Winter Wolf": {
-      "name": "겨울 늑대"
+      "name": "겨울 늑대",
+      "description": ""
     },
     "Wolf": {
-      "name": "늑대"
+      "name": "늑대",
+      "description": "<p>Wolves are the largest of the wild dog species roaming the plains and forests of our wonderful world.  Anywhere from light brown to a midnight black in coloration, wolves stand as the common ancestor to all natural dog species currently inhabiting the planet.  Wolves have a long, broad muzzle filled with sharp teeth, a thick coat to insulate them from difficult winters, and keen eyes and ears with which they may track a target.  The most amazing aspect of the wolf is its incredible nose which can smell prey from up to one and a half miles away.  This amazing nose (packed with hundreds of millions of scent receptors) can also determine the mood of other wolves, what they've eaten, and even where they've been..</p>\n<p><strong>The Wolves Among Us.</strong> As is common with many other dog species, wolves live in communities called packs.  WIthin the pack, wolves hunt together, raise their young together, and provide group protection.  When encountering wolves, be wary should you only spy a single animal prowling the area.  It's quite likely where there is a straggler wolf, the rest of the pack lurks nearby ready to defend their family from attack.  Wolves, which unable to speak, are able to “communicate” via barks and growls as well as follow simplistic tactics such as flanking maneuvers or surprise attacks.  The strength of the pack allows for the wolves to combine their intelligence and form a deadly fighting force of gnashing teeth.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     },
     "Worg": {
-      "name": "워그"
+      "name": "워그",
+      "description": "<p>A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Wraith": {
       "name": "레이스",
       "description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
     },
     "Wyvern": {
-      "name": "와이번"
+      "name": "와이번",
+      "description": ""
     },
     "Xorn": {
-      "name": "조른"
+      "name": "조른",
+      "description": ""
     },
     "Young Black Dragon": {
-      "name": "어린 블랙 드래곤"
+      "name": "어린 블랙 드래곤",
+      "description": ""
     },
     "Young Blue Dragon": {
-      "name": "어린 블루 드래곤"
+      "name": "어린 블루 드래곤",
+      "description": ""
     },
     "Young Brass Dragon": {
-      "name": "어린 브라스 드래곤"
+      "name": "어린 브라스 드래곤",
+      "description": ""
     },
     "Young Bronze Dragon": {
-      "name": "어린 브론즈 드래곤"
+      "name": "어린 브론즈 드래곤",
+      "description": ""
     },
     "Young Copper Dragon": {
-      "name": "어린 카퍼 드래곤"
+      "name": "어린 카퍼 드래곤",
+      "description": ""
     },
     "Young Gold Dragon": {
-      "name": "어린 골드 드래곤"
+      "name": "어린 골드 드래곤",
+      "description": ""
     },
     "Young Green Dragon": {
-      "name": "어린 그린 드래곤"
+      "name": "어린 그린 드래곤",
+      "description": ""
     },
     "Young Red Dragon": {
-      "name": "어린 레드 드래곤"
+      "name": "어린 레드 드래곤",
+      "description": ""
     },
     "Young Silver Dragon": {
-      "name": "어린 실버 드래곤"
+      "name": "어린 실버 드래곤",
+      "description": ""
     },
     "Young White Dragon": {
-      "name": "어린 화이트 드래곤"
+      "name": "어린 화이트 드래곤",
+      "description": ""
     },
     "Zombie": {
-      "name": "좀비"
+      "name": "좀비",
+      "description": "<p>When the magic of necromancy is utilized upon the preserved flesh of a humanoid, a zombie will rise to serve its dark master.  In much the same way that an animated skeleton is returned from the dead so too are zombies shunted back into this world.  While a skilled spellcaster may animate the dead and command the newly awakened, zombies may also rise in areas of the world saturated with necromantic energy.  In this situation, the zombies will not obey the command of a master, but roam aimlessly in a small area until they either find something to attack and consume or rot away into a pile of inanimate bones.  </p>\n<p><strong>Re: Your Brains.</strong> Zombies do retain quite a lot of their former selves in regards to their physical appearance.  Zombies will still show the wounds or disease scars which slew them upon reanimating.  The symptoms of decay will also be present as many freshly spawned zombies will be bloated, have patches of skin sloughing from their bodies, or even trailing entrails from exploded abdomens.  While a zombie may resemble the person they were before, there is nothing at work within the head except mindless hunger.  Zombies stumble through their existence in a perpetual state of mindlessness only able to heed their master’s orders.  This fact of the zombie’s mind makes them invaluable warriors for a necromancer in need.  Zombies are direct and will shamble off towards their quarry without so much as a second thought to their own safety.  It’s been noted that some zombies have walked through fires or pits of acid in order to reach their enemies.  Once they reach their target, zombies will pummel and bite at their enemy until either they or the enemy fall in the tussle.  Zombies may also wield weapons, though not cleverly; zombies will not be able to reclaim a weapon should they be disarmed as the lack of weapon will simply drive them to claw with their broken hands.  The magic which binds the zombie to the mortal plane is tricky to the uninitiated as well, so please be warned young adventurers!  Should you fell a zombie, be aware that the creature may not be fully dead for the second time; you should always be sure to wait and see if the beast attempts to rise once more before wandering deeper into the dungeon.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
     }
   }
 }
