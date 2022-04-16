@@ -743,7 +743,7 @@
     },
     "Dwarven Thrower": {
       "name": "드워프족의 투척망치",
-			"description": "<p><em>(드워프에 의한 조율 필요)</em></p>\n<p>이 마법 무기를 이용한 공격과 피해 굴림에 +3 보너스가 부여됩니다. 투척 성질이 있으며 일반 사거리는 20ft, 긴 사거리는 60ft입니다. 이 무기를 사용한 원거리 공격이 명중하면 1d8 대미지를 추가로 줍니다. 목표가 거인일 때, 2d8 피해를 추가로 줍니다. 공격 직후 무기가 다시 투척자의 손으로 돌아옵니다.</p>\n<p><em>**파운드리 노트 : 거인에게 추가 대미지를 주려면 '기타 공식'을 한번 더 사용해주세요.</em></p>"
+			"description": "<p><em>(드워프의 조율 필요)</em></p>\n<p>이 마법 무기를 이용한 공격과 피해 굴림에 +3 보너스가 부여됩니다. 투척 성질이 있으며 일반 사거리는 20ft, 긴 사거리는 60ft입니다. 이 무기를 사용한 원거리 공격이 명중하면 1d8 대미지를 추가로 줍니다. 목표가 거인일 때, 2d8 피해를 추가로 줍니다. 공격 직후 무기가 다시 투척자의 손으로 돌아옵니다.</p>\n<p><em>**파운드리 노트 : 거인에게 추가 대미지를 주려면 '기타 공식'을 한번 더 사용해주세요.</em></p>"
     },
     "Efficient Quiver": {
       "name": "효율적인 화살통",
@@ -1831,7 +1831,7 @@
     },
     "Pearl of Power": {
       "name": "힘의 진주",
-      "description": "<p><em>경이로운 물건, (주문시전자에 의해 조율 필요)</em></p>\n<p>이 진주를 소지하고 있을 때, 당신은 행동을 사용하고 명령어를 말하여 소비한 주문 슬롯 하나를 회복할 수 있습니다. 만약 소비한 슬롯이 4레벨 이상이라면, 그 대신 3레벨 주문 슬롯이 하나 회복됩니다. 이 진주의 기능을 사용했다면, 다음날 새벽이 될 때까지는 다시 같은 기능을 사용할 수 없습니다.</p>"
+      "description": "<p><em>경이로운 물건, (주문시전자의 조율 필요)</em></p>\n<p>이 진주를 소지하고 있을 때, 당신은 행동을 사용하고 명령어를 말하여 소비한 주문 슬롯 하나를 회복할 수 있습니다. 만약 소비한 슬롯이 4레벨 이상이라면, 그 대신 3레벨 주문 슬롯이 하나 회복됩니다. 이 진주의 기능을 사용했다면, 다음날 새벽이 될 때까지는 다시 같은 기능을 사용할 수 없습니다.</p>"
     },
     "Perfume": {
       "name": "향수",
@@ -2154,20 +2154,32 @@
 			"description": "<p><em>(조율 필요)</em></p>\n<p><em>이 반지는 진주로 세공되어 있어 빛을 받으면 그 부분이 빛납니다.</em></p>\n<p>이 반지를 착용하는 동안 산성 피해에 저항이 됩니다.</p>"
     },
     "Ring of Air Elemental Command": {
+      "name": "에어 엘리멘탈 조종의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지는 대기의 원소 차원에 연결되어있습니다.</p>\n<p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{에어 엘리멘탈 Air Elemental}에 대한 공격 굴림에 유리함을 얻습니다. 에어 엘리멘탈이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p>\n<p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p>\n<p><strong>에어 엘리멘탈 조종의 반지</strong>. 충전을 2 소비해 에어 엘리멘탈에게 @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate Monster} 주문을 시전할 수 있습니다. 또한, 추락 시 매 라운드마다 60ft만큼 강하하며, 추락에 의해 피해를 입지 않습니다. 그 뿐만 아니라, 창공어를 말하고 이해할 수 있습니다.</p>\n<p>이 반지에 조율된 동안 에어 엘리멘탈을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p>\n<ul>\n<li>번개 피해에 저항이 됩니다.</li>\n<li>비행 속도가 걷기 속도와 같아지며, 공중부양할 수 있습니다.</li>\n<li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @Compendium[dnd5e.spells.QbTxN5dWIbYZ4jLU]{Chain Lightning} (3 충전), @Compendium[dnd5e.spells.FSMy6VAjDnXY9vWz]{Gust of Wind} (2 충전), @Compendium[dnd5e.spells.ew6GA8dJy2spQmFW]{Wind Wall} (1 충전).</li>\n</ul>"
     },
     "Ring of Animal Influence": {
+      "name": "동물 영향력의 반지",
+			"description": "<p>반지의 충전은 3이며, 매일 새벽에 소비한 충전을 1d3 만큼 회복합니다. 반지를 착용한 동안, 행동을 사용해 충전을 1 소비하면 다음과 같은 주문 중 한 가지를 시전할 수 있습니다.:</p>\n<ul>\n<li>@Compendium[dnd5e.spells.hDOENzjuj5WpLq7B]{Animal Friendship} (내성 DC 13)</li>\n<li>@Compendium[dnd5e.spells.XXUDGFELgoskdOD0]{Fear} (내성 DC 13), 지능이 3 이하인 짐승만 목표 지정 가능</li>\n<li>@Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{Speak with Animals}</li>\n</ul>"
     },
     "Ring of Cold Resistance": {
       "name": "냉기 저항의 반지",
 			"description": "<p><em>(조율 필요)</em></p>\n<p><em>이 반지는 전기석으로 세공되어 있어 빛을 받으면 그 부분이 빛납니다.</em></p>\n<p>이 반지를 착용하는 동안 냉기 피해에 저항이 됩니다.</p>"
     },
     "Ring of Djinni Summoning": {
+      "name": "지니 소환의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 행동을 사용해 명령어를 말하면 특정 @Compendium[dnd5e.monsters.5P1VGAZQwOilwZQf]{지니 Djinni} 를 대기의 원소 차원에서 소환할 수 있습니다. 지니는 반경 120ft 이내의 미점유된 공간 중 당신이 지정한 곳에 나타납니다. 지니는 당신이 집중하는 동안만 나타나며 (주문에 집중하는 것으로 취급), 최대 1시간 동안 유지됩니다. 집중이 끝나거나 지니의 hp가 0이 되면, 원래 있었던 차원으로 돌아갑니다.</p>\n<p>소환된 동안 지니는 당신과 동료에게 우호적인 상태가 됩니다. 어떤 언어를 사용하든 그 명령은 모두 따릅니다. 명령에 실패하면, 지니는 적의 공격으로부터 스스로를 방어하긴 하지만 별다른 행동을 취하진 않습니다.</p>\n<p>지니를 돌려보낸 후 24시간 동안은 다시 부를 수 없습니다. 지니가 죽으면 반지는 마법을 잃습니다.</p>"
     },
     "Ring of Earth Elemental Command": {
+      "name": "어스 엘리멘탈 조종의 반지",
+			"description": "<p><em>(Requires attunement)</em></p>\n<p>This ring is linked to the Elemental Plane of Earth.</p>\n<p>While wearing this ring, you have advantage on attack rolls against @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{Earth Elemental}s, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.</p>\n<p>The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.</p>\n<p><strong>Ring of Earth Elemental Command</strong>. You can expend 2 of the ring's charges to cast @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate Monster} on an Earth Elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.</p>\n<p>If you help slay an Earth Elemental while attuned to the ring, you gain access to the following additional properties:</p>\n<ul>\n<li>You have resistance to acid damage.</li>\n<li>You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.</li>\n<li>You can cast the following spells from the ring, expending the necessary number of charges: @Compendium[dnd5e.spells.QvGcdRUSNRKEQJlK]{Stone Shape} (2 charges), @Compendium[dnd5e.spells.ReMbjfeOKoSj3O79]{Stoneskin} (3 charges), or @Compendium[dnd5e.spells.NmoRmM1mhuM3pqnY]{Wall of Stone} (3 charges).</li>\n</ul>"
     },
     "Ring of Evasion": {
+      "name": "회피의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>반지의 충전은 3이며, 매일 새벽에 소비한 충전을 1d3 만큼 회복합니다. 반지를 착용한 동안 민첩 내성 굴림에 실패한 경우, 반응 행동을 사용해 충전을 1 소비하면 그 내성 굴림의 결과를 성공으로 변경할 수 있습니다.</p>"
     },
     "Ring of Feather Falling": {
+      "name": "깃털 추락의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안 추락할 경우, 매 라운드마다 60ft 씩 강하하며, 추락으로 인한 피해를 입지 않습니다.</p>"
     },
     "Ring of Fire Elemental Command": {
     },
@@ -2220,22 +2232,32 @@
 			"description": "<p><em>(조율 필요)</em></p>\n<p><em>이 반지는 토파즈로 세공되어 있어 빛을 받으면 그 부분이 빛납니다.</em></p>\n<p>이 반지를 착용하는 동안 광휘 피해에 저항이 됩니다.</p>"
     },
     "Ring of Regeneration": {
+      "name": "재생의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안 최소 1 hp라도 남아있다면, 10분 마다 hp를 1d6 회복합니다. 신체의 일부분을 잃었을 경우 잃은 부분이 다시 자라나며, 1d6 + 1 일이 경과하면 그 신체 부위의 모든 기능을 회복합니다. 단, 그 기간동안 최소 1hp 이상이어야 합니다.</p>\n<p><em>파운드리 노트: 필요 시 '기타 수식 '을 이용해 신체 부위 재생에 필요한 일 수를 계산할 수 있습니다.</em></p>"
     },
     "Ring of Shooting Stars": {
+      "name": "별똥별의 반지",
+			"description": "<p><em>(밤 시간에 실외에서의 조율 필요)</em></p>\n<p>이 반지를 약한 빛이나 어둠 환경에서 착용 중인 경우, 자유로이 @Compendium[dnd5e.spells.CAxSzHWizrafT033]{Dancing Lights} 과 @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{Light} 를 시전할 수 있습니다. 두 주문 모두 시전 시 행동을 사용해야 합니다.</p>\n<p>반지의 충전은 6이며, 이를 이용해 다음의 성질을 사용할 수 있습니다. 매일 새벽마다 소비한 충전을 1d6 회복합니다.</p>\n<p><strong>요정 불꽃</strong>. 행동을 사용해 충전을 1 소비하면 @Compendium[dnd5e.spells.nqBDWkVOfcGZt4YU]{요정 불꽃 Faerie Fire} 을 시전할 수 있습니다.</p>\n<p><strong>번개 구체</strong>. 행동을 사용해 충전을 2 소비하면 지름 3ft의 번개 구체를 만들 수 있습니다. 구체를 많이 만들수록, 각각의 구체의 힘은 떨어집니다.</p>\n<p>각 구체는 시야 내 반경 120ft에 있는 미점유된 공간에 나타납니다. 구체는 집중하는 동안 유지되며(주문에 집중한 것처럼 취급), 최대 1분 간 유지됩니다. 각 구체는 30ft 반경으로 약한 빛을 뿜습니다.</p>\n<p>추가 행동을 사용하면 각 구체를 30ft 씩, 최대 120ft 까지 이동시킬 수 있습니다. 당신 이외의 크리처가 구체의 반경 5ft 내로 접근한 경우, 구체는 그 크리처에게 번개를 내뿜고 사라집니다. 해당 크리처는 DC 15 민첩 내성 굴림을 합니다. 실패하면, 그 크리처는 만들어진 구체의 수에 반비례해 번개 피해를 입습니다. </p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>구체</strong></td>\n<td><strong>번개 피해</strong></td>\n</tr>\n<tr>\n<td>4</td>\n<td>2d4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2d6</td>\n</tr>\n<tr>\n<td>2</td>\n<td>5d4</td>\n</tr>\n<tr>\n<td>1</td>\n<td>4d12</td>\n</tr>\n</tbody>\n</table>\n<p><strong>별똥별</strong>. 행동을 사용해 1 ~ 3 충전을 소비할 수 있습니다. 소비한 충전 수만큼 반짝이는 빛가루를, 시야 내 60ft 이내의 지점을 골라 그곳에 발사할 수 있습니다. 해당 지점의 15 제곱피트 이내에 있는 크리처는 불똥 세례를 맞아 DC 15 민첩 내성 굴림을 해야 합니다. 실패하면 5d4 화염 피해를 입으며, 성공하면 그 반절의 피해를 입습니다.</p>"
     },
     "Ring of Spell Storing": {
       "name": "주문 저장의 반지",
       "description": "<p><em>(조율 필요)</em></p>\n<p>이 반지는 안에 주문을 저장해 놓을 수 있고, 조율되어 있는 착용자가 그 저장된 주문을 사용할 수 있게 해 줍니다. 이 반지는 최대 5레벨까지의 주문을 저장해 둘 수 있습니다. 이 반지를 처음 발견 했을 때, 반지 안에는 1d6-1레벨 어치의 주문이 이미 들어 있을 수 있으며, 어떤 주문이 들어있는지는 GM의 결정에 따릅니다.</p>\n<p>1레벨에서 5레벨가지의 주문을 시전할 수 있는 크리처는 주문 시전시 반지를 만지면서 시전하여 주문을 저장해 둘 수 있습니다. 저장한 주문은 효력을 발휘하지 못하지만, 그 대신 반지에 저장됩니다. 만약 반지 내의 저장 용량이 부족하다면, 주문은 아무 효력을 발휘하지 못하고 소모되어 버립니다. 주문 슬롯 레벨이 반지 내의 저장 용량을 얼마나 차지하는지 결정합니다. 반지는 1레벨 주문을 5개 담거나, 5레벨 주문을 1개 담는 등 저장된 주문 슬롯의 합계가 5 이하여야 합니다.</p>\n<p>이 반지를 끼고 있으면, 당신은 내부에 저장된 주문을 사용할 수 있습니다. 저장된 주문은 본래 시전자의 슬롯 레벨, 주문 내성 DC, 주문 명중 보너스를 사용하며 본래 시전자의 주문 시전 능력치를 따라갑니다. 하지만 그 외에는 마치 당신이 주문을 시전하는 것처럼 목표를 지정하거나 다른 사항들을 정할 수 있습니다. 반지에서 시전된 주문은 다시 저장되지 않으며 그대로 사라집니다.</p>"
     },
     "Ring of Spell Turning": {
+      "name": "주문 반사의 반지",
+			"description": "<p><em>(Requires attunement)</em></p>\n<p>While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.</p>"
     },
     "Ring of Swimming": {
       "name": "수영의 반지",
       "description": "<p>당신은 이 반지를 끼고 있는 동안 40ft의 수영 이동 속도를 얻게 됩니다.</p>"
     },
     "Ring of Telekinesis": {
+      "name": "염동력의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 자유로이 @Compendium[dnd5e.spells.HQfd7jJyULIoGxrZ]{Telekinesis} 주문을 시전할 수 있습니다.착용 중이나 소지 중이 아닌 오브젝트만 목표로 지정할 수 있습니다.</p>"
     },
     "Ring of Three Wishes": {
+      "name": "세가지 소원의 반지",
+			"description": "<p>반지의 충전은 3입니다. 이 반지를 착용한 동안, 행동을 사용하여 충전을 1 소비하면  @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} 주문을 시전할 수 있습니다. 모든 충전을 다 소비하면 마법을 잃습니다.</p>"
     },
     "Ring of Thunder Resistance": {
       "name": "천둥 저항의 반지",
@@ -2273,7 +2295,7 @@
     },
     "Rod": {
       "name": "막대",
-      "description": "<p>뼈, 돌, 금속 또는 좀 더 이국적인 재료로 정교하게 조각되거나 모양을 이룬 막대입니다. 이러한 막대기는 주문 사용자에 의해 주의력과 비전 에너지의 매개체로 사용된다.</p>\n<p><strong style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">비전 매개체. </strong><span style=\"color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">비전 매개체는 보주, 수정, 막대, 특별 제작된 지팡이, 나무로 만들어진 짧은 봉 등등의 특별한 물건입니다. 이러한 도구는 비전 주문의 힘을 끌어낼 수 있도록 고안되었습니다. 소서러나 워락, 위저드 등은 이러한 물건을 주문시전 도구로 사용 할 수 있습니다.</span></p>"
+      "description": "<p>뼈, 돌, 금속 또는 좀 더 이국적인 재료로 정교하게 조각되거나 모양을 이룬 막대입니다. 주문시전자는 이러한 막대를 집중력과 비전 에너지의 매개체로 사용합니다.</p>\n<p><strong style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">비전 매개체. </strong><span style=\"color:#191813;font-family:'Noto Sans KR', Signika, sans-serif\">비전 매개체는 비전 주문의 힘을 끌어낼 수 있도록 고안된 특수한 아이템입니다. 소서러나 워락, 위저드 등은 이러한 물건을 주문시전 매개체로 사용하여 값이 나가지 않는 모든 물질 요소를 대체할 수 있습니다.</span></p>"
     },
     "Rod of Absorption": {
     },
@@ -2617,21 +2639,23 @@
     },
     "Staff of Charming": {
       "name": "매료의 지팡이",
-			"description": "<p><em>(바드 또는 클레릭, 드루이드, 소서러, 워락, 위저드에 의한 조율 필요)</em></p>\n<p>이 지팡이를 든 동안, 행동을 사용해 10 충전 중 1 충전을 소비하면 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.spells\" data-id=\"eS7XnnApoxRxYXPs\"> Charm Person</a>, <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.spells\" data-id=\"arzCrMRgcNiQuh43\"> Command</a>, 또는 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.spells\" data-id=\"4dSvfvTy2ZIJ3K4k\">Comprehend Languages</a> 주문을 시전할 수 있습니다. 이 때 당신의 주문 내성 DC를 사용합니다. 이 지팡이는 마법 육척봉으로도 사용할 수 있습니다.</p>\n<p>이 지팡이를 들고 있는 상태에서 당신 하나만을 대상으로 한 매료 주문의 내성 굴림에 실패했다면, 결과를 실패에서 성공으로 바꿀 수 있습니다. 이 속성은 다음 새벽 전까지 다시 사용할 수 없습니다. 지팡이의 간섭 여부와 관계 없이 당신 하나만을 대상으로 한 매료 주문의 내성 굴림에 성공했다면, 반응 행동을 사용하고 충전을 1 소비해 그 매료 주문의 시전자에게 주문을 반사시킬 수 있습니다. 이 때 그 주문은 자신이 시전한 것으로 취급합니다.</p>\n<p>매일 새벽에 소비한 충전을 1d8 + 2 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 평범한 육척봉이 됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
+			"description": "<p><em>(바드 또는 클레릭, 드루이드, 소서러, 워락, 위저드의 조율 필요)</em></p>\n<p>이 지팡이를 든 동안, 행동을 사용해 10 충전 중 1 충전을 소비하면 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.spells\" data-id=\"eS7XnnApoxRxYXPs\"> Charm Person</a>, <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.spells\" data-id=\"arzCrMRgcNiQuh43\"> Command</a>, 또는 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.spells\" data-id=\"4dSvfvTy2ZIJ3K4k\">Comprehend Languages</a> 주문을 시전할 수 있습니다. 이 때 당신의 주문 내성 DC를 사용합니다. 이 지팡이는 마법 육척봉으로도 사용할 수 있습니다.</p>\n<p>이 지팡이를 들고 있는 상태에서 당신 하나만을 대상으로 한 매료 주문의 내성 굴림에 실패했다면, 결과를 실패에서 성공으로 바꿀 수 있습니다. 이 속성은 다음 새벽 전까지 다시 사용할 수 없습니다. 지팡이의 간섭 여부와 관계 없이 당신 하나만을 대상으로 한 매료 주문의 내성 굴림에 성공했다면, 반응 행동을 사용하고 충전을 1 소비해 그 매료 주문의 시전자에게 주문을 반사시킬 수 있습니다. 이 때 그 주문은 자신이 시전한 것으로 취급합니다.</p>\n<p>매일 새벽에 소비한 충전을 1d8 + 2 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 평범한 육척봉이 됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
     },
     "Staff of Fire": {
       "name": "화염의 지팡이",
-			"description": "<p><em>(바드 또는 클레릭, 드루이드, 소서러, 워락, 위저드에 의한 조율 필요)</em></p>\n<p>이 지팡이를 든 동안 화염 피해에 저항이 됩니다.</p>\n<p>지팡이의 충전은 10입니다. 이 지팡이를 든 동안, 행동을 사용하여 1 이상의 충전을 소비하면, 다음 주문 중 하나를 시전할 수 있습니다. 이 때 주문 내성 DC는 당신의 것을 사용합니다.: @Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{Burning Hands} (1 충전), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (3 충전),  @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire} (4 충전).</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 까맣게 재로 부서지며 파괴됩니다. </p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
+			"description": "<p><em>(바드 또는 클레릭, 드루이드, 소서러, 워락, 위저드의 조율 필요)</em></p>\n<p>이 지팡이를 든 동안 화염 피해에 저항이 됩니다.</p>\n<p>지팡이의 충전은 10입니다. 이 지팡이를 든 동안, 행동을 사용하여 1 이상의 충전을 소비하면, 다음 주문 중 하나를 시전할 수 있습니다. 이 때 주문 내성 DC는 당신의 것을 사용합니다.: @Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{Burning Hands} (1 충전), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (3 충전),  @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire} (4 충전).</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 까맣게 재로 부서지며 파괴됩니다. </p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
     },
     "Staff of Frost": {
       "name": "서리의 지팡이",
-			"description": "<p><em>(바드 또는 클레릭, 드루이드, 소서러, 워락, 위저드에 의한 조율 필요)</em></p>\n<p>이 지팡이를 든 동안 화염 피해에 저항이 됩니다.</p>\n<p>지팡이의 충전은 10입니다. 이 지팡이를 든 동안, 행동을 사용하여 1 이상의 충전을 소비하면, 다음 주문 중 하나를 시전할 수 있습니다. 이 때 주문 내성 DC는 당신의 것을 사용합니다.: @Compendium[dnd5e.spells.RpKjTlYASrfqUPVA]{Cone of Cold} (5 충전), @Compendium[dnd5e.spells.IBJmWjzbQGu7M4UX]{Fog Cloud} (1 충전), @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{Ice Storm} (4 충전), @Compendium[dnd5e.spells.fzZnVKLmBMo2f5up]{Wall of Ice} (4 충전).</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 물로 녹아버려 파괴됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
+			"description": "<p><em>(바드 또는 클레릭, 드루이드, 소서러, 워락, 위저드의 조율 필요)</em></p>\n<p>이 지팡이를 든 동안 화염 피해에 저항이 됩니다.</p>\n<p>지팡이의 충전은 10입니다. 이 지팡이를 든 동안, 행동을 사용하여 1 이상의 충전을 소비하면, 다음 주문 중 하나를 시전할 수 있습니다. 이 때 주문 내성 DC는 당신의 것을 사용합니다.: @Compendium[dnd5e.spells.RpKjTlYASrfqUPVA]{Cone of Cold} (5 충전), @Compendium[dnd5e.spells.IBJmWjzbQGu7M4UX]{Fog Cloud} (1 충전), @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{Ice Storm} (4 충전), @Compendium[dnd5e.spells.fzZnVKLmBMo2f5up]{Wall of Ice} (4 충전).</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 물로 녹아버려 파괴됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
     },
     "Staff of Healing": {
       "name": "치유의 지팡이",
-			"description": "<p><em>(바드 또는 클레릭, 드루이드에 의한 조율 필요)</em></p>\n<p>지팡이의 충전은 10입니다. 이 지팡이를 든 동안, 행동을 사용하여 1 이상의 충전을 소비하면, 다음 주문 중 하나를 시전할 수 있습니다. 이 때 주문 내성 DC와 주문 시전 능력 수정치는 당신의 것을 사용합니다.: @Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Cure Wounds} (주문 레벨 당 1 충전, 최대 4레벨), @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Lesser Restoration} (2 충전), or @Compendium[dnd5e.spells.Pyzmm8R7rVsNAPsd]{Mass Cure Wounds} (5 충전).</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 한 줄기 빛이 되어 사라지며, 영원히 잃어버리게 됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
+			"description": "<p><em>(바드 또는 클레릭, 드루이드의 조율 필요)</em></p>\n<p>지팡이의 충전은 10입니다. 이 지팡이를 든 동안, 행동을 사용하여 1 이상의 충전을 소비하면, 다음 주문 중 하나를 시전할 수 있습니다. 이 때 주문 내성 DC와 주문 시전 능력 수정치는 당신의 것을 사용합니다.: @Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Cure Wounds} (주문 레벨 당 1 충전, 최대 4레벨), @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Lesser Restoration} (2 충전), or @Compendium[dnd5e.spells.Pyzmm8R7rVsNAPsd]{Mass Cure Wounds} (5 충전).</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 한 줄기 빛이 되어 사라지며, 영원히 잃어버리게 됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼을 이용하면 새벽마다 재충전할 때 계산에 활용할 수 있습니다.</em></p>"
     },
     "Staff of Power": {
+      "name": "힘의 지팡이",
+			"description": "<p><em>(소서러 또는 워락, 위저드의 조율 필요)</em></p>\n<p>이 지팡이는 공격과 피해 굴림에 +2 보너스를 주는 육척봉으로도 사용할 수 있습니다. 이 지팡이를 든 동안, 갑옷 클래스, 내성 굴림, 주문 공격 굴림에 +2 보너스를 얻습니다.</p>\n<p>지팡이는 충전을 20 가지며, 다음과 같은 속성에 사용할 수 있습니다. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges.</p>\n<p><strong>Power Strike</strong>. When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.</p>\n<p><strong>Spells</strong>. While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: @Compendium[dnd5e.spells.RpKjTlYASrfqUPVA]{Cone of Cold} (5 charges), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (5th-level version, 5 charges), @Compendium[dnd5e.spells.WmQpxfjZwF3MGUby]{Globe of Invulnerability} (6 charges), @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Hold Monster} (5 charges), @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitate} (2 charges), @Compendium[dnd5e.spells.IyikgTEOTv701jgQ]{Lightning Bolt} (5th-level version, 5 charges), @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Magic Missile} (1 charge), @Compendium[dnd5e.spells.ODhLKBxLnvvLOnw1]{Ray of Enfeeblement} (1 charge), or @Compendium[dnd5e.spells.o9ZCvuD2B1OTcubb]{Wall of Force} (5 charges).</p>\n<p><strong>Retributive Strike</strong>. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.</p>\n<p>You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Distance from Origin</strong></td>\n<td><strong>Damage</strong></td>\n</tr>\n<tr>\n<td>10 ft. away or closer</td>\n<td>8 x the number of charges in the staff</td>\n</tr>\n<tr>\n<td>11 to 20 ft. away</td>\n<td>6 x the number of charges in the staff</td>\n</tr>\n<tr>\n<td>21 to 30 ft. away</td>\n<td>4 x the number of charges in the staff</td>\n</tr>\n</tbody>\n</table>\n<p><em>Foundry note: the Other Formula button has been configured to roll the staff's recharge rate at dawn if required.</em></p>"
     },
     "Staff of Striking": {
       "name": "Staff of Striking",
@@ -2958,6 +2982,8 @@
       "description": "<p>나무, 뼈, 크리스탈 또는 기타 이국적인 재료의 한 손으로 들 수 있는 정교한 도구로, 비전 주문 시전을 보조하는 매개체로 흔히 사용됩니다.</p>\n<p><strong style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif;font-size:13px\">비전 매개체. </strong><span style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif;font-size:13px\">비전 매개체는 보주, 수정, 막대, 특별 제작된 지팡이, 나무로 만들어진 짧은 봉 등등의 특별한 물건입니다. 이러한 도구는 비전 주문의 힘을 끌어낼 수 있도록 고안되었습니다. 소서러나 워락, 위저드 등은 이러한 물건을 주문시전 도구로 사용 할 수 있습니다.</span></p>"
     },
     "Wand of Binding": {
+      "name": "Wand of Binding",
+			"description": "<p><em>(Requires attunement by a spellcaster)</em></p>\n<p>This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>\n<p><strong>Spells</strong>. While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Hold Monster} (5 charges) or @Compendium[dnd5e.spells.3Lo9boi7P2ro6QV4]{Hold Person} (2 charges).</p>\n<p><strong>Assisted Escape</strong>. While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.</p>"
     },
     "Wand of Enemy Detection": {
     },
@@ -2973,9 +2999,11 @@
     },
     "Wand of Magic Missiles": {
       "name": "마법 투사체의 마법봉",
-      "description": "<p>이 마법봉은 7회 충전되어 있습니다. 당신은 마법봉을 들고 행동을 사용하며 충전을 1회 혹은 그 이상 소비해 @Item[1S5OXkfYO6Lk3rXu]{마법 투사체 Magic Missile} 주문을 시전할 수 있습니다. 충전을 1회 소비하면 1레벨 주문으로 시전됩니다. 추가적으로 충전을 더 소비할 때마다 그만큼 주문 슬롯 레벨이 증가합니다</p>\n<p>이 마법봉은 매일 새벽 1d6+1회의 힘을 재충전합니다. 만약 당신이 마법봉의 마지막 충전을 사용했다면 d20을 굴립니다. 이때 1이 나오면 마법봉은 파괴되며, 재가 되어 흩어집니다.</p>"
+      "description": "<p>이 마법봉은 7회 충전되어 있습니다. 당신은 마법봉을 들고 행동을 사용하며 충전을 1회 혹은 그 이상 소비해 @Item[1S5OXkfYO6Lk3rXu]{마법 투사체 Magic Missile} 주문을 시전할 수 있습니다. 충전을 1회 소비하면 1레벨 주문으로 시전됩니다. 추가적으로 충전을 더 소비할 때마다 그만큼 주문 슬롯 레벨이 증가합니다</p>\n<p>이 마법봉은 매일 새벽 1d6+1회의 힘을 재충전합니다. 충전을 모두 소비한 시점에서 d20을 굴립니다. 1이 나오면, 마법봉은 재가 되어 바스라지며 파괴됩니다.</p>"
     },
     "Wand of Paralysis": {
+      "name": "마비의 마법봉",
+			"description": "<p><em>(주문시전자의 조율 필요)</em></p>\n<p>이 마법봉의 충전은 7입니다. 이것을 들고 있는 동안, 행동을 사용해 충전을 1 소비하면, 가느다란 푸른색 광선이 마법봉 끝에서 뿜어져 나와 시야 내 60ft 이내에 있는 크리처에게 적중합니다. 목표는 DC 15 건강 내성 굴림을 하며, 실패하면 1분간 마비됩니다. 목표의 턴이 종료할 때마다 내성 굴림을 다시 할 수 있으며, 성공하면 이 효과는 종료됩니다.</p>\n<p>매일 새벽에 소비한 충전을 1d6 + 1 만큼 회복합니다. 충전을 모두 소비한 시점에서 d20을 굴립니다. 1이 나오면, 마법봉은 재가 되어 바스라지며 파괴됩니다.</p>"
     },
     "Wand of Polymorph": {
     },
@@ -3087,7 +3115,7 @@
     },
     "Yew Wand": {
       "name": "주목나무 마법봉",
-			"description": "<p>This wand or scepter has been carved from yew or another special wood and inscribed with powerful runes to invoke the power of nature by those who heed its call.</p>\n<p><strong>Spellcasting Focus</strong>. A druidic focus is a special item designed to channel the power of spells from the druid's spell list. A druid can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"description": "<p>이 마법봉 혹은 셉터는 주목나무나 다른 특별한 나무를 깎아 만든 것이며, 강력한 룬이 새겨져있어 자연의 부름에 귀기울이는 자에게 자연의 힘을 부여할 수 있습니다.</p>\n<p><strong>주문시전 매개체</strong>. 드루이드 매개체는 드루이드 주문 목록에 있는 주문의 힘을 조정하는 특수한 아이템입니다. 드루이드는 이러한 아이템을 주문시전 매개체로써 사용하여 값이 나가지 않는 모든 물질 요소를 대체할 수 있습니다.</p>"
     },
     "Gaming Set of Chess": {
       "name": "게임 세트 - 체스 세트",
