@@ -7,9 +7,8 @@ git:
       source_file_dir: localization/compendium/en/
       translation_files_expression: 'localization/compendium/<lang>/'
       
-    - filter_type: dir
+    - filter_type: file
       file_format: KEYVALUEJSON
-      source_file_extension: json
+      source_file: localization/languages/en/en.json
       source_language: en
-      source_file_dir: localization/lanuguages/en/
-      translation_files_expression: 'localization/languages/<lang>/'
+      translation_files_expression: 'localization/languages/<lang>/<lang>.json'
