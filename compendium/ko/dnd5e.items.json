@@ -147,7 +147,7 @@
     },
     "Bag of Tricks (Tan)": {
       "name": "마술의 가방(황갈색)",
-      "description": "<p><em>경이로운 물건</em></p>\n<p>황갈색 천으로 만든 이 평범한 가방은 비어 있는 것처럼 보입니다. 그러나 가방 내부에 손을 넣어보면 작고 보송한 물체가 있습니다. 가방의 무게는 1/2파운드입니다.</p>\n<p>행동을 사용하여 가방에서 보송한 물체를 꺼내 최대 20ft까지 던질 수 있습니다. 물체가 바닥에 닿으면 표에서 d8을 굴려 결정된 크리처로 변형됩니다.</p>\n<p>크리처는 소유자와 소유자의 동료들에게 우호적이며 소유자의 차례에 행동합니다. 추가 행동을 사용하여 크리처의 이동 방식과 다음 턴에 수행할 행동을 명령하거나 적을 공격하는 것과 같은 일반적인 명령을 내릴 수 있습니다. 이러한 명령이 없을 때, 크리처는 자신의 본성에 적합한 방식으로 행동합니다.</p>\n<p>가방에서 3개의 보송한 물체를 꺼내면 다음 날 새벽까지 가방을 다시 사용할 수 없습니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>크리처</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{자칼}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{유인원}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{비비 원숭이}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{도끼 부리}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{흑곰}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{거대 족제비}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{거대 하이에나}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{호랑이}</td>\n</tr>\n</tbody>\n</table>"
+      "description": "<p><em>경이로운 물건</em></p>\n<p>황갈색 천으로 만든 이 평범한 가방은 비어 있는 것처럼 보입니다. 그러나 가방 내부에 손을 넣어보면 작고 보송한 물체가 있습니다. 가방의 무게는 1/2파운드입니다.</p>\n<p>행동을 사용하여 가방에서 보송한 물체를 꺼내 최대 20ft까지 던질 수 있습니다. 물체가 바닥에 닿으면 표에서 d8을 굴려 결정된 크리처로 변형됩니다.</p>\n<p>크리처는 소유자와 소유자의 동료들에게 우호적이며 소유자의 차례에 행동합니다. 추가 행동을 사용하여 크리처의 이동 방식과 다음 턴에 수행할 행동을 명령하거나 적을 공격하는 것과 같은 일반적인 명령을 내릴 수 있습니다. 이러한 명령이 없을 때, 크리처는 자신의 본성에 적합한 방식으로 행동합니다.</p>\n<p>가방에서 3개의 보송한 물체를 꺼내면 다음 날 새벽까지 가방을 다시 사용할 수 없습니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>크리처</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{자칼}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{유인원}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{비비 원숭이}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{도끼 부리새}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{흑곰}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{거대 족제비}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{거대 하이에나}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{호랑이}</td>\n</tr>\n</tbody>\n</table>"
     },
     "Bagpipes": {
       "name": "백파이프",
@@ -322,8 +322,8 @@
       "description": "<p><em>경이로운 물건</em></p>\n<p>행동을 사용하면 이 뿔피리를 불 수 있습니다. 뿔피리에 응해 발할라의 전사의 혼이 60ft 내에 나타납니다. <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.monsters\" data-id=\"kz1t6xeXVwODpYb2\">광전사</a>의 스탯을 사용합니다. 1시간이 경과하거나, hp가 0이 되면 발할라로 돌아갑니다. 한번 뿔피리를 사용하면, 7일이 경과하기 전까지 다시 사용할 수 없습니다.</p>\n<p>현존한다고 알려진 발할라의 뿔피리는 4종류가 있는데, 각각 서로 다른 금속으로 만들어져 있습니다. 뿔피리의 종류에 따라 소환하는 광전사의 수와 사용에 필요한 조건이 다릅니다. GM은 뿔피리의 종류를 지정하거나 무작위로 결정합니다.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th뿔피리 종류</th>\n<th>소환되는 광전사</th>\n<th>조건</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>은</td>\n<td>2d4 + 2</td>\n<td>없음</td>\n</tr>\n<tr>\n<td><strong>41-75</strong></td>\n<td><strong>구리</strong></td>\n<td><strong>3d4 + 3</strong></td>\n<td><strong>모든 간이 무기 숙련</strong></td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>청동</td>\n<td>4d4 + 4</td>\n<td>모든 평장갑 숙련</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>철</td>\n<td>5d4 + 5</td>\n<td>모든 군용 무기 숙련</td>\n</tr>\n</tbody>\n</table>\n<p>조건을 만족하지 않은 채로 뿔피리를 불면, 소환된 광전사는 당신을 공격합니다. 조건을 충족하면, 광전사들은 당신과 동료들에게 우호적이며, 당신의 명령을 듣습니다.</p>"
     },
     "Brazier of Commanding Fire Elementals": {
-      "name": "불 원소 조종의 화로",
-      "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em style=\"box-sizing:border-box;user-select:text\">경이로운 물건</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><span style=\"color:#191813\"><span style=\"font-size:13px\">이 황동 화로에 불이 타오르고 있다면, 행동을 사용하고 명령어를 말하여 </span></span><em style=\"box-sizing:border-box;user-select:text\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em><span style=\"color:#191813\"><span style=\"font-size:13px\"> 주문을 시전한 것처럼 @Actor[b0BLXmcnhCDkgQQW]{불의 원소 Fire Elemental}를 불러낼 수 있습니다. 이 화로의 기능을 한 번 사용했다면, 다음날 새벽이 올 때까지 다시 기능을 사용할 수 없습니다. </span></span></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><span style=\"color:#191813\"><span style=\"font-size:13px\">이 화로의 무게는 5lbs입니다.</span></span></p>"
+      "name": "파이어 엘리멘탈 조종의 화로",
+      "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em style=\"box-sizing:border-box;user-select:text\">경이로운 물건</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><span style=\"color:#191813\"><span style=\"font-size:13px\">이 황동 화로에 불이 타오르고 있다면, 행동을 사용하고 명령어를 말하여 </span></span><em style=\"box-sizing:border-box;user-select:text\">@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em><span style=\"color:#191813\"><span style=\"font-size:13px\"> 주문을 시전한 것처럼 @Actor[b0BLXmcnhCDkgQQW]{파이어 엘리멘탈 Fire Elemental}을 불러낼 수 있습니다. 이 화로의 기능을 한 번 사용했다면, 다음날 새벽이 올 때까지 다시 기능을 사용할 수 없습니다. </span></span></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><span style=\"color:#191813\"><span style=\"font-size:13px\">이 화로의 무게는 5lbs입니다.</span></span></p>"
     },
     "Breastplate": {
       "name": "브레스트플레이트",
@@ -762,8 +762,8 @@
       "description": "<p><em>경이로운 물건</em></p>\n<p>이 황색 다이아몬드에는 원소의 힘이 약간 담겨 있습니다. 당신이 행동을 사용하여 이 보석을 깨트리면, 원소 소환 @Item[66Idf9T6v6pC4AMy]{원소 소환 Conjure Elemental}주문을 시전한 것처럼 @Actor[ShGyQ3SdbzMG5Bad]{대지 원소 Earth Elemental}를 소환할 수 있으며, 그 이후 보석의 마법은 사라집니다.</p>"
     },
     "Elemental Gem of Fire": {
-      "name": "불의 원소 보석",
-      "description": "<p><em>경이로운 물건</em></p>\n<p>이 적색 강옥에는 원소의 힘이 약간 담겨 있습니다. 당신이 행동을 사용하여 이 보석을 깨트리면, @Item[66Idf9T6v6pC4AMy]{원소 소환 Conjure Elemental}주문을 시전한 것처럼 @Actor[b0BLXmcnhCDkgQQW]{불의 원소 Fire Elemental}를 소환할 수 있으며, 그 이후 보석의 마법은 사라집니다.</p>"
+      "name": "파이어 엘리멘탈 보석",
+      "description": "<p><em>경이로운 물건</em></p>\n<p>이 적색 강옥에는 원소의 힘이 약간 담겨 있습니다. 당신이 행동을 사용하여 이 보석을 깨트리면, @Item[66Idf9T6v6pC4AMy]{원소 소환 Conjure Elemental}주문을 시전한 것처럼 @Actor[b0BLXmcnhCDkgQQW]{파이어 엘리멘탈 Fire Elemental}를 소환할 수 있으며, 그 이후 보석의 마법은 사라집니다.</p>"
     },
     "Elemental Gem of Water": {
       "name": "물의 원소 보석",
@@ -1203,7 +1203,7 @@
     },
     "Helm of Brilliance": {
       "name": "총명의 투구",
-			"description": "<p><em>경이로운 물건, (조율 필요)</em></p>\n<p>이 번쩍이는 투구에는 1d10개의 다이아몬드, 2d10개의 루비, 3d10개의 파이어 오팔, 4d10개의 오팔이 박혀있습니다. 투구에서 떼어낸 보석은 먼지가 되어 바스러집니다. 투구에 붙은 보석이 모두 떨어지면 투구의 마법은 사라집니다.</p>\n<p>이 장비를 착용하는 동안 다음과 같은 이로운 효과를 얻습니다:</p>\n<ul>\n<li>행동을 소모해 다음 주문 중 한 개를 시전할 수 있습니다 (내성 DC 18). 각 주문 별로 특정 종류의 보석 하나를 요소로 사용합니다.: @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Daylight} (오팔), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (파이어 오팔), @Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Prismatic Spray} (다이아몬드), or @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire} (루비). 주문을 시전하면 해당 보석 한 개가 파괴되어 투구에서 사라집니다.</li>\n<li>투구에 다이아몬드가 한 개라도 붙어있는 한, 헬멧은 30ft 반경 내에 언데드가 한 마리라도 있을 시 그 범위만큼 약한 빛을 방출합니다. 그 빛의 범위에 있는 모든 언데드는 턴을 시작할 때 1d6 광휘 피해를 받습니다.</li>\n<li>투구에 루비가 한 개라도 붙어있는 한, 화염 피해에 저항입니다.</li>\n<li>투구에 파이어 오팔이 한 개라도 붙어있는 한, 행동을 사용해 명령어를 말하면 쥐고 있는 무기 중 하나에 불꽃을 일으킬 수 있습니다. 불꽃은 반경 10ft에 밝은 빛을, 반경 10ft에 추가로 약한 빛을 방출합니다. 불꽃은 자신과 무기에게 피해를 입히지 않습니다. 불꽃이 붙은 무기를 이용한 공격이 명중했을 경우, 목표는 추가로 1d6 화염 피해를 입습니다. 추가 행동을 사용해 명령어를 다시 말하거나, 무기를 떨어뜨리거나 집어넣으면 불꽃은 꺼집니다./li>\n</ul>\n<p>투구를 착용하고 있다면 d20을 굴립니다. 그 수치만큼, 주문의 내성 굴림에 실패한 것으로 취급하여 화염 피해를 받습니다. 굴림의 결과가 1이라면, 투구에 남아있는 보석 각각에서 빛줄기가 뿜어져 나옵니다. 투구로부터 60ft 이내에 있는 크리처는 각각 DC 17 민첩 내성 굴림을 합니다. 판정에 실패하면, 투구의 빛줄기에 맞아 투구에 박힌 보석 개수만큼의 광휘 피해를 받습니다. 그 후 투구와 그에 박힌 보석 모두 파괴됩니다.</p>"
+			"description": "<p><em>경이로운 물건, (조율 필요)</em></p>\n<p>이 번쩍이는 투구에는 1d10개의 다이아몬드, 2d10개의 루비, 3d10개의 파이어 오팔, 4d10개의 오팔이 박혀있습니다. 투구에서 떼어낸 보석은 먼지가 되어 바스러집니다. 투구에 붙은 보석이 모두 떨어지면 투구의 마법은 사라집니다.</p>\n<p>이 장비를 착용하는 동안 다음과 같은 이로운 효과를 얻습니다:</p>\n<ul>\n<li>행동을 소모해 다음 주문 중 한 개를 시전할 수 있습니다 (내성 DC 18). 각 주문 별로 특정 종류의 보석 하나를 요소로 사용합니다.: @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Daylight} (오팔), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (파이어 오팔), @Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Prismatic Spray} (다이아몬드), @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire} (루비). 주문을 시전하면 해당 보석 한 개가 파괴되어 투구에서 사라집니다.</li>\n<li>투구에 다이아몬드가 한 개라도 붙어있는 한, 헬멧은 30ft 반경 내에 언데드가 한 마리라도 있을 시 그 범위만큼 약한 빛을 방출합니다. 그 빛의 범위에 있는 모든 언데드는 턴을 시작할 때 1d6 광휘 피해를 받습니다.</li>\n<li>투구에 루비가 한 개라도 붙어있는 한, 화염 피해에 저항입니다.</li>\n<li>투구에 파이어 오팔이 한 개라도 붙어있는 한, 행동을 사용해 명령어를 말하면 쥐고 있는 무기 중 하나에 불꽃을 일으킬 수 있습니다. 불꽃은 반경 10ft에 밝은 빛을, 반경 10ft에 추가로 약한 빛을 방출합니다. 불꽃은 자신과 무기에게 피해를 입히지 않습니다. 불꽃이 붙은 무기를 이용한 공격이 명중했을 경우, 목표는 추가로 1d6 화염 피해를 입습니다. 추가 행동을 사용해 명령어를 다시 말하거나, 무기를 떨어뜨리거나 집어넣으면 불꽃은 꺼집니다./li>\n</ul>\n<p>투구를 착용하고 있다면 d20을 굴립니다. 그 수치만큼, 주문의 내성 굴림에 실패한 것으로 취급하여 화염 피해를 받습니다. 굴림의 결과가 1이라면, 투구에 남아있는 보석 각각에서 빛줄기가 뿜어져 나옵니다. 투구로부터 60ft 이내에 있는 크리처는 각각 DC 17 민첩 내성 굴림을 합니다. 판정에 실패하면, 투구의 빛줄기에 맞아 투구에 박힌 보석 개수만큼의 광휘 피해를 받습니다. 그 후 투구와 그에 박힌 보석 모두 파괴됩니다.</p>"
     },
     "Helm of Comprehending Languages": {
       "name": "언어 변환의 투구",
@@ -1732,6 +1732,8 @@
       "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em style=\"box-sizing:border-box;user-select:text\">경이로운 물건</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><span style=\"color:#191813\"><span style=\"font-size:13px\">이 목걸이는 1d6+3개의 구슬이 달려 있습니다.행동을 사용해 구슬 중 하나를 떼어내서 60ft 거리까지 던질 수 있습니다. 구슬이 목표 지점에 닿으면 즉시 폭발하여 3레벨의 @Item[oQgSYILe2Su96370]{화염구 Fireball}주문이 됩니다 (내성 DC 15).  당신은 행동 한 번에 구슬 여러개를 던지거나, 아예 목걸이 전체를 던질 수 있습니다. 그렇게 한 경우, 추가로 던져진 구슬 하나당 화염구의 주문 슬롯 레벨이 1씩 증가합니다.</span></span></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em>**파운드리 노트: 9개의 충전은 확인 가능한 최대의 구슬 숫자를 나타냅니다. 기타 공식 버튼을 통해 추가로 던져진 구술의 피해를 굴릴 수 있습니다. </em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em>또한, 여기에 남아있는 구슬의 개수에 따른 가격 안내서가 있습니다. 이 가격은 가이드일 분이며 던전 마스터의 세계를 따르도록 조정하십시오.:</em></p>\n<table style=\"height:135px;width:185px\" border=\"1\">\n<tbody>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">\n<p><strong>구슬 숫자</strong></p>\n</td>\n<td style=\"height:15px;width:70.2431px\"><strong>가격 (gp)</strong></td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">8</td>\n<td style=\"height:15px;width:70.2431px\">30,720</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">7</td>\n<td style=\"height:15px;width:70.2431px\">15,360</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">6</td>\n<td style=\"height:15px;width:70.2431px\">7680</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">5</td>\n<td style=\"height:15px;width:70.2431px\">3840</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">4</td>\n<td style=\"height:15px;width:70.2431px\">1600</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">3</td>\n<td style=\"height:15px;width:70.2431px\">960</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">2</td>\n<td style=\"height:15px;width:70.2431px\">480</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:106.91px\">1</td>\n<td style=\"height:15px;width:70.2431px\">300</td>\n</tr>\n</tbody>\n</table>"
     },
     "Necklace of Prayer Beads": {
+      "name": "염주의 목걸이",
+			"description": "<p><em>경이로운 물건, (클레릭이나 드루이드, 팔라딘의 조율 필요)</em></p>\n<p>이 목걸이에는 1d4 + 2 개의 마법 구슬이 꿰여있습니다. 마법 구슬은 아쿠아마린이나 흑진주, 토파즈 등으로 만들어져 있습니다. 또한, 호박, 혈석, 황수정, 산호석, 비취, 진주, 석영 등과 같이 비마법적 보석으로 만든 구슬도 섞여있습니다. 마법 구슬이 목걸이에서 떨어져 나가면, 떨어져나간 보석은 마법을 잃습니다.</p>\n<p>6가지 종류의 마법 구슬이 있습니다. GM이 각 마법 구슬의 종류를 지정하거나 무작위로 결정합니다. 같은 종류의 구슬이 하나 이상 있을 수도 있습니다. 구슬을 사용하기 위해서는 목걸이를 착용하고 있어야 합니다. 각 구슬은 추가 행동을 사용하여 시전할 수 있는 주문을 담고 있습니다 (내성 굴림이 필요한 경우 당신의 주문 내성 DC를 사용합니다).한번 마법 구슬의 주문을 시전했으면, 다음 새벽 전까지 다시 사용할 수 없습니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d20</strong></td>\n<td><strong>구슬 종류</strong></td>\n<td><strong>주문</strong></td>\n<td><strong>구슬 당 가격 기준 (gp)</strong></td>\n</tr>\n<tr>\n<td>1-6</td>\n<td>축복</td>\n<td>@Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{Bless}</td>\n<td>2,000</td>\n</tr>\n<tr>\n<td>7-12</td>\n<td>치유</td>\n<td>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Cure Wounds}  (2 레벨) 또는  @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Lesser Restoration}</td>\n<td>4,000</td>\n</tr>\n<tr>\n<td>13-16</td>\n<td>호의</td>\n<td>@Compendium[dnd5e.spells.WzvJ7G3cqvIubsLk]{Greater Restoration}</td>\n<td>32,000</td>\n</tr>\n<tr>\n<td>17-18</td>\n<td>강타</td>\n<td>@Compendium[dnd5e.spells.7UwUjJ6owIQkEPrs]{Branding Smite}</td>\n<td>1,500</td>\n</tr>\n<tr>\n<td>19</td>\n<td>소환</td>\n<td>@Compendium[dnd5e.spells.fkREcytuZ8sngWtC]{Planar Ally}</td>\n<td>128,000</td>\n</tr>\n<tr>\n<td>20</td>\n<td>바람 걸음</td>\n<td>@Compendium[dnd5e.spells.8PJAsHmbu6UgDHC0]{Wind Walk}</td>\n<td>96,000</td>\n</tr>\n</tbody>\n</table>\n<p><em>**파운드리 노트 : 충전 6개는 최대 마법 구슬 수를 의미합니다. 필요 시 조정하세요.</em></p>\n<p><em>또한, 가격 기준은 그저 기준일 뿐이며 DM의 세계관에 따라 적절히 조정해야 합니다.</em></p>"
     },
     "Net": {
       "name": "그물",
@@ -1812,6 +1814,8 @@
 			"description":"<p><em>이 갑옷은 강력한 룬을 새기거나, 마법의 불을 이용해 제조되거나, 강력한 존재의 축복을 받거나, 그 외 기타 사건을 거쳐 남겨진 물건입니다. 그로 인해 착용자는 향상된 방어력을 얻습니다.</em></p>\n<p>이 갑옷을 착용하는 동안 AC에 보너스를 받습니다.</p>"
     },
     "Padded Armor of Resistance": {
+      "name": "저항의 패디드 아머",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 갑옷을 착용하는 동안 한 가지 타입의 피해에 저항이 됩니다. GM은 임의로 타입을 지정하거나, 아래 옵션에서 무작위로 결정합니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>피해</strong> <strong>타입</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>산성</td>\n</tr>\n<tr>\n<td>2</td>\n<td>냉기</td>\n</tr>\n<tr>\n<td>3</td>\n<td>화염</td>\n</tr>\n<tr>\n<td>4</td>\n<td>역장</td>\n</tr>\n<tr>\n<td>5</td>\n<td>번개</td>\n</tr>\n<tr>\n<td>6</td>\n<td>사령</td>\n</tr>\n<tr>\n<td>7</td>\n<td>독성</td>\n</tr>\n<tr>\n<td>8</td>\n<td>사념</td>\n</tr>\n<tr>\n<td>9</td>\n<td>광휘</td>\n</tr>\n<tr>\n<td>10</td>\n<td>천둥</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
     },
     "Painter's Supplies": {
       "name": "화가의 도구",
@@ -1842,6 +1846,8 @@
       "description": "<p><em>경이로운 물건</em></p>\n<p>이 펜던트를 착용하고 있는 동안, 당신은 모든 질병에 대해 면역이 됩니다. 만약 당신이 질병에 감염되어 있다면, 이 펜던트를 착용하고 있는 동안에는 그 질병의 효과가 억제됩니다.</p>"
     },
     "Periapt of Proof against Poison": {
+      "name": "내독성의 호부",
+			"description": "<p><em>경이로운 물건</em></p>\n<p>훌륭하게 가공한 검은 보석으로 만든 펜던트에 섬세하게 가공된 은 체인이 걸려있습니다. 착용하는 동안, 모든 독은 당신에게 듣지 않습니다. 중독 상태에 면역이 되며, 독성 피해에 면역이 됩니다.</p>"
     },
     "Periapt of Wound Closure": {
       "name": "상처 봉합의 호부",
@@ -1869,7 +1875,7 @@
     },
     "Pipes of Haunting": {
       "name": "공포의 파이프",
-      "description": "<p><em>경이로운 물건</em></p>\n<p>이 파이프를 사용하려면 관악기에 숙련되어 있어야 합니다. 악기는 3회의 힘이 충전되어 있습니다. 당신은 행동을 사용하여 충전 1회를 소모하고 악기를 연주할 수 있으며, 이때 으스스하고 주문의 힘이 있는 음색이 연주됩니다. 주변 30ft 이내에서 당신의 연주를 들은 모든 대상은 DC 15의 지혜 내성 굴림을 해야 하며, 실패할 시 1분간 당신에게 공포를 느끼는 상태가 됩니다. 당신이 바란다면 효과 범위 내에 있는 적대적이지 않은 대상들은 자동으로 내성에 성공하게 할 수도 있습니다. 내성에 실패한 자들은 자기 턴이 끝날 때마다 다시 내성을 굴릴 수 있으며, 성공했을 시 효과에서 벗어날 수 있습니다. 이 효과에 대한 내성에 성공한 자는 24시간 동안 파이프의 공포에 면역이 됩니다.</p>\n<p>이 파이프는 매일 새벽마다 1d3회의 힘을 충전합니다.</p>"
+      "description": "<p><em>경이로운 물건</em></p>\n<p>이 파이프를 사용하려면 관악기에 숙련되어 있어야 합니다. 악기의 충전은 3입니다. 행동을 사용하여 충전 1회를 소비하면 악기를 연주할 수 있으며, 이때 으스스하고 주문의 힘이 있는 음색이 연주됩니다. 주변 30ft 이내에서 당신의 연주를 들은 모든 대상은 DC 15의 지혜 내성 굴림을 해야 하며, 실패할 시 1분간 당신에게 공포를 느끼는 상태가 됩니다. 당신이 바란다면 효과 범위 내에 있는 적대적이지 않은 대상들은 자동으로 내성에 성공하게 할 수도 있습니다. 내성에 실패한 자들은 자기 턴이 끝날 때마다 다시 내성을 굴릴 수 있으며, 성공했을 시 효과에서 벗어날 수 있습니다. 이 효과에 대한 내성에 성공한 자는 24시간 동안 파이프의 공포에 면역이 됩니다.</p>\n<p>이 파이프는 매일 새벽마다 1d3회의 힘을 충전합니다.</p>"
     },
     "Pipes of the Sewers": {
       "name": "시궁쥐의 파이프",
@@ -1900,6 +1906,8 @@
 			"description": "<p><em>이 갑옷은 강력한 룬을 새기거나, 마법의 불을 이용해 제조되거나, 강력한 존재의 축복을 받거나, 그 외 기타 사건을 거쳐 남겨진 물건입니다. 그로 인해 착용자는 향상된 방어력을 얻습니다.</em></p>\n<p>이 갑옷을 착용하는 동안 AC에 보너스를 받습니다.</p>"
     },
     "Plate Armor of Etherealness": {
+      "name": "에테르화의 플레이트 아머",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>플레이트 아머는 모양을 다듬어 서로 맞물리는 강철 철판이 전신을 덮고 있는 갑옷입니다. 플레이트 아머 한 세트에는 건틀렛, 무거운 가죽 장화, 얼굴 가리개가 달린 헬멧, 갑옷 아래에 입는 두터운 안감도 포함되어 있습니다. 버클과 끈이 그 중량을 온몸에 분산해줍니다. 이 갑옷은 특정 마법 룬을 새기거나, 기타 다른 수단을 통해 갑옷에 힘을 불어넣었습니다.</p>\n<p>이 갑옷을 착용한 동안, 행동을 사용해 명령어를 말하면 @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{에테르화 Etherealness} 주문의 효과를 받을 수 있습니다. 이 효과는 최대 10분간 지속되며, 갑옷을 벗거나 행동을 사용해 명령어를 다시 말하면 효과는 종료됩니다. 이 성질은 다음 새벽 전까지 다시 사용할 수 없습니다.</p>"
     },
     "Plate Armor of Resistance": {
       "name": "저항의 플레이트 아머",
@@ -2171,7 +2179,7 @@
     },
     "Ring of Earth Elemental Command": {
       "name": "어스 엘리멘탈 조종의 반지",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>This ring is linked to the Elemental Plane of Earth.</p>\n<p>While wearing this ring, you have advantage on attack rolls against @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{Earth Elemental}s, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.</p>\n<p>The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.</p>\n<p><strong>Ring of Earth Elemental Command</strong>. You can expend 2 of the ring's charges to cast @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate Monster} on an Earth Elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.</p>\n<p>If you help slay an Earth Elemental while attuned to the ring, you gain access to the following additional properties:</p>\n<ul>\n<li>You have resistance to acid damage.</li>\n<li>You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.</li>\n<li>You can cast the following spells from the ring, expending the necessary number of charges: @Compendium[dnd5e.spells.QvGcdRUSNRKEQJlK]{Stone Shape} (2 charges), @Compendium[dnd5e.spells.ReMbjfeOKoSj3O79]{Stoneskin} (3 charges), or @Compendium[dnd5e.spells.NmoRmM1mhuM3pqnY]{Wall of Stone} (3 charges).</li>\n</ul>"
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지는 대지의 원소 차원에 연결되어있습니다.</p>\n<p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{어스 엘리멘탈 Earth Elemental}에 대한 공격 굴림에 유리함을 얻습니다. 어스 엘리멘탈이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p>\n<p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p>\n<p><strong>어스 엘리멘탈 조종의 반지</strong>. 반지의 충전을 2 소비해 어스 엘리멘탈 하나에게 @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate Monster} 를 시전할 수 있습니다. 또한, 자갈돌, 바위, 먼지 등으로 이루어진, 어려운 지형을 평범한 지형처럼 이동할 수 있습니다. 그 뿐만 아니라, 대지어를 말하고 이해할 수 있습니다.</p>\n<p>이 반지에 조율된 동안 어스 엘리멘탈을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p>\n<ul>\n<li>산성 피해에 저항이 됩니다.</li>\n<li>어려운 지형인 지역에 있는 단단한 토양이나 바위를 뚫고 지나갈 수 있습니다. 그 안에서 턴을 종료했을 시, 직전에 점유했던 공간에서 가장 가까운 미점유 공간으로 튀어나옵니다. </li>\n<li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @Compendium[dnd5e.spells.QvGcdRUSNRKEQJlK]{Stone Shape} (2 충전), @Compendium[dnd5e.spells.ReMbjfeOKoSj3O79]{Stoneskin} (3 충전), @Compendium[dnd5e.spells.NmoRmM1mhuM3pqnY]{Wall of Stone} (3 충전).</li>\n</ul>"
     },
     "Ring of Evasion": {
       "name": "회피의 반지",
@@ -2182,6 +2190,8 @@
 			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안 추락할 경우, 매 라운드마다 60ft 씩 강하하며, 추락으로 인한 피해를 입지 않습니다.</p>"
     },
     "Ring of Fire Elemental Command": {
+      "name": "파이어 엘리멘탈 조종의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지는 화염의 원소 차원에 연결되어있습니다.</p>\n<p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{파이어 엘리멘탈 Fire Elemental} 에 대한 공격 굴림에 유리함을 얻습니다. 파이어 엘리멘탈이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p>\n<p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p>\n<p><strong>파이어 엘리멘탈 조종의 반지</strong>.  반지의 충전을 2 소비해 파이어 엘리멘탈 하나에게 @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate Monster} 를 시전할 수 있습니다. 또한, 화염 피해에 저항이 됩니다. 그 뿐만 아니라, 화염어를 말하고 이해할 수 있습니다.</p>\n<p>이 반지에 조율된 동안 파이어 엘리멘탈을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p>\n<ul>\n<li>화염 피해에 면역이 됩니다.</li>\n<li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{Burning Hands} (1 충전), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (2 충전), @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire} (3 충전).</li>\n</ul>"
     },
     "Ring of Fire Resistance": {
       "name": "화염 저항의 반지",
@@ -2209,7 +2219,7 @@
     },
     "Ring of Mind Shielding": {
       "name": "정신 방어의 반지",
-      "description": "<p><em>(조율 필요)</em></p>\n<p>While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.</p>\n<p>You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die.</p>\n<p>If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.</p>"
+      "description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 생각을 읽거나, 거짓말인지 판별하거나, 성향을 알아내거나, 크리처 타입을 알아내는 마법에 면역이 됩니다. 다른 크리처가 당신과 정신감응으로 소통하려면 당신의 허가가 있어야 합니다.</p>\n<p>행동을 사용해 반지를 투명하게 만들 수 있습니다. 다시 행동을 사용하거나, 반지를 빼거나, 당신이 사망한 경우 다시 반지가 보이게 됩니다. </p>\n<p>이 반지를 착용한 채로 사망한 경우, 이미 그 안에 혼이 있지 않다면, 당신의 영혼은 반지 안에 들어갑니다. 반지 안에 계속 머무르거나 내세로 떠나기 위해 반지에서 나갈 수도 있습니다. 반지 안에 영혼이 담겨있는 동안, 그 반지를 착용한 크리처와 정신 감응으로 소통할 수 있습니다. 착용자는 이러한 정신감응 소통을 막을 수 없습니다.</p>"
     },
     "Ring of Necrotic Resistance": {
       "name": "사령 저항의 반지",
@@ -2236,8 +2246,8 @@
 			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안 최소 1 hp라도 남아있다면, 10분 마다 hp를 1d6 회복합니다. 신체의 일부분을 잃었을 경우 잃은 부분이 다시 자라나며, 1d6 + 1 일이 경과하면 그 신체 부위의 모든 기능을 회복합니다. 단, 그 기간동안 최소 1hp 이상이어야 합니다.</p>\n<p><em>파운드리 노트: 필요 시 '기타 수식 '을 이용해 신체 부위 재생에 필요한 일 수를 계산할 수 있습니다.</em></p>"
     },
     "Ring of Shooting Stars": {
-      "name": "별똥별의 반지",
-			"description": "<p><em>(밤 시간에 실외에서의 조율 필요)</em></p>\n<p>이 반지를 약한 빛이나 어둠 환경에서 착용 중인 경우, 자유로이 @Compendium[dnd5e.spells.CAxSzHWizrafT033]{Dancing Lights} 과 @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{Light} 를 시전할 수 있습니다. 두 주문 모두 시전 시 행동을 사용해야 합니다.</p>\n<p>반지의 충전은 6이며, 이를 이용해 다음의 성질을 사용할 수 있습니다. 매일 새벽마다 소비한 충전을 1d6 회복합니다.</p>\n<p><strong>요정 불꽃</strong>. 행동을 사용해 충전을 1 소비하면 @Compendium[dnd5e.spells.nqBDWkVOfcGZt4YU]{요정 불꽃 Faerie Fire} 을 시전할 수 있습니다.</p>\n<p><strong>번개 구체</strong>. 행동을 사용해 충전을 2 소비하면 지름 3ft의 번개 구체를 만들 수 있습니다. 구체를 많이 만들수록, 각각의 구체의 힘은 떨어집니다.</p>\n<p>각 구체는 시야 내 반경 120ft에 있는 미점유된 공간에 나타납니다. 구체는 집중하는 동안 유지되며(주문에 집중한 것처럼 취급), 최대 1분 간 유지됩니다. 각 구체는 30ft 반경으로 약한 빛을 뿜습니다.</p>\n<p>추가 행동을 사용하면 각 구체를 30ft 씩, 최대 120ft 까지 이동시킬 수 있습니다. 당신 이외의 크리처가 구체의 반경 5ft 내로 접근한 경우, 구체는 그 크리처에게 번개를 내뿜고 사라집니다. 해당 크리처는 DC 15 민첩 내성 굴림을 합니다. 실패하면, 그 크리처는 만들어진 구체의 수에 반비례해 번개 피해를 입습니다. </p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>구체</strong></td>\n<td><strong>번개 피해</strong></td>\n</tr>\n<tr>\n<td>4</td>\n<td>2d4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2d6</td>\n</tr>\n<tr>\n<td>2</td>\n<td>5d4</td>\n</tr>\n<tr>\n<td>1</td>\n<td>4d12</td>\n</tr>\n</tbody>\n</table>\n<p><strong>별똥별</strong>. 행동을 사용해 1 ~ 3 충전을 소비할 수 있습니다. 소비한 충전 수만큼 반짝이는 빛가루를, 시야 내 60ft 이내의 지점을 골라 그곳에 발사할 수 있습니다. 해당 지점의 15 제곱피트 이내에 있는 크리처는 불똥 세례를 맞아 DC 15 민첩 내성 굴림을 해야 합니다. 실패하면 5d4 화염 피해를 입으며, 성공하면 그 반절의 피해를 입습니다.</p>"
+      "name": "유성우의 반지",
+			"description": "<p><em>(밤 시간에 실외에서의 조율 필요)</em></p>\n<p>이 반지를 약한 빛이나 어둠 환경에서 착용 중인 경우, 자유로이 @Compendium[dnd5e.spells.CAxSzHWizrafT033]{Dancing Lights} 과 @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{Light} 를 시전할 수 있습니다. 두 주문 모두 시전 시 행동을 사용해야 합니다.</p>\n<p>반지의 충전은 6이며, 이를 이용해 다음의 성질을 사용할 수 있습니다. 매일 새벽마다 소비한 충전을 1d6 회복합니다.</p>\n<p><strong>요정 불꽃</strong>. 행동을 사용해 충전을 1 소비하면 @Compendium[dnd5e.spells.nqBDWkVOfcGZt4YU]{요정 불꽃 Faerie Fire} 을 시전할 수 있습니다.</p>\n<p><strong>번개 구체</strong>. 행동을 사용해 충전을 2 소비하면 지름 3ft의 번개 구체를 만들 수 있습니다. 구체를 많이 만들수록, 각각의 구체의 힘은 떨어집니다.</p>\n<p>각 구체는 시야 내 반경 120ft에 있는 미점유된 공간에 나타납니다. 구체는 집중하는 동안 유지되며(주문에 집중한 것처럼 취급), 최대 1분 간 유지됩니다. 각 구체는 30ft 반경으로 약한 빛을 뿜습니다.</p>\n<p>추가 행동을 사용하면 각 구체를 30ft 씩, 최대 120ft 까지 이동시킬 수 있습니다. 당신 이외의 크리처가 구체의 반경 5ft 내로 접근한 경우, 구체는 그 크리처에게 번개를 내뿜고 사라집니다. 해당 크리처는 DC 15 민첩 내성 굴림을 합니다. 실패하면, 그 크리처는 만들어진 구체의 수에 반비례해 번개 피해를 입습니다. </p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>구체</strong></td>\n<td><strong>번개 피해</strong></td>\n</tr>\n<tr>\n<td>4</td>\n<td>2d4</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2d6</td>\n</tr>\n<tr>\n<td>2</td>\n<td>5d4</td>\n</tr>\n<tr>\n<td>1</td>\n<td>4d12</td>\n</tr>\n</tbody>\n</table>\n<p><strong>유성우</strong>. 행동을 사용해 1 ~ 3 충전을 소비할 수 있습니다. 소비한 충전 수만큼 반짝이는 빛가루를, 시야 내 60ft 이내의 지점을 골라 그곳에 발사할 수 있습니다. 해당 지점의 15 제곱피트 이내에 있는 크리처는 불똥 세례를 맞아 DC 15 민첩 내성 굴림을 해야 합니다. 실패하면 5d4 화염 피해를 입으며, 성공하면 그 반절의 피해를 입습니다.</p>"
     },
     "Ring of Spell Storing": {
       "name": "주문 저장의 반지",
@@ -2245,7 +2255,7 @@
     },
     "Ring of Spell Turning": {
       "name": "주문 반사의 반지",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.</p>"
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 당신 하나만을 목표로 한 주문의 내성 굴림에 유리함을 얻습니다 (범위 효과는 제외). 또한, 내성 굴림에 20이 나왔으며 그 주문이 7레벨 이하였다면, 주문은 당신에게 아무런 효과가 없습니다. 그 대신, 해당 주문은 그 주문의 시전자를 목표로 합니다. 슬롯 레벨, 주문 내성 DC, 공격 보너스, 주문시전 능력은 그 시전자의 것을 따릅니다.</p>"
     },
     "Ring of Swimming": {
       "name": "수영의 반지",
@@ -2253,7 +2263,7 @@
     },
     "Ring of Telekinesis": {
       "name": "염동력의 반지",
-			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 자유로이 @Compendium[dnd5e.spells.HQfd7jJyULIoGxrZ]{Telekinesis} 주문을 시전할 수 있습니다.착용 중이나 소지 중이 아닌 오브젝트만 목표로 지정할 수 있습니다.</p>"
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 자유로이 @Compendium[dnd5e.spells.HQfd7jJyULIoGxrZ]{Telekinesis} 주문을 시전할 수 있습니다.착용 중이나 소지 중이 아닌 물체만 목표로 지정할 수 있습니다.</p>"
     },
     "Ring of Three Wishes": {
       "name": "세가지 소원의 반지",
@@ -2268,26 +2278,40 @@
       "description": "<p><em>(조율 필요)</em></p>\n<p>당신이 이 반지를 끼고 있으면, 냉기 피해에 대해 저항을 얻을 수 있습니다. 추가로, 당신과 당신 자신이 들고 있거나 장비하고 있는 모든 물체는 섭씨 −45도 이하의 극한에도 피해를 받지 않습니다.</p>"
     },
     "Ring of Water Elemental Command": {
+      "name": "워터 엘리멘탈 조종의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지는 물의 원소 차원에 연결되어있습니다.</p>\n<p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.namJz755U1EhvEJa]{워터 엘리멘탈 Water Elemental} 에 대한 공격 굴림에 유리함을 얻습니다. 워터 엘리멘탈이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p>\n<p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p>\n<p><strong>워터 엘리멘탈 조종의 반지</strong>.  반지의 충전을 2 소비해 워터 엘리멘탈 하나에게 @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate Monster} 를 시전할 수 있습니다. 또한, 액체의 표면 위를 지면처럼 걸을 수 있습니다. 그 뿐만 아니라, 수중어를 말하고 이해할 수 있습니다.</p>\n<p>이 반지에 조율된 동안 워터 엘리멘탈을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p>\n<ul>\n<li>물 속에서 호흡할 수 있으며, 걷기 속도와 수영 속도가 동일해집니다.</li>\n<li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @Compendium[dnd5e.spells.a3XtAO5n2GrqiAh5]{Create or Destroy Water} (1 충전), @Compendium[dnd5e.spells.7fFHlBk3UNX8gPKL]{Control Water} (3 충전), @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{Ice Storm} (2 충전), or @Compendium[dnd5e.spells.fzZnVKLmBMo2f5up]{Wall of Ice} (3 충전).</li>\n</ul>"
     },
     "Ring of Water Walking": {
       "name": "수면 보행의 반지",
       "description": "<p>이 반지를 끼고 있으면, 당신은 어떠한 액체 표면 위에서도 마치 고체 위에 서 있는 것처럼 움직이고 걸어 다닐 수 있습니다.</p>"
     },
     "Ring of X-ray Vision": {
+      "name": "투시의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 반지를 착용한 동안, 행동을 사용해 명령어를 말할 수 있습니다. 그러면 1분 간 고체 물질 안이나 너머를 볼 수 있게 됩니다. 시야 범위는 반경 30ft 입니다. 이 범위 내의 고체 물체는 당신에겐 투명하게 보이며, 물체에 반사되어 가로막히지 않습니다. 1ft 두께의 바위, 1인치 두께의 평범한 금속, 최대 3ft 두께의 나무나 먼지를 관통하여 볼 수 있습니다. 납판과 같이, 더 두꺼운 물질은 시야를 가로막습니다.</p>\n<p>긴 휴식을 취하지 않고 이 반지를 다시 사용할 때마다, DC 15 건강 내성 굴림을 해야 합니다. 실패하면 탈진을 1레벨 얻습니다.</p>"
     },
     "Ring of the Ram": {
+      "name": "숫양의 반지",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>반지의 충전은 3입니다. 매일 새벽에 소비한 충전을 1d3 회복합니다. 이 반지를 착용한 동안, 행동을 사용해 충전을 1 ~ 3 소비하면 시야 내 30ft 이내의 크리처 하나에게 공격을 할 수 있습니다. 반지에서 유령같은 숫양의 머리가 나오며, +7 보너스가 붙은 공격 굴림을 합니다. 명중하면, 목표는 소비한 충전 수 x 2d10의 역장 피해를 입으며, 소비 충전 수 x 5ft 뒤로 밀려납니다.</p>\n<p> 행동을 사용해 충전을 1 ~ 3 소비하면, 시야 내 60ft 이내의 물체를 부술 수 있습니다. 단, 그 물체가 착용 중이거나 소지 중이 아니어야 합니다. + (소비한 충전 수) x 5 보너스가 붙은 근력 판정을 합니다.</p>\n<p><em>**파운드리 노트: 기타 수식에 1d20 + 5를 계산할 수 있도록 하였습니다. 이는 근력 판정 시 사용할 수 있습니다. 필요 시 충전을 더 소비한 만큼 +5를 더해주세요.</em></p>"
     },
     "Robe of Eyes": {
+      "name": "안구의 로브",
+			"description": "<p><em>경이러운 물건, (조율 필요)</em></p>\n<p>이 로브는 눈알 모양 패턴 무늬로 장식되어 있습니다. 이 로브를 착용한 동안, 다음과 같은 이점을 얻습니다:</p>\n<ul>\n<li>모든 방향을 볼 수 있으며, 시각에 의존하는 지혜 (감지) 판정에 유리함을 얻습니다.</li>\n<li>120ft 범위만큼의 암시야를 얻습니다.</li>\n<li>보이지 않는 크리처와 사물이 보입니다. 또한, 에테르계 (Ethereal Plane) 을 들여다볼 수도 있는데, 그 범위는 최대 120ft 입니다. </li>\n</ul>\n<p>로브에 있는 눈은 눈을 감거나 시선을 다른 곳으로 돌리는 것이 불가능합니다. 자기 자신의 눈을 감거나 시선을 돌리는 것은 가능하지만, 이 로브를 입는 동안 그러한 행위가 의미있진 않을 것입니다.</p>\n<p>로브를 입은 상태에서, @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{Light} 주문 또는 @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Daylight} 주문이 로브에서부터 반경 5ft 이내에서 시전되었다면, 1분간 실명 상태가 됩니다. 각 턴 종료 시, 건강 내성 굴림 (빛 DC 11 / 태양광 DC 15) 을 합니다. 성공 시 실명 상태가 해제됩니다.</p>"
     },
     "Robe of Scintillating Colors": {
+      "name": "총천연색의 로브",
+			"description": "<p><em>경이로운 물건, (조율 필요)</em></p>\n<p>로브의 충전은 3입니다. 매일 새벽마다 소비한 충전을 1d3 회복합니다. 착용하는 동안, 행동을 사용해 충전을 1 소비하면 다음 턴 종료 시까지 옷에서 시시각각 변하는 찬란한 색깔의 빛을 뿜습니다. 효과 지속 기간동안, 로브는 반경 30ft에 밝은 빛, 추가로 반경 30ft 에 약한 빛을 비춥니다. 착용자를 보는 크리처는 착용자에 대한 공격 굴림에 불리함을 얻습니다. 또한, 로브의 힘이 활성화된 동안 착용자를 볼 수 있는, 밝은 빛 범위의 모든 크리처는 DC 15 지혜 내성 굴림을 해야 합니다. 실패하면 효과가 끝날 때까지 현기증 상태가 됩니다.</p>"
     },
     "Robe of Stars": {
+      "name": "별의 로브",
+			"description": "<p><em>경이로운 물건, (조율 필요)</em></p>\n<p>로브는 검정색이거나 어두운 푸른색이며, 그 위에 하얗거나 은빛인 작은 별이 수놓아져 있습니다. 착용하는 동안 내성 굴림에 +1 보너스를 얻습니다.</p>\n<p>로브의 윗부분에 위치한 여섯 개의 별은 특히 큽니다. 이 로브를 착용한 동안, 행동을 사용해 그 여섯 개의 별 중 하나를 떼어낼 수 있습니다. 그것을 사용해 @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Magic Missile} 주문을 5레벨 주문으로 취급해 시전할 수 있습니다.</p>\n<p>매일 해질녘마다 제거한 별은 1d6 개만큼 돌아옵니다.</p>\n<p>이 로브를 착용한 동안, 행동을 사용해 착용한 것과 소지한 것을 모두 갖고 천상계를 방문할 수 있습니다. 그곳에 머무르다가 행동을 사용해 다시 원래 세계로 돌아올 수 있습니다. 마지막으로 점유했던 공간에 다시 나타나는데, 그 공간이 이미 점유 중인 경우 가장 가까운 미점유 공간에 나타납니다.</p>"
     },
     "Robe of Useful Items": {
       "name": "유용한 물건의 로브",
       "description": "<p><em>경이로운 물건</em></p>\n<p>이 로브는 다양한 형태와 색깔의 천이 덧대어져 만들어졌습니다. 이 로브를 입고 있을 때 당신은 행동을 사용해 불어있는 천 중 하나를 뜯어내 사용할 수 있으며, 이때 천은 그려진 형태대로의 물건으로 변합니다.</p>\n<p>로브는 아래 형태의 조각들이 각각 2장씩 있습니다. 모든 천조각을 다 떼어내면 이 로브는 그냥 평범한 옷이 됩니다.</p>\n<ul>\n<li>x2 단검 조각</li>\n<li>x2 황소눈 랜턴 (기름이 차 있음) 조각</li>\n<li>x2 강철 거울 조각</li>\n<li>x2 10ft 길이 장대 조각</li>\n<li>x2 마 밧줄 (50 feet, 말려져 있음) 조각</li>\n<li>x2 가방Sack 조각</li>\n</ul>\n<p>이 평범한 천들에 더해, 로브에는 4d4개의 특별한 조각이 붙어 있습니다. 각각의 조각들이 무엇인지는 GM이 정하거나 아래 표에서 무작위로 고를 수 있습니다.</p>\n<table style=\"height:150px\" border=\"1\">\n<tbody>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\"><strong>d100</strong></td>\n<td style=\"height:15px;width:186.91px\"><strong>천조각</strong></td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">01-08</td>\n<td style=\"height:15px;width:186.91px\">100 gp가 들어있는 가방(bag)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">09-15</td>\n<td style=\"height:15px;width:186.91px\">500gp 상당의 은 상자 (1ft 길이, 6인치 너비와 깊이)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">16-22</td>\n<td style=\"height:15px;width:186.91px\">쇠 문(10ft 너비에 10ft 높이까지, 당신의 선택에 따라 빗장이 있을 수 있음), 당신이 선택한 장소에 생겨나 열리며, 이 문에는 경첩이 달려서 여닫을 수 있음.</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">23-30</td>\n<td style=\"height:15px;width:186.91px\">100gp 상당의 보석 10개</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">31-44</td>\n<td style=\"height:15px;width:186.91px\">나무 사다리 (24 ft 높이)</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">45-51</td>\n<td style=\"height:15px;width:186.91px\">안장 배낭이 있는 승용마</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">52-59</td>\n<td style=\"height:15px;width:186.91px\">10×10ft 너비에 깊이 10ft인 구덩이. 당신으로부터 10ft 내의 지면 어디에든 만들 수 있음.</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">60-68</td>\n<td style=\"height:15px;width:186.91px\">치유의 물약 4개</td>\n</tr>\n<tr style=\"height:15px\">\n<td style=\"height:15px;width:185.799px\">69-75</td>\n<td style=\"height:15px;width:186.91px\">나룻배 Rowboat (12 ft 길이)</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">76-83</td>\n<td style=\"width:186.91px\">1-3 레벨 주문이 들어있는 주문 두루마리</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">84-90</td>\n<td style=\"width:186.91px\"> @Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff} 두 마리</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">91-96</td>\n<td style=\"width:186.91px\">창문 (2×4 ft 크기. 최대 2 ft 너비) 당신이 원하는 수직 표면 어디에든 생겨날 수 있음</td>\n</tr>\n<tr>\n<td style=\"width:185.799px\">97-00</td>\n<td style=\"width:186.91px\">휴대용 공성추</td>\n</tr>\n</tbody>\n</table>\n<p><em>파운드리 노트: 필요에 따라 4d4 조각을 계산하도록 기타 공식이 설정되어 있습니다.</em></p>\n<p><em>또한 남은 조각을 확인하기 위해 여기서 물건을 삭제하는 것이 좋습니다.</em></p>\n<p><em>가격 가이드는 가능한 최대 물건 수에 더해 5*물건으로 계산되었습니다. 필요한 경우 조각 수와 DM의 세계 경제를 반영하도록 조정하십시오.</em></p>"
     },
     "Robe of the Archmagi": {
+      "name": "대마법사의 로브",
+			"description": "<p><em>경이로운 물건, (소서러나 워락, 위저드에 의한 조율 필요)</em></p>\n<p>정교한 천으로 만들어진 우아한 의상입니다. 흰색, 회색, 또는 검은색이며 은빛 룬으로 장식되어 있습니다. 로브의 색은 각각 착용자의 성향에 대응합니다. 흰색 로브는 선 성향이 착용할 수 있으며, 회색은 중립, 검은색은 악 성향을 위한 것입니다. 자신의 성향과 맞지 않는 로브에 조율할 수 없습니다. 로브는 착용 중 다음과 같은 이점이 있습니다:</p>\n<ul>\n<li>갑옷을 입지 않은 상태라면, 기본 AC는 15 + 민첩 수정치입니다.</li>\n<li>주문과 기타 마법 효과에 대한 내성 굴림에 유리함을 얻습니다.</li>\n<li>주문 내성 DC와 주문 공격 보너스가 각각 2 상승합니다.</li>\n</ul>"
     },
     "Robes": {
       "name": "로브",
@@ -2304,9 +2328,13 @@
     "Rod of Lordly Might": {
     },
     "Rod of Rulership": {
+      "name": "통치의 막대",
+			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.</p>"
     },
     "Rod of Security": {
-    },
+      "name": "Rod of Security",
+			"description": "<p>While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.</p>\n<p>For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).</p>\n<p>When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed.</p>"
+		},
     "Rope of Climbing": {
       "name": "등반의 밧줄",
       "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em>경이로운 물건</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">이 60ft 길이의 비단 밧줄은 3lbs 무게이며 최대 3,000lbs 무게까지를 견딜 수 있습니다. 당신이 밧줄의 한쪽 끝을 잡고 행동을 사용하여 명령어를 말하면, 밧줄은 스스로 움직이기 시작합니다. 당신은 추가 행동으로 밧줄의 다른 쪽 끝을 당신이 원하는 방향으로 보낼 수 있습니다. 밧줄은 당신의 턴 마다 10ft씩 움직이며 당신이 지정한 방향으로 나아가며, 밧줄의 최대 길이까지 가거나 당신이 멈추라 할 때 멈춥니다. 또한 당신은 명령을 내려 밧줄가 스스로 어떤 물체에 단단히 묶이게 하거나 풀 수 있으며, 매듭을 짓거나 스스로 똬리를 틀게 할 수 있습니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">만약 당신이 매듭짓도록 명령을 내리면, 밧줄은 1ft 간격으로 매듭을 지으며, 전체 길이가 50ft로 짧아지지만, 밧줄를 타고 등반하려 할 때는 판정에 유리함을 받게 됩니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">밧줄은 AC20이며 20점의 hp를 지니고 있습니다. 밧줄은 최소 1점의 hp라도 남아 있으면 5분마다 1점씩의 hp를 재생합니다. 만약 밧줄의 hp가 0으로 떨어지면 밧줄은 파괴되어 버립니다.</p>"
@@ -2340,6 +2368,8 @@
 			"description": "<p><em>(조율 필요)</em></p>\n<p>이 갑옷을 착용하는 동안 한 가지 타입의 피해에 저항이 됩니다. GM은 임의로 타입을 지정하거나, 아래 옵션에서 무작위로 결정합니다.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>피해</strong> <strong>타입</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>산성</td>\n</tr>\n<tr>\n<td>2</td>\n<td>냉기</td>\n</tr>\n<tr>\n<td>3</td>\n<td>화염</td>\n</tr>\n<tr>\n<td>4</td>\n<td>역장</td>\n</tr>\n<tr>\n<td>5</td>\n<td>번개</td>\n</tr>\n<tr>\n<td>6</td>\n<td>사령</td>\n</tr>\n<tr>\n<td>7</td>\n<td>독성</td>\n</tr>\n<tr>\n<td>8</td>\n<td>사념</td>\n</tr>\n<tr>\n<td>9</td>\n<td>광휘</td>\n</tr>\n<tr>\n<td>10</td>\n<td>천둥</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
     },
     "Scarab of Protection": {
+      "name": "보호의 스카라베",
+			"description": "<p><em>경이로운 물건, (조율 필요)</em></p>\n<p>1라운드 간 이 풍뎅이 모양 뱃지를 손에 쥐고 있으면, 그 표면에 글씨가 떠올라 마법적 효과가 나타납니다. 이것을 몸에 지니고 있으면 2가지 이점이 있습니다.:</p>\n<ul>\n<li>주문에 대한 내성 굴림에 유리함을 얻습니다.</li>\n<li>스카라베의 충전은 12입니다. 사령 주문 혹은 언데드 크리처의 해로운 효과로 인한 내성 굴림에 실패했을 경우, 반응 행동을 사용해 충전을 1 소비하면 굴림 결과를 실패에서 성공으로 변경할 수 있습니다. 모든 충전을 소비하면 스카라베는 가루로 바스라져 파괴됩니다.</li>\n</ul>"
     },
     "Scimitar": {
       "name": "만곡도",
@@ -2658,7 +2688,7 @@
 			"description": "<p><em>(소서러 또는 워락, 위저드의 조율 필요)</em></p>\n<p>이 지팡이는 공격과 피해 굴림에 +2 보너스를 주는 육척봉으로도 사용할 수 있습니다. 이 지팡이를 든 동안, 갑옷 클래스, 내성 굴림, 주문 공격 굴림에 +2 보너스를 얻습니다.</p>\n<p>지팡이는 충전을 20 가지며, 다음과 같은 속성에 사용할 수 있습니다. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges.</p>\n<p><strong>Power Strike</strong>. When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.</p>\n<p><strong>Spells</strong>. While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: @Compendium[dnd5e.spells.RpKjTlYASrfqUPVA]{Cone of Cold} (5 charges), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (5th-level version, 5 charges), @Compendium[dnd5e.spells.WmQpxfjZwF3MGUby]{Globe of Invulnerability} (6 charges), @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Hold Monster} (5 charges), @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitate} (2 charges), @Compendium[dnd5e.spells.IyikgTEOTv701jgQ]{Lightning Bolt} (5th-level version, 5 charges), @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Magic Missile} (1 charge), @Compendium[dnd5e.spells.ODhLKBxLnvvLOnw1]{Ray of Enfeeblement} (1 charge), or @Compendium[dnd5e.spells.o9ZCvuD2B1OTcubb]{Wall of Force} (5 charges).</p>\n<p><strong>Retributive Strike</strong>. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.</p>\n<p>You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Distance from Origin</strong></td>\n<td><strong>Damage</strong></td>\n</tr>\n<tr>\n<td>10 ft. away or closer</td>\n<td>8 x the number of charges in the staff</td>\n</tr>\n<tr>\n<td>11 to 20 ft. away</td>\n<td>6 x the number of charges in the staff</td>\n</tr>\n<tr>\n<td>21 to 30 ft. away</td>\n<td>4 x the number of charges in the staff</td>\n</tr>\n</tbody>\n</table>\n<p><em>Foundry note: the Other Formula button has been configured to roll the staff's recharge rate at dawn if required.</em></p>"
     },
     "Staff of Striking": {
-      "name": "Staff of Striking",
+      "name": "강타의 지팡이",
 			"description": "<p><em>(조율 필요)</em></p>\n<p>이 지팡이는 공격과 피해 굴림에 +3 보너스를 주는 마법 육척봉으로도 사용할 수 있습니다.</p>\n<p>지팡이의 충전은 10입니다. 이 지팡이로 근거리 공격을 하여 명중한 경우, 최대 3의 충전을 소비할 수 있습니다. 소비한 충전 x 1d6 역장 피해를 추가로 부여합니다. 매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 다 소비한 시점에 d20을 굴립니다. 1이 나오면, 지팡이는 평범한 육척봉이 됩니다.</p>\n<p><em>파운드리 노트: 기타 수식 버튼으로 1d6을 굴릴 수 있습니다. 필요 시 추가 역장 피해나 재충전(+4) 계산에 사용하세요.</em></p>"
     },
     "Staff of Swarming Insects": {
@@ -2670,6 +2700,8 @@
 			"description": "<p><em>(조율 필요)</em></p>\n<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.</p>\n<p><strong>Lightning</strong>. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.</p>\n<p><strong>Thunder</strong>. When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become stunned until the end of your next turn.</p>\n<p><strong>Lightning Strike</strong>. You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.</p>\n<p><strong>Thunderclap</strong>. You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.</p>\n<p><strong>Thunder and Lightning</strong>. You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.</p>"
     },
     "Staff of Withering": {
+      "name": "멸기의 지팡이",
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 지팡이의 충전은 3이며, 매일 새벽마다 1d3만큼 소비한 충전을 회복합니다.</p>\n<p>이 지팡이는 마법 육척봉으로도 사용할 수 있습니다. 명중하면 평범한 육척봉처럼 피해를 주지만, 충전을 1 소비하면 추가로 목표에게 2d10 사령 피해를 줄 수 있습니다. 또한, 목표는 DC 15 건강 내성 굴림을 합니다. 실패하면, 1시간 동안 근력이나 건강을 사용하는 모든 능력 판정 및 내성 굴림에 불리함을 얻습니다. </p>\n<p><em>파운드리 노트: 기타 수식 버튼으로 필요 시 지팡이의 사령 피해를 굴릴 수 있습니다.</em></p>"
     },
     "Staff of the Magi": {
     },
@@ -2688,6 +2720,8 @@
       "description": "<p>향료 덩어리가 사용될 수 없거나 더 저렴한 대안이 필요할 때, 사람들은 쾌적을 위해서든 종교적인 목적에서든, 종종 공기중에 향을 뿌리기 위해 향 막대를 사용합니다.</p>"
     },
     "Stone of Controlling Earth Elementals": {
+      "name": "어스 엘리멘탈 조종의 돌",
+			"description": "<p><em>경이로운 물건</em></p>\n<p>이 돌이 지면에 닿아있다면, 행동을 사용해 명령어를 말하면 @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} 주문을 사용한 것처럼 @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{어스 엘리멘탈 Earth Elemental} 을 소환할 수 있습니다. 다음 새벽 전까지 이 방식으로 다시 사용할 수 없습니다.</p>\n<p>돌의 무게는 5 파운드입니다.</p>"
     },
     "Stone of Good Luck (Luckstone)": {
       "name": "행운의 돌 (행운석)",
@@ -2982,7 +3016,7 @@
       "description": "<p>나무, 뼈, 크리스탈 또는 기타 이국적인 재료의 한 손으로 들 수 있는 정교한 도구로, 비전 주문 시전을 보조하는 매개체로 흔히 사용됩니다.</p>\n<p><strong style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif;font-size:13px\">비전 매개체. </strong><span style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:'Noto Sans KR', Signika, sans-serif;font-size:13px\">비전 매개체는 보주, 수정, 막대, 특별 제작된 지팡이, 나무로 만들어진 짧은 봉 등등의 특별한 물건입니다. 이러한 도구는 비전 주문의 힘을 끌어낼 수 있도록 고안되었습니다. 소서러나 워락, 위저드 등은 이러한 물건을 주문시전 도구로 사용 할 수 있습니다.</span></p>"
     },
     "Wand of Binding": {
-      "name": "Wand of Binding",
+      "name": "속박의 마법봉",
 			"description": "<p><em>(Requires attunement by a spellcaster)</em></p>\n<p>This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>\n<p><strong>Spells</strong>. While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Hold Monster} (5 charges) or @Compendium[dnd5e.spells.3Lo9boi7P2ro6QV4]{Hold Person} (2 charges).</p>\n<p><strong>Assisted Escape</strong>. While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.</p>"
     },
     "Wand of Enemy Detection": {
@@ -3006,10 +3040,12 @@
 			"description": "<p><em>(주문시전자의 조율 필요)</em></p>\n<p>이 마법봉의 충전은 7입니다. 이것을 들고 있는 동안, 행동을 사용해 충전을 1 소비하면, 가느다란 푸른색 광선이 마법봉 끝에서 뿜어져 나와 시야 내 60ft 이내에 있는 크리처에게 적중합니다. 목표는 DC 15 건강 내성 굴림을 하며, 실패하면 1분간 마비됩니다. 목표의 턴이 종료할 때마다 내성 굴림을 다시 할 수 있으며, 성공하면 이 효과는 종료됩니다.</p>\n<p>매일 새벽에 소비한 충전을 1d6 + 1 만큼 회복합니다. 충전을 모두 소비한 시점에서 d20을 굴립니다. 1이 나오면, 마법봉은 재가 되어 바스라지며 파괴됩니다.</p>"
     },
     "Wand of Polymorph": {
+      "name": "형태변형의 마법봉",
+			"description": "<p><em>(주문시전자의 조율 필요)</em></p>\n<p>마법봉의 충전은 7입니다. 마법봉을 든 동안, 행동을 사용해 충전을 1 소비하면 @Compendium[dnd5e.spells.04nMsTWkIFvkbXlY]{Polymorph} 주문을 시전할 수 있습니다. (주문 내성 DC 15)</p>\n<p>매일 새벽마다 소비한 충전을 1d6 + 1 회복합니다. 충전을 모두 소비한 시점에서 d20을 굴립니다. 1이 나오면, 마법봉은 재가 되어 바스라지며 파괴됩니다.</p>"
     },
     "Wand of Secrets": {
       "name": "비밀의 마법봉",
-      "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">이 마법봉은 3회 충전되어 있습니다. 당신은 마법봉을 들고 행동을 사용하며 충전을 1회 소비하여 당신에게서 30ft 내에 있는 비밀문이나 함정의 존재를 확인할 수 있습니다. 만약 그러한 것이 있으면, 마법봉은 진동하며 당신에게서 가장 가까운 비밀문이나 함정을 가리킵니다. 마법봉은 매일 새벽 1d3회의 힘을 재충전합니다.</p>"
+      "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">이 마법봉은 3회 충전되어 있습니다. 당신은 마법봉을 들고 행동을 사용하며 충전을 1회 소비하여 30ft 내에 있는 비밀문이나 함정의 존재를 확인할 수 있습니다. 만약 그러한 것이 있으면, 마법봉은 진동하며 가장 가까운 비밀문이나 함정을 가리킵니다. 마법봉은 매일 새벽 1d3회 재충전합니다.</p>"
     },
     "Wand of Web": {
       "name": "거미줄의 마법봉",
