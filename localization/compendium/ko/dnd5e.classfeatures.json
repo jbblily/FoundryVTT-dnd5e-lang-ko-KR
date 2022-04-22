@@ -7,11 +7,11 @@
 		},
 		"Ability Score Improvement (Fighter)": {
 			"name": "능력치 향상 (파이터)",
-			"description": "<p>4레벨, 8레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 12레벨, 14레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
 		},
 		"Ability Score Improvement (Rogue)": {
 			"name": "능력치 향상 (로그)",
-			"description": "<p>4레벨, 8레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 10레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
 		},
 		"Action Surge": {
 			"name": "행동 연쇄",
@@ -19,7 +19,7 @@
 		},
 		"Additional Fighting Style": {
 			"name": "추가 전투 유파",
-			"description": "<p>파이터 10레벨에 도달하면, 당신은 전투 유파 클래스 특성 중에서 두 번째 유파를 선택해 얻을 수 있습니다.</p>"
+			"description": "<p>다음 리스트에서 두번째 전투 유파를 한가지 고를 수 있습니다:</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Archery}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defense}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Dueling}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protection}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p><p>반드시 1레벨에서 고른 유파와 다른 것이어야 합니다.</p><p>고른 것을 캐릭터 시트 위로 드래그하면 자동으로 반영됩니다.</p>"
 		},
 		"Additional Magical Secrets": {
 			"name": "추가 마법적 비밀",
@@ -59,7 +59,7 @@
 		},
 		"Beast Spells": {
 			"name": "야수 주문",
-			"description": "<p>드루이드 18레벨에 도달하면 당신은 야생 변신으로 어떤 형태를 취하고 있든 드루이드 주문을 시전할 수 있게 됩니다. 당신은 야수 형태에서도 음성과 동작 특성을 취할 수 있지만, 물질 요소은 사용할 수 없습니다.</p>"
+			"description": "<p>18레벨부터 @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신 Wild Shape} 으로 어떤 형태를 취하든 관계없이 대부분의 드루이드 주문을 시전할 수 있습니다. 야수 형태일 때, 음성과 동작 요소는 실행할 수 있지만 물질 요소는 사용할 수 없습니다.</p>"
 		},
 		"Blessed Healer": {
 			"name": "축복받은 치유사",
@@ -127,7 +127,7 @@
 		},
 		"Cutting Words": {
 			"name": "날카로운 말",
-			"description": "<p>당신은 바드 3레벨 때부터 자신의 재치를 이용해 다른 이들의 자신감과 자존심을 빼앗고 혼란시키거나 주의를 돌리는 능력을 얻습니다. 당신 주변 60ft 내에서 당신이 볼 수 있는 크리처 하나가 명중 굴림이나 능력 판정, 피해 굴림 등을 하려 할 때, 당신은 반응행동을 사용하고 @Compendium[world.features.EeGafsa17CapsH2j]{바드의 고양감} 1회를 소모해 바드의 고양감 주사위를 던진 다음, 그 결과값을 상대의 주사위에서 뺄 수 있습니다. 상대가 주사위를 굴린 다음에도 이 특성을 사용하겠다고 선언할 수 있지만, DM이 성공이나 실패를 판정하고 결과를 확정한 다음에는 사용할 수 없습니다. 당신의 목소리를 듣지 못하거나 매혹 상태에 면역인 크리처에게는 이 특성을 사용할 수 없습니다.</p>"
+			"description": "<p>바드 3레벨부터 자신의 재치를 이용해 다른 이들의 자신감과 자존심을 빼앗고 혼란시키거나 주의를 돌리는 능력을 얻습니다. 주변 60ft 안의 시야 내 크리처 하나가 명중 굴림이나 능력 판정, 피해 굴림 등을 하려 할 경우, 반응 행동을 사용해 @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{바드의 고양감 Bardic Inspiraton} 1회를 소모한 후, 바드의 고양감 주사위를 던져 그 결과값만큼 상대 크리처의 굴림 결과를 뺄 수 있습니다.  상대가 주사위를 굴린 이후에도 이 특성을 사용할 수 있지만,  DM이 성공이나 실패를 확정했거나, 크리처가 이미 피해를 준 후에는 사용할 수 없습니다. 크리처가 소리를 듣지 못하거나 매혹 상태에 면역이면 이 특성에 면역입니다.</p>"
 		},
 		"Danger Sense": {
 			"name": "위험 감지",
@@ -171,7 +171,7 @@
 		},
 		"Divine Domain": {
 			"name": "신성 권역",
-			"description": "<p>당신은 생명 권역 등 여러 권역 중에 당신의 신과 연관된 것 하나를 선택해야 합니다. 당신은 1레벨에 권역을 선택하면서 권역에 따른 주문과 추가 특성을 얻습니다. 또한 2레벨에 권역에 따른 신성 변환의 추가 사용법을 알게 되며, 6, 8, 17레벨에도 선택에 따른 추가적 특성을 얻을 수 있습니다.</p>\n<h4 id=\"domain-spells\"><strong>권역 주문 Domain Spells</strong></h4>\n<p>권역마다 권역 주문이라 부르는 주문들의 목록이 있습니다. 이 주문들은 당신의 클레릭 레벨에 따라 얻을 수 있는 것들이며 권역 설명에 자세히 나와 있습니다. 일단 권역 주문을 얻었다면 당신은 언제나 이 주문들을 준비하고 있는 것이며, 권역 주문은 매일 준비할 수 있는 주문 개수에 포함되지 않습니다.</p>\n<p>만약 당신이 클레릭 주문 목록에 없는 주문을 권역 주문으로 받은 경우, 당신은 해당 주문을 시전할 때 클레릭 주문으로 취급할 수 있습니다.</p>\n<p><strong>생명 권역 주문</strong></p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 67px;\"><strong>클레릭 레벨</strong></td>\n<td style=\"width: 329px;\"><strong>주문</strong></td>\n</tr>\n<tr>\n<td style=\"width: 67px;\">1st</td>\n<td style=\"width: 329px;\">@Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{축복Bless}, @Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{상처 치료Cure Wounds}</td>\n</tr>\n<tr>\n<td style=\"width: 67px;\">3rd</td>\n<td style=\"width: 329px;\">@Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{하급 회복Lesser Restoration}, @Compendium[dnd5e.spells.JbxsYXxSOTZbf9I0]{영체 무기Spiritual Weapon}</td>\n</tr>\n<tr>\n<td style=\"width: 67px;\">5th</td>\n<td style=\"width: 329px;\">@Compendium[dnd5e.spells.ZU9d6woBdUP8pIPt]{희망의 봉화Beacon of Hope}, @Compendium[dnd5e.spells.LmRHHMtplpxr9fX6]{재활성화Revivify}</td>\n</tr>\n<tr>\n<td style=\"width: 67px;\">7th</td>\n<td style=\"width: 329px;\">@Compendium[dnd5e.spells.VtCXMdyM6mAdIJZb]{죽음 방비Death Ward}, @Compendium[dnd5e.spells.TgHsuhNasPbhu8MO]{신앙의 수호자Guardian of Faith}</td>\n</tr>\n<tr>\n<td style=\"width: 67px;\">9th</td>\n<td style=\"width: 329px;\">@Compendium[dnd5e.spells.Pyzmm8R7rVsNAPsd]{다중 상처 치료Mass Cure Wounds}, @Compendium[dnd5e.spells.AGFMPAmuzwWO6Dfz]{사자 소생Raise Dead}</td>\n</tr>\n</tbody>\n</table>"
+			"description": "<p>생명 권역 등 여러 권역 중에 당신의 신과 연관된 것 하나를 선택해야 합니다. 1레벨에 권역을 선택하면서 권역에 따른 주문과 추가 특성을 얻습니다. 또한 2레벨에 권역에 따른 신성 변환의 추가 사용법을 알게 되며, 6, 8, 17레벨에도 선택에 따른 추가적 특성을 얻을 수 있습니다.</p>\n<h4 id=\"domain-spells\"><strong>권역 주문 Domain Spells</strong></h4>\n<p>권역마다 권역 주문이라 부르는 주문들의 목록이 있습니다. 이 주문들은 당신의 클레릭 레벨에 따라 얻을 수 있는 것들이며 권역 설명에 자세히 나와 있습니다. 일단 권역 주문을 얻었다면 당신은 언제나 이 주문들을 준비하고 있는 것이며, 권역 주문은 매일 준비할 수 있는 주문 개수에 포함되지 않습니다.</p>\n<p>만약 클레릭 주문 목록에 없는 주문을 권역 주문으로 받은 경우, 해당 주문을 시전할 때 클레릭 주문으로 취급할 수 있습니다.</p>"
 		},
 		"Divine Health": {
 			"name": "신성한 건강",
