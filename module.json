@@ -2,10 +2,17 @@
 	"name": "dnd5e_ko-KR",
 	"title": "Translation: Korean [D&D 5e]",
 	"description": "D&D 5e 시스템의 한국어화 모듈입니다.",
-	"version": "0.3.1",
+	"version": "This is auto replaced",
+	"library": "false",
+	"manifestPlusVersion": "1.0.0",
 	"minimumCoreVersion" : "0.8.0",
 	"compatibleCoreVersion": "9",
-	"author": "Crownel(jbblily)",
+	"authors": [
+		{
+		  "name": "Crownel",
+		  "discord": "Crownel#4367"
+		}
+	  ],
 	"esmodules": ["/scripts/babele-register.js"],
 	"styles": ["/styles/style.css"],
 	"system": "dnd5e",
@@ -17,7 +24,7 @@
 			"path": "localization/languages/ko/ko.json"
 		}
 	],
-	"url": "https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR",
-	"manifest": "https://raw.githubusercontent.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/main/module.json",
-	"download": "https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/archive/refs/tags/v0.3.1.zip"
+	"url": "This is auto replaced",
+	"manifest": "This is auto replaced",
+	"download": "This is auto replaced"
 }
