@@ -6,8 +6,8 @@
 	"minimumCoreVersion" : "0.8.0",
 	"compatibleCoreVersion": "9",
 	"author": "Crownel(jbblily)",
-	"esmodules": ["/scripts/babele-register.js"],
-	"styles": ["/styles/style.css"],
+	"esmodules": ["scripts/babele-register.js"],
+	"styles": ["styles/style.css"],
 	"system": "dnd5e",
 
 	"languages": [{
