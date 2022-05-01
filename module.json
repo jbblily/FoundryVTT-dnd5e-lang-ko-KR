@@ -23,7 +23,7 @@
 	"languages": [{
 		"lang": "ko",
 		"name": "한국어 (Korean)",
-		"path": "ko.json"
+		"path": "localization/languages/ko/ko.json"
 	}],
 
 	"url": "https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR",
