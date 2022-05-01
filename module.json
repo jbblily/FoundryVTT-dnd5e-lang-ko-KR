@@ -13,8 +13,8 @@
 		  "discord": "Crownel#4367"
 		}
 	  ],
-	"esmodules": ["/scripts/babele-register.js"],
-	"styles": ["/styles/style.css"],
+	"esmodules": ["scripts/babele-register.js"],
+	"styles": ["styles/style.css"],
 	"system": "dnd5e",
 	"languages": 
 	[
