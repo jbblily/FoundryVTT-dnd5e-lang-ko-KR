@@ -1,4 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@400;700&display=swap');
+/* Custom CSS */
+
+@font-face {
+    font-family: 'Hahmlet-SemiBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/Hahmlet-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
 
 .modesto,
 .dnd5e .form-header,
@@ -6,15 +20,22 @@
 .dnd5e.sheet .sheet-navigation,
 .dnd5e.sheet.actor h4.box-title,
 .dnd5e.sheet.actor ul.attributes li.attribute .attribute-value,
+.dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer,
 .dnd5e.sheet.actor .ability-scores,
-.dnd5e.sheet.actor .inventory-list .inventory-header h3,
-.dnd5e.chat-card .card-header h3 {
-	font-family: "Modesto Condensed", "Palatino Linotype", "Do Hyeon", serif;
+.dnd5e.sheet .items-list .items-header h3,
+.dnd5e.chat-card .card-header h3,
+.dnd5e.sheet.actor.character .characteristics label,
+.dnd5e.sheet .sheet-header .header-details .summary select {
+	font-family: "Modesto Condensed", "Hahmlet-SemiBold",serif !important;
 }
 
 .dnd5e.sheet.actor.character .resource .attribute-value label.recharge,
-.dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer {
-	font-family: "Signika", "Noto Sans KR", serif;
+.dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer,
+.dnd5e.sheet.actor .sheet-header .attributes .attribute .property-attribution,
+.dnd5e.sheet .warnings .notification,
+.dnd5e.sheet .info .notification,
+.dnd5e.sheet.actor.character .characteristics textarea {
+	font-family: "Signika", "Pretendard-Regular", serif !important;
 }
 
 /* Rest buttons in Hit Dice Box */
@@ -27,7 +48,7 @@
 }
 
 .dnd5e.sheet.actor.npc .header-exp {
-	flex: 0 0 120px;
+	flex: 0 0 120px !important;
 }
 
 .dnd5e input[type="text"] {
