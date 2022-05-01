@@ -12,7 +12,7 @@
 
 	"languages": [{
 		"lang": "ko",
-		"name": "한국어 (Korean)",
+		"name": "Korean",
 		"path": "localization/languages/ko/ko.json"
 	}],
 
