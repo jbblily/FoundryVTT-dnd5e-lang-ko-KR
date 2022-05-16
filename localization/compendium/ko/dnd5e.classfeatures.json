@@ -3,23 +3,23 @@
 	"entries": {
 		"Ability Score Improvement": {
 			"name": "능력치 향상",
-			"description": "<p>4레벨, 8레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 통상의 경우와 같이, 이 특성을 이용해 능력치를 20을 초과하여 올릴 수 없습니다.</p>"
 		},
 		"Ability Score Improvement (Fighter)": {
 			"name": "능력치 향상 (파이터)",
-			"description": "<p>4레벨, 8레벨, 12레벨, 14레벨, 16레벨, 19레벨에 이르면 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 12레벨, 14레벨, 16레벨, 19레벨에 이르면 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 통상의 경우와 같이, 이 특성을 이용해 능력치를 20을 초과하여 올릴 수 없습니다.</p>"
 		},
 		"Ability Score Improvement (Rogue)": {
 			"name": "능력치 향상 (로그)",
-			"description": "<p>4레벨, 8레벨, 10레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 10레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 보통 이 특성을 이용해 능력치를 20을 초과하여 올릴 수 없습니다.</p>"
 		},
 		"Action Surge": {
 			"name": "행동 연쇄",
-			"description": "<p>파이터 2레벨 때부터, 당신은 짧은 시간 동안 자신의 한계를 넘어서는 활약을 하도록 스스로를 몰아붙일 수 있습니다. 당신은 자기 턴에 행동 하나를 더 사용할 수 있습니다. 이 행동은 보통 행동과 추가 행동에 더해 사용할 수 있습니다.</p>\n<p>당신이 이 특성을 한 번 사용했다면, 짧은 휴식이나 긴 휴식을 마치고 나서야 다시 이 특성을 사용할 수 있습니다. 17레벨에 도달하면, 당신은 휴식 사이에 이 특성을 2번 사용할 수 있게 됩니다. 하지만 턴 당 한 번씩만 사용할 수 있습니다.</p>\n<p><em>**Foundry 주: 이 항목의 사용 횟수는 기본값인 짧은 휴식 또는 긴 휴식당 1회로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>"
+			"description": "<p>파이터 2레벨 때부터, 사용자는 짧은 시간 동안 자신의 한계를 넘어서는 활약을 하도록 스스로를 몰아붙일 수 있습니다. 사용자는 자기 턴에 행동 하나를 더 사용할 수 있습니다. 이 행동은 보통 행동과 추가 행동에 더해 사용할 수 있습니다.</p>\n<p>이 특성을 한 번 사용했다면, 짧은 휴식이나 긴 휴식을 마치고 나서야 다시 이 특성을 사용할 수 있습니다. 17레벨에 도달하면, 사용자는 휴식을 취하기 전에 이 특성을 2번 사용할 수 있으나 턴당 한 번씩만 사용할 수 있습니다.</p>\n<p><em>**Foundry 주: 이 항목의 사용 횟수는 기본값인 짧은 휴식 또는 긴 휴식당 1회로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>"
 		},
 		"Additional Fighting Style": {
 			"name": "추가 전투 유파",
-			"description": "<p>다음 목록에서 두번째 전투 유파 클래스 특성을 고르시오 :</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Archery}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defense}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Dueling}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protection}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p><p>레벨 1에 선택한 것과 반드시 달라야 합니다.</p><p>캐릭터 시트 위에 드래그하면 자동으로 반영됩니다.</p>"
+			"description": "<p>다음 목록에서 두번째 전투 유파 클래스 특성을 고르십시오.</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{궁술}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{방어술}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{결투술}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{대형 무기 전투술}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{보호술}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{쌍수 전투술}</p><p>추가 전투 유파는 반드시 레벨 1에 선택한 것과 달라야 합니다.</p><p>캐릭터 시트 위에 드래그하면 자동으로 반영됩니다.</p>"
 		},
 		"Additional Magical Secrets": {
 			"name": "추가 마법적 비밀",
