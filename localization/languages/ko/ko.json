@@ -58,7 +58,7 @@
 "DND5E.AbilityCheckConfigurationHint": "판정 보너스를 설정합니다.",
 "DND5E.AbilityConfigurationHint": "능력 내성 굴림 숙련, 내성 굴림 보너스, 판정 보너스를 설정하십시오.",
 "DND5E.AbilityCheckBonus": "판정 보너스",
-"DND5E.AbilityCheckGlobalBonusHint": "이 보너스는 이 액터가 굴리는 모든 판정에 적용됩니다.",
+"DND5E.AbilityCheckGlobalBonusHint": "이 보너스는 이 액터가 굴리는 모든 능력 판정에 적용됩니다.",
 "DND5E.Action": "행동",
 "DND5E.ActionPl": "행동",
 "DND5E.ActionAbil": "능력 판정",
