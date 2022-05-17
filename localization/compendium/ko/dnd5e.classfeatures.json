@@ -3,87 +3,87 @@
 	"entries": {
 		"Ability Score Improvement": {
 			"name": "능력치 향상",
-			"description": "<p>4레벨, 8레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 통상의 경우와 같이, 이 특성을 이용해 능력치를 20을 초과하여 올릴 수 없습니다.</p>"
 		},
 		"Ability Score Improvement (Fighter)": {
 			"name": "능력치 향상 (파이터)",
-			"description": "<p>4레벨, 8레벨, 12레벨, 14레벨, 16레벨, 19레벨에 이르면 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 12레벨, 14레벨, 16레벨, 19레벨에 이르면 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 통상의 경우와 같이, 이 특성을 이용해 능력치를 20을 초과하여 올릴 수 없습니다.</p>"
 		},
 		"Ability Score Improvement (Rogue)": {
 			"name": "능력치 향상 (로그)",
-			"description": "<p>4레벨, 8레벨, 10레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 다른 경우와 마찬가지로, 이 특성을 이용해 능력치를 20 이상으로 올릴 수 없습니다.</p>"
+			"description": "<p>4레벨, 8레벨, 10레벨, 12레벨, 16레벨, 19레벨에 이르면, 원하는 능력치 1개를 2만큼 올리거나, 원하는 능력치 2개를 1만큼 올릴 수 있습니다. 통상의 경우와 같이, 이 특성을 이용해 능력치를 20을 초과하여 올릴 수 없습니다.</p>"
 		},
 		"Action Surge": {
 			"name": "행동 연쇄",
-			"description": "<p>파이터 2레벨 때부터, 당신은 짧은 시간 동안 자신의 한계를 넘어서는 활약을 하도록 스스로를 몰아붙일 수 있습니다. 당신은 자기 턴에 행동 하나를 더 사용할 수 있습니다. 이 행동은 보통 행동과 추가 행동에 더해 사용할 수 있습니다.</p>\n<p>당신이 이 특성을 한 번 사용했다면, 짧은 휴식이나 긴 휴식을 마치고 나서야 다시 이 특성을 사용할 수 있습니다. 17레벨에 도달하면, 당신은 휴식 사이에 이 특성을 2번 사용할 수 있게 됩니다. 하지만 턴 당 한 번씩만 사용할 수 있습니다.</p>\n<p><em>**Foundry 주: 이 항목의 사용 횟수는 기본값인 짧은 휴식 또는 긴 휴식당 1회로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>"
+			"description": "<p>파이터 2레벨 때부터, 사용자는 짧은 시간 동안 자신의 한계를 넘어서는 활약을 하도록 스스로를 몰아붙일 수 있습니다. 사용자는 자기 턴에 행동 하나를 더 사용할 수 있습니다. 이 행동은 보통 행동과 추가 행동에 더해 사용할 수 있습니다.</p>\n<p>이 특성을 한 번 사용했다면, 짧은 휴식이나 긴 휴식을 마치고 나서야 다시 이 특성을 사용할 수 있습니다. 17레벨에 도달하면, 사용자는 휴식을 취하기 전에 이 특성을 2번 사용할 수 있으나 턴당 한 번씩만 사용할 수 있습니다.</p>\n<p><em>**Foundry 주: 이 항목의 사용 횟수는 기본값인 짧은 휴식 또는 긴 휴식당 1회로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>"
 		},
 		"Additional Fighting Style": {
 			"name": "추가 전투 유파",
-			"description": "<p>다음 목록에서 두번째 전투 유파 클래스 특성을 고르시오 :</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Archery}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defense}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Dueling}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protection}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p><p>레벨 1에 선택한 것과 반드시 달라야 합니다.</p><p>캐릭터 시트 위에 드래그하면 자동으로 반영됩니다.</p>"
+			"description": "<p>다음 목록에서 두번째 전투 유파 클래스 특성을 고르십시오.</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{궁술}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{방어술}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{결투술}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{대형 무기 전투술}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{보호술}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{쌍수 전투술}</p><p>추가 전투 유파는 반드시 레벨 1에 선택한 것과 달라야 합니다.</p><p>캐릭터 시트 위에 드래그하면 자동으로 반영됩니다.</p>"
 		},
 		"Additional Magical Secrets": {
 			"name": "추가 마법적 비밀",
-			"description": "<p>바드 6레벨에 도달하면, 당신은 모든 클래스의 주문 중 원하는 것 2개를 골라 습득할 수 있습니다. 이 주문들은 소마법이거나 마드 표에 따라 당신이 시전할 수 있는 레벨 이하의 것이어야 합니다. 당신이 선택한 주문들은 바드 주문으로 취급하지만, 당신이 알고 있는 주문 수에는 포함되지 않습니다.</p>"
+			"description": "<p>바드 6레벨에 모든 클래스의 주문 중 원하는 것 2개를 골라 습득합니다. 고를 수 있는 것은 시전 가능한 레벨의 주문이거나 소마법이어야 합니다. 선택한 주문들은 바드 주문으로 취급하지만, 알고 있는 주문 수에는 포함되지 않습니다.</p>"
 		},
 		"Arcane Recovery": {
 			"name": "비전 회복",
-			"description": "<p>당신은 주문책을 연구하며 소비한 마력 일부를 회복하는 법을 배웠습니다. 하루 한 번, 당신은 짧은 휴식을 마칠 때 소비한 주문 슬롯 일부를 회복할 수 있습니다. 회복되는 주문 슬롯의 합계는 당신의 위저드 레벨 절반(나머지 올림)만큼이며, 6레벨 이상의 슬롯은 회복할 수 없습니다.</p>\n<p>예를 들어 당신이 4레벨 위저드라면, 당신은 합계 2레벨까지의 주문 슬롯을 회복할 수 있습니다. 당신은 2레벨 슬롯 하나를 회복하거나, 1레벨 슬롯 2개를 회복하는 방식을 선택할 수 있습니다.</p>"
+			"description": "<p>당신은 주문책을 연구하며 소비한 마력 일부를 회복하는 법을 배웠습니다. 하루 한 번, 짧은 휴식을 마칠 때 소비한 주문 슬롯 일부를 회복할 수 있습니다. 회복되는 주문 슬롯의 합계는 당신의 위저드 레벨 절반(나머지 올림)만큼이며, 6레벨 이상의 슬롯은 회복할 수 없습니다.</p>\n<p>예를 들어 4레벨 위저드라면, 합계 2레벨까지의 주문 슬롯을 회복할 수 있습니다. 2레벨 슬롯 하나를 회복하거나, 1레벨 슬롯 2개를 회복하는 방식을 선택할 수 있습니다.</p>"
 		},
 		"Arcane Tradition": {
 			"name": "비전 전통",
-			"description": "<p>당신은 위저드 2레벨 때 마법의 8대 학파 중 하나를 선택하여 비전 전통의 길을 따를 수 있습니다. 8대 학파는 방출학파, 방호학파, 변환학파, 사령학파, 예지학파, 조형학파, 환영학파, 환혹학파입니다.</p>\n<p>당신은 자신이 선택한 전통에 따라 6, 10, 14레벨에 추가적 특성을 얻을 수 있습니다.</p>"
+			"description": "<p>위저드 2레벨에 도달하면, 마법의 8대 학파 중 하나를 선택하여 비전 전통의 길을 따를 수 있습니다. 8대 학파는 방출학파, 방호학파, 변환학파, 사령학파, 예지학파, 조형학파, 환영학파, 환혹학파입니다.</p>\n<p>자신이 선택한 전통에 따라 2, 6, 10, 14레벨에 새로운 특성을 추가로 얻을 수 있습니다.</p>"
 		},
 		"Archdruid": {
 			"name": "대드루이드",
-			"description": "<p>드루이드 20레벨에 도달하면, 당신은 이제 횟수 제한 없이 @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신Wild Shape} 능력을 사용할 수 있습니다.</p>\n<p>또한 당신은 드루이드 주문을 시전할 때 음성과 동작 특성을 무시할 수 있으며, 비용이 명시되지 않았고 시전시 소모되지 않는다면 물질 요소도 무시할 수 있습니다. 당신은 원래 모습이든 야생 변신 중이든 이러한 효과의 이익을 받을 수 있습니다.</p>"
+			"description": "<p>드루이드 20레벨에 도달하면, 회수 제한 없이 @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신} 을 사용할 수 있습니다.</p>\n<p>또한, 드루이드 주문을 시전할 때 음성과 동작요소를 무시할 수 있으며, 비용이 없고 주문에 의해 소모되지 않는 물질 요소도 무시할 수 있습니다. 원래 모습이든 야생 변신 중이든 관계없이 이러한 이로운 효과를 받을 수 있습니다.</p>"
 		},
 		"Aura of Courage": {
-			"name": "용기의 오오라",
-			"description": "<p>팔라딘 10레벨에 도달하면, 당신과 주변 10ft 이내의 우호적인 크리처는 당신의 의식이 깨어있는 한 공포 상태에 면역이 됩니다.</p>\n<p>18레벨에 도달하면 이 오오라의 범위는 주변 30ft로 확대됩니다.</p>"
+			"name": "용기의 오라",
+			"description": "<p>팔라딘 10레벨에 도달하면, 당신과 주변 10ft 이내의 우호적인 크리처는 당신의 의식이 있는 한 공포 상태에 면역이 됩니다.</p>\n<p>18레벨에 도달하면 이 오오라의 범위는 주변 30ft로 확대됩니다.</p>"
 		},
 		"Aura of Devotion": {
-			"name": "헌신의 오오라",
-			"description": "<p>팔라딘 7레벨에 도달하면, 당신과 주변 10ft 이내의 모든 우호적인 크리처들은 당신에게 의식이 있는 동안 매혹 상태에 면역이 됩니다.</p>\n<p>팔라딘 18레벨에 도달하면 이 오오라의 범위는 주변 30ft로 확대됩니다.</p>"
+			"name": "헌신의 오라",
+			"description": "<p>팔라딘 7레벨에 도달하면, 당신과 주변 10ft 이내의 모든 우호적인 크리처들은 당신의 의식이 있는 한 매혹 상태에 면역이 됩니다.</p>\n<p>팔라딘 18레벨에 도달하면 이 오라의 범위는 주변 30ft로 확대됩니다.</p>"
 		},
 		"Aura of Protection": {
-			"name": "보호의 오오라",
-			"description": "<p>팔라딘 6레벨에 도달하면, 당신 주변 10ft 내의 우호적인 크리처가 내성 굴림을 굴려야 할 때, 해당 크리처는 내성 굴림에 당신의 매력 수정치만큼의 보너스를 받을 수 있습니다. (최소 +1) 당신의 의식이 깨어있어야 이 보너스를 제공할 수 있습니다.</p>\n<p>18레벨에 도달하면 이 오오라의 범위는 주변 30ft로 확대됩니다.</p>"
+			"name": "보호의 오라",
+			"description": "<p>팔라딘 6레벨에 도달하면, 주변 10ft 내의 우호적인 크리처가 내성 굴림을 굴려야 할 때, 해당 크리처는 내성 굴림에 당신의 매력 수정치만큼의 보너스를 받습니다. (최소 +1) 보너스를 부여하려면 당신의 의식이 깨어있어야 합니다.</p>\n<p>18레벨에 도달하면 이 오라의 범위는 주변 30ft로 확대됩니다.</p>"
 		},
 		"Bard College": {
 			"name": "바드 학파",
-			"description": "<p>당신은 바드 3레벨이 되었을 때 전승 학파와 용맹 학파 중 원하는 바드 학파를 택해 더 발전된 기교를 익힐 수 있습니다. 당신은 선택한 학파에 따라 3, 6, 14레벨에 추가적 특성을 얻을 수 있습니다.</p>"
+			"description": "<p>바드 3레벨에 전승 학파와 용맹 학파 중 원하는 바드 학파를 택해 더 발전된 기교를 익힐 수 있습니다.  3, 6, 14레벨에 각각 새로운 특성을 얻을 수 있습니다.</p>"
 		},
 		"Bardic Inspiration": {
 			"name": "바드의 고양감",
-			"description": "<p>당신은 음악이나 노래를 통해 다른 사람의 힘을 끌어올릴 수 있습니다. 당신은 자기 턴에 추가 행동을 사용해 주변 60ft 내에서 자신을 제외하고 당신의 목소리를 들을 수 있는 크리처 하나를 선택해 바드의 고양감을 전해 줄 수 있습니다. 이렇게 선택된 크리처는 바드의 고양감 주사위를 얻습니다. 시작 시점에서 이 주사위는 d6입니다.</p>\n<p>이후 10분간, 이 크리처는 능력 판정이나 명중 굴림, 혹은 내성 굴림을 할 때 자신이 받은 바드의 고양감 주사위를 갇이 굴려 그 결과를 더할 수 있습니다. 이 주사위는 d20을 굴린 다음 사용을 결정할 수도 있지만, DM이 성공 혹은 실패를 판정한 다음에는 사용할 수 없습니다. 일단 바드의 고양감 주사위를 사용했다면 그 주사위는 사라집니다. 바드의 고양감 주사위는 크리처 당 오로지 하나만 가지고 있을 수 있습니다.</p>\n<p>이 특성은 당신의 매력 수정치 만큼 사용할 수 있습니다. (최소 1회) 이렇게 소비한 사용횟수는&nbsp; 긴 휴식을 마칠 때 모두 회복할 수 있습니다.</p>\n<p>당신이 사용하는 바드의 고양감 주사위는 바드 레벨이 상승하며 점점 커집니다. 당신은 5레벨에 d8, 10레벨에 d10, 15레벨에 d12 주사위를 사용하게 될 것입니다.</p>\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">**Foundry 주: 이 항목의 기타 공식은 기본값인 1d6, 사용 횟수는 최소값인 1회로 설정되어 있습니다. 또한 회복 조건은 긴 휴식으로 설정되어 있습니다. (이는 @Compendium[dnd5e.classfeatures.3VDZGs5Ug3hIE322]{고양감의 샘Font of Inspiration} 특성을 얻기 전의 조건입니다.) 필요에 맞게 조정하십시오.</em></p>"
+			"description": "<p>당신은 가슴을 북돋는 말이나 음악 통해 다른 사람들을 고무시킵니다. 자신의 턴에 추가행동을 사용하여 반경 60ft 이내의, 자신 이외의 크리처 하나를 선택해야 합니다. 이 때 크리처는 당신의 노랫소리를 들을 수 있는 상태여야 합니다. 선택된 크리처는 바드의 고양감 주사위(d6) 하나를 얻습니다. 이후 10분 간, 그 크리처는 능력 판정이나 명중 굴림, 혹은 내성 굴림을 할 때 바드의 고양감 주사위를 함께 굴려, 그 결과를 굴림 결과에 더할 수 있습니다. d20을 굴린 다음에 바드의 고양감을 사용할지 여부를 결정할 수 있지만, DM이 성공 혹은 실패를 선언한 다음에는 사용할 수 없습니다. 한번 바드의 고양감 주사위를 사용하면 그 주사위는 사라집니다. 바드의 고양감 주사위는 크리처 당 하나만 가질 수 있습니다</p>\n<p>이 특성은 (당신의 매력 수정치) 회만큼 사용할 수 있습니다 (최소 1회).</p>\n<p>소비한 사용횟수는 긴 휴식을 마치면 모두 회복됩니다.</p>\n<p>바드의 고양감 주사위는 특정 바드 레벨에 도달하면 변화합니다. 5레벨에 d8, 10레벨에 d10, 15레벨에 d12 로 변경됩니다.</p>\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">**파운드리 노트: 기타 수식란에 기본값으로 1d6, 사용 횟수는 최소값인 1회로 설정되어 있습니다. 또한, 회복은 긴 휴식으로 설정되어 있습니다. (이는 아직 @Compendium[dnd5e.classfeatures.3VDZGs5Ug3hIE322]{고양감의 샘} 특성을 획득할 레벨이 아닌 캐릭터를 위함입니다.) 필요 시 조정하십시오.</em></p>"
 		},
 		"Beast Spells": {
 			"name": "야수 주문",
-			"description": "<p>18레벨부터 @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신 Wild Shape} 을 사용해 어떤 형태를 취하든 관계없이, 모든 드루이드 주문을 시전할 수 있습니다. 야수 형태로도 음성과 동작 요소는 취할 수 있지만, 물질 요소는 사용할 수 없습니다. </p>"
+			"description": "<p>18레벨부터, @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신} 으로 어떤 형태를 취하든 관계 없이 대부분의 드루이드 주문을 시전할 수 있습니다. 야수 형태로도 음성과 동작 요소로 드루이드 주문을 사용할 수 있지만, 물질 요소는 사용할 수 없습니다. </p>"
 		},
 		"Blessed Healer": {
 			"name": "축복받은 치유사",
-			"description": "<p>클레릭 6레벨에 도달하면, 다른 이들을 치유하는 당신의 치료 주문은 동시에 자신도 치료할 수 있게 됩니다 당신이 1레벨 이상의 주문을 시전해 다른 크리처의 hp를 회복하면 당신 자신 역시 2 + 주문 레벨만큼의 hp를 회복합니다.</p>"
+			"description": "<p>클레릭 6레벨부터 당신이 다른 이에게 치유 주문을 시전하면 자신도 치유됩니다. </p> <p> 1레벨 이상의 주문을 시전해 다른 크리처의 hp를 회복하면 자신도 2 + 주문 레벨만큼의 hp를 회복합니다.</p><p><em>**파운드리 노트 : 회복 수식은 2로 설정되어 있습니다. 주문 레벨에 따라 수동으로 회복량을 추가해주세요.</em></p>"
 		},
 		"Blindsense": {
 			"name": "맹안감각",
-			"description": "<p>로그 14레벨에 도달하면, 당신이 소리를 들을 수 있는 한 주변 10ft 이내에 은신해 있거나 투명한 크리처의 위치를 모두 확인할 수 있습니다.</p>"
+			"description": "<p>로그 14레벨부터, 소리를 들을 수 있는 상태라면 주변 10ft 이내의 은신 상태나 투명 상태인 모든 크리처의 위치를 인지합니다.</p>"
 		},
 		"Bonus Cantrip (Druid)": {
 			"name": "추가 소마법 (드루이드)",
-			"description": "<p>2레벨에 이 회합을 선택한 경우, 원하는 드루이드 소마법 1개를 추가로 습득한다.</p>"
+			"description": "<p>2레벨에 이 회합을 선택한 경우, 원하는 드루이드 소마법 1개를 추가로 습득합니다.</p>"
 		},
 		"Bonus Proficiencies (College of Lore)": {
 			"name": "추가 숙련 (전승 학파)",
-			"description": "<p>3레벨에 전승 학파에 가입하면, 원하는 기술 3개의 숙련을 얻는다.</p>"
+			"description": "<p>3레벨에 전승 학파에 가입하면, 원하는 기술 3개의 숙련을 얻습니다.</p>"
 		},
 		"Bonus Proficiency (Life Domain)": {
 			"name": "추가 숙련 (생명 권역)",
-			"description": "<p>1레벨에 이 권역을 선택하면, 중장갑 숙련을 얻는다.</p>"
+			"description": "<p>1레벨에 이 권역을 선택하면, 중장갑 숙련을 얻습니다.</p>"
 		},
 		"Brutal Critical": {
 			"name": "야만적인 치명타",
-			"description": "<p>바바리안 9레벨에 도달하면, 근접 공격으로 치명타를 가했을 때 당신은 치명타 추가 피해에 무기 주사위를 하나 더 굴려 그 결과를 더할 수 있습니다. 이 추가 무기 피해는 바바리안 13레벨에 2개로, 17레벨에 3개로 점차 증가합니다.</p>"
+			"description": "<p>바바리안 9레벨부터 근거리 공격으로 치명타를 가했을 때, 치명타로 인한 추가 피해를 결정할 때 무기 피해 주사위 1개를 추가하여 굴릴 수 있습니다. 추가하는 주사위는 13레벨에 2개, 17레벨에 3개로 증가합니다.</p>"
 		},
 		"Channel Divinity (Cleric)": {
 			"name": "신성 변환 (클레릭)",
@@ -126,12 +126,12 @@
 			"description": "<p>로그 2레벨에 도달하면, 당신은 재치와 기민함을 살려 보다 빠르게 움직일 수 있게 됩니다. 당신은 전투 중 자기 턴마다 추가 행동을 사용해 은신, 질주, 퇴각 행동 중 하나를 할 수 있습니다.</p>"
 		},
 		"Cutting Words": {
-			"name": "날카로운 말",
-			"description": "<p>바드 3레벨이 되면, 재치를 발휘해 상대를 괴롭히고, 혼란시키고, 상대의 자신감과 효능감을 떨구는 방법을 터득합니다. 주변 60ft 내 시야에 있는 크리처 하나가 명중 굴림이나 능력 판정, 피해 굴림을 하려 할 때, 반응행동을 사용해 @Compendium[world.features.EeGafsa17CapsH2j]{바드의 고양감} 1회를 소모하면, 바드의 고양감 주사위를 굴려 그 결과값만큼 상대의 판정 결과값을 제할 수 있습니다. 상대가 주사위를 굴린 후에도 이 특성을 사용하겠다고 선언할 수 있지만, DM이 성패 여부를 확정했거나 상대가 피해를 부여한 이후에는 사용할 수 없습니다. 소리를 듣지 못하거나 매혹 상태에 면역인 크리처는 이 특성에 면역입니다.</p>"
+			"name": "날카로운 언어",
+			"description": "<p>바드 3레벨이 되면, 재치를 발휘해 상대를 괴롭히고, 혼란시키고, 상대의 자신감과 효능감을 떨구는 방법을 터득합니다. 주변 60ft 내 시야에 있는 크리처 하나가 명중 굴림이나 능력 판정, 피해 굴림을 하려 할 때, 반응행동을 사용해 @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{바드의 고양감} 1회를 소모하면, 바드의 고양감 주사위를 굴려 그 결과값만큼 상대의 판정 결과값을 제할 수 있습니다. 상대가 주사위를 굴린 후에도 이 특성을 사용하겠다고 선언할 수 있지만, DM이 성패 여부를 확정했거나 상대가 피해를 부여한 이후에는 사용할 수 없습니다. 소리를 듣지 못하거나 매혹 상태에 면역인 크리처는 이 특성에 면역입니다.</p>"
 		},
 		"Danger Sense": {
 			"name": "위험 감지",
-			"description": "<p>당신은 바바리안 2레벨 때부터 위험이 다가오거나 수상한 것이 근처에 있을 때 본능적으로 이를 알아차릴 수 있는 비범한 감각을 얻게 됩니다.</p>\n<p>당신은 함정이나 주문 등 당신이 볼 수 있는 효과에 대한 민첩 내성 굴림에 유리함을 받습니다. 단, 당신이 시각 혹은 청각 상실 상태이거나 행동불능 상태일 때는 이 효과를 받지 못합니다.</p>"
+			"description": "<p>바바리안 2레벨에, 위험이 다가오거나 수상한 것이 근처에 있을 때 본능적으로 이를 알아차릴 수 있는 비범한 감각을 얻게 됩니다.</p>\n<p>함정이나 주문 등 당신이 볼 수 있는 효과에 대한 민첩 내성 굴림에 유리함을 받습니다. 단, 실명 혹은 실청 상태이거나 행동불능 상태일 때는 이 효과를 받지 못합니다.</p>"
 		},
 		"Dark One's Blessing": {
 			"name": "어두운 이의 축복",
@@ -146,15 +146,15 @@
 			"description": "<p>7레벨에 도달하면, 아래의 특성 중 원하는 것 한 개를 골라 습득합니다.</p><p>@Compendium[dnd5e.classfeatures.pAQMJU5R9SGUmzHU]{Escape the Horde}</p><p>@Compendium[dnd5e.classfeatures.slelvrm83v9UAKZU]{Multiattack Defense}</p><p>@Compendium[dnd5e.classfeatures.zbHu0NvHuII8lR7W]{Steel Will}</p><p>선택한 것을 캐릭터 시트 위로 드래그하면 자동으로 반영됩니다.</p>"
 		},
 		"Defensive Tactics: Escape the Horde": {
-			"name": "방어적 전술: 무리 탈출",
-			"description": "<p>당신에게 가해지는 모든 기회 공격에는 불리함이 가해집니다.</p>"
+			"name": "방어 전술: 무리 탈출",
+			"description": "<p>당신에 대한 모든 기회 공격에는 불리함이 붙습니다.</p>"
 		},
 		"Defensive Tactics: Multiattack Defense": {
-			"name": "방어적 전술: 다중공격 방어",
+			"name": "방어 전술: 다중공격 방어",
 			"description": "<p>어떤 크리처가 당신을 공격해 명중시킨 경우, 당신은 같은 턴에 계속 이어지는 그 크리처의 공격에 대하여 AC +4의 보너스를 받을 수 있습니다.</p>"
 		},
 		"Defensive Tactics: Steel Will": {
-			"name": "방어적 전술: 강철의 의지",
+			"name": "방어 전술: 강철의 의지",
 			"description": "<p>당신은 공포 상태에 대한 내성 굴림에 유리함을 받습니다.</p>"
 		},
 		"Deflect Missiles": {
@@ -203,7 +203,7 @@
 		},
 		"Dragon Ancestor": {
 			"name": "선조룡",
-			"description": "<p>당신은 1레벨 때 이 기원을 선택하면서 어떤 드래곤이 당신의 선조였는지 선택하게 됩니다. 드래곤의 종류에 따라 연관된 피해가 달라지며, 이후 클래스 특성에도 영향을 주게 됩니다.</p>\n<h4><strong>선조룡</strong></h4>\n<table style=\"height: 187px; width: 153px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\"><strong>드래곤</strong></td>\n<td style=\"height: 17px; width: 87px;\"><strong>피해 종류</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">블랙</td>\n<td style=\"height: 17px; width: 87px;\">산성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">블루</td>\n<td style=\"height: 17px; width: 87px;\">번개</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">브라스</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">브론즈</td>\n<td style=\"height: 17px; width: 87px;\">번개</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">카퍼</td>\n<td style=\"height: 17px; width: 87px;\">산성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">골드</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">그린</td>\n<td style=\"height: 17px; width: 87px;\">독성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">레드</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">실버</td>\n<td style=\"height: 17px; width: 87px;\">냉기</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 59px; height: 17px;\">화이트</td>\n<td style=\"width: 87px; height: 17px;\">냉기</td>\n</tr>\n</tbody>\n</table>\n<p>당신은 용언으로 말할 수 있으며, 용언을 읽고 쓸 수 있습니다. 또한 당신이 드래곤과 교섭하며 매력 판정을 할 때는 숙련 보너스를 2배로 적용받게 됩니다.</p>"
+			"description": "<p> 1레벨에 이 기원을 선택하면서 어떤 드래곤이 당신의 선조였는지 선택합니다. 드래곤의 종류에 따라 피해 타입이 달라지며, 이후 클래스 특성에도 영향을 주게 됩니다.</p>\n<h4><strong>선조룡</strong></h4>\n<table style=\"height: 187px; width: 153px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\"><strong>드래곤</strong></td>\n<td style=\"height: 17px; width: 87px;\"><strong>피해 종류</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">블랙</td>\n<td style=\"height: 17px; width: 87px;\">산성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">블루</td>\n<td style=\"height: 17px; width: 87px;\">번개</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">브라스</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">브론즈</td>\n<td style=\"height: 17px; width: 87px;\">번개</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">카퍼</td>\n<td style=\"height: 17px; width: 87px;\">산성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">골드</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">그린</td>\n<td style=\"height: 17px; width: 87px;\">독성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">레드</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">실버</td>\n<td style=\"height: 17px; width: 87px;\">냉기</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 59px; height: 17px;\">화이트</td>\n<td style=\"width: 87px; height: 17px;\">냉기</td>\n</tr>\n</tbody>\n</table>\n<p>당신은 용언으로 말할 수 있으며, 용언을 읽고 쓸 수 있습니다. 또한 당신이 드래곤과 교섭하며 매력 판정을 할 때는 숙련 보너스를 2배로 적용받게 됩니다.</p>"
 		},
 		"Dragon Wings": {
 			"name": "용의 날개",
