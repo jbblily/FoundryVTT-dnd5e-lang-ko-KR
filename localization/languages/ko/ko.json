@@ -591,7 +591,7 @@
 "DND5E.MovementSwim": "수영",
 "DND5E.MovementUnits": "단위",
 "DND5E.NewDay": "새로운 날을 시작합니까?",
-"DND5E.NewDayHint": "<strong>\"하루에 한 번\"</strong> 재충전되는 능력을 회복합니까?",
+"DND5E.NewDayHint": "\"하루에 한 번\" 재충전되는 능력을 회복합니까?",
 "DND5E.SaveBonus": "내성 굴림 보너스",
 "DND5E.SaveGlobalBonusHint": "이 보너스는 이 액터가 하는 모든 내성 굴림에 적용됩니다.",
 "DND5E.Senses": "감각",
