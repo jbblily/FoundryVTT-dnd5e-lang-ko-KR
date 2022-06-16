@@ -327,7 +327,7 @@
 		},
 		"Font of Magic": {
 			"name": "마법의 샘",
-			"description": "<p>소서러 2레벨에 도달하면, 내면 깊은 곳에 존재하는 마력의 샘에서 힘을 끌어올 수 있습니다. 이 샘의 힘은 술법 점수로 나타나며, 이 점수를 이용하면 다양한 마법적 효과를 일으킬 수 있습니다.</p>\n<h4><strong>술법 점수 Sorcery Points</strong></h4>\n<p>당신은 술법 점수 2점을 얻습니다. 소서러 레벨이 올라갈수록, 당신은 점점 더 많은 술법 점수를 지닐 수 있습니다. 이는 소서러 표의 술법 점수 항목에 나와 있습니다. 당신은 표에 설명된 자기 레벨 한계치 이상으로 술법 점수를 축적할 수 없습니다. 당신이 소비한 술법 점수는 긴 휴식을 마칠 때 모두 회복됩니다.</p>\n<h4><strong>유연한 주문시전 Flexible Casting</strong></h4>\n<p>당신은 술법 점수를 소비해 추가 주문 슬롯을 얻거나, 주문 슬롯을 소비해 추가 술법 점수를 얻을 수 있습니다. 소서러 레벨이 올라가면 술법 점수를 사용하는 다른 방법들도 배울 수 있습니다.</p>\n<p><em><strong>주문 슬롯 만들기.</strong></em><em>&nbsp;</em>자기 턴에 추가 행동을 사용하고 술법 점수를 소비해 주문 슬롯을 하나 만들어 낼 수 있습니다. 주문 슬롯 생성 표를 참조하면 만들고자 하는 주문 슬롯의 레벨에 따라 얼마나 많은 술법 점수를 소비해야 하는지 알 수 있습니다. 6레벨 이상의 주문 슬롯은 술법 점수로 만들 수 없습니다.</p>\n<p>술법 점수로 얻은 추가 주문 슬롯은 긴 휴식 때까지 소비하지 않은 경우 그대로 사라집니다.</p>\n<h4><strong>주문 슬롯 생성</strong></h4>\n<table style=\"width: 233px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 106px;\"><strong>주문 슬롯 레벨</strong></td>\n<td style=\"width: 120px;\"><strong>술법 점수 비용</strong></td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">1st</td>\n<td style=\"width: 120px;\">2</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">2nd</td>\n<td style=\"width: 120px;\">3</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">3rd</td>\n<td style=\"width: 120px;\">5</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">4th</td>\n<td style=\"width: 120px;\">6</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">5th</td>\n<td style=\"width: 120px;\">7</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>주문 슬롯을 술법 점수로 변환.</strong></em> 당신은 자기 턴에 추가 행동을 사용하여 주문 슬롯을 소비하고, 그렇게 소비한 주문 슬롯의 레벨만큼 술법 점수를 얻을 수 있습니다.</p>\n<p><em>**Foundry 주: 다양한 술법 점수 사용 횟수를 기록을 위해 이 항목을 사용하십시오. 이 항목의 사용 횟수는 기본값인 긴 휴식당 2회로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>\n<h4 id=\"flexible-casting\"></h4>\n<h4 id=\"sorcery-points\"></h4>"
+			"description": "<p>소서러 2레벨에 도달하면, 내면 깊은 곳에 존재하는 마력의 샘에서 힘을 끌어올 수 있습니다. 이 샘의 힘은 술법 점수로 나타나며, 이 점수를 이용하면 다양한 마법적 효과를 일으킬 수 있습니다.</p>\n<h4><strong>술법 점수 Sorcery Points</strong></h4>\n<p>당신은 술법 점수 2점을 얻습니다. 소서러 레벨이 올라갈수록, 점점 더 많은 술법 점수를 지닐 수 있습니다. 지닐 수 있는 술법 점수는 소서러 레벨과 같습니다. 4레벨 소서러는 술법 점수 4점을 가지며, 16레벨 소서러는 술법 점수 16점을 가집니다. 자기 레벨 이상으로 술법 점수를 축적할 수 없습니다. 당신이 소비한 술법 점수는 긴 휴식을 마칠 때 모두 회복됩니다.</p>\n<h4><strong>유연한 주문시전 Flexible Casting</strong></h4>\n<p>당신은 술법 점수를 소비해 추가 주문 슬롯을 얻거나, 주문 슬롯을 소비해 추가 술법 점수를 얻을 수 있습니다. 소서러 레벨이 올라가면 술법 점수를 사용하는 다른 방법들도 배울 수 있습니다.</p>\n<p><em><strong>주문 슬롯 만들기.</strong></em><em>&nbsp;</em>자기 턴에 추가 행동을 사용하고 술법 점수를 소비해 주문 슬롯을 하나 만들어 낼 수 있습니다. 주문 슬롯 생성 표를 참조하면 만들고자 하는 주문 슬롯의 레벨에 따라 얼마나 많은 술법 점수를 소비해야 하는지 알 수 있습니다. 6레벨 이상의 주문 슬롯은 술법 점수로 만들 수 없습니다.</p>\n<p>술법 점수로 얻은 추가 주문 슬롯은 긴 휴식 때까지 소비하지 않은 경우 그대로 사라집니다.</p>\n<h4><strong>주문 슬롯 생성</strong></h4>\n<table style=\"width: 233px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 106px;\"><strong>주문 슬롯 레벨</strong></td>\n<td style=\"width: 120px;\"><strong>술법 점수 비용</strong></td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">1레벨</td>\n<td style=\"width: 120px;\">2</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">2레벨</td>\n<td style=\"width: 120px;\">3</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">3레벨</td>\n<td style=\"width: 120px;\">5</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">4레벨</td>\n<td style=\"width: 120px;\">6</td>\n</tr>\n<tr>\n<td style=\"width: 106px;\">5레벨</td>\n<td style=\"width: 120px;\">7</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>주문 슬롯을 술법 점수로 변환.</strong></em> 당신은 자기 턴에 추가 행동을 사용하여 주문 슬롯을 소비하고, 그렇게 소비한 주문 슬롯의 레벨만큼 술법 점수를 얻을 수 있습니다.</p>\n<p><em>**Foundry 주: 다양한 술법 점수 사용 횟수를 기록을 위해 이 항목을 사용하십시오. 이 항목의 사용 횟수는 기본값인 긴 휴식당 2회로 설정되어 있습니다. 필요에 맞게 조정하십시오.</em></p>\n<h4 id=\"flexible-casting\"></h4>\n<h4 id=\"sorcery-points\"></h4>"
 		},
 		"Frenzy": {
 			"name": "광분",
@@ -391,15 +391,15 @@
 		},
 		"Invocation: Armor of Shadows": {
 			"name": "영창: 그림자의 갑옷",
-			"description": "<p>당신은 주문 슬롯이나 물질 요소를 쓰지 않고도 언제나 자신에게&nbsp; @Compendium[dnd5e.spells.CKZTpZlxj7hjjo2H]{마법 갑주Mage Armor} 주문을 시전할 수 있습니다.</p>"
+			"description": "<p>당신은 주문 슬롯이나 물질 요소를 쓰지 않고도 언제나 자신에게 @Compendium[dnd5e.spells.CKZTpZlxj7hjjo2H]{마법 갑주} 주문을 시전할 수 있습니다.</p>"
 		},
 		"Invocation: Ascendant Step": {
 			"name": "영창: 승천의 발걸음",
-			"description": "<p>당신은 주문 슬롯이나 물질 요소를 쓰지 않고도 언제나 자신에게 @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{부양Levitate} 주문을 시전할 수 있습니다.</p>"
+			"description": "<p>당신은 주문 슬롯이나 물질 요소를 쓰지 않고도 언제나 자신에게 @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{부양} 주문을 시전할 수 있습니다.</p>"
 		},
 		"Invocation: Beast Speech": {
 			"name": "영창: 짐승의 언어",
-			"description": "<p>당신은 주문 슬롯이나 물질 요소를 쓰지 않고도 언제나 @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{동물과의 대화Speak with Animals} 주문을 시전할 수 있습니다.</p>"
+			"description": "<p>당신은 주문 슬롯이나 물질 요소를 쓰지 않고도 언제나 @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{동물과의 대화} 주문을 시전할 수 있습니다.</p>"
 		},
 		"Invocation: Beguiling Influence": {
 			"name": "영창: 기만의 영향력",
@@ -407,11 +407,11 @@
 		},
 		"Invocation: Bewitching Whispers": {
 			"name": "영창: 홀리는 속삭임",
-			"description": "<p>당신은 워락 주문 슬롯을 사용해 @Compendium[dnd5e.spells.P6f1PPKPd9BCb742]{충동Compulsion} 주문을 한 번 시전할 수 있습니다. 이 영창은 한 번 사용했다면 긴 휴식을 취해야 다시 사용할 수 있습니다.</p>"
+			"description": "<p>당신은 워락 주문 슬롯을 사용해 @Compendium[dnd5e.spells.P6f1PPKPd9BCb742]{충동} 주문을 한 번 시전할 수 있습니다. 이 영창은 한 번 사용하면 긴 휴식을 취해야 다시 사용할 수 있습니다.</p>"
 		},
 		"Invocation: Book of Ancient Secrets": {
 			"name": "영창: 고대 비밀의 서",
-			"description": "<p>당신은 이제 그림자의 책에 마법 의식을 기록할 수 있습니다. 모든 클래스의 1레벨 주문 중 의식 태그가 붙은 주문 2개를 선택합니다. 두 주문을 서로 다른 클래스의 목록에서 고를 수도 있습니다. 그림자의 책에는 이 주문들이 수록되며, 이 주문은 당신이 알고 있는 주문의 개수에 포함되지 않습니다. 당신은 그림자의 책을 손에 들고 있을 때, 이 주문들을 의식으로 시전할 수 있습니다. 당신이 다른 방식으로 해당 주문을 알고 있는 것이 아닌 한, 의식이 아닌 방법으로는 시전할 수 없습니다. 또한 당신이 알고 있는 워락 주문 중 의식 태그가 붙은 것이 있다면, 해당 주문 역시 의식 형태로 시전할 수 있습니다.</p><p>당신이 모험 도중 다른 의식 주문을 발견했다면, 그 주문들도 그림자의 책에 옮겨 넣을 수 있습니다. 당신은 자신의 워락 레벨 절반보다 낮은 레벨의 의식 주문을 그림자의 책에 옮겨 쓸 수 있습니다.(나머지 올림) 주문을 옮겨쓰기 위해서는 주문 레벨당 2시간이 들어가며, 주문 레벨당 50gp 정도 가치의 희귀한 잉크가 필요합니다.</p>"
+			"description": "<p>당신은 이제 그림자의 책에 마법 의식을 기록할 수 있습니다. 모든 클래스의 1레벨 주문 중 의식 태그가 붙은 주문 2개를 선택합니다(같은 목록에서 주문 2개를 고를 필요는 없습니다). 그림자의 책에는 이 주문들이 수록되며, 이 주문은 당신이 알고 있는 주문의 개수에 포함되지 않습니다. 당신은 그림자의 책을 손에 들고 있을 때, 이 주문들을 의식으로 시전할 수 있습니다. 당신이 다른 방식으로 해당 주문을 알고 있는 것이 아닌 한, 의식이 아닌 방법으로는 시전할 수 없습니다. 또한 당신이 알고 있는 워락 주문 중 의식 태그가 붙은 것이 있다면, 해당 주문 역시 의식 형태로 시전할 수 있습니다.</p><p>당신이 모험 도중 다른 의식 주문을 발견했다면, 그 주문들도 그림자의 책에 옮겨 넣을 수 있습니다. 당신은 자신의 워락 레벨 절반보다 낮은 레벨의 의식 주문을 그림자의 책에 옮겨 쓸 수 있습니다.(나머지 올림) 주문을 옮겨쓰기 위해서는 주문 레벨당 2시간이 들어가며, 주문 레벨당 50gp 정도 가치의 희귀한 잉크가 필요합니다.</p>"
 		},
 		"Invocation: Chains of Carceri": {
 			"name": "영창: 카르케리의 사슬",
@@ -475,7 +475,7 @@
 		},
 		"Invocation: Otherworldly Leap": {
 			"name": "영창: 외세계의 도약",
-			"description": "<p>당신은 주문 슬롯이나 물질 요소를 소비하지 않고 언제나 자신에게 @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{도약Jump} 주문을 시전할 수 있습니다.</p>"
+			"description": "<p>당신은 주문 슬롯이나 물질 요소를 소비하지 않고 언제나 자신에게 @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{도약} 주문을 시전할 수 있습니다.</p>"
 		},
 		"Invocation: Repelling Blast": {
 			"name": "영창: 격퇴의 마탄",
