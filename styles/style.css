@@ -54,3 +54,9 @@
 .dnd5e input[type="text"] {
 	min-height: 20px;
 }
+
+/* Tidy 5e sheet 대응 */
+.system-dnd5e {
+    --modesto: "Modesto Condensed", "Hahmlet-SemiBold",serif !important;
+    --signika: "Signika", "Pretendard-Regular", serif !important;
+}
