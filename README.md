@@ -2,12 +2,12 @@
 
 * **버전** : 0.3.4
 * **Foundry VTT 코어 호환버전** : v9
-* **D&D 5e 시스템모듈 호환버전** : 1.6.0
+* **D&D 5e 시스템모듈 호환버전** : 1.6.3
 * **필요 모듈** : [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
 
 ## 설명
 
-Foundry VTT의 D&D 5e 게임 시스템을 한국어로 출력해 주는 모듈입니다.<br>
+Foundry VTT의 [D&D 5e 게임 시스템](https://github.com/foundryvtt/dnd5e)을 한국어로 출력해 주는 모듈입니다.<br>
 기존 모듈이 갱신되지 않아, 새로이 개편한 모듈입니다.
 
 ## 개발 계획 (Milestone)
@@ -30,7 +30,7 @@ FVTT 한국 DnD5e 로컬라이징 디스코드 초대링크 : https://discord.gg
 
 **번역 프로젝트 총괄** : jbblily (Crownel)
 
-**번역 및 기여자** : heart, jjjunetrpg, snowcat, steelpipe, volpee, flattenspace, printf, saura, cookie
+**번역 및 기여자** : heart, jjjunetrpg, snowcat, steelpipe, volpee, flattenspace, printf, saura, kuki
 
 **Special Thanks** : hororok-1 - 대부분의 번역을 많이 도와주셨습니다. 감사합니다.
 
