@@ -202,7 +202,7 @@
 			"description": "<p>당신은 몸속을 흐르는 마력 덕분에 선조룡의 신체적 특징을 이어받을 수 있었습니다. 1레벨 때 당신의 최대 hp가 1점 증가하며, 소서러 레벨이 올라갈 때마다 1점씩 추가로 hp가 늘어납니다.</p>\n<p>또한 당신의 피부는 부분부분 윤기나는 드래곤의 비늘 같은 것으로 얇게 덮여있습니다. 갑옷을 착용하지 않은 경우, 당신의 AC는 13 + 민첩 수정치가 됩니다.</p>"
 		},
 		"Dragon Ancestor": {
-			"name": "드래곤 선조",
+			"name": "선조룡",
 			"description": "<p> 1레벨에 이 기원을 선택하면서 어떤 드래곤이 당신의 선조였는지 선택합니다. 드래곤의 종류에 따라 피해 타입이 달라지며, 이후 클래스 특성에도 영향을 주게 됩니다.</p>\n<h4><strong>선조룡</strong></h4>\n<table style=\"height: 187px; width: 153px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\"><strong>드래곤</strong></td>\n<td style=\"height: 17px; width: 87px;\"><strong>피해 종류</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">블랙</td>\n<td style=\"height: 17px; width: 87px;\">산성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">블루</td>\n<td style=\"height: 17px; width: 87px;\">번개</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">브라스</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">브론즈</td>\n<td style=\"height: 17px; width: 87px;\">번개</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">카퍼</td>\n<td style=\"height: 17px; width: 87px;\">산성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">골드</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">그린</td>\n<td style=\"height: 17px; width: 87px;\">독성</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">레드</td>\n<td style=\"height: 17px; width: 87px;\">화염</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 59px;\">실버</td>\n<td style=\"height: 17px; width: 87px;\">냉기</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 59px; height: 17px;\">화이트</td>\n<td style=\"width: 87px; height: 17px;\">냉기</td>\n</tr>\n</tbody>\n</table>\n<p>당신은 용언으로 말할 수 있으며, 용언을 읽고 쓸 수 있습니다. 또한 당신이 드래곤과 교섭하며 매력 판정을 할 때는 숙련 보너스를 2배로 적용받게 됩니다.</p>"
 		},
 		"Dragon Wings": {
@@ -699,7 +699,7 @@
 		},
 		"Peerless Skill": {
 			"name": "독보적인 기술",
-			"description": "<p>바드 14레벨에 도달하면, 당신은 능력 판정을 할 때 바드의 고양감을 1회 소비하고, 당신이 가진 바드의 고양감 주사위를 굴려 그 결과를 능력 판정 값에 더할 수 있습니다. 이 특성은 당신이 주사위를 굴린 다음에도 사용할 수 있으나, DM이 성공이나 실패를 판정하고 결과를 확정한 다음에는 사용할 수 없습니다.</p>"
+			"description": "<p>바드 14레벨에 도달하면, 당신은 능력 판정을 할 때 바드의 고양감을 1회 소비하고, 당신이 가진 바드의 고양감 주사위를 굴려 그 결과를 능력 판정 값에 더할 수 있습니다. 이 특성은 당신이 주사위를 굴린 다음에도 사용할 수 있으나, GM이 성공이나 실패를 판정하고 결과를 확정한 다음에는 사용할 수 없습니다.</p>"
 		},
 		"Perfect Self": {
 			"name": "자기 충족",
@@ -719,7 +719,7 @@
 		},
 		"Primal Path": {
 			"name": "원초의 길",
-			"description": "<p>당신은 바바리안 3레벨이 되었을 때, 자신이 가진 격노가 향하는 방향인 '길' 을 선택합니다. 당신은 이렇게 선택한 길에 따라 3, 6, 10, 14레벨에 추가적 특성을 얻을 수 있습니다.</p>"
+			"description": "<p>당신은 바바리안 3레벨이 되었을 때, 광전사의 길처럼 자신이 가진 격노가 향하는 방향인 '길' 을 선택합니다. 당신은 이렇게 선택한 길에 따라 3, 6, 10, 14레벨에 추가적 특성을 얻을 수 있습니다.</p>"
 		},
 		"Primeval Awareness": {
 			"name": "원초적 육감",
