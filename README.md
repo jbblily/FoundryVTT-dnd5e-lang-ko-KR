@@ -1,6 +1,6 @@
 # Foundryvtt-dnd5e-lang-ko-KR
 
-* **버전** : 0.3.4
+* **Version** : 0.4.0
 * **Foundry VTT 코어 호환버전** : v9
 * **D&D 5e 시스템모듈 호환버전** : 1.6.3
 * **필요 모듈** : [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
@@ -10,13 +10,7 @@
 Foundry VTT의 [D&D 5e 게임 시스템](https://github.com/foundryvtt/dnd5e)을 한국어로 출력해 주는 모듈입니다.<br>
 기존 모듈이 갱신되지 않아, 새로이 개편한 모듈입니다.
 
-## 개발 계획 (Milestone)
-
-현재 알파 릴리즈 중입니다. 번역 프로젝트 참여자의 검수 및 수정이 이루어지고 있는 중입니다. 이후 계획은 다음과 같습니다.
-
-- 알파 릴리즈 : 번역 프로젝트 참여자의 검수. 어색한 번역이나 기본적인 용어 통일성을 검토합니다.
-- 베타 릴리즈 : FVTT 한국 디스코드 서버 및 SNS에의 공개. 더 넓은 유저의 피드백과 검수 예정.
-- 정식 릴리즈 : FVTT 공식 모듈 리스트에 등록. 이후 지속적 유지 및 관리.
+**본 모듈에 포함된 모든 내용은 한국어로 정발된 던전즈 앤 드래곤즈의 내용을 담고있지 않으며, OGL 라이선스에 따라 영어에서 한국어로 커뮤니티 번역을 진행하였습니다.**
 
 ## 로컬라이징 방식
 
@@ -30,10 +24,7 @@ FVTT 한국 DnD5e 로컬라이징 디스코드 초대링크 : https://discord.gg
 
 **번역 프로젝트 총괄** : jbblily (Crownel)
 
-**번역 및 기여자** : heart, jjjunetrpg, snowcat, steelpipe, volpee, flattenspace, printf, saura, kuki
-
-**Special Thanks** : hororok-1 - 대부분의 번역을 많이 도와주셨습니다. 감사합니다.
-
+**번역 및 기여자** : kuki, hororok-1, heart, jjjunetrpg, snowcat, steelpipe, volpee, flattenspace, printf, saura, 
 
 
 ## 설치방법
@@ -42,3 +33,31 @@ FVTT 한국 DnD5e 로컬라이징 디스코드 초대링크 : https://discord.gg
 * Foundry VTT를 실행해 셋업 창의 **"부가 모듈"** 탭에서 **"모듈 설치"** 를 클릭합니다.
 * Translation: Korean [D&D 5e]를 검색해 설치합니다.
 * 한글 폰트 및 컴펜디움도 적용하려면 **모듈 관리** 설정에서 **Translation: Korean [D&D 5e]** 체크박스에 체크합니다.
+
+
+---
+
+## Project description
+
+This is a localization project of Foundry VTT's [D&D 5e system](https://github.com/foundryvtt/dnd5e).<br>
+Previous module has been depricated. This is a refined version of previous Foundryvtt-dnd5e-lang-ko-KR module.<br>
+You need to install Babele to translate compendium.
+
+**Our team's localizing contents does not contain any contents of published Korean D&D5e books. All contents of this module are translated only by our community translators.**
+
+## How we localize
+
+**We localize through Transifex. You can join our transifex project.** <br>
+URL : https://www.transifex.com/fvtt-korean/dd-5e-korean/dashboard/
+
+**Discord server for Korean FVTT Dnd5e localizing team**<br>
+Invite url : https://discord.gg/YwjjxpsNcB
+
+
+## Credit
+
+**Project manager** : jbblily (Crownel)
+
+**Translators & Contributors** : kuki, hororok-1, heart, jjjunetrpg, snowcat, steelpipe, volpee, flattenspace, printf, saura, 
+
+
