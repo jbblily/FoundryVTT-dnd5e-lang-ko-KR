@@ -5,6 +5,7 @@
 * **D&D 5e 시스템모듈 호환버전** : 1.6.3
 * **Babele 모듈 호환버전** : 2.2.5
 * **필요 모듈** : [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
+* Manifest Link : https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/releases/latest/download/module.json
 
 ## 설명
 
