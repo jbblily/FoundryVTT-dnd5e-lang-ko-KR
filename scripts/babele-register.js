@@ -11,12 +11,12 @@ Hooks.once('init', () => {
 
 	if (typeof Babele !== 'undefined') {
 		Babele.get().register({
-			module: 'dnd5e_ko-KR',
+			module: 'dnd5e-ko',
 			lang: 'ko',
 			dir: 'localization/compendium/ko'
 		});
 
-		if (!game.settings.get("dnd5e_ko-KR", "show-original-name")) return;
+		if (!game.settings.get("dnd5e-ko", "show-original-name")) return;
 		TranslatedCompendium.prototype.translateOrigin = TranslatedCompendium.prototype.translate;
 		TranslatedCompendium.prototype.translate = function(data) {
 			let originalName = data.name;
