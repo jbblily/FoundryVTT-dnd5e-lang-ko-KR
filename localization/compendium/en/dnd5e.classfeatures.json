@@ -913,6 +913,10 @@
 			"name": "Tranquility",
 			"description": "<p>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a @Compendium[dnd5e.spells.gvdA9nPuWLck4tBl]{Sanctuary} spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.</p>"
 		},
+		"Unarmed Strike (Monk)": {
+			"name": "Unarmed Strike (Monk)",
+			"description": ""
+		},
 		"Unarmored Defense (Barbarian)": {
 			"name": "Unarmored Defense (Barbarian)",
 			"description": "<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>"
