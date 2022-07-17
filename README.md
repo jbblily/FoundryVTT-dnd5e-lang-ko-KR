@@ -5,6 +5,7 @@
 * **D&D 5e 시스템모듈 호환버전** : 1.6.3
 * **Babele 모듈 호환버전** : 2.2.5
 * **필요 모듈** : [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
+* Manifest Link : https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/releases/latest/download/module.json
 
 ## 설명
 
@@ -15,7 +16,9 @@ Foundry VTT의 [D&D 5e 게임 시스템](https://github.com/foundryvtt/dnd5e)을
 
 ## 로컬라이징 방식
 
-**Transifex를 통해 커뮤니티 번역이 이루어지고 있습니다. 번역을 수정하고 싶은 경우 아래 링크에서 해주시길 바랍니다.** <br>
+**Transifex를 통해 커뮤니티 번역이 이루어지고 있습니다. 번역을 수정하고 싶은 경우 아래 링크에서도 가능합니다.** <br>
+PR로도 번역 참여를 받고 있으나, 번역 참여 시 반드시 Transifex 내의 용어사전을 확인하여 번역해주십시오. <br>
+**용어사전을 참고하지 않은 PR은 승인하지 않습니다.**<br>
 링크 : https://www.transifex.com/fvtt-korean/dd-5e-korean/dashboard/
 
 **디스코드 서버**에 참여하시면 번역 진행상황에 대한 더욱 많은 정보와 협의사항을 의논할 수 있습니다.<br>
