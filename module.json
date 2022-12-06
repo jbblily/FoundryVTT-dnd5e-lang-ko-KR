@@ -1,12 +1,13 @@
 {
+	"id": "dnd5e-ko",
 	"name": "dnd5e-ko",
 	"title": "Translation: Korean [D&D 5e]",
 	"description": "D&D 5e 시스템의 한국어화 모듈입니다.",
 	"version": "This is auto replaced",
 	"library": "false",
-	"manifestPlusVersion": "1.0.0",
-	"minimumCoreVersion" : "0.8.0",
-	"compatibleCoreVersion": "9",
+	"manifestPlusVersion": "1.2.0",
+	"minimumCoreVersion" : "9",
+	"compatibleCoreVersion": "10.291",
 	"authors": [
 		{
 		  "name": "Crownel",
@@ -24,6 +25,8 @@
 			"path": "localization/languages/ko/ko.json"
 		}
 	],
+	"license": "LICENSE",
+  	"readme": "README.md",
 	"url": "This is auto replaced",
 	"manifest": "This is auto replaced",
 	"download": "This is auto replaced"
