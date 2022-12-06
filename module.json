@@ -8,14 +8,29 @@
 	"manifestPlusVersion": "1.2.0",
 	"minimumCoreVersion" : "9",
 	"compatibleCoreVersion": "10.291",
+	"compatibility": {
+		"minimum": 9,
+		"verified": 10,
+		"maximum": 10.291
+	  },
 	"authors": [
 		{
 		  "name": "Crownel",
+		  "url": "https://twitter.com/TR_crownel",
 		  "discord": "Crownel#4367"
 		}
 	  ],
 	"esmodules": ["scripts/babele-register.js"],
 	"styles": ["styles/style.css"],
+	"relationships": {
+		"systems": [
+			{
+				"id": "dnd5e",
+        		"type": "system",
+        		"compatibility": {}
+			}
+		]
+	  },
 	"system": "dnd5e",
 	"languages": 
 	[
