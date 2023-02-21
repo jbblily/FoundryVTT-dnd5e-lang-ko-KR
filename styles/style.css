@@ -53,7 +53,7 @@
 	min-height: 20px;
 }
 
-/* 캐릭터 시트 화폐 표시오류 개선 */
+/* 기본 캐릭터 시트 화폐 표시오류 개선 */
 .dnd5e.sheet.actor .inventory-filters .currency {
     align-items: center;
 }
