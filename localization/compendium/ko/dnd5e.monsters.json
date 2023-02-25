@@ -3,7 +3,7 @@
 	"entries": {
 		"Aboleth": {
 			"name": "아볼레스",
-			"description": "<p>아볼레스는 지하 호수나 바위로 가득한 심해를 본거지로 삼는데,  종종 몰락한 고대 아볼레스 도시의 유적이 본거지 주변을 에워싸고 있기도 합니다. 아볼레스는 대부분의 시간을 수중에서 보내지만, 때때로 방문자나 미친 숭배자들을 맞이하기 위해 수면 위로 올라오기도 합니다.</p>"
+			"description": "<p>아볼레스는 지하 호수나 바위로 가득한 심해를 본거지로 삼는데,  종종 몰락한 고대 아볼레스 도시의 유적이 본거지 주변을 에워싸고 있기도 합니다. 아볼레스는 대부분의 시간을 수중에서 보내지만, 때때로 방문자나 광기에 빠진 숭배자들을 맞이하기 위해 수면 위로 올라오기도 합니다.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Acolyte": {
 			"name": "수행사제",
@@ -51,7 +51,7 @@
 		},
 		"Air Elemental": {
 			"name": "에어 엘리멘탈",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ancient Black Dragon": {
 			"name": "블랙 드래곤 원시체",
@@ -111,11 +111,11 @@
 		},
 		"Archmage": {
 			"name": "대마법사",
-			"description": "<p><strong>대마법사</strong>는 비전 기술의 연구에 전념하는 강력한 (그리고 보통 꽤 나이 많은) 주문시전자입니다. 선량한 자는 왕과 왕비에게 조언을 하기도 하며, 사악한 자는 폭군으로 군림하며 리치술을 추구합니다. 선도 악도 아닌 사람들은 방해  받지 않고 마법을 연습하기 위해 외딴 탑에 스스로 고립됩니다.</p>\n<p>대마법사는 일반적으로 한 명 이상의 견습 마법사를 두고 있으며, 대마법사의 거처에는 침입자를 저지하기 위한 수많은 마법 장막과 가디언이 있습니다.</p><section class=\"secret\"><p>대마법사는 전투 전에 자신에게 <strong>메이지 아머</strong>와 <strong>스톤스킨</strong> 및 <strong>마인드 블랭크</strong>를 시전합니다.</p>\n</section>"
+			"description": "<p><strong>대마법사</strong>는 비전 기술의 연구에 전념하는 강력한 (그리고 보통 꽤 나이 많은) 주문시전자입니다. 선량한 자는 왕과 왕비에게 조언을 하기도 하며, 사악한 자는 폭군으로 군림하며 리치술을 추구합니다. 선도 악도 아닌 사람들은 방해  받지 않고 마법을 연습하기 위해 외딴 탑에 스스로 고립됩니다.</p>\n<p>대마법사는 일반적으로 한 명 이상의 견습 마법사를 두고 있으며, 대마법사의 거처에는 침입자를 저지하기 위한 수많은 마법 장막과 가디언이 있습니다.</p><section class=\"secret\"><p>대마법사는 전투 전, 자신에게 <strong>메이지 아머</strong>와 <strong>스톤스킨</strong> 및 <strong>마인드 블랭크</strong>를 시전합니다.</p>\n</section><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Assassin": {
 			"name": "암살자",
-			"description": "<p><strong>암살자</strong>는 독을 사용하는 훈련을 받은 사람들입니다. 귀족, 길드장, 군주 등 돈을 지불할 수만 있다면 그 누구를 위해서라도 일하는 무자비한 살인마입니다.</p>"
+			"description": "<p><strong>암살자</strong>는 독을 사용하는 훈련을 받은 사람들입니다. 귀족, 길드장, 군주 등, 돈만 낸다면 누구 밑에서든 일하는 무자비한 살인마입니다.</p><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Avatar of Death": {
 			"name": "죽음의 화신",
@@ -123,7 +123,7 @@
 		},
 		"Awakened Shrub": {
 			"name": "각성한 관목",
-			"description": "<p>나뭇잎의 리듬감있는 바스락거림, 관목 사이로 얼기설기 얽힌 뿌리들, 그리고 땅 속에 남겨진 텅 빈 구멍들... 이것들은 모두 이 매혹적인 작은 크리처의 흔적입니다. 각성한 관목들은 원래 평범한 숲속 식물이었습니다. 각성 주문을 시전해 각성한 관목을 탄생시킨, 가장 강한 드루이드가 시전한 자연 마법으로 인해 이들은 약간의 인지력을 부여받았습니다. </p>\n<p>사소할 정도로 미약한 의지력을 가진 이 관목 자체는 주문 시전자에게 30일동안 @JournalEntry[매혹] 된 상태입니다. 그 기간동안 드루이드는 각성한 관목을 마음대로 부릴 수 있습니다. 각성한 관목에 주문을 시전하면 스스로 움직일 수도 있습니다. 관목은 뿌리와 가지를 이용해 숲바닥을 딛고 나아가며, 드루이드가 정한 구역을 어기적거리며 돌아다닙니다.</p>\n<p><strong>드루이드의 작은 도우미.</strong>각성 주문과 같은 비전 마법을 할 수 있을 정도로 숙련된 메이지라면 이 관목을 순식간에 깨어나게 할 수 있겠지만, 이 능력을 주로 사용하는 것은 숲속의 드루이드들입니다. 각성한 관목만이 가진 독특한 특징이라면 완벽하게 가만히 서있는 상태에서는 평범한 관목과 전혀 구별이 되지 않는다는 점입니다. 각성한 관목이 위장능력을 활용해 보초병의 역할을 함으로써 드루이드들의 은신처를 더욱 비밀스럽게 숨겨줍니다.</p>\n<p>숲의 친구가 추천한 바에 따르면, 관목은 소그룹으로 나누어서 사용하는 것이 좋습니다. 귀찮은 침입자들을 제압하기 위해서 말입니다. 관목들은 단순해서 숫자가 많을 수록 좋은데, 하나가 없어진다 해도 다른 것들이 이를 쉽게 채울 수 있기 때문입니다. 관목에 걸린 마법 덕분에 창조자가 알려준 언어로 말할 수 있으므로, 각성한 관목이 경고문을 말하도록 설계하여 웬만한 충돌을 피하도록 할 수도 있습니다. 그러나 관목은 가장 간단한 작업조차도 완수하기 힘들 정도로 섬세한 조작은 어렵기 때문에, “살아있는 알림”으로서의 활용이 가장 현명한 선택일 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<p>나뭇잎의 리듬감있는 바스락거림, 관목 사이로 얼기설기 얽힌 뿌리들, 그리고 땅 속에 남겨진 텅 빈 구멍들... 이것들은 모두 이 매혹적인 작은 크리처의 흔적입니다. 각성한 관목들은 원래 평범한 숲속 식물이었습니다. 각성 주문을 시전해 각성한 관목을 탄생시킨, 가장 강한 드루이드가 시전한 자연 마법으로 인해 이들은 약간의 인지력을 부여받았습니다. </p>\n<p>사소할 정도로 미약한 의지력을 가진 이 관목 자체는 주문 시전자에게 30일동안 @UUID[Compendium.dnd5e.rules.w7eitkpD7QQTB6j0.JournalEntryPage.zZaEBrKkr66OWJvD]{매혹} 된 상태입니다. 그 기간동안 드루이드는 각성한 관목을 마음대로 부릴 수 있습니다. 각성한 관목에 주문을 시전하면 스스로 움직일 수도 있습니다. 관목은 뿌리와 가지를 이용해 숲바닥을 딛고 나아가며, 드루이드가 정한 구역을 어기적거리며 돌아다닙니다.</p>\n<p><strong>드루이드의 작은 도우미.</strong>각성 주문과 같은 비전 마법을 할 수 있을 정도로 숙련된 메이지라면 이 관목을 순식간에 깨어나게 할 수 있겠지만, 이 능력을 주로 사용하는 것은 숲속의 드루이드들입니다. 각성한 관목만이 가진 독특한 특징이라면 완벽하게 가만히 서있는 상태에서는 평범한 관목과 전혀 구별이 되지 않는다는 점입니다. 각성한 관목이 위장능력을 활용해 보초병의 역할을 함으로써 드루이드들의 은신처를 더욱 비밀스럽게 숨겨줍니다.</p>\n<p>숲의 친구가 추천한 바에 따르면, 관목은 소그룹으로 나누어서 사용하는 것이 좋습니다. 귀찮은 침입자들을 제압하기 위해서 말입니다. 관목들은 단순해서 숫자가 많을 수록 좋은데, 하나가 없어진다 해도 다른 것들이 이를 쉽게 채울 수 있기 때문입니다. 관목에 걸린 마법 덕분에 창조자가 알려준 언어로 말할 수 있으므로, 각성한 관목이 경고문을 말하도록 설계하여 웬만한 충돌을 피하도록 할 수도 있습니다. 그러나 관목은 가장 간단한 작업조차도 완수하기 힘들 정도로 섬세한 조작은 어렵기 때문에, “살아있는 알림”으로서의 활용이 가장 현명한 선택일 것입니다.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Awakened Tree": {
 			"name": "각성한 나무",
@@ -147,7 +147,7 @@
 		},
 		"Balor": {
 			"name": "발러",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Bandit": {
 			"name": "도적",
@@ -175,7 +175,7 @@
 		},
 		"Behir": {
 			"name": "베히어",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Berserker": {
 			"name": "광전사",
@@ -191,7 +191,7 @@
 		},
 		"Black Pudding": {
 			"name": "블랙 푸딩",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Blink Dog": {
 			"name": "점멸 개",
@@ -211,7 +211,7 @@
 		},
 		"Bone Devil": {
 			"name": "본 데빌",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Brass Dragon Wyrmling": {
 			"name": "브라스 드래곤 유생체",
@@ -247,23 +247,23 @@
 		},
 		"Chain Devil": {
 			"name": "체인 데빌",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Chimera": {
 			"name": "키메라",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Chuul": {
 			"name": "추울",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Clay Golem": {
 			"name": "진흙 골렘",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Cloaker": {
 			"name": "클로커",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Cloud Giant": {
 			"name": "구름 거인",
@@ -287,7 +287,7 @@
 		},
 		"Couatl": {
 			"name": "코아틀",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Crab": {
 			"name": "게",
@@ -323,7 +323,7 @@
 		},
 		"Deva": {
 			"name": "데바",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Dire Wolf": {
 			"name": "다이어 울프",
@@ -331,7 +331,7 @@
 		},
 		"Djinni": {
 			"name": "지니",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Doppelganger": {
 			"name": "도플갱어",
@@ -351,7 +351,7 @@
 		},
 		"Drider": {
 			"name": "드라이더",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Drow": {
 			"name": "드로우",
@@ -379,15 +379,15 @@
 		},
 		"Earth Elemental": {
 			"name": "대지 엘리멘탈",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Efreeti": {
 			"name": "에프리티",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Elephant": {
 			"name": "코끼리",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Elk": {
 			"name": "엘크",
@@ -407,11 +407,11 @@
 		},
 		"Fire Elemental": {
 			"name": "파이어 엘리멘탈",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Fire Giant": {
 			"name": "화염 거인",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Flesh Golem": {
 			"name": "살점 골렘",
@@ -547,7 +547,7 @@
 		},
 		"Giant Shark": {
 			"name": "거대 상어",
-			"description": "<p>거대 상어는 몸체가 30 피트 길이이며, 일반적으로 심해에서 발견됩니다. 어떤 두려움 없이, 고래나 배 등을 포함해서 사정거리를 지나는 것이라면 무엇이든 사냥합니다.</p>\n<p></p>"
+			"description": "<p>거대 상어의 몸체 길이는 30피트이며, 보통 심해에서 발견됩니다. 굉장히 용맹해서 고래, 선박 등, 그 앞에 지나는 것은 무엇이든 사냥합니다.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Giant Spider": {
 			"name": "거대 거미",
@@ -579,11 +579,11 @@
 		},
 		"Glabrezu": {
 			"name": "글라브레주",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gladiator": {
 			"name": "검투사",
-			"description": "<p>검투사들은 소란스러운 군중의 즐거움을 위해 싸웁니다. 어떤 검투사는 매 경기를 생사를 건 싸움으로 여기는 잔혹한 투기장의 싸움꾼이지만, 어떤 검투사는 많은 비용을 요구하지만 죽을 때까지 싸우는 경우가 거의 없는 전문 결투사입니다.</p>\n<p></p>"
+			"description": "<p>검투사는 환호하는 군중을 즐겁게 하기 위해 싸웁니다. 어떤 검투사는 매 경기가 생사를 건 싸움인, 잔혹한 투기장의 싸움꾼인 반면, 어떤 이들은 많은 비용을 부르지만 대체로 죽음을 각오하며 싸우지는 않는 전문 결투사입니다.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gnoll": {
 			"name": "놀",
@@ -603,7 +603,7 @@
 		},
 		"Gorgon": {
 			"name": "고르곤",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gray Ooze": {
 			"name": "그레이 우즈",
@@ -623,7 +623,7 @@
 		},
 		"Griffon": {
 			"name": "그리폰",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Grimlock": {
 			"name": "그림락",
@@ -635,11 +635,11 @@
 		},
 		"Guardian Naga": {
 			"name": "가디언 나가",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gynosphinx": {
 			"name": "가이노스핑크스",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Half-Red Dragon Veteran": {
 			"name": "하프 레드 드래곤 베테랑",
@@ -659,7 +659,7 @@
 		},
 		"Hezrou": {
 			"name": "헤즈로우",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Hill Giant": {
 			"name": "언덕 거인",
@@ -679,7 +679,7 @@
 		},
 		"Horned Devil": {
 			"name": "혼드 데빌",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Hunter Shark": {
 			"name": "사냥꾼 상어",
@@ -695,7 +695,7 @@
 		},
 		"Ice Devil": {
 			"name": "아이스 데빌",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ice Mephit": {
 			"name": "아이스 메핏",
@@ -711,7 +711,7 @@
 		},
 		"Iron Golem": {
 			"name": "강철 골렘",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Jackal": {
 			"name": "자칼",
@@ -735,7 +735,7 @@
 		},
 		"Lamia": {
 			"name": "라미아",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Lemure": {
 			"name": "레뮤어",
@@ -759,7 +759,7 @@
 		},
 		"Mage": {
 			"name": "마법사",
-			"description": "<p>마법사는 마법을 연구하고 수련하는 데 인생을 바칩니다. 선 성향의 마법사는 귀족과 다른 권력자에게 자문을 제공하는데 반해, 악 성향의 마법사는 방해받지 않고 차마 입에 담을 수조차도 없는 실험을 수행하기 위해 고립된 공간에 머무릅니다.</p>\n<p></p>"
+			"description": "<p>마법사는 마법을 연구하고 수련하며 삶을 보냅니다. 선 성향의 마법사는 귀족과 다른 권력자에게 자문을 해주기도 하는 반면, 악 성향의 마법사는 방해 없이 차마 입에 담을 수조차도 없는 실험을 하기 위해 외딴 공간에 거주하곤 합니다.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Magma Mephit": {
 			"name": "마그마 메핏",
@@ -771,7 +771,7 @@
 		},
 		"Mammoth": {
 			"name": "맘모스",
-			"description": "<p>맘모스는 두꺼운 털과 긴 엄니를 가진, 코끼리와 닮은 크리처입니다. 일반적인 코끼리보다 더 사납고 다부지며, 아한대부터 아열대에 이르기까지 넓은 범위의 기후대에서 서식합니다.</p>\n<p></p>"
+			"description": "<p>맘모스는 두꺼운 털과 긴 엄니를 가진, 코끼리와 닮은 크리처입니다. 일반적인 코끼리보다 더 사납고 다부지며, 아한대부터 아열대에 이르기까지 넓은 범위의 기후대에서 서식합니다.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Manticore": {
 			"name": "맨티코어",
@@ -779,7 +779,7 @@
 		},
 		"Marilith": {
 			"name": "마릴리프",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Mastiff": {
 			"name": "마스티프",
@@ -787,7 +787,7 @@
 		},
 		"Medusa": {
 			"name": "메두사",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Merfolk": {
 			"name": "어인",
@@ -803,11 +803,11 @@
 		},
 		"Minotaur": {
 			"name": "미노타우르스",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Minotaur Skeleton": {
 			"name": "미노타우르스 스켈레톤",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Mule": {
 			"name": "노새",
@@ -823,7 +823,7 @@
 		},
 		"Nalfeshnee": {
 			"name": "날페쉬니",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Night Hag": {
 			"name": "나이트 해그",
@@ -847,7 +847,7 @@
 		},
 		"Ogre": {
 			"name": "오우거",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ogre Zombie": {
 			"name": "오우거 좀비",
@@ -855,7 +855,7 @@
 		},
 		"Oni": {
 			"name": "오니",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Orc": {
 			"name": "오크",
@@ -887,11 +887,11 @@
 		},
 		"Pit Fiend": {
 			"name": "핏 핀드",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Planetar": {
 			"name": "플레인타르",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Plesiosaurus": {
 			"name": "플레시오사우루스",
@@ -931,7 +931,7 @@
 		},
 		"Rakshasa": {
 			"name": "락샤사",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rat": {
 			"name": "쥐",
@@ -951,7 +951,7 @@
 		},
 		"Remorhaz": {
 			"name": "레모래즈",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rhinoceros": {
 			"name": "코뿔소",
@@ -963,7 +963,7 @@
 		},
 		"Roc": {
 			"name": "로크",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Roper": {
 			"name": "로퍼",
@@ -987,7 +987,7 @@
 		},
 		"Salamander": {
 			"name": "샐러맨더",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Satyr": {
 			"name": "사티르",
@@ -1019,7 +1019,7 @@
 		},
 		"Shield Guardian": {
 			"name": "실드 가디언",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Shrieker": {
 			"name": "비명쟁이 버섯",
@@ -1047,7 +1047,7 @@
 		},
 		"Spirit Naga": {
 			"name": "영혼 나가",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Sprite": {
 			"name": "스프라이트",
@@ -1067,7 +1067,7 @@
 		},
 		"Stone Giant": {
 			"name": "바위 거인",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Stone Golem": {
 			"name": "바위 골렘",
@@ -1075,7 +1075,7 @@
 		},
 		"Storm Giant": {
 			"name": "폭풍 거인",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Succubus/Incubus": {
 			"name": "서큐버스/인큐버스",
@@ -1131,7 +1131,7 @@
 		},
 		"Tiger": {
 			"name": "호랑이",
-			"description": "<p>급습. 만약 호랑이가 한 크리처를 향해 최소 20ft를 직진하여 동일한 턴에 할퀴기 공격으로 해당 크리처를 명중시켰다면 해당 목표는 <strong>DC 13 근력</strong> 내성 굴림에 성공하지 못하면<a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> 넘어짐</a> 상태가 됩니다. 만약에 해당 목표가 <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> 넘어짐</a> 상태라면, 호랑이는 추가 행동으로 1회의 물기 공격을 가할 수 있습니다.</p>\n<p>행동</p>\n<p>물기. 근접 무기 공격: 명중 +5, 간격 5ft, 단일 목표. 명중 시: <strong>8(1d10 + 3)점의 <em>관통 피해</em></strong>.</p>\n<p>할퀴기. 근접 무기 공격: 명중 +5, 간격 5ft, 단일 목표. 명중 시: <strong>7(1d8 + 3)점의 <em>참격 피해</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": "<p>급습. 호랑이가 크리처 하나를 향해 최소 20ft를 직진하여, 동일한 턴에 할퀴기 공격해 명중한 경우, 해당 목표는 <strong>DC 13 근력</strong> 내성 굴림에 성공하지 못하면<a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> 넘어짐</a> 상태가 됩니다. 만약 해당 목표가 <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> 넘어짐</a> 상태라면, 호랑이는 추가 행동으로 물기 공격 1회를 할 수 있습니다.</p>\n<p>행동</p>\n<p>물기. 근접 무기 공격: 명중 +5, 사정거리 5ft, 단일 목표. 명중 시: <strong>8(1d10 + 3)점의 <em>관통 피해</em></strong>.</p>\n<p>할퀴기. 근접 무기 공격: 명중 +5, 사정거리 5ft, 단일 목표. 명중 시: <strong>7(1d8 + 3)점의 <em>참격 피해</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Treant": {
 			"name": "트렌트",
@@ -1175,7 +1175,7 @@
 		},
 		"Vrock": {
 			"name": "브록",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Vulture": {
 			"name": "대머리수리",
@@ -1191,7 +1191,7 @@
 		},
 		"Water Elemental": {
 			"name": "워터 엘리멘탈",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Weasel": {
 			"name": "족제비",
@@ -1223,7 +1223,7 @@
 		},
 		"Wight": {
 			"name": "와이트",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Will-o'-Wisp": {
 			"name": "도깨비불",
@@ -1251,11 +1251,11 @@
 		},
 		"Xorn": {
 			"name": "조른",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Black Dragon": {
 			"name": "블랙 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Blue Dragon": {
 			"name": "블루 드래곤 준성체",
@@ -1267,7 +1267,7 @@
 		},
 		"Young Bronze Dragon": {
 			"name": "브론즈 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Copper Dragon": {
 			"name": "카퍼 드래곤 준성체",
@@ -1275,23 +1275,23 @@
 		},
 		"Young Gold Dragon": {
 			"name": "골드 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Green Dragon": {
 			"name": "그린 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Red Dragon": {
 			"name": "레드 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Silver Dragon": {
 			"name": "실버 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young White Dragon": {
 			"name": "화이트 드래곤 준성체",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Zombie": {
 			"name": "좀비",
