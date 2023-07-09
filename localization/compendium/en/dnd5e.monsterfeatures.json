@@ -3,11 +3,11 @@
 	"entries": {
 		"Aberrant Ground": {
 			"name": "Aberrant Ground",
-			"description": "<section class=\"secret\">\n<p>The ground in a <strong>10-foot radius</strong> around the&nbsp;{creature}&nbsp;is doughlike difficult terrain.</p><p>Each creature that starts its turn in that area must succeed on a <strong>DC 10 Strength saving throw</strong> or have its speed reduced to 0 until the start of its next turn.</p>\n</section>\n<p>The ground in a <strong>10-foot radius</strong> around the&nbsp;{creature}&nbsp;is doughlike difficult terrain. make a <strong>Strength</strong> saving throw.</p>"
+			"description": "<section class=\"secret\">\n<p>The ground in a <strong>10-foot radius</strong> around the {creature} is doughlike difficult terrain.</p><p>Each creature that starts its turn in that area must succeed on a <strong>DC 10 Strength saving throw</strong> or have its speed reduced to 0 until the start of its next turn.</p>\n</section>\n<p>The ground in a <strong>10-foot radius</strong> around the {creature} is doughlike difficult terrain. make a <strong>Strength</strong> saving throw.</p>"
 		},
 		"Acid Absorption": {
 			"name": "Acid Absorption",
-			"description": "<p>Whenever the&nbsp;{creature}&nbsp;is subjected to <strong><em>acid damage</em></strong>, it takes no damage and instead regains a number of<strong> hit points</strong> equal to the <strong><em>acid damage</em> dealt</strong>.</p>"
+			"description": "<p>Whenever the {creature} is subjected to <strong><em>acid damage</em></strong>, it takes no damage and instead regains a number of<strong> hit points</strong> equal to the <strong><em>acid damage</em> dealt</strong>.</p>"
 		},
 		"Acid Breath": {
 			"name": "Acid Breath",
@@ -35,7 +35,7 @@
 		},
 		"Amorphous": {
 			"name": "Amorphous",
-			"description": "<p>The&nbsp;{creature}&nbsp;can move through a space as narrow as 1 inch wide without squeezing.</p>"
+			"description": "<p>The {creature} can move through a space as narrow as 1 inch wide without squeezing.</p>"
 		},
 		"Amphibious": {
 			"name": "Amphibious",
@@ -123,7 +123,7 @@
 		},
 		"Breath Weapons": {
 			"name": "Breath Weapons",
-			"description": "<section class=\"secret\">\n<p>(<strong>NOTE: THIS SHOULD BE USED ONLY IF THE CREATURE HAS MORE THAN ONE TYPE OF BREATH WEAPON, AND CONTAINS THE CHARGES FOR THOSE BREATH WEAPONS. EACH BREATH WEAPON ITSELF SHOULD ALSO BE ADDED.</strong>)</p><p><br>The {type} uses one of the following breath weapons.</p><p>**Fire Breath.** The {type} exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a <strong>DC 18 Dexterity</strong> saving throw, taking <strong>45 (13d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>**Sleep Breath.** The {type} exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a <strong>DC 18 Constitution</strong> saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.</p>\n</section>\n<p>The {type} breathes in!</p>"
+			"description": "<section class=\"secret\">\n<p>(<strong>NOTE: THIS SHOULD BE USED ONLY IF THE CREATURE HAS MORE THAN ONE TYPE OF BREATH WEAPON, AND CONTAINS THE CHARGES FOR THOSE BREATH WEAPONS. EACH BREATH WEAPON ITSELF SHOULD ALSO BE ADDED.</strong>)</p><p><br />The {type} uses one of the following breath weapons.</p><p>**Fire Breath.** The {type} exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a <strong>DC 18 Dexterity</strong> saving throw, taking <strong>45 (13d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>**Sleep Breath.** The {type} exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a <strong>DC 18 Constitution</strong> saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.</p>\n</section>\n<p>The {type} breathes in!</p>"
 		},
 		"Brute": {
 			"name": "Brute",
@@ -483,7 +483,7 @@
 		},
 		"Intoxicating Touch": {
 			"name": "Intoxicating Touch",
-			"description": "<section class=\"secret\">\n<p><em>Melee Spell Attack:</em><strong>+5 to hit, reach</strong>&nbsp;<strong>5 ft.,</strong> one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.</p><p></p>\n</section>\n<p>The target has disadvantage on Wisdom saving throws and all ability checks.</p>"
+			"description": "<section class=\"secret\">\n<p><em>Melee Spell Attack:</em><strong>+5 to hit, reach</strong> <strong>5 ft.,</strong> one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.</p><p></p>\n</section>\n<p>The target has disadvantage on Wisdom saving throws and all ability checks.</p>"
 		},
 		"Invisibility": {
 			"name": "Invisibility",
@@ -883,7 +883,7 @@
 		},
 		"Tentacle Disease": {
 			"name": "Tentacle Disease",
-			"description": "<section class=\"secret\">\n<p><strong>After 1 minute</strong>, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is <strong>outside a body of water</strong>, it takes&nbsp;<strong>6 (1d12) acid&nbsp;damage every 10 minutes</strong> unless moisture is applied to the skin before 10 minutes have passed.</p>\n</section>\n<p>You feel a surging pain rushing through your body!</p>"
+			"description": "<section class=\"secret\">\n<p><strong>After 1 minute</strong>, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is <strong>outside a body of water</strong>, it takes <strong>6 (1d12) acid damage every 10 minutes</strong> unless moisture is applied to the skin before 10 minutes have passed.</p>\n</section>\n<p>You feel a surging pain rushing through your body!</p>"
 		},
 		"Tentacle Slam": {
 			"name": "Tentacle Slam",
