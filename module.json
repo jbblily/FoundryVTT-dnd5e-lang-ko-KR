@@ -6,12 +6,10 @@
 	"version": "This is auto replaced",
 	"library": "false",
 	"manifestPlusVersion": "1.2.0",
-	"minimumCoreVersion" : "9",
-	"compatibleCoreVersion": "10.291",
 	"compatibility": {
-		"minimum": 9,
-		"verified": 10,
-		"maximum": 10.291
+		"minimum": 10,
+		"verified": 11.305,
+		"maximum": 12
 	  },
 	"authors": [
 		{
@@ -26,12 +24,15 @@
 		"systems": [
 			{
 				"id": "dnd5e",
-        		"type": "system",
-        		"compatibility": {}
+        		"type": "system"
 			}
-		]
+		],
+		"requires": [{
+			"id": "babele",
+			"type": "module",
+			"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+		  }]
 	  },
-	"system": "dnd5e",
 	"languages": 
 	[
 		{
