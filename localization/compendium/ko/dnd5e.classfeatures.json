@@ -630,8 +630,7 @@
 			"description": "<p>당신은 몽크 3레벨이 되었을 때 열린 손의 길과 같은 하나의 문파를 선택해 그 길을 따를 수 있습니다. 당신은 선택한 문파에 따라 3, 6, 11, 17레벨에 추가적 특성을 얻을 수 있습니다.</p>"
 		},
 		"Multiattack": {
-			"name": "다중공격",
-			"description": "<p>At 11th level, you gain one of the following features of your choice.</p><p>@UUID[Compendium.dnd5e.classfeatures.l7W6JB9yWLLLtQKP]{Volley}</p><p>@UUID[Compendium.dnd5e.classfeatures.1DY8w3CXeD7PHDXF]{Whirlwind Attack}</p>"
+			"name": "다중공격"
 		},
 		"Multiattack: Volley": {
 			"name": "다중공격: 연사",
