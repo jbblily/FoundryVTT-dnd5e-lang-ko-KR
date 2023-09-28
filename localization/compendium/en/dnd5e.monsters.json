@@ -3,7 +3,7 @@
 	"entries": {
 		"Aboleth": {
 			"name": "Aboleth",
-			"description": "<p>Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers.</p>"
+			"description": "<p>Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Acolyte": {
 			"name": "Acolyte",
@@ -51,7 +51,7 @@
 		},
 		"Air Elemental": {
 			"name": "Air Elemental",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ancient Black Dragon": {
 			"name": "Ancient Black Dragon",
@@ -111,11 +111,11 @@
 		},
 		"Archmage": {
 			"name": "Archmage",
-			"description": "<p><strong>Archmages</strong> are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.</p>\n<p>An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.</p><section class=\"secret\">\n<p>The Archmage casts <strong>mage armor</strong>, <strong>stoneskin </strong>and <strong>mind blank </strong>on itself before combat.</p>\n</section>"
+			"description": "<p><strong>Archmages</strong> are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.</p>\n<p>An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.</p><section class=\"secret\">\n<p>The Archmage casts <strong>mage armor</strong>, <strong>stoneskin </strong>and <strong>mind blank </strong>on itself before combat.</p>\n</section><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Assassin": {
 			"name": "Assassin",
-			"description": "<p>Trained in the use of poison, <strong>assassins </strong>are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.</p>"
+			"description": "<p>Trained in the use of poison, <strong>assassins </strong>are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.</p><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Avatar of Death": {
 			"name": "Avatar of Death",
@@ -123,7 +123,7 @@
 		},
 		"Awakened Shrub": {
 			"name": "Awakened Shrub",
-			"description": "<p>The rhythmic rustle of leaves, knotted roots dragging through the undergrowth, and vacant holes left in the earth are all signs of this fascinating little creature. These formerly average forest plants are gifted with mild sentience by the natural spellwork of a most-powerful druid who has cast the Awaken spell to birth an Awakened Shrub.</p>\n<p>The shrub itself, having negligible will of its own, then remains @JournalEntry[Charmed] to the spellcaster for thirty days, during which, the Awakened Shrub serves at the whim of the druid. The leafy automaton is also given the ability to move independently by the spellwork cast upon it. Using their roots and branches to propel themselves across the forest floor, the shrubs are left to roam clumsily throughout the druid's selected domain.</p>\n<p><strong>Druid's Little Helper. </strong>While any mage proficient enough in the arcane to produce an Awaken spell may pull these shrubs into sudden life, it is the druids of the woods who most commonly utilize the ability. A unique feature of the Awakened Shrub is its indistinguishability between itself and an average shrub when it stands completely still. The ability to camouflage themselves so thoroughly allows the Awakened Shrubs to act as sentires for a more secretive druid's hideaway.</p>\n<p>As recommended to me by a friend of the forest: be advised to utilize the shrubs in small groups as to simply overwhelm any nosey intruders. Strength in numbers is key for these simplistic shrubs as they may be easily dispatched if singled out. As the magic within the shrub allows the shrubs to speak a language known to their creator, Awakened Shrubs may also be programmed with a warning message and avoid conflict altogether. The shrubs, however, are quite inept when it comes to the completion of even the most simplistic tasks, so utilizing them in a “living alarm” capacity may be the wisest choice.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<p>The rhythmic rustle of leaves, knotted roots dragging through the undergrowth, and vacant holes left in the earth are all signs of this fascinating little creature. These formerly average forest plants are gifted with mild sentience by the natural spellwork of a most-powerful druid who has cast the Awaken spell to birth an Awakened Shrub.</p>\n<p>The shrub itself, having negligible will of its own, then remains @UUID[Compendium.dnd5e.rules.w7eitkpD7QQTB6j0.JournalEntryPage.zZaEBrKkr66OWJvD]{Charmed} by the spellcaster for thirty days, during which, the Awakened Shrub serves at the whim of the druid. The leafy automaton is also given the ability to move independently by the spellwork cast upon it. Using their roots and branches to propel themselves across the forest floor, the shrubs are left to roam clumsily throughout the druid's selected domain.</p>\n<p><strong>Druid's Little Helper. </strong>While any mage proficient enough in the arcane to produce an Awaken spell may pull these shrubs into sudden life, it is the druids of the woods who most commonly utilize the ability. A unique feature of the Awakened Shrub is its indistinguishability between itself and an average shrub when it stands completely still. The ability to camouflage themselves so thoroughly allows the Awakened Shrubs to act as sentires for a more secretive druid's hideaway.</p>\n<p>As recommended to me by a friend of the forest: be advised to utilize the shrubs in small groups as to simply overwhelm any nosey intruders. Strength in numbers is key for these simplistic shrubs as they may be easily dispatched if singled out. As the magic within the shrub allows the shrubs to speak a language known to their creator, Awakened Shrubs may also be programmed with a warning message and avoid conflict altogether. The shrubs, however, are quite inept when it comes to the completion of even the most simplistic tasks, so utilizing them in a “living alarm” capacity may be the wisest choice.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Awakened Tree": {
 			"name": "Awakened Tree",
@@ -147,7 +147,7 @@
 		},
 		"Balor": {
 			"name": "Balor",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Bandit": {
 			"name": "Bandit",
@@ -175,7 +175,7 @@
 		},
 		"Behir": {
 			"name": "Behir",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Berserker": {
 			"name": "Berserker",
@@ -191,7 +191,7 @@
 		},
 		"Black Pudding": {
 			"name": "Black Pudding",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Blink Dog": {
 			"name": "Blink Dog",
@@ -211,7 +211,7 @@
 		},
 		"Bone Devil": {
 			"name": "Bone Devil",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Brass Dragon Wyrmling": {
 			"name": "Brass Dragon Wyrmling",
@@ -247,23 +247,23 @@
 		},
 		"Chain Devil": {
 			"name": "Chain Devil",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Chimera": {
 			"name": "Chimera",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Chuul": {
 			"name": "Chuul",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Clay Golem": {
 			"name": "Clay Golem",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Cloaker": {
 			"name": "Cloaker",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Cloud Giant": {
 			"name": "Cloud Giant",
@@ -287,7 +287,7 @@
 		},
 		"Couatl": {
 			"name": "Couatl",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Crab": {
 			"name": "Crab",
@@ -323,7 +323,7 @@
 		},
 		"Deva": {
 			"name": "Deva",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Dire Wolf": {
 			"name": "Dire Wolf",
@@ -331,7 +331,7 @@
 		},
 		"Djinni": {
 			"name": "Djinni",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Doppelganger": {
 			"name": "Doppelganger",
@@ -351,7 +351,7 @@
 		},
 		"Drider": {
 			"name": "Drider",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Drow": {
 			"name": "Drow",
@@ -379,15 +379,15 @@
 		},
 		"Earth Elemental": {
 			"name": "Earth Elemental",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Efreeti": {
 			"name": "Efreeti",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Elephant": {
 			"name": "Elephant",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Elk": {
 			"name": "Elk",
@@ -407,11 +407,11 @@
 		},
 		"Fire Elemental": {
 			"name": "Fire Elemental",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Fire Giant": {
 			"name": "Fire Giant",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Flesh Golem": {
 			"name": "Flesh Golem",
@@ -547,7 +547,7 @@
 		},
 		"Giant Shark": {
 			"name": "Giant Shark",
-			"description": "<p>A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.</p>\n<p></p>"
+			"description": "<p>A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Giant Spider": {
 			"name": "Giant Spider",
@@ -579,11 +579,11 @@
 		},
 		"Glabrezu": {
 			"name": "Glabrezu",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gladiator": {
 			"name": "Gladiator",
-			"description": "<p>Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.</p>\n<p></p>"
+			"description": "<p>Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gnoll": {
 			"name": "Gnoll",
@@ -603,7 +603,7 @@
 		},
 		"Gorgon": {
 			"name": "Gorgon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gray Ooze": {
 			"name": "Gray Ooze",
@@ -623,7 +623,7 @@
 		},
 		"Griffon": {
 			"name": "Griffon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Grimlock": {
 			"name": "Grimlock",
@@ -635,11 +635,11 @@
 		},
 		"Guardian Naga": {
 			"name": "Guardian Naga",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gynosphinx": {
 			"name": "Gynosphinx",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Half-Red Dragon Veteran": {
 			"name": "Half-Red Dragon Veteran",
@@ -659,7 +659,7 @@
 		},
 		"Hezrou": {
 			"name": "Hezrou",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Hill Giant": {
 			"name": "Hill Giant",
@@ -679,7 +679,7 @@
 		},
 		"Horned Devil": {
 			"name": "Horned Devil",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Hunter Shark": {
 			"name": "Hunter Shark",
@@ -695,7 +695,7 @@
 		},
 		"Ice Devil": {
 			"name": "Ice Devil",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ice Mephit": {
 			"name": "Ice Mephit",
@@ -711,7 +711,7 @@
 		},
 		"Iron Golem": {
 			"name": "Iron Golem",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Jackal": {
 			"name": "Jackal",
@@ -735,7 +735,7 @@
 		},
 		"Lamia": {
 			"name": "Lamia",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Lemure": {
 			"name": "Lemure",
@@ -759,7 +759,7 @@
 		},
 		"Mage": {
 			"name": "Mage",
-			"description": "<p>Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.</p>\n<p></p>"
+			"description": "<p>Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Magma Mephit": {
 			"name": "Magma Mephit",
@@ -771,7 +771,7 @@
 		},
 		"Mammoth": {
 			"name": "Mammoth",
-			"description": "<p>A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.</p>\n<p></p>"
+			"description": "<p>A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Manticore": {
 			"name": "Manticore",
@@ -779,7 +779,7 @@
 		},
 		"Marilith": {
 			"name": "Marilith",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Mastiff": {
 			"name": "Mastiff",
@@ -787,7 +787,7 @@
 		},
 		"Medusa": {
 			"name": "Medusa",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Merfolk": {
 			"name": "Merfolk",
@@ -803,11 +803,11 @@
 		},
 		"Minotaur": {
 			"name": "Minotaur",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Minotaur Skeleton": {
 			"name": "Minotaur Skeleton",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Mule": {
 			"name": "Mule",
@@ -823,7 +823,7 @@
 		},
 		"Nalfeshnee": {
 			"name": "Nalfeshnee",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Night Hag": {
 			"name": "Night Hag",
@@ -847,7 +847,7 @@
 		},
 		"Ogre": {
 			"name": "Ogre",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ogre Zombie": {
 			"name": "Ogre Zombie",
@@ -855,7 +855,7 @@
 		},
 		"Oni": {
 			"name": "Oni",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Orc": {
 			"name": "Orc",
@@ -887,11 +887,11 @@
 		},
 		"Pit Fiend": {
 			"name": "Pit Fiend",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Planetar": {
 			"name": "Planetar",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Plesiosaurus": {
 			"name": "Plesiosaurus",
@@ -931,7 +931,7 @@
 		},
 		"Rakshasa": {
 			"name": "Rakshasa",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rat": {
 			"name": "Rat",
@@ -951,7 +951,7 @@
 		},
 		"Remorhaz": {
 			"name": "Remorhaz",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rhinoceros": {
 			"name": "Rhinoceros",
@@ -963,7 +963,7 @@
 		},
 		"Roc": {
 			"name": "Roc",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Roper": {
 			"name": "Roper",
@@ -987,7 +987,7 @@
 		},
 		"Salamander": {
 			"name": "Salamander",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Satyr": {
 			"name": "Satyr",
@@ -1019,7 +1019,7 @@
 		},
 		"Shield Guardian": {
 			"name": "Shield Guardian",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Shrieker": {
 			"name": "Shrieker",
@@ -1047,7 +1047,7 @@
 		},
 		"Spirit Naga": {
 			"name": "Spirit Naga",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Sprite": {
 			"name": "Sprite",
@@ -1067,7 +1067,7 @@
 		},
 		"Stone Giant": {
 			"name": "Stone Giant",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Stone Golem": {
 			"name": "Stone Golem",
@@ -1075,7 +1075,7 @@
 		},
 		"Storm Giant": {
 			"name": "Storm Giant",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Succubus/Incubus": {
 			"name": "Succubus/Incubus",
@@ -1131,7 +1131,7 @@
 		},
 		"Tiger": {
 			"name": "Tiger",
-			"description": "<p>Pounce. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a  <strong>DC 13 Strength</strong> saving throw or be knocked <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>. If the target is <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>, the tiger can make one bite attack against it as a bonus action.</p>\n<p>Actions</p>\n<p>Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>8 (1d10 + 3) <em>piercing damage</em></strong>.</p>\n<p>Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>7 (1d8 + 3) <em>slashing damage</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": "<p>Pounce. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a  <strong>DC 13 Strength</strong> saving throw or be knocked <a class=\"content-link broken\" draggable=\"true\" data-type=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>. If the target is <a class=\"content-link broken\" draggable=\"true\" data-type=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>, the tiger can make one bite attack against it as a bonus action.</p>\n<p>Actions</p>\n<p>Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>8 (1d10 + 3) <em>piercing damage</em></strong>.</p>\n<p>Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>7 (1d8 + 3) <em>slashing damage</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Treant": {
 			"name": "Treant",
@@ -1175,7 +1175,7 @@
 		},
 		"Vrock": {
 			"name": "Vrock",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Vulture": {
 			"name": "Vulture",
@@ -1191,7 +1191,7 @@
 		},
 		"Water Elemental": {
 			"name": "Water Elemental",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Weasel": {
 			"name": "Weasel",
@@ -1223,7 +1223,7 @@
 		},
 		"Wight": {
 			"name": "Wight",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Will-o'-Wisp": {
 			"name": "Will-o'-Wisp",
@@ -1251,11 +1251,11 @@
 		},
 		"Xorn": {
 			"name": "Xorn",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Black Dragon": {
 			"name": "Young Black Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Blue Dragon": {
 			"name": "Young Blue Dragon",
@@ -1267,7 +1267,7 @@
 		},
 		"Young Bronze Dragon": {
 			"name": "Young Bronze Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Copper Dragon": {
 			"name": "Young Copper Dragon",
@@ -1275,23 +1275,23 @@
 		},
 		"Young Gold Dragon": {
 			"name": "Young Gold Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Green Dragon": {
 			"name": "Young Green Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Red Dragon": {
 			"name": "Young Red Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young Silver Dragon": {
 			"name": "Young Silver Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Young White Dragon": {
 			"name": "Young White Dragon",
-			"description": ""
+			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Zombie": {
 			"name": "Zombie",
