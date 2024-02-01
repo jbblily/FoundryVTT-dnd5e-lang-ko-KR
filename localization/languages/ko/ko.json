@@ -373,7 +373,7 @@
 "DND5E.Bonuses": "전역 보너스",
 "DND5E.BonusesHint": "특정 굴림에 더할 전역 보너스 수식을 정의합니다. 예: 1d4 + 2",
 "DND5E.BonusesInstructions": "해당하는 주사위 굴림에 추가할 캐릭터 보너스를 설정합니다.",
-"DND5E.Conditions": "조건",
+"DND5E.Conditions": "상태",
 "DND5E.ChallengeRating": "도전지수",
 "DND5E.Charged": "충전됨",
 "DND5E.Charges": "충전 횟수",
@@ -1134,7 +1134,7 @@
   "Tooltip": "툴팁",
   "Type": {
     "Label": "규칙 유형",
-    "Condition": "조건",
+    "Condition": "상태",
     "Rule": "규칙"
   }
 },
