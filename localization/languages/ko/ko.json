@@ -208,7 +208,7 @@
 "DND5E.AdvancementItemGrantTitle": "아이템 주기",
 "DND5E.AdvancementItemGrantHint": "특정 레벨에 도달하면 캐릭터에게 아이템 (장비, 특성, 주문 등) 을 부여합니다. ",
 "DND5E.AdvancementItemGrantDropHint": "성장으로 습득할 아이템을 이곳에 드랍해서 목록에 더합니다.",
-"DND5E.AdvancementItemGrantContainerWarning": "보관용기 내용물은 보관용기와 함께 추가되지 않습니다.",
+"DND5E.AdvancementItemGrantContainerWarning": "보관용품 내용물은 보관용품와 함께 추가되지 않습니다.",
 "DND5E.AdvancementItemGrantDuplicateWarning": "해당 아이템은 이 성장에 이미 존재합니다.",
 "DND5E.AdvancementItemGrantRecursiveWarning": "해당 아이템 자신의 성장에 자신을 포함할 수 없습니다.",
 "DND5E.AdvancementItemGrantOptional": "직접선택",
