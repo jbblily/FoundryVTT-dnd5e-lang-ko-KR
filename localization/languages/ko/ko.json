@@ -18,8 +18,8 @@
 
 "ITEM.TypeBackground": "배경",
 "ITEM.TypeBackgroundPl": "배경",
-"ITEM.TypeContainer": "보관용기",
-"ITEM.TypeContainerPl": "보관용기",
+"ITEM.TypeContainer": "보관용품",
+"ITEM.TypeContainerPl": "보관용품",
 "ITEM.TypeClass": "클래스",
 "ITEM.TypeClassPl": "클래스",
 "ITEM.TypeConsumable": "소모품",
@@ -43,8 +43,8 @@
 
 "TYPES.Item.background": "배경",
 "TYPES.Item.backgroundPl": "배경",
-"TYPES.Item.container": "보관용기",
-"TYPES.Item.containerPl": "보관용기",
+"TYPES.Item.container": "보관용품",
+"TYPES.Item.containerPl": "보관용품",
 "TYPES.Item.class": "클래스",
 "TYPES.Item.classPl": "클래스",
 "TYPES.Item.consumable": "소모품",
