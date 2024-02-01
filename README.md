@@ -1,6 +1,6 @@
 # Foundryvtt-dnd5e-lang-ko-KR
 
-* **Foundry VTT 코어 호환버전** : v10 전반
+* **Foundry VTT 코어 호환버전** : v11 전반
 * **필요 시스템** : [D&D 5e 시스템](https://github.com/foundryvtt/dnd5e/)
 * **필요 모듈** : [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
 * Manifest Link : https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/releases/latest/download/module.json
