@@ -405,7 +405,7 @@
 "DND5E.ContainerDeleteContents": "보관용기 내의 모든 물건도 삭제합니다.",
 "DND5E.ContainerMaxDepth": "보관용기의 깊이는 {depth} 레벨까지입니다.",
 "DND5E.ContainerRecursiveError": "자기 자신을 담을 수 없습니다.",
-"DND5E.Contents": "내용",
+"DND5E.Contents": "내용물",
 "DND5E.ContextMenuActionEdit": "편집",
 "DND5E.ContextMenuActionDuplicate": "복제",
 "DND5E.ContextMenuActionDelete": "삭제",
