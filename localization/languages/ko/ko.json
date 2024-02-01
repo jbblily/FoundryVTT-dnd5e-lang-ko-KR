@@ -1170,7 +1170,7 @@
 "DND5E.SheetClassCharacter": "기본 5e 캐릭터 시트",
 "DND5E.SheetClassCharacterLegacy": "구버전 5판 캐릭터 시트",
 "DND5E.SheetClassClassSummary": "기본 5e 클래스 요약 시트",
-"DND5E.SheetClassContainer": "기본 5판 보관용기 시트",
+"DND5E.SheetClassContainer": "기본 5판 보관용품 시트",
 "DND5E.SheetClassGroup": "기본 5e 그룹 시트",
 "DND5E.SheetClassItem": "기본 5e 아이템 시트",
 "DND5E.SheetClassJournalEntry": "기본 5판 저널 시트",
