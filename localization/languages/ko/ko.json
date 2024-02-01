@@ -1045,7 +1045,7 @@
 "DND5E.PersonalityTraits": "성격",
 "DND5E.PlaceTemplate": "측정 탬플릿 배치",
 "DND5E.PlaceTemplateError": "측정 템플릿 배치에 실패했습니다",
-"DND5E.Polymorph": "형태변형",
+"DND5E.Polymorph": "변신",
 "DND5E.PolymorphAcceptSettings": "사용자 설정",
 "DND5E.PolymorphCustomTransformation": "커스텀 형태변형",
 "DND5E.PolymorphEffectTransformation": "형태변형 적용하기",
