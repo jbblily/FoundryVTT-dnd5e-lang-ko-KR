@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Hahmlet-SemiBold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/Hahmlet-SemiBold.woff2') format('woff2');
+    font-family: 'RIDIBatang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -13,8 +13,10 @@
 }
 
 :root {
-	--dnd5e-font-modesto: "Modesto Condensed", "Hahmlet-SemiBold",serif !important;
-    
+	--dnd5e-font-modesto: "Modesto Condensed", "RIDIBatang",serif !important;
+    --dnd5e-font-roboto: Roboto, "Pretendard-Regular", sans-serif !important;
+    --dnd5e-font-roboto-condensed: "Roboto Condensed", "Pretendard-Regular", sans-serif !important;
+    --dnd5e-font-roboto-slab: "Roboto Slab", "RIDIBatang", serif !important;
 }
 
 .dnd5e.sheet.actor.character .resource .attribute-value label.recharge,
@@ -43,21 +45,16 @@
 	min-height: 20px;
 }
 
-/* 기본 캐릭터 시트 화폐 표시오류 개선 */
+/* 라벨 표시오류 개선 */
 .dnd5e.sheet.actor .inventory-filters .currency {
     align-items: center;
 }
 
-.dnd5e.sheet.actor .inventory-filters .currency label {
+.dnd5e dnd5e-inventory .inventory-header .currency label, form .form-group .form-fields > label {
     flex: initial !important;
+    margin-inline-start: 3px !important;
 }
 
 .dnd5e.sheet.actor .inventory-filters .currency input[type="text"] {
     border-bottom: 2px groove #eeede0 !important;
-}
-
-/* Tidy 5e sheet 대응 */
-.system-dnd5e {
-    --modesto: "Modesto Condensed", "Hahmlet-SemiBold",serif !important;
-    --signika: "Signika", "Pretendard-Regular", serif !important;
 }
