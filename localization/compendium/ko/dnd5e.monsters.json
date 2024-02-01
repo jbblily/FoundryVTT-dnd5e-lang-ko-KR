@@ -51,7 +51,7 @@
 		},
 		"Air Elemental": {
 			"name": "에어 엘리멘탈",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Ancient Black Dragon": {
 			"name": "블랙 드래곤 원시체",
@@ -147,7 +147,7 @@
 		},
 		"Balor": {
 			"name": "발러",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Bandit": {
 			"name": "도적",
@@ -175,7 +175,7 @@
 		},
 		"Behir": {
 			"name": "베히어",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Berserker": {
 			"name": "광전사",
@@ -191,7 +191,7 @@
 		},
 		"Black Pudding": {
 			"name": "블랙 푸딩",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Blink Dog": {
 			"name": "점멸 개",
@@ -211,7 +211,7 @@
 		},
 		"Bone Devil": {
 			"name": "본 데빌",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Brass Dragon Wyrmling": {
 			"name": "브라스 드래곤 유생체",
@@ -247,23 +247,23 @@
 		},
 		"Chain Devil": {
 			"name": "체인 데빌",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Chimera": {
 			"name": "키메라",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Chuul": {
 			"name": "추울",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Clay Golem": {
 			"name": "진흙 골렘",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Cloaker": {
 			"name": "클로커",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Cloud Giant": {
 			"name": "구름 거인",
@@ -287,7 +287,7 @@
 		},
 		"Couatl": {
 			"name": "코아틀",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Crab": {
 			"name": "게",
@@ -323,7 +323,7 @@
 		},
 		"Deva": {
 			"name": "데바",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Dire Wolf": {
 			"name": "다이어 울프",
@@ -331,7 +331,7 @@
 		},
 		"Djinni": {
 			"name": "지니",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Doppelganger": {
 			"name": "도플갱어",
@@ -351,7 +351,7 @@
 		},
 		"Drider": {
 			"name": "드라이더",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Drow": {
 			"name": "드로우",
@@ -379,15 +379,15 @@
 		},
 		"Earth Elemental": {
 			"name": "대지 엘리멘탈",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Efreeti": {
 			"name": "에프리티",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Elephant": {
 			"name": "코끼리",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Elk": {
 			"name": "엘크",
@@ -407,11 +407,11 @@
 		},
 		"Fire Elemental": {
 			"name": "파이어 엘리멘탈",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Fire Giant": {
 			"name": "화염 거인",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Flesh Golem": {
 			"name": "살점 골렘",
@@ -579,7 +579,7 @@
 		},
 		"Glabrezu": {
 			"name": "글라브레주",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Gladiator": {
 			"name": "검투사",
@@ -603,7 +603,7 @@
 		},
 		"Gorgon": {
 			"name": "고르곤",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Gray Ooze": {
 			"name": "그레이 우즈",
@@ -623,7 +623,7 @@
 		},
 		"Griffon": {
 			"name": "그리폰",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Grimlock": {
 			"name": "그림락",
@@ -635,11 +635,11 @@
 		},
 		"Guardian Naga": {
 			"name": "가디언 나가",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Gynosphinx": {
 			"name": "가이노스핑크스",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Half-Red Dragon Veteran": {
 			"name": "하프 레드 드래곤 베테랑",
@@ -659,7 +659,7 @@
 		},
 		"Hezrou": {
 			"name": "헤즈로우",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Hill Giant": {
 			"name": "언덕 거인",
@@ -679,7 +679,7 @@
 		},
 		"Horned Devil": {
 			"name": "혼드 데빌",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Hunter Shark": {
 			"name": "사냥꾼 상어",
@@ -695,7 +695,7 @@
 		},
 		"Ice Devil": {
 			"name": "아이스 데빌",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Ice Mephit": {
 			"name": "아이스 메핏",
@@ -711,7 +711,7 @@
 		},
 		"Iron Golem": {
 			"name": "강철 골렘",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Jackal": {
 			"name": "자칼",
@@ -735,7 +735,7 @@
 		},
 		"Lamia": {
 			"name": "라미아",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Lemure": {
 			"name": "레뮤어",
@@ -779,7 +779,7 @@
 		},
 		"Marilith": {
 			"name": "마릴리프",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Mastiff": {
 			"name": "마스티프",
@@ -787,7 +787,7 @@
 		},
 		"Medusa": {
 			"name": "메두사",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Merfolk": {
 			"name": "어인",
@@ -803,11 +803,11 @@
 		},
 		"Minotaur": {
 			"name": "미노타우르스",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Minotaur Skeleton": {
 			"name": "미노타우르스 스켈레톤",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Mule": {
 			"name": "노새",
@@ -823,7 +823,7 @@
 		},
 		"Nalfeshnee": {
 			"name": "날페쉬니",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Night Hag": {
 			"name": "나이트 해그",
@@ -847,7 +847,7 @@
 		},
 		"Ogre": {
 			"name": "오우거",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Ogre Zombie": {
 			"name": "오우거 좀비",
@@ -855,7 +855,7 @@
 		},
 		"Oni": {
 			"name": "오니",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Orc": {
 			"name": "오크",
@@ -887,11 +887,11 @@
 		},
 		"Pit Fiend": {
 			"name": "핏 핀드",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Planetar": {
 			"name": "플레인타르",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Plesiosaurus": {
 			"name": "플레시오사우루스",
@@ -931,7 +931,7 @@
 		},
 		"Rakshasa": {
 			"name": "락샤사",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Rat": {
 			"name": "쥐",
@@ -951,7 +951,7 @@
 		},
 		"Remorhaz": {
 			"name": "레모래즈",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Rhinoceros": {
 			"name": "코뿔소",
@@ -963,7 +963,7 @@
 		},
 		"Roc": {
 			"name": "로크",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Roper": {
 			"name": "로퍼",
@@ -987,7 +987,7 @@
 		},
 		"Salamander": {
 			"name": "샐러맨더",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Satyr": {
 			"name": "사티르",
@@ -1019,7 +1019,7 @@
 		},
 		"Shield Guardian": {
 			"name": "실드 가디언",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Shrieker": {
 			"name": "비명쟁이 버섯",
@@ -1047,7 +1047,7 @@
 		},
 		"Spirit Naga": {
 			"name": "영혼 나가",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Sprite": {
 			"name": "스프라이트",
@@ -1067,7 +1067,7 @@
 		},
 		"Stone Giant": {
 			"name": "바위 거인",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Stone Golem": {
 			"name": "바위 골렘",
@@ -1075,7 +1075,7 @@
 		},
 		"Storm Giant": {
 			"name": "폭풍 거인",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Succubus/Incubus": {
 			"name": "서큐버스/인큐버스",
@@ -1175,7 +1175,7 @@
 		},
 		"Vrock": {
 			"name": "브록",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Vulture": {
 			"name": "대머리수리",
@@ -1191,7 +1191,7 @@
 		},
 		"Water Elemental": {
 			"name": "워터 엘리멘탈",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Weasel": {
 			"name": "족제비",
@@ -1223,7 +1223,7 @@
 		},
 		"Wight": {
 			"name": "와이트",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Will-o'-Wisp": {
 			"name": "도깨비불",
@@ -1251,11 +1251,11 @@
 		},
 		"Xorn": {
 			"name": "조른",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young Black Dragon": {
 			"name": "블랙 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young Blue Dragon": {
 			"name": "블루 드래곤 준성체",
@@ -1267,7 +1267,7 @@
 		},
 		"Young Bronze Dragon": {
 			"name": "브론즈 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young Copper Dragon": {
 			"name": "카퍼 드래곤 준성체",
@@ -1275,23 +1275,23 @@
 		},
 		"Young Gold Dragon": {
 			"name": "골드 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young Green Dragon": {
 			"name": "그린 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young Red Dragon": {
 			"name": "레드 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young Silver Dragon": {
 			"name": "실버 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Young White Dragon": {
 			"name": "화이트 드래곤 준성체",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Zombie": {
 			"name": "좀비",
