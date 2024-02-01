@@ -416,7 +416,7 @@
 "DND5E.ContextMenuActionAttune": "조율",
 "DND5E.ContextMenuActionUnattune": "조율되지 않음",
 "DND5E.ContextMenuActionEnable": "활성화",
-"DND5E.ContextMenuActionDisable": "성화",
+"DND5E.ContextMenuActionDisable": "비활성화",
 "DND5E.ConBlinded": "실명",
 "DND5E.ConCharmed": "매혹",
 "DND5E.ConDeafened": "실청",
