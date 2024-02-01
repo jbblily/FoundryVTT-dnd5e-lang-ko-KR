@@ -506,8 +506,8 @@
 "DND5E.CreatureGiantPl": "거인",
 "DND5E.CreatureHumanoid": "인간형",
 "DND5E.CreatureHumanoidPl": "인간형",
-"DND5E.CreatureMonstrosity": "몬스터",
-"DND5E.CreatureMonstrosityPl": "몬스터",
+"DND5E.CreatureMonstrosity": "괴물",
+"DND5E.CreatureMonstrosityPl": "괴물",
 "DND5E.CreatureOoze": "우즈",
 "DND5E.CreatureOozePl": "우즈",
 "DND5E.CreaturePlant": "식물",
@@ -682,7 +682,7 @@
     "SuperiorHuntersDefense": "우수한 헌터의 방어"
   },
   "Feat": "재주",
-  "Monster": "몬스터 특성",
+  "Monster": "괴물 특성",
   "Race": "종족 특성",
   "SupernaturalGift": {
     "Label": "초자연적 재능",
