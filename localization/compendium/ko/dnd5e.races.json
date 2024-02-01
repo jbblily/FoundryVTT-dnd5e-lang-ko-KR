@@ -1,5 +1,15 @@
 {
 	"label": "종족 특성 (SRD)",
+	"folders": {
+        "Dragonborn": "드래곤본",
+        "Dwarf": "드워프",
+        "Elf": "엘프",
+		"Gnome": "노움",
+		"Halfling": "하플링",
+		"Human": "인간",
+		"Orc": "오크",
+		"Tiefling": "티플링"
+    },
 	"entries": {
 		"Artificer's Lore": {
 			"name": "아티피서의 지식",

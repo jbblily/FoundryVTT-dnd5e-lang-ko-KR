@@ -1,5 +1,17 @@
 {
 	"label": "주문 (SRD)",
+	"folders": {
+        "1st Level": "1레벨",
+        "2nd Level": "2레벨",
+        "3rd Level": "3레벨",
+		"4th Level": "4레벨",
+		"5th Level": "5레벨",
+		"6th Level": "6레벨",
+		"7th Level": "7레벨",
+		"8th Level": "8레벨",
+		"9th Level": "9레벨",
+		"Cantrip": "소마법"
+    },
 	"entries": {
 		"Acid Arrow": {
 			"name": "산성 화살",
