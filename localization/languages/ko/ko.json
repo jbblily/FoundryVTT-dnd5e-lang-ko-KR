@@ -400,7 +400,7 @@
 "DND5E.ComponentVerbal": "음성",
 "DND5E.ComponentVerbalAbbr": "음",
 "DND5E.Components": "요소",
-"DND5E.Container": "보관용기",
+"DND5E.Container": "보관용품",
 "DND5E.ContainerDeleteMessage": "이 보관용기를 영구히 삭제하며 이는 복구할 수 없습니다. 내용물인 {count} 개의 물건은 보관용기 밖으로 옮겨집니다.",
 "DND5E.ContainerDeleteContents": "보관용기 내의 모든 물건도 삭제합니다.",
 "DND5E.ContainerMaxDepth": "보관용기의 깊이는 {depth} 레벨까지입니다.",
