@@ -1,0 +1,76 @@
+{
+	"label": "Rules (SRD)",
+	"entries": {
+		"Appendix A: Conditions": {
+			"name": "Appendix A: Conditions"
+		},
+		"Appendix B: Gods and the Multiverse": {
+			"name": "Appendix B: Gods and the Multiverse"
+		},
+		"Appendix C: Creatures": {
+			"name": "Appendix C: Creatures"
+		},
+		"Appendix D: Senses and Speeds": {
+			"name": "Appendix D: Senses and Speeds"
+		},
+		"Appendix E: Rules": {
+			"name": "부록 E: 규칙",
+			"pages": {
+				"Athletics": {
+					"name": "운동",
+					"text": "<p><strong>운동.</strong> 당신은 등반이나 도약, 수영 등의 상황에 처했을 때 근력(운동) 판정을 행할 수 있습니다. 아래 예시 활동이 있습니다.</p><ul><li>높은 절벽이나 미끄러운 표면을 기어오르려 할 때, 벽을 기어오르며 위험을 피하려 할 때, 무언가 당신을 밀어내려고 하는 상황에서 위치를 사수하려고 할 때</li><li>대단히 먼 거리를 뛰어넘으려 하거나 도약 중에 몸놀림을 하려 할 때</li><li>사나운 파도에 맞서 헤엄치려 하거나 물에 떠 있으려 할 때, 아니면 해초가 무성한 지역을 헤엄쳐 지나가려 할 때. 혹은 다른 크리쳐가 당신을 수중에서 밀거나 끌어당기려 하면서 수영을 방해할 때</li></ul>"
+				}
+			}
+		},
+		"Chapter 1: Beyond 1st Level": {
+			"name": "Chapter 1: Beyond 1st Level"
+		},
+		"Chapter 10: Spellcasting": {
+			"name": "Chapter 10: Spellcasting"
+		},
+		"Chapter 11: DM Tools": {
+			"name": "Chapter 11: DM Tools"
+		},
+		"Chapter 2: Races": {
+			"name": "Chapter 2: Races"
+		},
+		"Chapter 3: Classes": {
+			"name": "Chapter 3: Classes"
+		},
+		"Chapter 4: Personality and Background": {
+			"name": "Chapter 4: Personality and Background"
+		},
+		"Chapter 5: Equipment": {
+			"name": "Chapter 5: Equipment"
+		},
+		"Chapter 6: Customization Options": {
+			"name": "Chapter 6: Customization Options"
+		},
+		"Chapter 7: Using Ability Scores": {
+			"name": "제7장: 능력치 사용하기",
+			"pages": {
+				"Ability Checks": {
+					"name": "능력 판정"
+				}
+			}
+		},
+		"Chapter 8: Adventuring": {
+			"name": "Chapter 8: Adventuring"
+		},
+		"Chapter 9: Combat": {
+			"name": "Chapter 9: Combat"
+		},
+		"Credits": {
+			"name": "크레딧"
+		},
+		"Disclaimer": {
+			"name": " 약관"
+		},
+		"Magic Items A-Z": {
+			"name": "Magic Items A-Z"
+		},
+		"Spells A-Z": {
+			"name": "Spells A-Z"
+		}
+	}
+}
