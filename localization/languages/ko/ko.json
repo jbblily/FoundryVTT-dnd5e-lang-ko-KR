@@ -874,7 +874,7 @@
 "DND5E.ItemContainerCapacityWeight": "무게",
 "DND5E.ItemContainerDetails": "보관용품 상세",
 "DND5E.ItemContainerProperties": "보관용품 속성",
-"DND5E.ItemContainerStatus": "보관용기 상태",
+"DND5E.ItemContainerStatus": "보관용품 상태",
 "DND5E.ItemCreate": "아이템 생성",
 "DND5E.ItemCritThreshold": "치명타 최대치",
 "DND5E.ItemCritExtraDamage": "추가 치명타 피해",
