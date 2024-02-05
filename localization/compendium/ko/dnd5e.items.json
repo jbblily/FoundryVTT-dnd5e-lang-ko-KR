@@ -2080,7 +2080,7 @@
 		},
 		"Potion of Heroism": {
 			"name": "영웅심의 물약",
-			"description": "<p><em>This blue potion bubbles and steams as if boiling.</em></p><p>For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{Bless} spell (no concentration required)</p><section class=\"secret foundry-note\" id=\"secret-bF4l2V0GJ0rrbVZK\"><p><strong>Foundry Note</strong></p><p>The Other Formula button can be used to roll the bonus 1d4 received from Bless.</p></section>"
+			"description": "<p><em>이 파란색 물약은 끓어오르는 것처럼 거품이 일어나며 증기가 나옵니다.</em></p>이 물약을 마시면 이후 1시간 동안 10점의 임시 hp를 얻습니다. 또한 같은 기간 동안 당신은 @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{축복 Bless} 주문의 효과를 받을 수 있습니다. (집중 불필요)<p><section class=\"secret foundry-note\" id=\"secret-bF4l2V0GJ0rrbVZK\"><p><strong>파운드리 노트</strong></p><p>기타 수식 버튼을 눌러 축복 Bless에 의해 추가되는 주사위 1d4를 굴릴 수 있습니다.</p></section>"
 		},
 		"Potion of Hill Giant Strength": {
 			"name": "언덕 거인의 근력 물약",
