@@ -2184,7 +2184,7 @@
 		},
 		"Quiver": {
 			"name": "화살통",
-			"description": "<p><span style=\"color:#191813;font-size:13px\">화살통에는 화살이 20발 들어간다.</span></p>"
+			"description": "<p>화살통 하나에는 화살이 20발 들어갑니다.</p>"
 		},
 		"Rapier": {
 			"name": "레이피어",
