@@ -1,5 +1,23 @@
 {
 	"label": "Races (SRD)",
+	"folders": {
+        "Dragonborn": "Dragonborn",
+        "Dwarf": "Dwarf",
+        "Elf": "Elf",
+		"Gnome": "Gnome",
+		"Halfling": "Halfling",
+		"Human": "Human",
+		"Orc": "Orc",
+		"Tiefling": "Tiefling",
+		"Dragonborn Features": "Dragonborn Features",
+        "Dwarf Features": "Dwarf Features",
+        "Elf Features": "Elf Features",
+		"Gnome Features": "Gnome Features",
+		"Halfling Features": "Halfling Features",
+		"Human Features": "Human Features",
+		"Orc Features": "Orc Features",
+		"Tiefling Features": "Tiefling Features"
+    },
 	"entries": {
 		"Artificer's Lore": {
 			"name": "Artificer's Lore",
