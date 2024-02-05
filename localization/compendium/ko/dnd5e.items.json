@@ -2076,7 +2076,7 @@
 		},
 		"Potion of Healing": {
 			"name": "치유의 물약",
-			"description": "<p><em>The potion's red liquid glimmers when agitated.</em></p><p>You regain 2d4+2 hit points when you drink this potion.</p>"
+			"description": "<p><em>물약을 흔들면 붉은 액체가 반짝거립니다.</em></p><p>이 물약을 마시면2d4+2점의 hp를 회복합니다.</p>"
 		},
 		"Potion of Heroism": {
 			"name": "영웅심의 물약",
