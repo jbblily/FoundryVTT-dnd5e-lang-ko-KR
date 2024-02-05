@@ -2356,7 +2356,7 @@
 		},
 		"Ring of the Ram": {
 			"name": "숫양의 반지",
-			"description": "<p><em>(Requires attunement)</em></p><p>This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.</p><p>Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.</p><section class=\"secret foundry-note\" id=\"secret-hrWDEE29xrHp8mhB\"><p><strong>Foundry Note</strong></p><p>The Other Formula is set to calculate 1d20 + 5 for one charge expended to make the Strength check. Please +5 per any extra charge as required.</p></section>"
+			"description": "<p><em>(조율 필요)</em></p><p>반지의 충전은 3입니다. 매일 새벽마다 소비한 충전을 1d3 회복합니다. 이 반지를 착용한 동안, 행동을 사용해 충전을 1 ~ 3 소비하면 시야 내 30ft 이내의 크리처 하나에게 공격할 수 있습니다. 반지에서 유령같은 숫양의 머리가 나오며, +7 보너스가 붙은 공격 굴림을 합니다. 명중하면, 목표는 소비한 충전 수 x 2d10의 역장 피해를 입으며, 소비 충전 수 x 5ft 뒤로 밀려납니다.</p><p> 행동을 사용해 충전을 1 ~ 3 소비하면, 시야 내 60ft 이내의 물체를 부술 수 있습니다. 단, 그 물체가 착용 중이거나 소지 중이 아니어야 합니다. + (소비한 충전 수) x 5 보너스가 붙은 근력 판정을 합니다.</p><p><strong>파운드리 노트</strong></p><p>기타 수식에 1d20 + 5를 계산할 수 있도록 설정하였습니다. 이는 근력 판정 시 사용할 수 있습니다. 필요 시 소비한 충전 당 +5한 값을 더해주세요.</p><section class=\"secret foundry-note\" id=\"secret-hrWDEE29xrHp8mhB\">"
 		},
 		"Ring of Three Wishes": {
 			"name": "세 가지 소원의 반지",
