@@ -1,5 +1,17 @@
 {
 	"label": "Spells (SRD)",
+	"folders": {
+        "1st Level": "1st Level",
+        "2nd Level": "2nd Level",
+        "3rd Level": "3rd Level",
+		"4th Level": "4th Level",
+		"5th Level": "5th Level",
+		"6th Level": "6th Level",
+		"7th Level": "7th Level",
+		"8th Level": "8th Level",
+		"9th Level": "9th Level",
+		"Cantrip": "Cantrip"
+    },
 	"entries": {
 		"Acid Arrow": {
 			"name": "Acid Arrow",
