@@ -2076,11 +2076,11 @@
 		},
 		"Potion of Healing": {
 			"name": "치유의 물약",
-			"description": "<p><em>The potion's red liquid glimmers when agitated.</em></p><p>You regain 2d4+2 hit points when you drink this potion.</p>"
+			"description": "<p><em>물약을 흔들면 붉은 액체가 반짝거립니다.</em></p><p>이 물약을 마시면2d4+2점의 hp를 회복합니다.</p>"
 		},
 		"Potion of Heroism": {
 			"name": "영웅심의 물약",
-			"description": "<p><em>This blue potion bubbles and steams as if boiling.</em></p><p>For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{Bless} spell (no concentration required)</p><section class=\"secret foundry-note\" id=\"secret-bF4l2V0GJ0rrbVZK\"><p><strong>Foundry Note</strong></p><p>The Other Formula button can be used to roll the bonus 1d4 received from Bless.</p></section>"
+			"description": "<p><em>이 파란색 물약은 끓어오르는 것처럼 거품이 일어나며 증기가 나옵니다.</em></p>이 물약을 마시면 이후 1시간 동안 10점의 임시 hp를 얻습니다. 또한 같은 기간 동안 당신은 @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{축복 Bless} 주문의 효과를 받을 수 있습니다. (집중 불필요)<p><section class=\"secret foundry-note\" id=\"secret-bF4l2V0GJ0rrbVZK\"><p><strong>파운드리 노트</strong></p><p>기타 수식 버튼을 눌러 축복 Bless에 의해 추가되는 주사위 1d4를 굴릴 수 있습니다.</p></section>"
 		},
 		"Potion of Hill Giant Strength": {
 			"name": "언덕 거인의 근력 물약",
@@ -2184,7 +2184,7 @@
 		},
 		"Quiver": {
 			"name": "화살통",
-			"description": "<p><span style=\"color:#191813;font-size:13px\">화살통에는 화살이 20발 들어간다.</span></p>"
+			"description": "<p>화살통 하나에는 화살이 20발 들어갑니다.</p>"
 		},
 		"Rapier": {
 			"name": "레이피어",
@@ -2356,7 +2356,7 @@
 		},
 		"Ring of the Ram": {
 			"name": "숫양의 반지",
-			"description": "<p><em>(Requires attunement)</em></p><p>This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.</p><p>Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.</p><section class=\"secret foundry-note\" id=\"secret-hrWDEE29xrHp8mhB\"><p><strong>Foundry Note</strong></p><p>The Other Formula is set to calculate 1d20 + 5 for one charge expended to make the Strength check. Please +5 per any extra charge as required.</p></section>"
+			"description": "<p><em>(조율 필요)</em></p><p>반지의 충전은 3입니다. 매일 새벽마다 소비한 충전을 1d3 회복합니다. 이 반지를 착용한 동안, 행동을 사용해 충전을 1 ~ 3 소비하면 시야 내 30ft 이내의 크리처 하나에게 공격할 수 있습니다. 반지에서 유령같은 숫양의 머리가 나오며, +7 보너스가 붙은 공격 굴림을 합니다. 명중하면, 목표는 소비한 충전 수 x 2d10의 역장 피해를 입으며, 소비 충전 수 x 5ft 뒤로 밀려납니다.</p><p> 행동을 사용해 충전을 1 ~ 3 소비하면, 시야 내 60ft 이내의 물체를 부술 수 있습니다. 단, 그 물체가 착용 중이거나 소지 중이 아니어야 합니다. + '소비한 충전 수' x 5 보너스가 붙은 근력 판정을 합니다.</p><p><strong>파운드리 노트</strong></p><p>기타 수식에 1d20 + 5를 계산할 수 있도록 설정하였습니다. 이는 근력 판정 시 사용할 수 있습니다. 필요 시 +5 부분을 '소비 충전 수' x 5한 값으로 변경해주세요.</p><section class=\"secret foundry-note\" id=\"secret-hrWDEE29xrHp8mhB\">"
 		},
 		"Ring of Three Wishes": {
 			"name": "세 가지 소원의 반지",
@@ -2732,7 +2732,7 @@
 		},
 		"Spellbook": {
 			"name": "주문책",
-			"description": "<p>위저드들의 필수품인 주문책은 가죽 장정으로 감싸여 있으며 주문을 기록하기 좋은, 빈 독피지 100 페이지로 이루어져 있습니다.</p>"
+			"description": "<p>위저드들의 필수품인 주문책은 가죽 장정으로 감싸여 있으며 주문을 기록하기 좋은, 빈 독피지 100장으로 이루어져 있습니다.</p>"
 		},
 		"Spellguard Shield": {
 			"name": "주문막이 방패",
@@ -2816,7 +2816,7 @@
 		},
 		"Staff of Thunder and Lightning": {
 			"name": "천둥 번개의 지팡이",
-			"description": "<p><em>(조율 필요)</em></p>\n<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.</p>\n<p><strong>Lightning</strong>. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.</p>\n<p><strong>Thunder</strong>. When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become stunned until the end of your next turn.</p>\n<p><strong>Lightning Strike</strong>. You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.</p>\n<p><strong>Thunderclap</strong>. You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.</p>\n<p><strong>Thunder and Lightning</strong>. You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.</p>"
+			"description": "<p><em>(조율 필요)</em></p>\n<p>이 지팡이는 명중과 피해 굴림에 +2 보너스를 주는 마법 육척봉으로도 사용할 수 있습니다. 또한, 아래와 같은 기능들이 있습니다. 이 중 한 가지 기능을 사용했을 때, 같은 기능은 다음 새벽 전까지 사용할 수 없습니다.</p><p><strong>번개 Lightning</strong>. 이 지팡이로 근거리 공격을 하여 명중했을 때, 목표에게 추가로 2d6 번개 피해를 줄 수 있습니다.</p>\n<p><strong>천둥 Thunder</strong>. 이 지팡이로 근거리 공격을 하여 명중했을 때, 300피트 밖까지 들리는 천둥의 파열음을 뿜을 수 있습니다. 명중한 목표는 DC 17의 건강 내성 굴림을 해야 합니다. 실패하면 다음 턴 종료 시까지 충격 상태가 됩니다.</p><p><strong>번개 일격 Lightning Strike</strong>. 행동 하나를 사용해 지팡이 끝에서 번개 한 줄기를 만들어낼 수 있습니다. 번개는 폭 5피트 길이 120피트의 직선 모양입니다. 직선 범위 내의 각 크리처는 DC 17 민첩 내성 굴림을 해야 합니다. 실패하면 9d6의 천둥 피해를 입으며, 성공하면 절반의 피해만 입습니다.</p><p><strong>천둥 소리 Thunderclap</strong>. 행동 하나를 사용해 지팡이에서 귀를 멀게 할 정도의 천둥 소리를 낼 수 있습니다. 이 소리는 600피트 밖에서도 들을 수 있습니다. 당신으로부터 반경 60피트 내의 각 크리처는(당신 제외) DC 17 건강 내성 굴림을 해야 합니다. 실패하면 2d6 천둥 피해를 입고 1분 간 실청 상태가 됩니다. 성공하면 반절의 피해만 입고 실청 상태가 되지 않습니다.</p><p><strong>천둥번개 Thunder and Lightning</strong>. 행동을 사용해 번개 일격과 천둥 소리를 동시에 사용할 수 있습니다. 이 기능을 사용할 때 각각의 기능의 사용횟수를 사용하는 것이 아니라, 이 기능의 사용횟수만 사용합니다.</p>"
 		},
 		"Staff of Withering": {
 			"name": "멸기의 지팡이",
