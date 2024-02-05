@@ -1,9 +1,9 @@
 {
 	"label": "물건 (SRD)",
 	"folders": {
-        "Ammunition": "바바리안",
-        "Armor": "바바리안 특성",
-        "Container": "광전사의 길 특성",
+		"Ammunition": "탄",
+		"Armor": "갑옷",
+		"Container": "보관용품",
 		"Equipment": "장비",
 		"Equipment Packs": "장비 꾸러미",
 		"Food": "음식",
@@ -390,6 +390,10 @@
 			"name": "불스아이 랜턴",
 			"description": "<p>불스아이 랜턴은 60ft 길이의 원뿔형 범위를 밝은 빛 환경으로, 추가로 60ft 길이까지는 약한 빛 환경으로 밝힙니다. 일단 불을 밝히면 기름 한 병으로 6시간 정도를 사용할 수 있습니다.</p>"
 		},
+		"Burglar's Pack": {
+			"name": "도적의 꾸러미",
+			"description": "<p>부피 1 세제곱피트까지, 혹은 무게 30파운드까지 장비를 담을 수 있는 가방입니다. 침낭이나 밧줄 한 묶음같은 물건을 가방 바깥에 묶어서 가지고 다닐 수 있습니다.</p>"
+		},
 		"Calligrapher's Supplies": {
 			"name": "서기의 도구",
 			"description": "<p>These special tools include the items needed to pursue a craft or trade in calligraphy.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
@@ -722,6 +726,10 @@
 			"name": "차원의 족쇄",
 			"description": "<p><em>경이로운 물건</em></p>\n<p>행동을 사용해 이 족쇄를 행동불능 상태인 크리처에게 채울 수 있습니다. 족쇄는 소형에서 대형 크리처의 크기에 맞춰 조절할 수 있습니다. 평범하게 구속하는 데에도 사용할 수 있지만, 세계 밖으로의 이동도 막습니다(순간이동, 다른 실존계로의 도약 등). 세계 간 이동을 위해 포탈을 통과하는 것은 막지 못합니다.</p>\n<p>당신과 당신이 족쇄를 채운 모든 크리처는 행동을 사용해 족쇄를 제거하려 할 수 있습니다. 30일마다 족쇄를 찬 크리처는 DC 30 근력 (운동) 판정을 할 수 있습니다. 성공하면, 크리처는 족쇄에서 해방되며 그 족쇄는 부서집니다.</p>"
 		},
+		"Diplomat's Pack": {
+			"name": "교섭가의 꾸러미",
+			"description": "<p>부피 12 세제곱피트 혹은 무게 300 파운드까지 장비를 담을 수 있는 상자입니다.</p>"
+		},
 		"Disguise Kit": {
 			"name": "변장 키트",
 			"description": "<p> 이 주머니 속에는 다양한 화장품과 염색약, 기타 신체적 외모를 변장할 때 사용되는 소도구가 들어 있습니다. 이 도구에 숙련이면 변장 시의 능력 판정에 숙련 보너스를 더할 수 있습니다.</p>"
@@ -757,6 +765,10 @@
 		"Dulcimer": {
 			"name": "덜시머",
 			"description": "<p>청중들에게 경외감, 경이감 또는 두려움을 불러일으키기 위한 덜시머입니다.</p>\n<p>이 악기에 숙련되어 있다면, 악기로 음악을 연주하기 위한 모든 능력 판정에 숙련도 보너스를 추가할 수 있습니다. 바드는 악기를 주문 매개체로 사용할 수 있습니다. 악기 종류마다 각기 다른 숙련이 요구됩니다.</p>"
+		},
+		"Dungeoneer's Pack": {
+			"name": "던전 탐색가의 꾸러미",
+			"description": "<p>부피 1 세제곱피트까지, 혹은 무게 30파운드까지 장비를 담을 수 있는 가방입니다. 침낭이나 밧줄 한 묶음같은 물건을 가방 바깥에 묶어서 가지고 다닐 수 있습니다.</p>"
 		},
 		"Dust of Disappearance": {
 			"name": "사라짐의 가루",
@@ -810,6 +822,10 @@
 			"name": "문양",
 			"description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">방패나 신을 나타내는 다른 장치에 새겨지거나 세심하게 상감한 상징으로, 진정한 신자가 그들의 힘을 불러낼 수 있고, 그렇게 함으로써 믿음을 전파할 수 있습니다.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><span>소중한 유물, 성자, 또는 진정한 신자의 길을 걷기 위해 그들의 삶을 바친 다른 역사적 인물의 파편을 담은 작은 상자 또는 다른 용기입니다. 신은 이 유물을 가지고 있는 사람에게 그들의 힘을 불러내는 능력을 불어넣고 그렇게 함으로써 다시 한번 믿음을 퍼뜨립니다.</span></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"> </p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><strong style=\"box-sizing:border-box;user-select:text\">주문 매개체</strong><span style=\"box-sizing:border-box;user-select:text\">. </span><span style=\"box-sizing:border-box;user-select:text\"><span style=\"color:#000000;font-size:14px\">클레릭이나 팔라딘은 성표를 주문집중 매개체로 사용할 수 있습니다. 성표를 이렇게 사용하려면 시전자는 반드시 성표를 손에 들고 있거나, 보이는 곳에 착용하거나, 방패에 부착해 놓아야 합니다.</span></span></p>"
 		},
+		"Entertainer's Pack": {
+			"name": "예능인의 꾸러미",
+			"description": "<p>부피 1 세제곱피트까지, 혹은 무게 30파운드까지 장비를 담을 수 있는 가방입니다. 침낭이나 밧줄 한 묶음같은 물건을 가방 바깥에 묶어서 가지고 다닐 수 있습니다.</p>"
+		},
 		"Eversmoking Bottle": {
 			"name": "끝없는 연기의 병",
 			"description": "<p><em>경이로운 물건</em></p>\n<p>이 황동 병은 납으로 된 마개로 닫혀 있으며 연기가 새어 나오고 있습니다. 이 병의 무게는 1lb입니다. 행동을 사용해 병의 마개를 뺄 수 있으며, 이 때 병으로부터 60ft 반경에 짙은 연기 구름이 솟아오릅니다. 이 구름 속 지역은 심하게 가려진 상태가 됩니다. 병을 열린 상태로 둔다면 매 라운드마다 구름의 반경이 10ft씩 넓어지며, 최대 120ft 범위까지 확장될 수 있습니다.</p>\n<p>이 구름은 병이 열려 있는 한 계속 지속됩니다. 병 마개를 닫으려면 행동을 사용해 명령어를 말해야 합니다. 일단 병을 닫으면 구름은 10분 내에 흩어져 버립니다. 적당한 바람(시속 11~20마일)이 불어온다면 1분 안에 연기가 사라지며, 강한 바람(시속 21마일)이 불고 있다면 1라운드 이후 연기는 모두 사라집니다.</p>"
@@ -817,6 +833,10 @@
 		"Exotic Saddle": {
 			"name": "이색적인 안장",
 			"description": "<p>승용동물의 등에 묶는 좌석의 일종으로, 탑승자를 지탱하거나 등자와 같은 마구를 부착하는 용도로 사용됩니다.<br /><br />수중 승용동물이나 비행 승용동물을 타려면 이색적인 안장이 필요합니다.</p>"
+		},
+		"Explorer's Pack": {
+			"name": "모험가의 꾸러미",
+			"description": "<p>부피 1 세제곱피트까지, 혹은 무게 30파운드까지 장비를 담을 수 있는 가방입니다. 침낭이나 밧줄 한 묶음같은 물건을 가방 바깥에 묶어서 가지고 다닐 수 있습니다.</p>"
 		},
 		"Eyes of Charming": {
 			"name": "매혹의 눈",
@@ -1670,6 +1690,10 @@
 			"name": "신속 행동의 설명서",
 			"description": "<p><em>경이로운 물건</em></p>\n<p>이 책에는 협응성과 평형성 운동에 관한 내용이 적혀있으며, 그 단어에 마법이 담겨 있습니다. 이 책에 적힌 내용을 6일 이하의 기간 동안 공부하고 실천한 후 48시간이 지나면, 민첩 수치가 2 상승합니다. 민첩 최대치도 2 상승합니다. 그 후 설명서의 마법은 사라지나, 1세기 후 다시 마법이 돌아옵니다."
 		},
+		"Map Case": {
+			"name": "지도 통",
+			"description": "<p>둘둘 말린 종이를 10장까지, 혹은 둘둘 말린 양피지를 5장까지 넣어 보관할 수 있는 원통형 가죽통입니다.</p>"
+		},
 		"Map or Scroll Case": {
 			"name": "지도나 두루마리용 통",
 			"description": "<p>이 원통형 가죽 통은 최대 10장의 말린 종이나 최대 5장의 양피지를 넣어 보관할 수 있습니다.</p>"
@@ -2138,6 +2162,10 @@
 			"name": "기도용 바퀴",
 			"description": "<p>신자들을 위한 보조물로서, 이 원통에는 금속, 나무, 뼈, 돌, 가죽, 또는 거친 면으로 만든 방추체를 달 수 있습니다.</p>"
 		},
+		"Priest's Pack": {
+			"name": "수도자의 꾸러미",
+			"description": "<p>부피 1 세제곱피트까지, 혹은 무게 30파운드까지 장비를 담을 수 있는 가방입니다. 침낭이나 밧줄 한 묶음같은 물건을 가방 바깥에 묶어서 가지고 다닐 수 있습니다.</p>"
+		},
 		"Quarterstaff": {
 			"name": "육척봉",
 			"description": "<p>튼튼한 손잡이로 감싼 두꺼운 나무 줄기는 단단한 지팡이 외에도 뛰어난 가능성의 무기가 된다.</p>"
@@ -2442,6 +2470,10 @@
 			"name": "보호의 스카라베",
 			"description": "<p><em>경이로운 물건, (조율 필요)</em></p>\n<p>1라운드 간 이 풍뎅이 모양 뱃지를 손에 쥐고 있으면, 그 표면에 글씨가 떠올라 마법적 효과가 나타납니다. 이것을 몸에 지니고 있으면 2가지 이점이 있습니다.:</p>\n<ul>\n<li>주문에 대한 내성 굴림에 유리함을 얻습니다.</li>\n<li>스카라베의 충전은 12입니다. 사령 주문 혹은 언데드 크리처의 해로운 효과로 인한 내성 굴림에 실패했을 경우, 반응 행동을 사용해 충전을 1 소비하면 굴림 결과를 실패에서 성공으로 변경할 수 있습니다. 모든 충전을 소비하면 스카라베는 가루로 바스라져 파괴됩니다.</li>\n</ul>"
 		},
+		"Scholar's Pack": {
+			"name": "학자의 꾸러미",
+			"description": "<p>부피 1 세제곱피트까지, 혹은 무게 30파운드까지 장비를 담을 수 있는 가방입니다. 침낭이나 밧줄 한 묶음같은 물건을 가방 바깥에 묶어서 가지고 다닐 수 있습니다.</p>"
+		},
 		"Scimitar": {
 			"name": "만곡도",
 			"description": "<p>이 곡선형 칼날은 감싸인 손잡이 부근에서부터 넓적하고 어숨푸레한 끝을 향해 활처럼 가늘어집니다.</p>"
@@ -2473,6 +2505,10 @@
 		"Scimitar of Wounding": {
 			"name": "부상의 만곡도",
 			"description": "<p><em>(조율 필요)</em></p>\n<p>이 무기로 인해 줄어든 hp는 짧은 휴식이나 긴 휴식으로만 회복할 수 있습니다. 재생, 마법, 그 외 기타 수단으로는 회복할 수 없습니다.</p>\n<p>턴에 1회, 이 마법 무기를 이용한 공격이 크리처에 명중한 경우, 목표에게 부상을 입힐 수 있습니다. 부상을 입은 크리처는 각 턴의 시작 시, 각각의 부상 별로 1d4의 사령 피해를 입습니다. 그 후 DC 15 건강 내성 굴림을 하여 성공하면 모든 부상의 효과가 종료됩니다. 그 외에도, 부상을 입은 크리처나 그 크리처의 반경 5ft에 있는 크리처가 행동을 사용해 DC 15 지혜 (약학) 판정에 성공하면, 부상의 효과는 종료됩니다.</p>"
+		},
+		"Scroll Case": {
+			"name": "두루마리 통",
+			"description": "<p>둘둘 말린 종이를 10장까지, 혹은 둘둘 말린 양피지를 5장까지 넣어 보관할 수 있는 원통형 가죽통입니다.</p>"
 		},
 		"Sealing Wax": {
 			"name": "봉랍",
@@ -2801,6 +2837,10 @@
 		"Stone of Good Luck (Luckstone)": {
 			"name": "행운의 돌 (행운석)",
 			"description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\"><em style=\"box-sizing:border-box;user-select:text\">경이로운 물건, (조율 필요)</em></p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-size:13px\">당신이 이 연마된 마노석을 지니고 있으면, 모든 능력 판정과 내성 굴림에 +1 보너스를 받을 수 있습니다.</p>"
+		},
+		"String, 10 ft.": {
+			"name": "실, 10ft",
+			"description": ""
 		},
 		"Studded Leather Armor": {
 			"name": "스터디드 레더 아머",
