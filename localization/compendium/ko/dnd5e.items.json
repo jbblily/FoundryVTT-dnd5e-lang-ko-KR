@@ -2244,7 +2244,7 @@
 		},
 		"Ring Mail Armor of Resistance": {
 			"name": "저항의 링 메일 아머",
-			"description": "<p><em>(Requires attunement)</em></p><p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the @UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]{Armor of Resistance} table.</p><p> </p>"
+			"description": "<p><em>(조율 필요)</em></p><p>이 갑옷을 착용하는 동안 한 가지 피해 유형에 저항이 됩니다. GM은 특정한 유형을 지정하거나, @UUID[Compendium.dnd5e.tables.RollTable.VRqG3F72ebgNHyVR]{저항의 갑옷 Armor of Resistance} 표에서 무작위로 결정합니다.</p><p></p>"
 		},
 		"Ring of Acid Resistance": {
 			"name": "산성 저항의 반지",
