@@ -1443,7 +1443,7 @@
 "DND5E.TraitConfigChooseAnyCounted": "모든 {type} 중 {count}",
 "DND5E.TraitConfigChooseAnyUncounted": "모든 {type}",
 "DND5E.TraitConfigChooseList": "{list} 목록에서 {count} 개",
-"DND5E.TraitConfigChooseOther": "{type} 제외 {count} 개",
+"DND5E.TraitConfigChooseOther": "그 외 {type} {count} 개",
 "DND5E.TraitConfigChooseWrapper": "{choices} 개 선택",
 "DND5E.TraitDIPlural.one": "피해 면역",
 "DND5E.TraitDIPlural.other": "피해 면역",
