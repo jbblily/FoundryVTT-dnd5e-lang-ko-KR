@@ -1440,7 +1440,7 @@
 "DND5E.TraitCIPlural.one": "상태 면역",
 "DND5E.TraitCIPlural.other": "상태 면역",
 "DND5E.TraitConfig": "{trait} 설정",
-"DND5E.TraitConfigChooseAnyCounted": "모든 {type} 중 {count} 개",
+"DND5E.TraitConfigChooseAnyCounted": "모든 {type} 중 {count}",
 "DND5E.TraitConfigChooseAnyUncounted": "모든 {type}",
 "DND5E.TraitConfigChooseList": "{list} 목록에서 {count} 개",
 "DND5E.TraitConfigChooseOther": "{type} 제외 {count} 개",
