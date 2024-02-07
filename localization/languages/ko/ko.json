@@ -205,7 +205,7 @@
 "DND5E.AdvancementItemChoiceTypeHint": "고를 수 있는 아이템 유형을 제한합니다.",
 "DND5E.AdvancementItemChoiceTypeAny": "모두",
 "DND5E.AdvancementItemChoiceTypeWarning": "{type} 유형의 아이템만 선택할 수 있습니다.",
-"DND5E.AdvancementItemGrantTitle": "아이템 주기",
+"DND5E.AdvancementItemGrantTitle": "아이템 받기",
 "DND5E.AdvancementItemGrantHint": "특정 레벨에 도달하면 캐릭터에게 아이템 (장비, 특성, 주문 등) 을 부여합니다. ",
 "DND5E.AdvancementItemGrantDropHint": "성장으로 습득할 아이템을 이곳에 드랍해서 목록에 더합니다.",
 "DND5E.AdvancementItemGrantContainerWarning": "보관용품 내용물은 보관용품와 함께 추가되지 않습니다.",
