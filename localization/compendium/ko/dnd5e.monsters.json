@@ -1,5 +1,21 @@
 {
 	"label": "몬스터 (SRD)",
+	"folders": {
+		"Aberration": "기괴체",
+		"Beast": "야수",
+		"Celestial": "천상체",
+		"Construct": "구조물",
+		"Dragon": "용족",
+		"Elemental": "원소",
+		"Fey": "요정",
+		"Fiend": "악마",
+		"Giant": "거인",
+		"Humanoid": "인간형",
+		"Monstrosity": "괴물류",
+		"Ooze": "점액류",
+		"Plant": "식물류",
+		"Undead": "언데드"
+	},
 	"entries": {
 		"Aboleth": {
 			"name": "아볼레스",
