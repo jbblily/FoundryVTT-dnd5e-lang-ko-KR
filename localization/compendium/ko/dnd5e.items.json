@@ -443,8 +443,8 @@
 			"description": "<p>보통 향료 덩어리와 함께 공기 중에 향수를 뿌리기 위해 사용됩니다.</p>"
 		},
 		"Censer of Controlling Air Elementals": {
-			"name": "공기 원소 조종의 향로",
-			"description": "<p><em>경이로운 물건</em></p><p>이 향로에 향이 타고 있는 동안 행동을 사용해 명령어를 말하면 @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환}을 시전한 것으로 취급해 @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{공기 원소}을 소환할 수 있습니다. 다음 새벽이 지날 때까지 이 향로를 이 방식으로 다시 사용할 수 없습니다.</p><p>이 그릇은 너비 6인치, 높이 1ft이며, 성배 잔에 장식이 새겨진 뚜껑이 덮여있는 것과 비슷한 모양입니다. 무게는 1파운드입니다.</p>"
+			"name": "대기 원소 조종의 향로",
+			"description": "<p><em>경이로운 물건</em></p><p>이 향로에 향이 타고 있는 동안 행동을 사용해 명령어를 말하면 @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환}을 시전한 것으로 취급해 @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{대기 원소 Air Elemental}를 소환할 수 있습니다. 다음 새벽이 지날 때까지 이 향로를 이 방식으로 다시 사용할 수 없습니다.</p><p>이 그릇은 너비 6인치, 높이 1ft이며, 성배 잔에 장식이 새겨진 뚜껑이 덮여있는 것과 비슷한 모양입니다. 무게는 1파운드입니다.</p>"
 		},
 		"Chain (10 feet)": {
 			"name": "사슬 (10ft)",
@@ -799,12 +799,12 @@
 			"description": "<p><em>경이로운 물건</em></p><p>1 파운드 정도의 무게가 나가는, 황동 병입니다. 행동을 사용해 뚜껑을 따면, 병에서 짙은 연기 구름이 흘러나옵니다. 턴 종료 시, 이 연기는 무해한 불꽃을 튀기며 사라지고 반경 30ft 내의 빈 공간에 @Compendium[dnd5e.monsters.LTomFUTBrkRi0Pj5]{에프리티} 가 나타납니다.</p><p>처음 병을 열었을 때 무슨 일이 일어나는지 GM이 주사위를 굴려 @UUID[Compendium.dnd5e.tables.RollTable.yZMFNfocj5qyVuOC]{에프리티 병} 표에 따라 결정합니다."
 		},
 		"Elemental Gem of Air": {
-			"name": "공기 원소의 보석",
-			"description": "<p><em>경이로운 물건</em></p><p>이 청색 사파이어에는 원소의 힘이 약간 담겨 있습니다. 행동을 사용하여 이 보석을 깨트리면, @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환} 주문을 시전한 것처럼 @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{공기 원소}을 소환할 수 있으며, 그 후 보석에 깃든 마법은 사라집니다.</p>"
+			"name": "대기 원소의 보석",
+			"description": "<p><em>경이로운 물건</em></p><p>이 청색 사파이어에는 원소의 힘이 약간 담겨 있습니다. 행동을 사용하여 이 보석을 깨트리면, @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환} 주문을 시전한 것처럼 @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{대기 원소 Air Elemental}를 소환할 수 있으며, 그 후 보석에 깃든 마법은 사라집니다.</p>"
 		},
 		"Elemental Gem of Earth": {
-			"name": "땅 원소의 보석",
-			"description": "<p><em>경이로운 물건</em></p><p>이 황색 다이아몬드에는 원소의 힘이 약간 담겨 있습니다. 행동을 사용하여 이 보석을 깨트리면, @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환} 주문을 시전한 것처럼 @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{땅 원소}을 소환할 수 있으며, 그 후 보석에 깃든 마법은 사라집니다.</p>"
+			"name": "대지 원소의 보석",
+			"description": "<p><em>경이로운 물건</em></p><p>이 황색 다이아몬드에는 원소의 힘이 약간 담겨 있습니다. 행동을 사용하여 이 보석을 깨트리면, @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환} 주문을 시전한 것처럼 @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{대지 원소}를 소환할 수 있으며, 그 후 보석에 깃든 마법은 사라집니다.</p>"
 		},
 		"Elemental Gem of Fire": {
 			"name": "화염 원소의 보석",
@@ -2251,12 +2251,12 @@
 			"description": "<p><em>(조율 필요)</em></p><p><em>이 반지는 진주로 세공되어 있어 빛을 받으면 그 부분이 빛납니다.</em></p><p>이 반지를 착용하는 동안 산성 피해에 저항이 됩니다.</p><p>다른 저항의 반지를 찾으려면, @UUID[Compendium.dnd5e.tables.RollTable.MdTxWyYVhTIgtNcG]{저항의 반지} 표를 굴리시오.</p>"
 		},
 		"Ring of Air Elemental Command": {
-			"name": "공기 원소 조종의 반지",
-			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 대기의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{공기 원소 Air Elemental}에 대한 공격 굴림에 유리함을 얻습니다. 공기 원소이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>공기 원소 조종의 반지</strong>. 충전을 2 소비해 공기 원소에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{Dominate Monster} 주문을 시전할 수 있습니다. 또한, 추락 시 매 라운드마다 60ft만큼 강하하며, 추락에 의해 피해를 입지 않습니다. 그 뿐만 아니라, 창공어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 공기 원소을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>번개 피해에 저항이 됩니다.</li><li>비행 속도가 걷기 속도와 같아지며, 공중부양할 수 있습니다.</li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.QbTxN5dWIbYZ4jLU]{Chain Lightning} (3 충전), @UUID[Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz]{Gust of Wind} (2 충전), @UUID[Compendium.dnd5e.spells.Item.ew6GA8dJy2spQmFW]{Wind Wall} (1 충전).</li></ul>"
+			"name": "대기 원소 조종의 반지",
+			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 대기의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{대기 원소 Air Elemental}에 대한 공격 굴림에 유리함을 얻습니다. 대기 원소가 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>대기 원소 조종의 반지</strong>. 충전을 2 소비해 대기 원소에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{괴물 지배 Dominate Monster} 주문을 시전할 수 있습니다. 또한, 추락 시 매 라운드마다 60ft만큼 강하하며, 추락에 의해 피해를 입지 않습니다. 그 뿐만 아니라, 창공어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 대기 원소를 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>번개 피해에 저항이 됩니다.</li><li>비행 속도가 걷기 속도와 같아지며, 공중부양할 수 있습니다.</li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.QbTxN5dWIbYZ4jLU]{Chain Lightning} (3 충전), @UUID[Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz]{Gust of Wind} (2 충전), @UUID[Compendium.dnd5e.spells.Item.ew6GA8dJy2spQmFW]{Wind Wall} (1 충전).</li></ul>"
 		},
 		"Ring of Animal Influence": {
 			"name": "동물 영향력의 반지",
-			"description": "<p>반지의 충전은 3이며, 매일 새벽에 소비한 충전을 1d3 만큼 회복합니다. 반지를 착용한 동안, 행동을 사용해 충전을 1 소비하면 다음과 같은 주문 중 한 가지를 시전할 수 있습니다.:</p><ul><li>@UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{Animal Friendship} (내성 DC 13)</li><li>@UUID[Compendium.dnd5e.spells.Item.XXUDGFELgoskdOD0]{Fear} (내성 DC 13), 지능이 3 이하인 짐승만 목표 지정 가능</li><li>@UUID[Compendium.dnd5e.spells.Item.aL1F8fvYLtNzUbKu]{Speak with Animals}</li></ul>"
+			"description": "<p>반지의 충전은 3이며, 매일 새벽에 소비한 충전을 1d3 만큼 회복합니다. 반지를 착용한 동안, 행동을 사용해 충전을 1 소비하면 다음과 같은 주문 중 한 가지를 시전할 수 있습니다.:</p><ul><li>@UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{동물 친밀화 Animal Friendship} (내성 DC 13)</li><li>@UUID[Compendium.dnd5e.spells.Item.XXUDGFELgoskdOD0]{Fear} (내성 DC 13), 지능이 3 이하인 짐승만 목표 지정 가능</li><li>@UUID[Compendium.dnd5e.spells.Item.aL1F8fvYLtNzUbKu]{Speak with Animals}</li></ul>"
 		},
 		"Ring of Cold Resistance": {
 			"name": "냉기 저항의 반지",
@@ -2267,8 +2267,8 @@
 			"description": "<p><em>(조율 필요)</em></p><p>이 반지를 착용한 동안, 행동을 사용해 명령어를 말하면 특정 @Compendium[dnd5e.monsters.5P1VGAZQwOilwZQf]{지니 Djinni} 를 대기의 원소 차원에서 소환할 수 있습니다. 지니는 반경 120ft 이내의 미점유된 공간 중 당신이 지정한 곳에 나타납니다. 지니는 당신이 집중하는 동안만 나타나며 (주문에 집중하는 것으로 취급), 최대 1시간 동안 유지됩니다. 집중이 끝나거나 지니의 hp가 0이 되면, 원래 있었던 차원으로 돌아갑니다.</p><p>소환된 동안 지니는 당신과 동반자에게 우호적인 상태가 됩니다. 어떤 언어를 사용하든 그 명령은 모두 따릅니다. 명령에 실패하면, 지니는 적의 공격으로부터 스스로를 방어하긴 하지만 별다른 행동을 취하진 않습니다.</p><p>지니를 돌려보낸 후 24시간 동안은 다시 부를 수 없습니다. 지니가 죽으면 반지는 마법을 잃습니다.</p>"
 		},
 		"Ring of Earth Elemental Command": {
-			"name": "땅 원소 조종의 반지",
-			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 대지의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{땅 원소 Earth Elemental}에 대한 공격 굴림에 유리함을 얻습니다. 땅 원소이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>땅 원소 조종의 반지</strong>. 반지의 충전을 2 소비해 땅 원소 하나에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{Dominate Monster} 를 시전할 수 있습니다. 또한, 자갈돌, 바위, 먼지 등으로 이루어진, 어려운 지형을 평범한 지형처럼 이동할 수 있습니다. 그 뿐만 아니라, 대지어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 땅 원소을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>산성 피해에 저항이 됩니다.</li><li>어려운 지형인 지역에 있는 단단한 토양이나 바위를 뚫고 지나갈 수 있습니다. 그 안에서 턴을 종료했을 시, 직전에 점유했던 공간에서 가장 가까운 미점유 공간으로 튀어나옵니다. </li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.QvGcdRUSNRKEQJlK]{Stone Shape} (2 충전), @UUID[Compendium.dnd5e.spells.Item.ReMbjfeOKoSj3O79]{Stoneskin} (3 충전), @UUID[Compendium.dnd5e.spells.Item.NmoRmM1mhuM3pqnY]{Wall of Stone} (3 충전).</li></ul>"
+			"name": "대지 원소 조종의 반지",
+			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 대지의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{대지 원소 Earth Elemental}에 대한 공격 굴림에 유리함을 얻습니다. 대지 원소가 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>대지 원소 조종의 반지</strong>. 반지의 충전을 2 소비해 대지 원소 하나에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{괴물 지배 Dominate Monster} 를 시전할 수 있습니다. 또한, 자갈돌, 바위, 먼지 등으로 이루어진, 어려운 지형을 평범한 지형처럼 이동할 수 있습니다. 그 뿐만 아니라, 대지어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 대지 원소를 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>산성 피해에 저항이 됩니다.</li><li>어려운 지형인 지역에 있는 단단한 토양이나 바위를 뚫고 지나갈 수 있습니다. 그 안에서 턴을 종료했을 시, 직전에 점유했던 공간에서 가장 가까운 미점유 공간으로 튀어나옵니다. </li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.QvGcdRUSNRKEQJlK]{Stone Shape} (2 충전), @UUID[Compendium.dnd5e.spells.Item.ReMbjfeOKoSj3O79]{Stoneskin} (3 충전), @UUID[Compendium.dnd5e.spells.Item.NmoRmM1mhuM3pqnY]{Wall of Stone} (3 충전).</li></ul>"
 		},
 		"Ring of Evasion": {
 			"name": "회피의 반지",
@@ -2280,7 +2280,7 @@
 		},
 		"Ring of Fire Elemental Command": {
 			"name": "화염 원소 조종의 반지",
-			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 화염의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{화염 원소 Fire Elemental} 에 대한 공격 굴림에 유리함을 얻습니다. 화염 원소이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>화염 원소 조종의 반지</strong>.  반지의 충전을 2 소비해 화염 원소 하나에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{Dominate Monster} 를 시전할 수 있습니다. 또한, 화염 피해에 저항이 됩니다. 그 뿐만 아니라, 화염어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 화염 원소을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>화염 피해에 면역이 됩니다.</li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Burning Hands} (1 충전), @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Fireball} (2 충전), @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Wall of Fire} (3 충전).</li></ul>"
+			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 화염의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{화염 원소 Fire Elemental} 에 대한 공격 굴림에 유리함을 얻습니다. 화염 원소가 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>화염 원소 조종의 반지</strong>.  반지의 충전을 2 소비해 화염 원소 하나에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{괴물 지배 Dominate Monster} 를 시전할 수 있습니다. 또한, 화염 피해에 저항이 됩니다. 그 뿐만 아니라, 화염어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 화염 원소를 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>화염 피해에 면역이 됩니다.</li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Burning Hands} (1 충전), @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Fireball} (2 충전), @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Wall of Fire} (3 충전).</li></ul>"
 		},
 		"Ring of Fire Resistance": {
 			"name": "화염 저항의 반지",
@@ -2372,7 +2372,7 @@
 		},
 		"Ring of Water Elemental Command": {
 			"name": "물 원소 조종의 반지",
-			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 물의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.namJz755U1EhvEJa]{물 원소 Water Elemental} 에 대한 공격 굴림에 유리함을 얻습니다. 물 원소이 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>물 원소 조종의 반지</strong>.  반지의 충전을 2 소비해 물 원소 하나에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{Dominate Monster} 를 시전할 수 있습니다. 또한, 액체의 표면 위를 지면처럼 걸을 수 있습니다. 그 뿐만 아니라, 수중어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 물 원소을 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>물 속에서 호흡할 수 있으며, 걷기 속도와 수영 속도가 동일해집니다.</li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.a3XtAO5n2GrqiAh5]{Create or Destroy Water} (1 충전), @UUID[Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL]{Control Water} (3 충전), @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{Ice Storm} (2 충전), or @UUID[Compendium.dnd5e.spells.Item.fzZnVKLmBMo2f5up]{Wall of Ice} (3 충전).</li></ul>"
+			"description": "<p><em>(조율 필요)</em></p><p>이 반지는 물의 원소 차원에 연결되어있습니다.</p><p>이 반지를 착용한 동안, @Compendium[dnd5e.monsters.namJz755U1EhvEJa]{물 원소 Water Elemental} 에 대한 공격 굴림에 유리함을 얻습니다. 물 원소가 당신을 대상으로 공격 굴림을 할 때는 불리함을 얻습니다. 또한, 연결되어 있는 차원에 기반해 몇몇 성질을 사용할 수 있게 됩니다.</p><p>반지의 충전은 5입니다. 매일 새벽에 소비한 충전을 1d4 + 1 만큼 회복합니다. 반지로 시전한 주문의 내성 DC는 17입니다.</p><p><strong>물 원소 조종의 반지</strong>.  반지의 충전을 2 소비해 물 원소 하나에게 @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{괴물 지배 Dominate Monster} 를 시전할 수 있습니다. 또한, 액체의 표면 위를 지면처럼 걸을 수 있습니다. 그 뿐만 아니라, 수중어를 말하고 이해할 수 있습니다.</p><p>이 반지에 조율된 동안 물 원소를 처치하는 데에 조력했다면, 다음과 같은 추가 성질을 사용할 수 있습니다.:</p><ul><li>물 속에서 호흡할 수 있으며, 걷기 속도와 수영 속도가 동일해집니다.</li><li>요구 충전만큼 충전을 소비하면 반지로 다음과 같은 주문을 시전할 수 있습니다.: @UUID[Compendium.dnd5e.spells.Item.a3XtAO5n2GrqiAh5]{Create or Destroy Water} (1 충전), @UUID[Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL]{Control Water} (3 충전), @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{얼음 폭풍 Ice Storm} (2 충전), @UUID[Compendium.dnd5e.spells.Item.fzZnVKLmBMo2f5up]{얼음 장벽 Wall of Ice} (3 충전).</li></ul>"
 		},
 		"Ring of Water Walking": {
 			"name": "수면 보행의 반지",
@@ -2812,7 +2812,7 @@
 		},
 		"Staff of the Woodlands": {
 			"name": "숲의 지팡이",
-			"description": "<p><em>(드루이드의 조율 필요)</em></p>\n<p>이 지팡이는 공격과 피해 굴림에 +2 보너스를 주는 마법 육척봉으로도 사용할 수 있습니다. 이것을 들고 있는 동안, 주문 공격 굴림에 +2 보너스를 얻습니다. </p>\n<p>지팡이의 충전은 10이며, 다음과 같은 기능이 있습니다. 매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 소비한 시점에서, d20 하나를 굴립니다. 1이 나오면, 지팡이는 모든 기능을 잃고 비마법적 육척봉이 됩니다.</p>\n<p><strong>주문</strong>. 행동을 사용해 1 이상의 충전을 소비하면 다음 목록 중 하나의 주문을 시전할 수 있습니다. 주문 내성 DC는 자신의 것을 사용합니다. : @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{Animal Friendship} (1 충전), @UUID[Compendium.dnd5e.spells.Item.MCEpGpvovcXagwQS]{Awaken} (5 충전), @UUID[Compendium.dnd5e.spells.Item.JPwIEfgUPVebr5AH]{Barkskin} (2 충전), @UUID[Compendium.dnd5e.spells.Item.Iv2qqSAT7OkXKPFx]{Locate Animals or Plants} (2 충전), 동물과의 대화 speak with animals (1 충전), @UUID[Compendium.dnd5e.spells.Item.2VXGS206tuChoeXy]{Speak with Plants} (3 충전),  @UUID[Compendium.dnd5e.spells.Item.AQsBc94ES7W7s7iG]{Wall of Thorns} (6 충전).</p>\n<p>또한, 행동을 사용해 @UUID[Compendium.dnd5e.spells.Item.pRMvmknwLf2tdMTj]{Pass without Trace} 주문을 시전할 수 있습니다. 이 때 충전을 소비하지 않습니다.</p>\n<p><strong>나무 형태</strong>. 행동을 사용해 지팡이의 한쪽 끝부분을 비옥한 토양에 심고, 충전을 1 소비하면 지팡이가 건장한 나무 한 그루로 탈바꿈합니다. 나무의 높이는 60ft이며, 굵기는 반경 5ft이고, 나뭇가지가 반경 20ft 범위로 넓게 퍼져있습니다. 나무는 평범해 보이지만 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{Detect Magic} 주문의 목표가 되면, 변형 주문의 흐릿한 기운을 뿜고 있는 것을 볼 수 있습니다. 나무를 만지며 행동을 다시 한번 사용하여 명령어를 말하면, 다시 원래의 지팡이 형태로 되돌릴 수 있습니다. 지팡이로 되돌릴 때 나무에 있던 모든 크리처는 추락합니다.</p>"
+			"description": "<p><em>(드루이드의 조율 필요)</em></p>\n<p>이 지팡이는 공격과 피해 굴림에 +2 보너스를 주는 마법 육척봉으로도 사용할 수 있습니다. 이것을 들고 있는 동안, 주문 공격 굴림에 +2 보너스를 얻습니다. </p>\n<p>지팡이의 충전은 10이며, 다음과 같은 기능이 있습니다. 매일 새벽마다 소비한 충전을 1d6 + 4 만큼 회복합니다. 모든 충전을 소비한 시점에서, d20 하나를 굴립니다. 1이 나오면, 지팡이는 모든 기능을 잃고 비마법적 육척봉이 됩니다.</p>\n<p><strong>주문</strong>. 행동을 사용해 1 이상의 충전을 소비하면 다음 목록 중 하나의 주문을 시전할 수 있습니다. 주문 내성 DC는 자신의 것을 사용합니다. : @UUID[Compendium.dnd5e.spells.Item.hDOENzjuj5WpLq7B]{동물 친밀화 Animal Friendship} (1 충전), @UUID[Compendium.dnd5e.spells.Item.MCEpGpvovcXagwQS]{Awaken} (5 충전), @UUID[Compendium.dnd5e.spells.Item.JPwIEfgUPVebr5AH]{Barkskin} (2 충전), @UUID[Compendium.dnd5e.spells.Item.Iv2qqSAT7OkXKPFx]{Locate Animals or Plants} (2 충전), 동물과의 대화 speak with animals (1 충전), @UUID[Compendium.dnd5e.spells.Item.2VXGS206tuChoeXy]{Speak with Plants} (3 충전),  @UUID[Compendium.dnd5e.spells.Item.AQsBc94ES7W7s7iG]{Wall of Thorns} (6 충전).</p>\n<p>또한, 행동을 사용해 @UUID[Compendium.dnd5e.spells.Item.pRMvmknwLf2tdMTj]{Pass without Trace} 주문을 시전할 수 있습니다. 이 때 충전을 소비하지 않습니다.</p>\n<p><strong>나무 형태</strong>. 행동을 사용해 지팡이의 한쪽 끝부분을 비옥한 토양에 심고, 충전을 1 소비하면 지팡이가 건장한 나무 한 그루로 탈바꿈합니다. 나무의 높이는 60ft이며, 굵기는 반경 5ft이고, 나뭇가지가 반경 20ft 범위로 넓게 퍼져있습니다. 나무는 평범해 보이지만 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{Detect Magic} 주문의 목표가 되면, 변형 주문의 흐릿한 기운을 뿜고 있는 것을 볼 수 있습니다. 나무를 만지며 행동을 다시 한번 사용하여 명령어를 말하면, 다시 원래의 지팡이 형태로 되돌릴 수 있습니다. 지팡이로 되돌릴 때 나무에 있던 모든 크리처는 추락합니다.</p>"
 		},
 		"Staff of Thunder and Lightning": {
 			"name": "천둥 번개의 지팡이",
@@ -2831,8 +2831,8 @@
 			"description": "<p>향료 덩어리가 사용될 수 없거나 더 저렴한 대안이 필요할 때, 사람들은 쾌적을 위해서든 종교적인 목적에서든, 종종 공기중에 향을 뿌리기 위해 향 막대를 사용합니다.</p>"
 		},
 		"Stone of Controlling Earth Elementals": {
-			"name": "땅 원소 조종의 돌",
-			"description": "<p><em>경이로운 물건</em></p><p>이 돌이 지면에 닿아있다면, 행동을 사용해 명령어를 말하면 @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환 Conjure Elemental} 주문을 사용한 것처럼 @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{땅 원소 Earth Elemental} 을 소환할 수 있습니다. 다음 새벽 전까지 이 방식으로 다시 사용할 수 없습니다.</p><p>돌의 무게는 5 파운드입니다.</p>"
+			"name": "대지 원소 조종의 돌",
+			"description": "<p><em>경이로운 물건</em></p><p>이 돌이 지면에 닿아있다면, 행동을 사용해 명령어를 말하면 @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{원소 소환 Conjure Elemental} 주문을 사용한 것처럼 @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{대지 원소 Earth Elemental} 을 소환할 수 있습니다. 다음 새벽 전까지 이 방식으로 다시 사용할 수 없습니다.</p><p>돌의 무게는 5 파운드입니다.</p>"
 		},
 		"Stone of Good Luck (Luckstone)": {
 			"name": "행운의 돌 (행운석)",
