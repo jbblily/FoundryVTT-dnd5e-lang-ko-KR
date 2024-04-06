@@ -7,7 +7,7 @@
 		},
 		"Aoth (Human Druid)": {
 			"name": "오스 (인간 드루이드)",
-			"description": "<p>오스는 오랫동안 동물들과 함께 살았기 때문에 이제는 공용어를 말하는게 서툽니다. 그러나 자연에 둘러싸인 그의 삶의 터전이 위기에 처하자, 그 땅에 균형을 되찾기 위해 모험가 그룹에 합류하기로 결심했습니다.</p>\n<blockquote> Actor artwork provided by: <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
+			"description": "<p>오스는 오랫동안 동물들과 함께 살았기 때문에 이제는 공용어를 말하는게 서툽니다. 그러나 자연에 둘러싸인 삶의 터전이 위기에 처하자, 그 땅에 균형을 되찾기 위해 모험가 그룹에 합류하기로 결심했습니다.</p>\n<blockquote> Actor artwork provided by: <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
 		},
 		"Beiro (Half-Elf Bard)": {
 			"name": "베이로 (하프엘프 바드)",
@@ -15,7 +15,7 @@
 		},
 		"Krusk (Half-Orc Paladin)": {
 			"name": "크러스크 (하프 오크 팔라딘)",
-			"description": "<p>모두에게 정의를 가져다주기 위해 이 땅을 배회하는 크러스크에게는 오직 하나의 목표만이 있습니다. 바로 모든 악의 파멸입니다.</p>\n<blockquote> Actor artwork provided by: <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
+			"description": "<p>모두에게 정의를 안겨주고자 이 땅을 배회하는 크러스크에게는 오직 하나의 목표만이 있습니다. 바로 모든 악의 파멸입니다.</p>\n<blockquote> Actor artwork provided by: <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
 		},
 		"Merric (Halfling Barbarian)": {
 			"name": "메릭 (하플링 바바리안)",
@@ -43,11 +43,11 @@
 		},
 		"Sefris (Half-Elf Warlock)": {
 			"name": "세프리스 (하프엘프 워락)",
-			"description": "<p>세프리스는 어렸을 적 소매치기를 했습니다. 그것이 점점 작은 도둑질로 발전하더니, 이내 악당들과의 어두운 유대로 힘을 합쳐 정교한 강도질을 하는 지경에 이르렀습니다. 돈만 쥐어준다면 누구를 위해서라도 일할 것입니다.</p><blockquote>Actor artwork provided by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
+			"description": "<p>세프리스는 어릴 적 소매치기를 했습니다. 그것이 점점 작은 도둑질로 발전하더니, 이내 악당들과의 어두운 유대를 통해 힘을 합쳐 정교한 강도질을 하는 지경에 이르렀습니다. 돈만 쥐어준다면 누구를 위해서라도 일할 것입니다.</p><blockquote>Actor artwork provided by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
 		},
 		"Zanna (Gnome Wizard)": {
 			"name": "잔나 (노움 위저드)",
-			"description": "<p>항상 땜질에 관심이 많았던 잔나는 자신의 주문책에 사용할 더 많은 주문을 찾기 위해, 그리고 어쩌면 언젠가는 자신만의 주문을 만들기 위해 모험을 떠납니다.</p>\n<blockquote>Actor artwork provided by: <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
+			"description": "<p>항상 땜질에 관심이 많았던 잔나는 자신의 주문책에 사용할 더 많은 주문을 찾기 위해, 그리고 어쩌면 언젠가는 자신만의 주문을 만들기 위해, 모험을 떠납니다.</p>\n<blockquote>Actor artwork provided by: <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a></blockquote>"
 		}
 	}
 }
