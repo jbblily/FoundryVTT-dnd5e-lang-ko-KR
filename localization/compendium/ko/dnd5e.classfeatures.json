@@ -413,7 +413,7 @@
 		"Empty Body": {
 		  "name": "허공체",
 		  "requirements": "몽크 18",
-		  "description": "<p>18레벨부터 행동을 사용하여 기4점을 소비하면, 1분간 투명 상태가 됩니다. 이렇게 투명해진 동안, 당신은 역장 피해를 제외한 모든 피해에 저항을 얻습니다.</p><p>또한 당신은 기 8점을 소비해 @UUID[Compendium.dnd5e.spells.Item.TIoadMIsUKD4edXi]{아스트랄체 투영Astral Projection} 주문을 시전할 수 있으며, 이 때 물질 구성 요소는 사용하지 않습니다. 단, 이 방식으로 주문을 시전할 때는 다른 크리처들을 데려갈 수 없습니다.</p>"
+		  "description": "<p>18레벨부터 행동을 사용하여 기4점을 소비하면, 1분간 투명 상태가 됩니다. 이렇게 투명해진 동안, 당신은 역장 피해를 제외한 모든 피해에 저항을 얻습니다.</p><p>또한 당신은 기 8점을 소비해 @UUID[Compendium.dnd5e.spells.Item.TIoadMIsUKD4edXi]{아스트랄체 투영 Astral Projection} 주문을 시전할 수 있으며, 이 때 물질 구성 요소는 사용하지 않습니다. 단, 이 방식으로 주문을 시전할 때는 다른 크리처들을 데려갈 수 없습니다.</p>"
 		},
 		"Escape the Horde": {
 		  "name": "무리 탈출",
