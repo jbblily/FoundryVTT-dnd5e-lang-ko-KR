@@ -3,7 +3,7 @@
 	"name": "dnd5e-ko",
 	"title": "Translation: Korean [D&D 5e]",
 	"description": "D&D 5e 시스템의 한국어화 모듈입니다.",
-	"version": "This is auto replaced",
+	"version":  "#{VERSION}#",
 	"library": "false",
 	"manifestPlusVersion": "1.2.0",
 	"compatibility": {
@@ -43,7 +43,7 @@
 	],
 	"license": "LICENSE",
   	"readme": "README.md",
-	"url": "This is auto replaced",
-	"manifest": "This is auto replaced",
-	"download": "This is auto replaced"
+	"url": "#{URL}#",
+	"manifest": "#{MANIFEST}#",
+	"download": "#{DOWNLOAD}#"
 }
