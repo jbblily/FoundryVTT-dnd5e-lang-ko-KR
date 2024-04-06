@@ -1082,7 +1082,7 @@
 		"Unarmored Movement": {
 		  "name": "비무장 이동",
 		  "requirements": "몽크 2",
-		  "description": "<p>2레벨부터, 갑옷을 착용하지 않았거나 방패를 들고 있지 않을 때 당신의 속도는 10ft 증가한다. 이 속도 보너스는 특정 몽크 레벨에 도달할 수록 점점 늘어난다. 하단의 표 참조. </p><p>9레벨에, 자기 턴의 이동 중 떨어지지 않고 수직면 위로 움직일 수 있는 능력과 액체 위를 걸을 수 있는 능력을 얻는다. </p><table border=\"1\"><tbody><tr><td><strong>몽크 레벨</strong></td><td><strong>비무장 이동</strong></td></tr><tr><td>2레벨</td><td>+10 ft.</td></tr><tr><td>3레벨</td><td>+10 ft.</td></tr><tr><td>4레벨</td><td>+10 ft.</td></tr><tr><td>5레벨</td><td>+10 ft.</td></tr><tr><td>6레벨</td><td>+15 ft.</td></tr><tr><td>7레벨</td><td>+15 ft.</td></tr><tr><td>8레벨</td><td>+15 ft.</td></tr><tr><td>9레벨</td><td>+15 ft.</td></tr><tr><td>10레벨</td><td>+20 ft.</td></tr><tr><td>11레벨</td><td>+20 ft.</td></tr><tr><td>12레벨</td><td>+20 ft.</td></tr><tr><td>13레벨</td><td>+20 ft.</td></tr><tr><td>14레벨</td><td>+25 ft.</td></tr><tr><td>15레벨</td><td>+25 ft.</td></tr><tr><td>16레벨</td><td>+25 ft.</td></tr><tr><td>17레벨</td><td>+25 ft.</td></tr><tr><td>18레벨</td><td>+30 ft.</td></tr><tr><td>19레벨</td><td>+30 ft.</td></tr><tr><td>20레벨</td><td>+30 ft.</td></tr></tbody></table><p></p>"
+		  "description": "<p>2레벨부터, 갑옷을 착용하지 않았거나 방패를 들고 있지 않을 때 당신의 속도는 10ft 증가합니다. 이 속도 보너스는 특정 몽크 레벨에 도달할 수록 점점 늘어납니다. 자세한 것은 몽크 표 참조.</p><p>9레벨에, 자기 턴의 이동 중 떨어지지 않고 수직면 위로 움직일 수 있는 능력과 액체 위를 걸을 수 있는 능력을 얻습니다. </p>"
 		},
 		"Uncanny Dodge": {
 		  "name": "놀라운 회피",
