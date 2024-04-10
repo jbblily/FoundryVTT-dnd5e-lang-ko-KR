@@ -475,7 +475,7 @@
 		},
 		"Innate Spellcasting": {
 			"name": "선천적 주문시전",
-			"description": "<p>{type}의 선천적 주문시전 능력치는 매력입니다. 대상은 물질 구성요소 없이도 다음 주문을 선천적으로 시전할 수 있습니다.</p><p>의지로 시전: 마법 탐지(Detect Magic), 안개 구름(Fog Cloud), 빛(Light)</p><p>각각 3회/일: 깃털 낙하(feather fall), 비행(Fly), 안개 걸음(Misty Step), 염동력(Telekinesis)</p><p>각각 1회/일: 기후 조종(Control Weather), 가스 형상(Gaseous Form)</p>"
+			"description": "<p>{type}의 선천적 주문시전 능력치는 매력입니다. 대상은 물질 요소 없이도 다음 주문을 선천적으로 시전할 수 있습니다.</p><p>의지로 시전: 마법 탐지(Detect Magic), 안개 구름(Fog Cloud), 빛(Light)</p><p>각각 3회/일: 깃털 낙하(feather fall), 비행(Fly), 안개 걸음(Misty Step), 염동력(Telekinesis)</p><p>각각 1회/일: 기후 조종(Control Weather), 가스 형상(Gaseous Form)</p>"
 		},
 		"Inscrutable": {
 			"name": "불가해",
@@ -790,7 +790,7 @@
 		},
 		"Spell Storing": {
 			"name": "주문 저장",
-			"description": "<p>{creature}의 아뮬렛을 착용한 주문시전자는 {creature}에 4레벨 이하 주문 하나를 저장하도록 할 수 있습니다. 이렇게 하려면 착용자가 {creature}에 주문을 시전해야만 합니다. 주문은 아무런 효과도 발휘하지 않으나 {creature}에 저장됩니다. 착용자가 명령하거나 사전에 정의한 상황이 발생하면 {creature}은(는) 원래 주문시전자가 설정한 제한에 따라 주문을 시전하며, 이 경우 구성요소는 필요하지 않습니다. 주문을 시전했거나 새로운 주문이 저장된 경우 기존에 저장되었던 주문은 소실됩니다.</p>"
+			"description": "<p>{creature}의 아뮬렛을 착용한 주문시전자는 {creature}에 4레벨 이하 주문 하나를 저장하도록 할 수 있습니다. 이렇게 하려면 착용자가 {creature}에 주문을 시전해야만 합니다. 주문은 아무런 효과도 발휘하지 않으나 {creature}에 저장됩니다. 착용자가 명령하거나 사전에 정의한 상황이 발생하면 {creature}은(는) 원래 주문시전자가 설정한 제한에 따라 주문을 시전하며, 이 경우 요소는 필요하지 않습니다. 주문을 시전했거나 새로운 주문이 저장된 경우 기존에 저장되었던 주문은 소실됩니다.</p>"
 		},
 		"Spellcasting": {
 			"name": "주문 시전",
