@@ -37,6 +37,11 @@ FVTT 한국 DnD5e 로컬라이징 디스코드 초대링크 : https://discord.gg
 * 한글 폰트 및 컴펜디움도 적용하려면 **모듈 관리** 설정에서 **Translation: Korean [D&D 5e]** 체크박스에 체크합니다.
 
 
+## 기능
+월드의 환경설정-> Translation:Korean [D&D5e] 탭에서 '원어 병기 옵션'을 켜면 컴펜디엄의 이름 옆에 원어 이름이 병기됩니다.
+![image](https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/assets/18694887/b3a4f4f5-8a52-4c9a-8bcf-d327597bbe4c)
+
+
 ---
 
 ## Project description
@@ -62,4 +67,7 @@ Invite url : https://discord.gg/YwjjxpsNcB
 
 **Translators & Contributors** : kuki, hororok-1, heart, jjjunetrpg, snowcat, steelpipe, volpee, flattenspace, printf, saura, 
 
+## Optional Feature
+If you enable the option on the setting, it changes the title of compendium: both translated title and original title together.
+![image](https://github.com/jbblily/FoundryVTT-dnd5e-lang-ko-KR/assets/18694887/b3a4f4f5-8a52-4c9a-8bcf-d327597bbe4c)
 
