@@ -1,3 +1,5 @@
+import {TranslatedCompendium} from "../../babele/script/translated-compendium.js";
+
 Hooks.once('init', () => {
 	game.settings.register("dnd5e-ko", "show-original-name", {
 		name: "컴펜디움 원어 병기",
@@ -10,13 +12,13 @@ Hooks.once('init', () => {
 	});
 
 	if (typeof Babele !== 'undefined') {
-		Babele.get().register({
+		game.babele.register({
 			module: 'dnd5e-ko',
 			lang: 'ko',
 			dir: 'localization/compendium/ko'
 		});
 
-		Babele.get().registerConverters({
+		game.babele.registerConverters({
 			dndpages(pages, translations) {
 				return pages.map((data) => {
 					if (!translations) {
