@@ -84,7 +84,7 @@
 		"Archdruid": {
 		  "name": "대드루이드",
 		  "requirements": "드루이드 20",
-		  "description": "<p>드루이드 20레벨에 도달하면, 횟수 제한 없이 @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신}을 사용할 수 있습니다.</p><p>또한 드루이드 주문을 시전할 때 음성과 동작 요소를 무시할 수 있으며, 물질 요소 중 비용이 없고 주문에 의해 소모되지 않는 것도 무시할 수 있습니다. 이 효과는 평소 모습과 야생 형상 모두에 적용됩니다.</p>"
+		  "description": "<p>드루이드 20레벨에 도달하면, 횟수 제한 없이 @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{야생 변신}을 사용할 수 있습니다.</p><p>또한 드루이드 주문을 시전할 때 음성과 동작 요소를 무시할 수 있으며, 물질요소 중 비용이 없고 주문에 의해 소모되지 않는 것도 무시할 수 있습니다. 이 효과는 평소 모습과 야생 형상 모두에 적용됩니다.</p>"
 		},
 		"Archery": {
 		  "name": "궁술",
@@ -414,7 +414,7 @@
 		"Empty Body": {
 		  "name": "허공체",
 		  "requirements": "몽크 18",
-		  "description": "<p>18레벨부터 행동을 사용하여 기4점을 소비하면, 1분간 투명 상태가 됩니다. 이렇게 투명해진 동안, 당신은 역장 피해를 제외한 모든 피해에 저항을 얻습니다.</p><p>또한 당신은 기 8점을 소비해 @UUID[Compendium.dnd5e.spells.Item.TIoadMIsUKD4edXi]{아스트랄체 투영 Astral Projection} 주문을 시전할 수 있으며, 이 때 물질 요소는 사용하지 않습니다. 단, 이 방식으로 주문을 시전할 때는 다른 크리처들을 데려갈 수 없습니다.</p>"
+		  "description": "<p>18레벨부터 행동을 사용하여 기4점을 소비하면, 1분간 투명 상태가 됩니다. 이렇게 투명해진 동안, 당신은 역장 피해를 제외한 모든 피해에 저항을 얻습니다.</p><p>또한 당신은 기 8점을 소비해 @UUID[Compendium.dnd5e.spells.Item.TIoadMIsUKD4edXi]{아스트랄체 투영 Astral Projection} 주문을 시전할 수 있으며, 이 때 물질 구성 요소는 사용하지 않습니다. 단, 이 방식으로 주문을 시전할 때는 다른 크리처들을 데려갈 수 없습니다.</p>"
 		},
 		"Escape the Horde": {
 		  "name": "무리 탈출",
@@ -434,7 +434,7 @@
 		"Expanded Spell List": {
 		  "name": "확장된 주문 목록",
 		  "requirements": "악마 1",
-		  "description": "<p>워락 주문을 습득할 때, 악마는 확장된 주문 목록 중에서 당신이 주문을 고를 수 있도록 허합니다. 아래 주문이 워락 주문 목록에 추가됩니다.</p><table border=\\\"1\\\"><tbody><tr><td style=\\\"width: 57px;\\\"><strong>주문 레벨</strong></td><td style=\\\"width: 339px;\\\"><strong>주문</strong></td></tr><tr><td style=\\\"width: 57px;\\\">1레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{타오르는 손}, @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{명령}</td></tr><tr><td style=\\\"width: 57px;\\\">2레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{시각/청각 박탈}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{타오르는 광선}</td></tr><tr><td style=\\\"width: 57px;\\\">3레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{화염구}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{악취 구름}</td></tr><tr><td style=\\\"width: 57px;\\\">4레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{화염 방패}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{불꽃의 벽}</td></tr><tr><td style=\\\"width: 57px;\\\">5레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{화염의 일격}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{신성화}</td></tr></tbody></table>"
+		  "description": "<p>워락 주문을 습득할 때, 악마는 확장된 주문 목록 중에서 당신이 주문을 고를 수 있도록 허합니다. 아래 주문이 워락 주문 목록에 추가됩니다.</p><table border=\\\"1\\\"><tbody><tr><td style=\\\"width: 57px;\\\"><strong>주문 레벨</strong></td><td style=\\\"width: 339px;\\\"><strong>주문</strong></td></tr><tr><td style=\\\"width: 57px;\\\">1레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{타오르는 손}, @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{명령}</td></tr><tr><td style=\\\"width: 57px;\\\">2레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{시각/청각 박탈}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{타오르는 광선}</td></tr><tr><td style=\\\"width: 57px;\\\">3레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{화염구}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{악취 구름}</td></tr><tr><td style=\\\"width: 57px;\\\">4레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{화염 방패}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{불꽃의 벽}</td></tr><tr><td style=\\\"width: 57px;\\\">5레벨</td><td style=\\\"width: 339px;\\\">@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{화염 직격}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{신성화}</td></tr></tbody></table>"
 		},
 		"Expertise": {
 		  "name": "전문분야",
