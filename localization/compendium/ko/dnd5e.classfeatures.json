@@ -686,7 +686,7 @@
 		  "requirements": "몽크 3",
 		  "description": "<p>당신은 몽크 3레벨이 되었을 때 열린 손의 길과 같은 하나의 문파를 선택해 그 길을 따를 수 있습니다. 당신은 선택한 문파에 따라 3, 6, 11, 17레벨에 추가적 특성을 얻을 수 있습니다.</p>"
 		},
-		"Multiattack": {
+		"7zlTRRXT1vWSBGjX": {
 		  "name": "다중공격",
 		  "requirements": "헌터 11",
 		  "description": "<p>11레벨이 되면, 다음 중 원하는 특성 한 개를 골라 습득합니다.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.l7W6JB9yWLLLtQKP]{포격 Volley}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.1DY8w3CXeD7PHDXF]{회오리바람 공격 Whirlwind Attack}</p>"

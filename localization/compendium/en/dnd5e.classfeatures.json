@@ -686,7 +686,7 @@
 		  "requirements": "Monk 3",
 		  "description": "<p>When you reach 3rd level, you commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>"
 		},
-		"Multiattack": {
+		"7zlTRRXT1vWSBGjX": {
 		  "name": "Multiattack",
 		  "requirements": "Hunter 11",
 		  "description": "<p>At 11th level, you gain one of the following features of your choice.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.l7W6JB9yWLLLtQKP]{Volley}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.1DY8w3CXeD7PHDXF]{Whirlwind Attack}</p>"
