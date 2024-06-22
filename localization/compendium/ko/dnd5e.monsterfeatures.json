@@ -11,7 +11,7 @@
 		},
 		"Acid Breath": {
 			"name": "산성 브레스",
-			"description": "<section class=\"secret\"><p>{type} 타입은 직선으로 60ft, 5ft 너비 범위에 산성 물질을 뿜어냅니다. </p><p>해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 18 민첩</strong> 내성 굴림을 하여 실패하면 <strong>54(12d8)점의 <em>산성 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다. </p></section><p>{type} 타입은 직선으로 60ft, 5ft 너비 범위에 산성 물질을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>민첩</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]] 타입은 직선으로 60ft, 5ft 너비 범위에 산성 물질을 뿜어냅니다. </p><p>해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 18 민첩</strong> 내성 굴림을 하여 실패하면 <strong>54(12d8)점의 <em>산성 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다. </p></section><p> [[lookup @details.type.config.label lowercase]] 타입은 직선으로 60ft, 5ft 너비 범위에 산성 물질을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>민첩</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Acid Spray": {
 			"name": "산성 분사",
@@ -27,7 +27,7 @@
 		},
 		"Air Form": {
 			"name": "기체 형태",
-			"description": "<p>{type}은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다. {type}은(는) 억지로 끼어 들어가지 않고도 1인치 정도로 좁은 공간을 통과하여 이동할 수 있습니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다.  [[lookup @details.type.config.label lowercase]]은(는) 억지로 끼어 들어가지 않고도 1인치 정도로 좁은 공간을 통과하여 이동할 수 있습니다.</p>"
 		},
 		"Ambusher": {
 			"name": "매복자",
@@ -47,7 +47,7 @@
 		},
 		"Animate Chains": {
 			"name": "사슬 조종",
-			"description": "<section class=\"secret\">\n<p>{type}의 주변 60ft 이내에 있으며 대상이 볼 수 있는, 누군가가 착용하거나 들고 있지 않은 사슬 최대 네 개로부터 날카로운 가시가 돋아나며, 이 사슬은 {type}의 통제 하에 움직입니다.</p><p>각각의 움직이는 사슬은 AC 20, 20HP에 <em>관통 피해</em> 저항과 정신 및 천둥 피해 면역을 보유한 물체입니다. {type}이(가) 자신의 턴에 다중공격을 사용하면 각각의 움직이는 사슬로 1회의 추가 사슬 공격을 가할 수 있습니다. 하나의 움직이는 사슬이 스스로 한 크리처를 속박할 수 있으나 속박하고 있는 중에는 공격을 가할 수 없습니다. 히트 포인트가 0점이 되었거나, {type}의 행동불능 또는 사망 시 움직이는 사슬은 다시 기존의 움직이지 않는 상태로 돌아갑니다.</p>\n</section>\n<p>{type}의 주변 60ft 이내에 있으며 대상이 볼 수 있는, 누군가가 착용하거나 들고 있지 않은 사슬 최대 네 개로부터 날카로운 가시가 돋아나며, 이 사슬은 {type}의 통제 하에 움직입니다.</p>"
+			"description": "<section class=\"secret\">\n<p> [[lookup @details.type.config.label lowercase]]의 주변 60ft 이내에 있으며 대상이 볼 수 있는, 누군가가 착용하거나 들고 있지 않은 사슬 최대 네 개로부터 날카로운 가시가 돋아나며, 이 사슬은  [[lookup @details.type.config.label lowercase]]의 통제 하에 움직입니다.</p><p>각각의 움직이는 사슬은 AC 20, 20HP에 <em>관통 피해</em> 저항과 정신 및 천둥 피해 면역을 보유한 물체입니다.  [[lookup @details.type.config.label lowercase]]이(가) 자신의 턴에 다중공격을 사용하면 각각의 움직이는 사슬로 1회의 추가 사슬 공격을 가할 수 있습니다. 하나의 움직이는 사슬이 스스로 한 크리처를 속박할 수 있으나 속박하고 있는 중에는 공격을 가할 수 없습니다. 히트 포인트가 0점이 되었거나,  [[lookup @details.type.config.label lowercase]]의 행동불능 또는 사망 시 움직이는 사슬은 다시 기존의 움직이지 않는 상태로 돌아갑니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]의 주변 60ft 이내에 있으며 대상이 볼 수 있는, 누군가가 착용하거나 들고 있지 않은 사슬 최대 네 개로부터 날카로운 가시가 돋아나며, 이 사슬은  [[lookup @details.type.config.label lowercase]]의 통제 하에 움직입니다.</p>"
 		},
 		"Animate Trees": {
 			"name": "나무 조종",
@@ -87,7 +87,7 @@
 		},
 		"Blasphemous Word": {
 			"name": "모독적인 말",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이(가) 모독적인 말을 내뱉습니다. [[lookup @name lowercase]] 주변 10ft 이내에 있으며 마법적인 발화를 들을 수 있는 비{type} 크리처는 각자 <strong>DC 16 건강</strong> 내성 굴림에 성공하지 못할 경우 [[lookup @name lowercase]] 의 다음 턴까지 현기증을 느낍니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이(가) 모독적인 말을 내뱉습니다. [[lookup @name lowercase]] 주변 10ft 이내에 있으며 마법적인 발화를 들을 수 있는 비{type} 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이(가) 모독적인 말을 내뱉습니다. [[lookup @name lowercase]] 주변 10ft 이내에 있으며 마법적인 발화를 들을 수 있는 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>DC 16 건강</strong> 내성 굴림에 성공하지 못할 경우 [[lookup @name lowercase]] 의 다음 턴까지 현기증을 느낍니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이(가) 모독적인 말을 내뱉습니다. [[lookup @name lowercase]] 주변 10ft 이내에 있으며 마법적인 발화를 들을 수 있는 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Blind Senses": {
 			"name": "맹감각",
@@ -123,7 +123,7 @@
 		},
 		"Breath Weapons": {
 			"name": "브레스 웨폰",
-			"description": "<section class=\"secret\">\n<p>(<strong>알림: 크리처가 하나 이상의 브레스 무기를 가지고 있는 경우에만 사용해야 하며, 해당 브레스 무기에 대한 충전을 포함합니다. 각 브레스 무기 역시 추가되어야 합니다.</strong>)</p><p><br>{type}이(가) 다음 숨결 무기 중 하나를 사용합니다.</p><p>**화염 브레스.** {type}이(가) 너비 5ft의 직선 60ft 범위에 화염을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 18 민첩</strong> 내성 굴림을 하여 실패하면 <strong>45(13d6)점의 <em>화염 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p>**수면 브레스.** {type}이(가) 60ft의 원뿔형 범위에 수면 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 성공하지 못할 경우 10분 동안 의식불명 상태에 빠집니다. 한 크리처에게 적용된 이 효과는 해당 크리처가 피해를 입거나 누군가가 1회의 행동으로 대상을 깨운 경우 종료됩니다.</p>\n</section>\n<p>{type}의 브레스가 분출됩니다!</p>"
+			"description": "<section class=\"secret\">\n<p>(<strong>알림: 크리처가 하나 이상의 브레스 무기를 가지고 있는 경우에만 사용해야 하며, 해당 브레스 무기에 대한 충전을 포함합니다. 각 브레스 무기 역시 추가되어야 합니다.</strong>)</p><p><br> [[lookup @details.type.config.label lowercase]]이(가) 다음 숨결 무기 중 하나를 사용합니다.</p><p>**화염 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 너비 5ft의 직선 60ft 범위에 화염을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 18 민첩</strong> 내성 굴림을 하여 실패하면 <strong>45(13d6)점의 <em>화염 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p>**수면 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 수면 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 성공하지 못할 경우 10분 동안 의식불명 상태에 빠집니다. 한 크리처에게 적용된 이 효과는 해당 크리처가 피해를 입거나 누군가가 1회의 행동으로 대상을 깨운 경우 종료됩니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]의 브레스가 분출됩니다!</p>"
 		},
 		"Brute": {
 			"name": "야성",
@@ -135,7 +135,7 @@
 		},
 		"Change Shape": {
 			"name": "형태 변환",
-			"description": "<p>{type}이(가) 마법적으로 자기 도전지수 이하인 <strong>인간형</strong> 또는 <strong>야수</strong> 크리처로 <strong>형태변형</strong>하거나 본래의 형태로 돌아갑니다. {type} 사망 시 본래의 형태로 돌아옵니다. 대상이 착용하거나 소지한 모든 장비는 ({type}의 선택에 따라) 새로운 형태에 맞게 변하거나 흡수됩니다.</p><p>새로운 형태에서 {type}의 <strong>성향, 히트 포인트, 히트 다이스, 대화 능력, 숙련도, 전설적 저항, 본거지 행동, 지능, 지혜, 매력 점수 및 해당 행동은 모두 유지됩니다. </strong>대상의 게임적 정보 및 능력치는 <strong>해당 형태의 클래스 특성 또는 전설적인 행동을 제외하면</strong>새로운 형태에 따라 교체됩니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]이(가) 마법적으로 자기 도전지수 이하인 <strong>인간형</strong> 또는 <strong>야수</strong> 크리처로 <strong>형태변형</strong>하거나 본래의 형태로 돌아갑니다.  [[lookup @details.type.config.label lowercase]] 사망 시 본래의 형태로 돌아옵니다. 대상이 착용하거나 소지한 모든 장비는 ( [[lookup @details.type.config.label lowercase]]의 선택에 따라) 새로운 형태에 맞게 변하거나 흡수됩니다.</p><p>새로운 형태에서  [[lookup @details.type.config.label lowercase]]의 <strong>성향, 히트 포인트, 히트 다이스, 대화 능력, 숙련도, 전설적 저항, 본거지 행동, 지능, 지혜, 매력 점수 및 해당 행동은 모두 유지됩니다. </strong>대상의 게임적 정보 및 능력치는 <strong>해당 형태의 클래스 특성 또는 전설적인 행동을 제외하면</strong>새로운 형태에 따라 교체됩니다.</p>"
 		},
 		"Channel Negative Energy": {
 			"name": "부정 에너지 변환",
@@ -163,7 +163,7 @@
 		},
 		"Cold Breath": {
 			"name": "냉기 브레스",
-			"description": "<section class=\"secret\">\n<p>**냉기 브레스.** {type}이(가) 60ft의 원뿔형 범위에 얼어붙을 듯한 바람을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 20 건강</strong> 내성 굴림을 하여 실패하면 <strong>58(13d8)점의 <em>냉기 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p>\n</section>\n<p>{type}이(가) 60ft의 원뿔형 범위에 얼어붙을 듯한 바람을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**냉기 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 얼어붙을 듯한 바람을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 20 건강</strong> 내성 굴림을 하여 실패하면 <strong>58(13d8)점의 <em>냉기 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 얼어붙을 듯한 바람을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Confer Fire Resistance": {
 			"name": "화염 저항 부여",
@@ -175,11 +175,11 @@
 		},
 		"Corrode Metal": {
 			"name": "금속 부식",
-			"description": "<section class=\"secret\">\n<p>{type}에 명중한 금속으로 만든 모든 비마법적인 무기는 부식됩니다. <strong>피해를 가한</strong> 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다.</p><p>페널티가 -5까지 내려가면 해당 무기는 파괴됩니다. {type}에 명중한 비마법적인 금속 탄환은 피해를 가한 후에 파괴됩니다. {type}은(는) 1라운드에 2인치 두께의 비마법적인 금속을 먹어치울 수 있습니다.</p>\n</section>\n<p>{type}이(가) 금속을 부식시킵니다.</p>"
+			"description": "<section class=\"secret\">\n<p> [[lookup @details.type.config.label lowercase]]에 명중한 금속으로 만든 모든 비마법적인 무기는 부식됩니다. <strong>피해를 가한</strong> 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다.</p><p>페널티가 -5까지 내려가면 해당 무기는 파괴됩니다.  [[lookup @details.type.config.label lowercase]]에 명중한 비마법적인 금속 탄환은 피해를 가한 후에 파괴됩니다.  [[lookup @details.type.config.label lowercase]]은(는) 1라운드에 2인치 두께의 비마법적인 금속을 먹어치울 수 있습니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 금속을 부식시킵니다.</p>"
 		},
 		"Corrosive Form": {
 			"name": "부식성 형태",
-			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 에 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는 <strong>4(1d8)점의 <em>산성 피해</em></strong>를 입습니다. [[lookup @name lowercase]] 에 명중한 모든 비마법적인 금속 또는 목제 무기는 부식됩니다.</p><p>피해를 가한 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다. 페널티가 -5까지 내려가면 해당 무기는 파괴됩니다. {type}에 명중한 비마법적인 금속 또는 목제 탄환은 피해를 가한 후에 파괴됩니다. [[lookup @name lowercase]] 은(는) 1라운드에 2인치 두께의 비마법적인 나무 또는 금속을 먹어치울 수 있습니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 에게 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는 <em>산성 피해</em>를 입습니다. 푸딩에 명중한 모든 비마법적인 금속 또는 목제 무기는 부식됩니다.</p>"
+			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 에 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는 <strong>4(1d8)점의 <em>산성 피해</em></strong>를 입습니다. [[lookup @name lowercase]] 에 명중한 모든 비마법적인 금속 또는 목제 무기는 부식됩니다.</p><p>피해를 가한 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다. 페널티가 -5까지 내려가면 해당 무기는 파괴됩니다.  [[lookup @details.type.config.label lowercase]]에 명중한 비마법적인 금속 또는 목제 탄환은 피해를 가한 후에 파괴됩니다. [[lookup @name lowercase]] 은(는) 1라운드에 2인치 두께의 비마법적인 나무 또는 금속을 먹어치울 수 있습니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 에게 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는 <em>산성 피해</em>를 입습니다. 푸딩에 명중한 모든 비마법적인 금속 또는 목제 무기는 부식됩니다.</p>"
 		},
 		"Create Specter": {
 			"name": "악령 생성",
@@ -231,7 +231,7 @@
 		},
 		"Disrupt Life": {
 			"name": "생명 파괴",
-			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 주변 20ft 이내의 비{type} 크리처는 각자 해당 마법에 대항하여 <strong>DC 18 건강</strong> 내성 굴림을 하고, 내성 굴림에 실패한 경우 <strong>21(6d6)점의 <em>사령 피해</em></strong>를 입고 내성 굴림에 성공한 경우 그 절반의 피해만 받습니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 주변 20ft 이내의 비{type} 크리처는 각자 해당 마법에 대항하여 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 주변 20ft 이내의 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 해당 마법에 대항하여 <strong>DC 18 건강</strong> 내성 굴림을 하고, 내성 굴림에 실패한 경우 <strong>21(6d6)점의 <em>사령 피해</em></strong>를 입고 내성 굴림에 성공한 경우 그 절반의 피해만 받습니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 주변 20ft 이내의 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 해당 마법에 대항하여 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Divine Awareness": {
 			"name": "신성한 간파",
@@ -255,7 +255,7 @@
 		},
 		"Earth Glide": {
 			"name": "대지 활주",
-			"description": "<p>{type}은(는) 비마법적이며 가공되지 않은 토양 및 암석을 파고들 수 있습니다. 이렇게 하는 동안 {type}은(는) 통과하여 이동하는 물질에 영향을 미치지 않습니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]은(는) 비마법적이며 가공되지 않은 토양 및 암석을 파고들 수 있습니다. 이렇게 하는 동안  [[lookup @details.type.config.label lowercase]]은(는) 통과하여 이동하는 물질에 영향을 미치지 않습니다.</p>"
 		},
 		"Echolocation": {
 			"name": "반향정위",
@@ -335,11 +335,11 @@
 		},
 		"Fire Breath": {
 			"name": "화염 브레스",
-			"description": "<section class=\"secret\">\n<p>**화염 브레스.** {type}이(가) 너비 5ft의 직선 60ft 범위에 화염을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 18 민첩</strong> 내성 굴림을 하여 실패하면 <strong>45(13d6)점의 <em>화염 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p>\n</section>\n<p>{type}이(가) 너비 5ft의 직선 60ft 범위에 화염을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>민첩</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**화염 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 너비 5ft의 직선 60ft 범위에 화염을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 18 민첩</strong> 내성 굴림을 하여 실패하면 <strong>45(13d6)점의 <em>화염 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 너비 5ft의 직선 60ft 범위에 화염을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>민첩</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Fire Form": {
 			"name": "화염 형태",
-			"description": "<section class=\"secret\"><p>{type}은(는) 억지로 끼어 들어가지 않고도 1인치 정도로 좁은 공간을 통과하여 이동할 수 있습니다. [[lookup @name lowercase]] 에 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는 <strong>5(1d10)점의 <em>화염 피해</em></strong>를 입습니다. </p><p>추가로, {type}은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다. 대상이 한 턴에 한 크리처가 점유한 공간으로 처음 진입했을 때 해당 크리처는 <strong>5(1d10)점의 <em>화염 피해</em></strong>를 입고 불이 붙으면서 누군가가 행동을 사용하여 불을 꺼주기 전까지 자신의 턴이 시작될 때마다 <strong>5(1d10)점의 <em>화염 피해</em></strong>를 입습니다.</p></section><p>{type}에게 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는<em>화염 피해</em>를 입습니다. 추가로, {type}은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다. {type}이(가) 한 턴에 한 크리처가 점유한 공간으로 처음 진입했을 때 해당 크리처는 <em>화염 피해</em>를 입고 불이 붙으면서 누군가가 행동을 사용하여 불을 꺼주기 전까지 자신의 턴이 시작될 때마다 <em>화염 피해</em>를 입습니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]은(는) 억지로 끼어 들어가지 않고도 1인치 정도로 좁은 공간을 통과하여 이동할 수 있습니다. [[lookup @name lowercase]] 에 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는 <strong>5(1d10)점의 <em>화염 피해</em></strong>를 입습니다. </p><p>추가로,  [[lookup @details.type.config.label lowercase]]은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다. 대상이 한 턴에 한 크리처가 점유한 공간으로 처음 진입했을 때 해당 크리처는 <strong>5(1d10)점의 <em>화염 피해</em></strong>를 입고 불이 붙으면서 누군가가 행동을 사용하여 불을 꺼주기 전까지 자신의 턴이 시작될 때마다 <strong>5(1d10)점의 <em>화염 피해</em></strong>를 입습니다.</p></section><p> [[lookup @details.type.config.label lowercase]]에게 접촉했거나 주변 5ft 이내에서 [[lookup @name lowercase]] 에게 근거리 공격을 가해 명중시킨 한 크리처는<em>화염 피해</em>를 입습니다. 추가로,  [[lookup @details.type.config.label lowercase]]은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다.  [[lookup @details.type.config.label lowercase]]이(가) 한 턴에 한 크리처가 점유한 공간으로 처음 진입했을 때 해당 크리처는 <em>화염 피해</em>를 입고 불이 붙으면서 누군가가 행동을 사용하여 불을 꺼주기 전까지 자신의 턴이 시작될 때마다 <em>화염 피해</em>를 입습니다.</p>"
 		},
 		"First Roar": {
 			"name": "첫 번째 포효",
@@ -363,7 +363,7 @@
 		},
 		"Freeze": {
 			"name": "동결",
-			"description": "<section class=\"secret\"><p>{type}에<strong><em>냉기 피해</em></strong>가 가해질 경우, 대상은 부분적으로 동결되어 다음 턴이 끝나기 전까지 이동속도가 <strong>20ft</strong>로 감소합니다.</p></section><p>{type}에 <strong><em>냉기 피해</em></strong>가 가해질 경우, 대상은 부분적으로 동결됩니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]에<strong><em>냉기 피해</em></strong>가 가해질 경우, 대상은 부분적으로 동결되어 다음 턴이 끝나기 전까지 이동속도가 <strong>20ft</strong>로 감소합니다.</p></section><p> [[lookup @details.type.config.label lowercase]]에 <strong><em>냉기 피해</em></strong>가 가해질 경우, 대상은 부분적으로 동결됩니다.</p>"
 		},
 		"Frightening Gaze": {
 			"name": "공포스러운 시선",
@@ -371,7 +371,7 @@
 		},
 		"Frightful Presence": {
 			"name": "섬뜩한 존재감",
-			"description": "<section class=\"secret\"><p>{type}이(가) 선택한 {type} <strong>주변 120ft 이내</strong>에 있고 대상의 존재를 인지하는 크리처는 각자 <strong>DC 16 지혜 내성 굴림</strong>에 성공하지 못하면 <strong>1분</strong> 동안 공포에 빠집니다. </p><p>한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 한 크리처가 내성 굴림에 성공했거나 대상에 적용된 효과가 종료될 경우 해당 크리처는 다음 24시간 동안 {type}의 섬뜩한 존재감에 면역을 얻습니다.</p></section><p>{type}이(가) 선택한 {type} <strong>주변 120ft 이내</strong>에 있고 [[lookup @name lowercase]] 의 존재를 인지하는 모든 크리처는 각자 지혜 내성 굴림에 성공해야만 합니다. 한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있습니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]이(가) 선택한  [[lookup @details.type.config.label lowercase]] <strong>주변 120ft 이내</strong>에 있고 대상의 존재를 인지하는 크리처는 각자 <strong>DC 16 지혜 내성 굴림</strong>에 성공하지 못하면 <strong>1분</strong> 동안 공포에 빠집니다. </p><p>한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 한 크리처가 내성 굴림에 성공했거나 대상에 적용된 효과가 종료될 경우 해당 크리처는 다음 24시간 동안  [[lookup @details.type.config.label lowercase]]의 섬뜩한 존재감에 면역을 얻습니다.</p></section><p> [[lookup @details.type.config.label lowercase]]이(가) 선택한  [[lookup @details.type.config.label lowercase]] <strong>주변 120ft 이내</strong>에 있고 [[lookup @name lowercase]] 의 존재를 인지하는 모든 크리처는 각자 지혜 내성 굴림에 성공해야만 합니다. 한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있습니다.</p>"
 		},
 		"Frost Breath": {
 			"name": "서리 브레스",
@@ -439,15 +439,15 @@
 		},
 		"Horrifying Visage": {
 			"name": "소름 끼치는 얼굴",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 60ft 이내에 있고 대상을 볼 수 있는 모든 비{type} 크리처는 각자 <strong>DC 13 지혜</strong> 내성 굴림에 성공하지 못하면 1분 동안 공포에 빠집니다. 또한 내성 굴림에 5회 이상 실패하면 목표는 1d4x10년 나이가 들어 버립니다. </p><p>공포 상태인 한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 내성 굴림에 성공했거나 효과가 종료된 경우, 목표는 다음 24시간 동안 해당 [[lookup @name lowercase]] 의 소름 끼치는 얼굴에 면역을 얻습니다. 노화 효과는 상급 회복(Greater Restoration) 주문으로 되돌릴 수 있으나, 해당 효과가 발생한 후 24시간 이내에만 그렇게 할 수 있습니다.</p></section><p>[[lookup @name lowercase]] 주변 60ft 이내에 있고 대상을 볼 수 있는 모든 비{type} 크리처는 각자 <strong>지혜</strong> 내성 굴림에 성공해야만 합니다. 한 목표는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공하면 상태가 종료됩니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 60ft 이내에 있고 대상을 볼 수 있는 모든 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>DC 13 지혜</strong> 내성 굴림에 성공하지 못하면 1분 동안 공포에 빠집니다. 또한 내성 굴림에 5회 이상 실패하면 목표는 1d4x10년 나이가 들어 버립니다. </p><p>공포 상태인 한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 내성 굴림에 성공했거나 효과가 종료된 경우, 목표는 다음 24시간 동안 해당 [[lookup @name lowercase]] 의 소름 끼치는 얼굴에 면역을 얻습니다. 노화 효과는 상급 회복(Greater Restoration) 주문으로 되돌릴 수 있으나, 해당 효과가 발생한 후 24시간 이내에만 그렇게 할 수 있습니다.</p></section><p>[[lookup @name lowercase]] 주변 60ft 이내에 있고 대상을 볼 수 있는 모든 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>지혜</strong> 내성 굴림에 성공해야만 합니다. 한 목표는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공하면 상태가 종료됩니다.</p>"
 		},
 		"Horror Nimbus": {
 			"name": "공포의 후광",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 은(는) 마법적으로 반짝거리는 여러 색의 빛을 발합니다. [[lookup @name lowercase]] 주변 15ft 이내에 있고 빛을 볼 수 있는 모든 비{type} 크리처는 각자 <strong>DC 15 지혜</strong> 내성 굴림에 성공하지 못하면 1분 동안 공포에 빠집니다. </p><p>한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 한 크리처가 내성 굴림에 성공했거나 적용된 효과가 종료된 경우, 해당 크리처는 다음 24시간 동안 [[lookup @name lowercase]] 의 공포의 후광에 면역을 얻습니다.</p></section><p>한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 내성 굴림에 성공했거나 효과가 종료된 경우, 해당 크리처는 다음 24시간 동안 [[lookup @name lowercase]] 의 공포의 후광에 면역을 얻습니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 은(는) 마법적으로 반짝거리는 여러 색의 빛을 발합니다. [[lookup @name lowercase]] 주변 15ft 이내에 있고 빛을 볼 수 있는 모든 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>DC 15 지혜</strong> 내성 굴림에 성공하지 못하면 1분 동안 공포에 빠집니다. </p><p>한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 한 크리처가 내성 굴림에 성공했거나 적용된 효과가 종료된 경우, 해당 크리처는 다음 24시간 동안 [[lookup @name lowercase]] 의 공포의 후광에 면역을 얻습니다.</p></section><p>한 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공할 시 효과가 종료됩니다. 내성 굴림에 성공했거나 효과가 종료된 경우, 해당 크리처는 다음 24시간 동안 [[lookup @name lowercase]] 의 공포의 후광에 면역을 얻습니다.</p>"
 		},
 		"Ice Walk": {
 			"name": "얼음 걷기",
-			"description": "<p>{type}은(는) 능력 판정 없이 얼어붙은 표면을 통과하여 이동하고 등반할 수 있습니다. 또한, 대상은 눈이나 얼음으로 이루어진 어려운 지형에서 추가 이동속도를 소모하지 않습니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]은(는) 능력 판정 없이 얼어붙은 표면을 통과하여 이동하고 등반할 수 있습니다. 또한, 대상은 눈이나 얼음으로 이루어진 어려운 지형에서 추가 이동속도를 소모하지 않습니다.</p>"
 		},
 		"Ignited Illumination": {
 			"name": "타오르는 광원",
@@ -475,7 +475,7 @@
 		},
 		"Innate Spellcasting": {
 			"name": "선천적 주문시전",
-			"description": "<p>{type}의 선천적 주문시전 능력치는 매력입니다. 대상은 물질 요소 없이도 다음 주문을 선천적으로 시전할 수 있습니다.</p><p>의지로 시전: 마법 탐지(Detect Magic), 안개 구름(Fog Cloud), 빛(Light)</p><p>각각 3회/일: 깃털 낙하(feather fall), 비행(Fly), 안개 걸음(Misty Step), 염동력(Telekinesis)</p><p>각각 1회/일: 기후 조종(Control Weather), 가스 형상(Gaseous Form)</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]의 선천적 주문시전 능력치는 매력입니다. 대상은 물질 요소 없이도 다음 주문을 선천적으로 시전할 수 있습니다.</p><p>의지로 시전: 마법 탐지(Detect Magic), 안개 구름(Fog Cloud), 빛(Light)</p><p>각각 3회/일: 깃털 낙하(feather fall), 비행(Fly), 안개 걸음(Misty Step), 염동력(Telekinesis)</p><p>각각 1회/일: 기후 조종(Control Weather), 가스 형상(Gaseous Form)</p>"
 		},
 		"Inscrutable": {
 			"name": "불가해",
@@ -519,7 +519,7 @@
 		},
 		"Legendary Resistance": {
 			"name": "전설적 저항",
-			"description": "<p>{type}의 내성 굴림이 실패한 경우, 대신 성공했다고 간주할 수 있습니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]의 내성 굴림이 실패한 경우, 대신 성공했다고 간주할 수 있습니다.</p>"
 		},
 		"Light Sensitivity": {
 			"name": "광과민성",
@@ -531,7 +531,7 @@
 		},
 		"Lightning Breath": {
 			"name": "번개 브레스",
-			"description": "<section class=\"secret\"><p>{type}이(가) 5ft 너비의 90ft 직선 범위에 뇌전을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 19 민첩</strong> 내성 굴림을 하여 실패하면 <strong>66(12d10)점의 <em>번개 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p></p></section><p>{type}이(가) 5ft 너비의 90ft 직선 범위에 뇌전을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>민첩</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]이(가) 5ft 너비의 90ft 직선 범위에 뇌전을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>DC 19 민첩</strong> 내성 굴림을 하여 실패하면 <strong>66(12d10)점의 <em>번개 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p></p></section><p> [[lookup @details.type.config.label lowercase]]이(가) 5ft 너비의 90ft 직선 범위에 뇌전을 뿜어냅니다. 해당하는 직선 범위에 있던 크리처는 각자 <strong>민첩</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Lightning Storm": {
 			"name": "번개 폭풍",
@@ -575,7 +575,7 @@
 		},
 		"Moan": {
 			"name": "신음",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 60ft 이내에 있고 대상의 신음을 들을 수 있는 모든 비{type} 크리처는 각자 <strong>DC 13 지혜</strong> 내성 굴림을 해서 성공하지 못하면 [[lookup @name lowercase]] 의 다음 턴이 끝날 때까지 공포에 빠집니다. </p><p>한 크리처가 내성 굴림에 성공한 경우, 해당 크리처는 다음 24시간 동안 [[lookup @name lowercase]] 의 신음에 면역을 얻습니다.</p></section><p>[[lookup @name lowercase]] 의 주변 60ft 이내에 있으며 대상의 신음을 들을 수 있고 비{type}인 크리처는 각자 <strong>지혜</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 60ft 이내에 있고 대상의 신음을 들을 수 있는 모든 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>DC 13 지혜</strong> 내성 굴림을 해서 성공하지 못하면 [[lookup @name lowercase]] 의 다음 턴이 끝날 때까지 공포에 빠집니다. </p><p>한 크리처가 내성 굴림에 성공한 경우, 해당 크리처는 다음 24시간 동안 [[lookup @name lowercase]] 의 신음에 면역을 얻습니다.</p></section><p>[[lookup @name lowercase]] 의 주변 60ft 이내에 있으며 대상의 신음을 들을 수 있고 비 [[lookup @details.type.config.label lowercase]]인 크리처는 각자 <strong>지혜</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Move (legendary)": {
 			"name": "이동(전설적)",
@@ -611,7 +611,7 @@
 		},
 		"Paralyzing Breath": {
 			"name": "마비 브레스",
-			"description": "<section class=\"secret\">\n<p>**마비 브레스.** {type}이(가) 60ft의 원뿔형 범위에 마비 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 20 건강</strong> 내성 굴림을 하여 성공하지 못할 경우 1분 동안 마비됩니다. 해당 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 다시 반복할 수 있으며 내성 굴림에 성공할 시 해당 효과가 종료됩니다.</p>\n</section>\n<p>{type}이(가) 60ft의 원뿔형 범위에 마비 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**마비 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 마비 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 20 건강</strong> 내성 굴림을 하여 성공하지 못할 경우 1분 동안 마비됩니다. 해당 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 다시 반복할 수 있으며 내성 굴림에 성공할 시 해당 효과가 종료됩니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 마비 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Paralyzing Touch": {
 			"name": "마비의 손길",
@@ -635,11 +635,11 @@
 		},
 		"Poison Breath": {
 			"name": "독성 브레스",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이(가) 60ft의 원뿔형 범위에 유독한 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 실패하면 <strong>56(16d6)점의 <em>냉기 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p></p></section><p>{type}이(가) 60ft의 원뿔형 범위에 유독한 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이(가) 60ft의 원뿔형 범위에 유독한 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 실패하면 <strong>56(16d6)점의 <em>냉기 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p></p></section><p> [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 유독한 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Possession": {
 			"name": "빙의",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>DC 13 매력</strong> 내성 굴림을 하여 성공하지 못하면 [[lookup @name lowercase]] 에게 빙의당하며, 이후 [[lookup @name lowercase]] 은(는) 사라지고 해당 목표는 행동불능 상태가 되어 육신의 통제권을 상실합니다. 이제 [[lookup @name lowercase]] 이(가) 육신을 조종하지만 목표의 의식을 빼앗지는 않습니다. </p><p>{type} 퇴치 효과가 있는 경우를 제외하면 [[lookup @name lowercase]] 을(를) 모든 공격, 주문, 다른 효과의 목표로 삼을 수 없으며 [[lookup @name lowercase]] 의 성향, 지능, 지혜, 매력 및 매혹 수치와 공포 상태 면역은 그대로 유지됩니다. 이를 제외하면 빙의된 목표의 게임적 정보를 그대로 사용하지만 목표의 지식과 클래스 특성 또는 숙련도를 활용할 수 없습니다. 빙의는 육신의 히트 포인트가 0점이 되거나, [[lookup @name lowercase]] 의 추가 행동으로 빙의를 종료했거나, 악과 선 퇴치(Dispel Evil and Good) 주문 등과 같은 효과로 [[lookup @name lowercase]] 을(를) 퇴치하거나 강제로 쫓아낼 때까지 계속됩니다. 빙의가 종료될 때 육체로부터 5ft 이내에 있는 점유되지 않은 공간에 [[lookup @name lowercase]] 이(가) 다시 나타납니다. 해당 목표가 내성 굴림에 성공했거나 빙의가 종료된 후에는 다음 24시간 동안 이 [[lookup @name lowercase]] 의 빙의에 면역을 얻습니다.</p></section><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>매력</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>DC 13 매력</strong> 내성 굴림을 하여 성공하지 못하면 [[lookup @name lowercase]] 에게 빙의당하며, 이후 [[lookup @name lowercase]] 은(는) 사라지고 해당 목표는 행동불능 상태가 되어 육신의 통제권을 상실합니다. 이제 [[lookup @name lowercase]] 이(가) 육신을 조종하지만 목표의 의식을 빼앗지는 않습니다. </p><p> [[lookup @details.type.config.label lowercase]] 퇴치 효과가 있는 경우를 제외하면 [[lookup @name lowercase]] 을(를) 모든 공격, 주문, 다른 효과의 목표로 삼을 수 없으며 [[lookup @name lowercase]] 의 성향, 지능, 지혜, 매력 및 매혹 수치와 공포 상태 면역은 그대로 유지됩니다. 이를 제외하면 빙의된 목표의 게임적 정보를 그대로 사용하지만 목표의 지식과 클래스 특성 또는 숙련도를 활용할 수 없습니다. 빙의는 육신의 히트 포인트가 0점이 되거나, [[lookup @name lowercase]] 의 추가 행동으로 빙의를 종료했거나, 악과 선 퇴치(Dispel Evil and Good) 주문 등과 같은 효과로 [[lookup @name lowercase]] 을(를) 퇴치하거나 강제로 쫓아낼 때까지 계속됩니다. 빙의가 종료될 때 육체로부터 5ft 이내에 있는 점유되지 않은 공간에 [[lookup @name lowercase]] 이(가) 다시 나타납니다. 해당 목표가 내성 굴림에 성공했거나 빙의가 종료된 후에는 다음 24시간 동안 이 [[lookup @name lowercase]] 의 빙의에 면역을 얻습니다.</p></section><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>매력</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Pounce": {
 			"name": "급습",
@@ -703,7 +703,7 @@
 		},
 		"Repulsion Breath": {
 			"name": "척력 브레스",
-			"description": "<section class=\"secret\">\n<p>**척력 브레스.** {type}이(가) 30ft의 원뿔형 범위에 밀어내는 기운을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 19 근력</strong> 내성 굴림에 성공해야만 합니다. 내성 굴림에 실패하면 해당 크리처는 {type}(으)로부터 60ft 밀려납니다.</p>\n</section>\n<p>{type}이(가) 30ft의 원뿔형 범위에 밀어내는 기운을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**척력 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 30ft의 원뿔형 범위에 밀어내는 기운을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 19 근력</strong> 내성 굴림에 성공해야만 합니다. 내성 굴림에 실패하면 해당 크리처는  [[lookup @details.type.config.label lowercase]](으)로부터 60ft 밀려납니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 30ft의 원뿔형 범위에 밀어내는 기운을 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Roar": {
 			"name": "포효",
@@ -711,7 +711,7 @@
 		},
 		"Rock Catching": {
 			"name": "바위 잡기",
-			"description": "<section class=\"secret\"><p>{type}에게 바위나 비슷한 물체가 던져지면, DC 10 민첩 내성 굴림에 성공한 경우 {type}은(는) 던져진 물체를 붙잡을 수 있으며 해당 물체로부터 <em>타격 피해</em>를 받지 않습니다.</p></section><p>{type}에게 바위나 비슷한 물체가 던져지면, {type}은(는) 던져진 물체를 붙잡을 수 있으며 해당 물체로부터 <em>타격 피해</em>를 받지 않습니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]에게 바위나 비슷한 물체가 던져지면, DC 10 민첩 내성 굴림에 성공한 경우  [[lookup @details.type.config.label lowercase]]은(는) 던져진 물체를 붙잡을 수 있으며 해당 물체로부터 <em>타격 피해</em>를 받지 않습니다.</p></section><p> [[lookup @details.type.config.label lowercase]]에게 바위나 비슷한 물체가 던져지면,  [[lookup @details.type.config.label lowercase]]은(는) 던져진 물체를 붙잡을 수 있으며 해당 물체로부터 <em>타격 피해</em>를 받지 않습니다.</p>"
 		},
 		"Running Leap": {
 			"name": "질주 도약",
@@ -719,7 +719,7 @@
 		},
 		"Rust Metal": {
 			"name": "금속 녹슬게 하기",
-			"description": "<section class=\"secret\"><p>{type}에 명중한 금속으로 만든 모든 비마법적인 무기는 부식됩니다. <strong>피해를 가한</strong> 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다. 페널티가 -5까지 내려가면 해당 무기는 파괴됩니다. [[lookup @name lowercase]] 에 명중한 비마법적인 금속 탄환은 피해를 가한 후에 파괴됩니다.</p></section><p>[[lookup @name lowercase]] 에 명중한 금속으로 만든 모든 비마법적인 무기는 부식됩니다. <strong>피해를 가한</strong> 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]에 명중한 금속으로 만든 모든 비마법적인 무기는 부식됩니다. <strong>피해를 가한</strong> 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다. 페널티가 -5까지 내려가면 해당 무기는 파괴됩니다. [[lookup @name lowercase]] 에 명중한 비마법적인 금속 탄환은 피해를 가한 후에 파괴됩니다.</p></section><p>[[lookup @name lowercase]] 에 명중한 금속으로 만든 모든 비마법적인 무기는 부식됩니다. <strong>피해를 가한</strong> 후에, 해당 무기의 피해 굴림에 영구적이며 누적되는 -1 페널티가 적용됩니다.</p>"
 		},
 		"Scare": {
 			"name": "겁주기",
@@ -767,15 +767,15 @@
 		},
 		"Siege Monster": {
 			"name": "공성 괴물",
-			"description": "<p>{type}은(는) 물체와 구조물에 두 배의 피해를 가합니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]은(는) 물체와 구조물에 두 배의 피해를 가합니다.</p>"
 		},
 		"Sleep Breath": {
 			"name": "수면 브레스",
-			"description": "<section class=\"secret\">\n<p>**수면 브레스.** {type}이(가) 60ft의 원뿔형 범위에 수면 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 성공하지 못할 경우 10분 동안 의식불명 상태에 빠집니다. 한 크리처에게 적용된 이 효과는 해당 크리처가 피해를 입거나 누군가가 행동을 사용하여 대상을 깨운 경우 종료됩니다.</p>\n</section>\n<p>{type}이(가) 90ft의 원뿔형 범위에 수면 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**수면 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 수면 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 성공하지 못할 경우 10분 동안 의식불명 상태에 빠집니다. 한 크리처에게 적용된 이 효과는 해당 크리처가 피해를 입거나 누군가가 행동을 사용하여 대상을 깨운 경우 종료됩니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 90ft의 원뿔형 범위에 수면 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Slowing Breath": {
 			"name": "감속 브레스",
-			"description": "<section class=\"secret\">\n<p>**감속 브레스.** {type}이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림에 성공해야만 합니다. 내성 굴림에 실패하면 해당 크리처는 반응행동을 사용할 수 없으며 이동속도가 절반으로 줄어들고 자신의 턴에 1회를 초과하여 공격할 수 없습니다. 추가로 해당 크리처는 자신의 턴에 행동이나 추가행동 중 하나만 사용할 수 있습니다. 이 효과는 1분 동안 지속됩니다. 해당 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 다시 반복할 수 있으며 내성 굴림에 성공할 시 해당 효과가 종료됩니다.</p>\n</section>\n<p>{type}이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**감속 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림에 성공해야만 합니다. 내성 굴림에 실패하면 해당 크리처는 반응행동을 사용할 수 없으며 이동속도가 절반으로 줄어들고 자신의 턴에 1회를 초과하여 공격할 수 없습니다. 추가로 해당 크리처는 자신의 턴에 행동이나 추가행동 중 하나만 사용할 수 있습니다. 이 효과는 1분 동안 지속됩니다. 해당 크리처는 자신의 턴이 끝날 때마다 해당 내성 굴림을 다시 반복할 수 있으며 내성 굴림에 성공할 시 해당 효과가 종료됩니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Sneak Attack": {
 			"name": "은신 공격",
@@ -819,7 +819,7 @@
 		},
 		"Steam Breath": {
 			"name": "증기 브레스",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이(가) 60ft의 원뿔형 범위에 델 것처럼 뜨거운 증기를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 실패하면 <strong>52(15d6)점의 <em>화염 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p>수중에 있어도 해당 피해에는 저항이 부여되지 않습니다.</p></section><p>{type}이(가) 60ft의 원뿔형 범위에 델 것처럼 뜨거운 증기를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이(가) 60ft의 원뿔형 범위에 델 것처럼 뜨거운 증기를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>DC 18 건강</strong> 내성 굴림을 하여 실패하면 <strong>52(15d6)점의 <em>화염 피해</em></strong>를 입고, 성공하면 그 절반의 피해를 입습니다.</p><p>수중에 있어도 해당 피해에는 저항이 부여되지 않습니다.</p></section><p> [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 델 것처럼 뜨거운 증기를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Stench": {
 			"name": "악취",
@@ -835,7 +835,7 @@
 		},
 		"Stunning Screech": {
 			"name": "충격적인 절규",
-			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 이(가) 끔찍한 절규를 토해냅니다. [[lookup @name lowercase]] 주변 20ft 이내에 있으며 이 절규를 들을 수 있는 모든 비{type} 크리처는 각자 <strong>DC 14 건강</strong> 내성 굴림에 성공하지 못할 경우 [[lookup @name lowercase]] 의 다음 턴까지 현기증을 느낍니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이(가) 끔찍한 절규를 토해냅니다. [[lookup @name lowercase]] 주변 20ft 이내에 있으며 이 절규를 들을 수 있는 모든 비{type} 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 이(가) 끔찍한 절규를 토해냅니다. [[lookup @name lowercase]] 주변 20ft 이내에 있으며 이 절규를 들을 수 있는 모든 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>DC 14 건강</strong> 내성 굴림에 성공하지 못할 경우 [[lookup @name lowercase]] 의 다음 턴까지 현기증을 느낍니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이(가) 끔찍한 절규를 토해냅니다. [[lookup @name lowercase]] 주변 20ft 이내에 있으며 이 절규를 들을 수 있는 모든 비 [[lookup @details.type.config.label lowercase]] 크리처는 각자 <strong>건강</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Sunlight Sensitivity": {
 			"name": "태양광 과민성",
@@ -951,7 +951,7 @@
 		},
 		"Unnerving Mask": {
 			"name": "불안하게 하는 가면",
-			"description": "<section class=\"secret\">\n<p>{type} 주변 30ft 이내에서 {type}에게 보이는 크리처 하나의 턴이 시작되면 {type}은(는) 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. 해당 크리처가 {type}을(를) 볼 수 있는 경우, <strong> DC 14 지혜 내성 굴림</strong>에 성공하지 못할 경우 자신의 턴이 끝날 때까지 공포에 빠집니다.</p>\n</section>\n<p>{type}은(는) 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. <strong>지혜</strong> 내성 굴림을 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p> [[lookup @details.type.config.label lowercase]] 주변 30ft 이내에서  [[lookup @details.type.config.label lowercase]]에게 보이는 크리처 하나의 턴이 시작되면  [[lookup @details.type.config.label lowercase]]은(는) 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. 해당 크리처가  [[lookup @details.type.config.label lowercase]]을(를) 볼 수 있는 경우, <strong> DC 14 지혜 내성 굴림</strong>에 성공하지 못할 경우 자신의 턴이 끝날 때까지 공포에 빠집니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]은(는) 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. <strong>지혜</strong> 내성 굴림을 합니다.</p>"
 		},
 		"Vampire Weaknesses": {
 			"name": "뱀파이어 약점",
@@ -975,15 +975,15 @@
 		},
 		"Water Form": {
 			"name": "액체 형태",
-			"description": "<p>{type}은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다. {type}은(는) 억지로 끼어 들어가지 않고도 1인치 정도로 좁은 공간을 통과하여 이동할 수 있습니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]은(는) 적대적인 크리처가 점유한 공간으로 들어가 해당 위치에 멈춰 설 수 있습니다.  [[lookup @details.type.config.label lowercase]]은(는) 억지로 끼어 들어가지 않고도 1인치 정도로 좁은 공간을 통과하여 이동할 수 있습니다.</p>"
 		},
 		"Water Susceptibility": {
 			"name": "물 과민성",
-			"description": "<p>{type}에게 뿌려진 물 1갤런당, 혹은 수중에서 이동한 거리 <strong>5ft</strong>당 대상은 <strong> 1점의 <em>냉기 피해</em></strong>를 입습니다.</p>"
+			"description": "<p> [[lookup @details.type.config.label lowercase]]에게 뿌려진 물 1갤런당, 혹은 수중에서 이동한 거리 <strong>5ft</strong>당 대상은 <strong> 1점의 <em>냉기 피해</em></strong>를 입습니다.</p>"
 		},
 		"Weakening Breath": {
 			"name": "약화 브레스",
-			"description": "<section class=\"secret\">\n<p>**약화 브레스.** {type}이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당 구역에 있던 크리처는 각자 <strong>DC 21 근력</strong> 내성 굴림에 성공하지 못하면 1분 동안 근력 기반 공격 굴림, 근력 판정, 근력 내성 굴림에 불리함이 적용됩니다. 한 크리처는 자신의 턴이 끝날 때마다 내성 굴림을 다시 반복할 수 있으며 굴림에 성공할 시 해당 효과가 종료됩니다.</p>\n</section>\n<p>{type}이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>**약화 브레스.**  [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당 구역에 있던 크리처는 각자 <strong>DC 21 근력</strong> 내성 굴림에 성공하지 못하면 1분 동안 근력 기반 공격 굴림, 근력 판정, 근력 내성 굴림에 불리함이 적용됩니다. 한 크리처는 자신의 턴이 끝날 때마다 내성 굴림을 다시 반복할 수 있으며 굴림에 성공할 시 해당 효과가 종료됩니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]이(가) 60ft의 원뿔형 범위에 가스를 뿜어냅니다. 해당하는 범위에 있던 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Web": {
 			"name": "거미줄",
@@ -999,11 +999,11 @@
 		},
 		"Whelm": {
 			"name": "함닉",
-			"description": "<section class=\"secret\"><p>{type}의 공간에 있는 크리처는 각자 <strong>DC 15 근력</strong> 내성 굴림을 해야만 합니다. 실패한 경우, 한 목표가 <strong>13(2d8 + 4)점의 <em>타격 피해</em></strong>를 입습니다. 해당 크리처의 크기가 대형 이하인 경우에는 속박까지 당합니다(탈출 DC 14). 속박이 끝나기 전까지, 목표는 포박당하며 수중 호흡을 할 수 없는 경우 숨을 쉴 수 없습니다. </p><p>내성 굴림에 성공한 경우, 목표는 {type}의 공간에서 밀려납니다. {type}은(는) 한 번에 대형 크리처 하나, 또는 중형 이하 크리처 최대 둘을 속박할 수 있습니다. {type}의 턴이 시작될 때마다 대상에게 속박당한 목표는 각자 <strong>13(2d8 + 4)점의 <em>타격 피해</em></strong>를 입습니다. {type} 주변 5ft 이내에 있는 크리처 하나가 행동 1회로 DC 14 근력 판정을 하여 성공할 경우 한 크리처나 물체 하나를 대상으로부터 당겨서 빼낼 수 있습니다.</p></section><p>{type}의 공간에 있는 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다. 해당 크리처의 크기가 대형 이하인 경우에는 속박까지 당합니다. 속박이 끝나기 전까지, 목표는 포박당하며 수중 호흡을 할 수 없는 경우 숨을 쉴 수 없습니다. {type} 주변 5ft 이내에 있는 크리처 하나가 행동 1회로 근력 판정을 하여 성공할 경우 한 크리처나 물체 하나를 대상으로부터 당겨서 빼낼 수 있습니다.</p>"
+			"description": "<section class=\"secret\"><p> [[lookup @details.type.config.label lowercase]]의 공간에 있는 크리처는 각자 <strong>DC 15 근력</strong> 내성 굴림을 해야만 합니다. 실패한 경우, 한 목표가 <strong>13(2d8 + 4)점의 <em>타격 피해</em></strong>를 입습니다. 해당 크리처의 크기가 대형 이하인 경우에는 속박까지 당합니다(탈출 DC 14). 속박이 끝나기 전까지, 목표는 포박당하며 수중 호흡을 할 수 없는 경우 숨을 쉴 수 없습니다. </p><p>내성 굴림에 성공한 경우, 목표는  [[lookup @details.type.config.label lowercase]]의 공간에서 밀려납니다.  [[lookup @details.type.config.label lowercase]]은(는) 한 번에 대형 크리처 하나, 또는 중형 이하 크리처 최대 둘을 속박할 수 있습니다.  [[lookup @details.type.config.label lowercase]]의 턴이 시작될 때마다 대상에게 속박당한 목표는 각자 <strong>13(2d8 + 4)점의 <em>타격 피해</em></strong>를 입습니다.  [[lookup @details.type.config.label lowercase]] 주변 5ft 이내에 있는 크리처 하나가 행동 1회로 DC 14 근력 판정을 하여 성공할 경우 한 크리처나 물체 하나를 대상으로부터 당겨서 빼낼 수 있습니다.</p></section><p> [[lookup @details.type.config.label lowercase]]의 공간에 있는 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다. 해당 크리처의 크기가 대형 이하인 경우에는 속박까지 당합니다. 속박이 끝나기 전까지, 목표는 포박당하며 수중 호흡을 할 수 없는 경우 숨을 쉴 수 없습니다.  [[lookup @details.type.config.label lowercase]] 주변 5ft 이내에 있는 크리처 하나가 행동 1회로 근력 판정을 하여 성공할 경우 한 크리처나 물체 하나를 대상으로부터 당겨서 빼낼 수 있습니다.</p>"
 		},
 		"Whirlwind": {
 			"name": "회오리바람",
-			"description": "<section class=\"secret\">\n<p>{type}의 공간에 있는 크리처는 각자 <strong>DC 13 근력</strong> 내성 굴림을 해야만 합니다. 실패한 경우, 한 목표는 <strong>15(3d8 + 2)점의 <em>타격 피해</em></strong>를 입고 {type}(으)로부터 최대 20ft 떨어진 임의의 방향으로 내던져져 넘어집니다.</p><p>던져진 목표가 물체에 부딪힌 경우, 던져진 거리 10ft당 <strong>3(1d6)점의 <em>타격 피해</em></strong>를 입습니다. 목표가 또다른 크리처에게 던져진 경우, 해당 크리처는 <strong>DC 13 민첩</strong> 내성 굴림을 하여 성공하지 못할 경우 동일한 피해를 입고 넘어집니다. 내성 굴림에 성공한 경우, 목표는 절반의 <em>타격 피해</em>를 입고 날려지거나 넘어지지 않습니다.</p>\n</section>\n<p>{type}의 공간에 있는 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다. 실패한 경우, 한 목표는 {type}(으)로부터 최대 20ft 떨어진 임의의 방향으로 내던져져 넘어집니다. 목표가 또다른 크리처에게 던져진 경우, 해당 크리처는 <strong>민첩</strong> 내성 굴림을 하여 성공하지 못할 경우 동일한 피해를 입고 넘어집니다.</p>"
+			"description": "<section class=\"secret\">\n<p> [[lookup @details.type.config.label lowercase]]의 공간에 있는 크리처는 각자 <strong>DC 13 근력</strong> 내성 굴림을 해야만 합니다. 실패한 경우, 한 목표는 <strong>15(3d8 + 2)점의 <em>타격 피해</em></strong>를 입고  [[lookup @details.type.config.label lowercase]](으)로부터 최대 20ft 떨어진 임의의 방향으로 내던져져 넘어집니다.</p><p>던져진 목표가 물체에 부딪힌 경우, 던져진 거리 10ft당 <strong>3(1d6)점의 <em>타격 피해</em></strong>를 입습니다. 목표가 또다른 크리처에게 던져진 경우, 해당 크리처는 <strong>DC 13 민첩</strong> 내성 굴림을 하여 성공하지 못할 경우 동일한 피해를 입고 넘어집니다. 내성 굴림에 성공한 경우, 목표는 절반의 <em>타격 피해</em>를 입고 날려지거나 넘어지지 않습니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]의 공간에 있는 크리처는 각자 <strong>근력</strong> 내성 굴림을 해야만 합니다. 실패한 경우, 한 목표는  [[lookup @details.type.config.label lowercase]](으)로부터 최대 20ft 떨어진 임의의 방향으로 내던져져 넘어집니다. 목표가 또다른 크리처에게 던져진 경우, 해당 크리처는 <strong>민첩</strong> 내성 굴림을 하여 성공하지 못할 경우 동일한 피해를 입고 넘어집니다.</p>"
 		},
 		"Whirlwind of Sand": {
 			"name": "모래 회오리바람",
