@@ -103,7 +103,7 @@
 		},
 		"Blinding Gaze": {
 			"name": "실명의 시선",
-			"description": "<section class=\"secret\">[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있고 자신이 볼 수 있는 크리처 하나를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 목표는 <strong>DC 15 건강</strong> 내성 굴림에 성공하지 못하면 실명 상태를 제거하는 하급 회복(Lesser Restoration) 주문 등의 마법을 걸기 전에는 실명합니다.\n</section>\n<p>[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있고 자신이 볼 수 있는 크리처 하나를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 목표는 건강 내성 굴림에 성공하지 못하면 실명합니다.</p>"
+			"description": "<section class=\"secret\">[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있고 자신이 볼 수 있는 크리처 하나를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 목표는 <strong>DC 15 건강</strong> 내성 굴림에 성공하지 못하면 실명 상태를 제거하는 하급 회복(Lesser Restoration) 주문 등의 마법을 걸기 전에는 실명합니다.\n</section>\n<p>[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있고 자신이 볼 수 있는 크리처 하나를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 목표는 건강 내성 굴림에 성공하지 못하면 실명합니다.</p>"
 		},
 		"Blinding Spittle": {
 			"name": "실명 타액",
@@ -215,7 +215,7 @@
 		},
 		"Death Glare": {
 			"name": "죽음의 눈빛",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 의 주변 30ft 이내에 있으며 대상이 볼 수 있는 공포 상태인 크리처 하나가 [[lookup @name lowercase]] 의 목표가 됩니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 이 마법에 대항하여 <strong>DC 11 지혜</strong> 내성 굴림에 성공하지 못하면 히트 포인트가 0점으로 떨어집니다.</p><p></p>\n</section>\n<p>[[lookup @name lowercase]] 의 주변 30ft 이내에 있으며 대상이 볼 수 있는 공포 상태인 크리처 하나가 [[lookup @name lowercase]] 의 목표가 됩니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 이 마법에 대항하여 <strong>지혜</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 의 주변 30ft 이내에 있으며 대상이 볼 수 있는 공포 상태인 크리처 하나가 [[lookup @name lowercase]] 의 목표가 됩니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 이 마법에 대항하여 <strong>DC 11 지혜</strong> 내성 굴림에 성공하지 못하면 히트 포인트가 0점으로 떨어집니다.</p><p></p>\n</section>\n<p>[[lookup @name lowercase]] 의 주변 30ft 이내에 있으며 대상이 볼 수 있는 공포 상태인 크리처 하나가 [[lookup @name lowercase]] 의 목표가 됩니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 이 마법에 대항하여 <strong>지혜</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Death Throes": {
 			"name": "죽음의 고통",
@@ -247,7 +247,7 @@
 		},
 		"Dreadful Glare": {
 			"name": "무시무시한 눈빛",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이/가 주변 60ft 이내에 있으며 자신이 볼 수 있는 한 크리처를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우 이 마법에 대항하여 <strong>DC 11 지혜</strong> 내성 굴림에 성공하지 못하면 [[lookup @name lowercase]] 의 다음 턴이 끝날 때까지 공포에 빠집니다.</p><p>해당 목표가 5번 이상 내성 굴림에 실패할 경우 동일한 시간 동안 마비 상태까지 적용됩니다. 내성 굴림에 성공한 한 목표는 다음 24시간 동안 모든 미라(단, 미라 군주는 예외)의 무시무시한 눈빛에 면역을 얻습니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이/가 주변 60ft 이내에 있으며 자신이 볼 수 있는 한 크리처를 목표로 삼니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 이 마법에 대항하여 <strong>지혜</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 이/가 주변 60ft 이내에 있으며 자신이 볼 수 있는 한 크리처를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우 이 마법에 대항하여 <strong>DC 11 지혜</strong> 내성 굴림에 성공하지 못하면 [[lookup @name lowercase]] 의 다음 턴이 끝날 때까지 공포에 빠집니다.</p><p>해당 목표가 5번 이상 내성 굴림에 실패할 경우 동일한 시간 동안 마비 상태까지 적용됩니다. 내성 굴림에 성공한 한 목표는 다음 24시간 동안 모든 미라(단, 미라 군주는 예외)의 무시무시한 눈빛에 면역을 얻습니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이/가 주변 60ft 이내에 있으며 자신이 볼 수 있는 한 크리처를 목표로 삼니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 이 마법에 대항하여 <strong>지혜</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Duergar Resilience": {
 			"name": "듀에르가의 회복력",
@@ -323,7 +323,7 @@
 		},
 		"Fey Charm": {
 			"name": "요정 매혹",
-			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있으며 자신이 볼 수 있는 한 인간형 또는 야수 크리처를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 목표는 <strong>DC 14 지혜</strong> 내성 굴림에 성공하지 못하면 마법적으로 매혹당합니다.</p><p>매혹당한 크리처는 [[lookup @name lowercase]] 이/가 주의를 기울이고 보호해야 하는, 신뢰하는 동료라고 간주합니다. 목표는 [[lookup @name lowercase]] 에게 조종당하지 않지만, [[lookup @name lowercase]] 의 요청이나 행동을 할 수 있는 최대한 호의적으로 받아들입니다. [[lookup @name lowercase]] 또는 그 아군이 목표에게 뭔가 해로운 행위를 한 경우 목표는 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공하면 효과를 스스로 종료합니다. 그렇지 않을 경우, 효과는 24시간이 지나거나 또는 [[lookup @name lowercase]] 이/가 사망하거나, 목표와는 다른 세계에 있거나, 추가 행동을 소모하여 효과를 종료할 때까지 유지됩니다. 한 목표가 내성 굴림에 성공하면 다음 24시간 동안 [[lookup @name lowercase]] 의 요정 매혹에 면역을 얻습니다. 한 번에 [[lookup @name lowercase]] 에게 매혹당할 수 있는 크리처의 수는 인간형인 경우 하나, 야수인 경우 최대 셋까지로 제한됩니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있으며 자신이 볼 수 있는 한 인간형 또는 야수 크리처를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을(를) 볼 수 있는 경우, 목표는 <strong>지혜</strong> 내성 굴림을 해야만 합니다. [[lookup @name lowercase]] 또는 그 아군이 해당 목표에게 무언가 해로운 행동을 할 때마다 목표는 해당 내성 굴림을 반복할 수 있습니다.</p>"
+			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있으며 자신이 볼 수 있는 한 인간형 또는 야수 크리처를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 목표는 <strong>DC 14 지혜</strong> 내성 굴림에 성공하지 못하면 마법적으로 매혹당합니다.</p><p>매혹당한 크리처는 [[lookup @name lowercase]] 이/가 주의를 기울이고 보호해야 하는, 신뢰하는 동료라고 간주합니다. 목표는 [[lookup @name lowercase]] 에게 조종당하지 않지만, [[lookup @name lowercase]] 의 요청이나 행동을 할 수 있는 최대한 호의적으로 받아들입니다. [[lookup @name lowercase]] 또는 그 아군이 목표에게 뭔가 해로운 행위를 한 경우 목표는 해당 내성 굴림을 반복할 수 있으며, 내성 굴림에 성공하면 효과를 스스로 종료합니다. 그렇지 않을 경우, 효과는 24시간이 지나거나 또는 [[lookup @name lowercase]] 이/가 사망하거나, 목표와는 다른 세계에 있거나, 추가 행동을 소모하여 효과를 종료할 때까지 유지됩니다. 한 목표가 내성 굴림에 성공하면 다음 24시간 동안 [[lookup @name lowercase]] 의 요정 매혹에 면역을 얻습니다. 한 번에 [[lookup @name lowercase]] 에게 매혹당할 수 있는 크리처의 수는 인간형인 경우 하나, 야수인 경우 최대 셋까지로 제한됩니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이/가 주변 30ft 이내에 있으며 자신이 볼 수 있는 한 인간형 또는 야수 크리처를 목표로 삼습니다. 해당 목표가 [[lookup @name lowercase]] 을/를 볼 수 있는 경우, 목표는 <strong>지혜</strong> 내성 굴림을 해야만 합니다. [[lookup @name lowercase]] 또는 그 아군이 해당 목표에게 무언가 해로운 행동을 할 때마다 목표는 해당 내성 굴림을 반복할 수 있습니다.</p>"
 		},
 		"Fire Absorption": {
 			"name": "화염 흡수",
@@ -627,11 +627,11 @@
 		},
 		"Petrifying Gaze": {
 			"name": "석화의 눈길",
-			"description": "<section class=\"secret\">\n<p>한 크리처가 [[lookup @name lowercase]] 주변 <strong>30ft</strong> 이내에서 자신의 턴을 시작했으며 서로 상대방을 볼 수 있는 경우, [[lookup @name lowercase]] 이/가 행동불능 상태가 아니라면 [[lookup @name lowercase]] 은/는 해당 크리처에게 <strong>DC 12 건강 내성 굴림</strong>을 강제할 수 있습니다. 내성 굴림에 실패하면 해당 크리처는 마법적으로 돌로 변하기 시작하며 포박당합니다. 해당 크리처는 다음번 자기 턴이 끝날 때 내성 굴림을 반복해야만 합니다. 내성 굴림에 성공하면 해당 효과는 종료됩니다. 실패하면 해당 크리처는 상급 회복(Greater Restoration) 주문이나 다른 마법으로 효과가 해제되기 전까지 석화됩니다.</p><p>기습당하지 않는 크리처는 턴이 시작될 때 시선을 다른 곳으로 돌려 해당 내성 굴림을 회피할 수 있습니다. 이렇게 했을 때 대상은 다시 시선을 돌릴 수 있는 자신의 다음 턴이 시작되기 전까지 [[lookup @name lowercase]] 을(를) 볼 수 없습니다. 만약에 대상이 중간에 [[lookup @name lowercase]] 을(를) 보면 즉시 내성 굴림을 수행합니다<strong>. </strong>만약에 [[lookup @name lowercase]] 이/가 밝은 빛 속에서 <strong>30ft</strong> 이내에 있는 자신의 반사된 상을 볼 경우, 대상은 반사된 모습을 경쟁자라고 착각하고 자기 자신에게 시선을 돌립니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 은/는 크리처에게 <strong>건강</strong> 내성 굴림을 강제할 수 있습니다. 해당 크리처는 다음번 자기 턴이 끝날 때 내성 굴림을 반복해야만 합니다. 기습당하지 않는 크리처는 턴이 시작될 때 시선을 다른 곳으로 돌려 해당 내성 굴림을 회피할 수 있습니다. 이렇게 했을 때 대상은 다시 시선을 돌릴 수 있는 자신의 다음 턴이 시작되기 전까지 [[lookup @name lowercase]] 을(를) 볼 수 없습니다. 만약에 대상이 중간에 [[lookup @name lowercase]] 을(를) 보면 즉시 내성 굴림을 수행합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>한 크리처가 [[lookup @name lowercase]] 주변 <strong>30ft</strong> 이내에서 자신의 턴을 시작했으며 서로 상대방을 볼 수 있는 경우, [[lookup @name lowercase]] 이/가 행동불능 상태가 아니라면 [[lookup @name lowercase]] 은/는 해당 크리처에게 <strong>DC 12 건강 내성 굴림</strong>을 강제할 수 있습니다. 내성 굴림에 실패하면 해당 크리처는 마법적으로 돌로 변하기 시작하며 포박당합니다. 해당 크리처는 다음번 자기 턴이 끝날 때 내성 굴림을 반복해야만 합니다. 내성 굴림에 성공하면 해당 효과는 종료됩니다. 실패하면 해당 크리처는 상급 회복(Greater Restoration) 주문이나 다른 마법으로 효과가 해제되기 전까지 석화됩니다.</p><p>기습당하지 않는 크리처는 턴이 시작될 때 시선을 다른 곳으로 돌려 해당 내성 굴림을 회피할 수 있습니다. 이렇게 했을 때 대상은 다시 시선을 돌릴 수 있는 자신의 다음 턴이 시작되기 전까지 [[lookup @name lowercase]] 을/를 볼 수 없습니다. 만약에 대상이 중간에 [[lookup @name lowercase]] 을/를 보면 즉시 내성 굴림을 수행합니다<strong>. </strong>만약에 [[lookup @name lowercase]] 이/가 밝은 빛 속에서 <strong>30ft</strong> 이내에 있는 자신의 반사된 상을 볼 경우, 대상은 반사된 모습을 경쟁자라고 착각하고 자기 자신에게 시선을 돌립니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 은/는 크리처에게 <strong>건강</strong> 내성 굴림을 강제할 수 있습니다. 해당 크리처는 다음번 자기 턴이 끝날 때 내성 굴림을 반복해야만 합니다. 기습당하지 않는 크리처는 턴이 시작될 때 시선을 다른 곳으로 돌려 해당 내성 굴림을 회피할 수 있습니다. 이렇게 했을 때 대상은 다시 시선을 돌릴 수 있는 자신의 다음 턴이 시작되기 전까지 [[lookup @name lowercase]] 을/를 볼 수 없습니다. 만약에 대상이 중간에 [[lookup @name lowercase]] 을/를 보면 즉시 내성 굴림을 수행합니다.</p>"
 		},
 		"Phantasms": {
 			"name": "환영",
-			"description": "<p>밝은 빛 속에 있지 않은 경우, [[lookup @name lowercase]] 이/가 마법적으로 자기 자신을 복제한 세 개의 환영을 만들어냅니다. 분신들은 대상과 함께 이동하고 그 행동을 따라하며, 위치를 변경하여 어떤 [[lookup @name lowercase]] 이/가 본체인지 추적할 수 없게 합니다. [[lookup @name lowercase]] 이/가 한 번이라도 밝은 빛이 있는 구역으로 들어간 경우, 분신은 사라집니다.</p><p>분신이 남아 있는 동안 어떤 크리처가 [[lookup @name lowercase]] 을(를) 공격이나 해로운 주문의 표적으로 삼은 경우, 해당 크리처는 자신이 노린 것이 진짜 [[lookup @name lowercase]] 인지 혹은 분신 중 하나인지 판정하기 위해 임의 굴림을 해야 합니다. 앞을 볼 수 없거나 시각보다 다른 감각에 의존하는 크리처는 이 마법적 효과의 영향을 받지 않습니다.</p><p>분신에는 [[lookup @name lowercase]] 의 AC가 적용되고 [[lookup @name lowercase]] 의 내성 굴림을 사용합니다. 만약에 공격이 분신에게 명중했거나 분신이 피해를 가하는 효과에 대한 내성 굴림에 실패한 경우 분신은 사라집니다.</p>"
+			"description": "<p>밝은 빛 속에 있지 않은 경우, [[lookup @name lowercase]] 이/가 마법적으로 자기 자신을 복제한 세 개의 환영을 만들어냅니다. 분신들은 대상과 함께 이동하고 그 행동을 따라하며, 위치를 변경하여 어떤 [[lookup @name lowercase]] 이/가 본체인지 추적할 수 없게 합니다. [[lookup @name lowercase]] 이/가 한 번이라도 밝은 빛이 있는 구역으로 들어간 경우, 분신은 사라집니다.</p><p>분신이 남아 있는 동안 어떤 크리처가 [[lookup @name lowercase]] 을/를 공격이나 해로운 주문의 표적으로 삼은 경우, 해당 크리처는 자신이 노린 것이 진짜 [[lookup @name lowercase]] 인지 혹은 분신 중 하나인지 판정하기 위해 임의 굴림을 해야 합니다. 앞을 볼 수 없거나 시각보다 다른 감각에 의존하는 크리처는 이 마법적 효과의 영향을 받지 않습니다.</p><p>분신에는 [[lookup @name lowercase]] 의 AC가 적용되고 [[lookup @name lowercase]] 의 내성 굴림을 사용합니다. 만약에 공격이 분신에게 명중했거나 분신이 피해를 가하는 효과에 대한 내성 굴림에 실패한 경우 분신은 사라집니다.</p>"
 		},
 		"Poison Breath": {
 			"name": "독성 브레스",
@@ -639,7 +639,7 @@
 		},
 		"Possession": {
 			"name": "빙의",
-			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>DC 13 매력</strong> 내성 굴림을 하여 성공하지 못하면 [[lookup @name lowercase]] 에게 빙의당하며, 이후 [[lookup @name lowercase]] 은/는 사라지고 해당 목표는 행동불능 상태가 되어 육신의 통제권을 상실합니다. 이제 [[lookup @name lowercase]] 이/가 육신을 조종하지만 목표의 의식을 빼앗지는 않습니다. </p><p> [[lookup @details.type.config.label lowercase]] 퇴치 효과가 있는 경우를 제외하면 [[lookup @name lowercase]] 을(를) 모든 공격, 주문, 다른 효과의 목표로 삼을 수 없으며 [[lookup @name lowercase]] 의 성향, 지능, 지혜, 매력 및 매혹 수치와 공포 상태 면역은 그대로 유지됩니다. 이를 제외하면 빙의된 목표의 게임적 정보를 그대로 사용하지만 목표의 지식과 클래스 특성 또는 숙련도를 활용할 수 없습니다. 빙의는 육신의 히트 포인트가 0점이 되거나, [[lookup @name lowercase]] 의 추가 행동으로 빙의를 종료했거나, 악과 선 퇴치(Dispel Evil and Good) 주문 등과 같은 효과로 [[lookup @name lowercase]] 을(를) 퇴치하거나 강제로 쫓아낼 때까지 계속됩니다. 빙의가 종료될 때 육체로부터 5ft 이내에 있는 점유되지 않은 공간에 [[lookup @name lowercase]] 이/가 다시 나타납니다. 해당 목표가 내성 굴림에 성공했거나 빙의가 종료된 후에는 다음 24시간 동안 이 [[lookup @name lowercase]] 의 빙의에 면역을 얻습니다.</p></section><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>매력</strong> 내성 굴림을 해야만 합니다.</p>"
+			"description": "<section class=\"secret\"><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>DC 13 매력</strong> 내성 굴림을 하여 성공하지 못하면 [[lookup @name lowercase]] 에게 빙의당하며, 이후 [[lookup @name lowercase]] 은/는 사라지고 해당 목표는 행동불능 상태가 되어 육신의 통제권을 상실합니다. 이제 [[lookup @name lowercase]] 이/가 육신을 조종하지만 목표의 의식을 빼앗지는 않습니다. </p><p> [[lookup @details.type.config.label lowercase]] 퇴치 효과가 있는 경우를 제외하면 [[lookup @name lowercase]] 을/를 모든 공격, 주문, 다른 효과의 목표로 삼을 수 없으며 [[lookup @name lowercase]] 의 성향, 지능, 지혜, 매력 및 매혹 수치와 공포 상태 면역은 그대로 유지됩니다. 이를 제외하면 빙의된 목표의 게임적 정보를 그대로 사용하지만 목표의 지식과 클래스 특성 또는 숙련도를 활용할 수 없습니다. 빙의는 육신의 히트 포인트가 0점이 되거나, [[lookup @name lowercase]] 의 추가 행동으로 빙의를 종료했거나, 악과 선 퇴치(Dispel Evil and Good) 주문 등과 같은 효과로 [[lookup @name lowercase]] 을/를 퇴치하거나 강제로 쫓아낼 때까지 계속됩니다. 빙의가 종료될 때 육체로부터 5ft 이내에 있는 점유되지 않은 공간에 [[lookup @name lowercase]] 이/가 다시 나타납니다. 해당 목표가 내성 굴림에 성공했거나 빙의가 종료된 후에는 다음 24시간 동안 이 [[lookup @name lowercase]] 의 빙의에 면역을 얻습니다.</p></section><p>[[lookup @name lowercase]] 주변 5ft 이내에 있고 대상이 볼 수 있는 한 인간형 크리처는 <strong>매력</strong> 내성 굴림을 해야만 합니다.</p>"
 		},
 		"Pounce": {
 			"name": "급습",
@@ -675,7 +675,7 @@
 		},
 		"Reckless": {
 			"name": "무모함",
-			"description": "<p>턴이 시작될 때부터 턴이 계속되는 동안 [[lookup @name lowercase]] 의 모든 근거리 무기 공격 굴림에는 유리함이 적용되지만 [[lookup @name lowercase]] 을(를) 겨냥하는 공격 굴림에는 [[lookup @name lowercase]] 의 다음 턴이 시작되기 전까지 유리함이 적용됩니다.</p>"
+			"description": "<p>턴이 시작될 때부터 턴이 계속되는 동안 [[lookup @name lowercase]] 의 모든 근거리 무기 공격 굴림에는 유리함이 적용되지만 [[lookup @name lowercase]] 을/를 겨냥하는 공격 굴림에는 [[lookup @name lowercase]] 의 다음 턴이 시작되기 전까지 유리함이 적용됩니다.</p>"
 		},
 		"Reel": {
 			"name": "감아 당기기",
@@ -903,7 +903,7 @@
 		},
 		"Transparent": {
 			"name": "투명함",
-			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 을(를) 직접 볼 수 있는 상태라도 [[lookup @name lowercase]] 이/가 움직이거나 공격하지 않은 경우 [[lookup @name lowercase]] 의 위치를 파악하려면 <strong>DC 15 지혜(감지) 판정</strong>에 성공해야 합니다. [[lookup @name lowercase]] 이/가 있다는 사실을 모르고 [[lookup @name lowercase]] 의 점유 공간에 들어가려고 한 크리처는 [[lookup @name lowercase]] 에게 기습당합니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이/가 가려지지 않은 경우에도 대상이 움직이거나 공격하지 않은 경우에는 [[lookup @name lowercase]] 의 위치를 파악하려면 지혜(감지) 판정에 성공해야 합니다. 큐브가 있다는 사실을 모르고 [[lookup @name lowercase]] 의 점유 공간에 들어가려고 시도한 크리처는 [[lookup @name lowercase]] 에 기습당합니다.</p>"
+			"description": "<section class=\"secret\">\n<p>[[lookup @name lowercase]] 을/를 직접 볼 수 있는 상태라도 [[lookup @name lowercase]] 이/가 움직이거나 공격하지 않은 경우 [[lookup @name lowercase]] 의 위치를 파악하려면 <strong>DC 15 지혜(감지) 판정</strong>에 성공해야 합니다. [[lookup @name lowercase]] 이/가 있다는 사실을 모르고 [[lookup @name lowercase]] 의 점유 공간에 들어가려고 한 크리처는 [[lookup @name lowercase]] 에게 기습당합니다.</p>\n</section>\n<p>[[lookup @name lowercase]] 이/가 가려지지 않은 경우에도 대상이 움직이거나 공격하지 않은 경우에는 [[lookup @name lowercase]] 의 위치를 파악하려면 지혜(감지) 판정에 성공해야 합니다. 큐브가 있다는 사실을 모르고 [[lookup @name lowercase]] 의 점유 공간에 들어가려고 시도한 크리처는 [[lookup @name lowercase]] 에 기습당합니다.</p>"
 		},
 		"Treasure Sense": {
 			"name": "보물 감지",
@@ -951,7 +951,7 @@
 		},
 		"Unnerving Mask": {
 			"name": "불안하게 하는 가면",
-			"description": "<section class=\"secret\">\n<p> [[lookup @details.type.config.label lowercase]] 주변 30ft 이내에서  [[lookup @details.type.config.label lowercase]]에게 보이는 크리처 하나의 턴이 시작되면  [[lookup @details.type.config.label lowercase]]은/는 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. 해당 크리처가  [[lookup @details.type.config.label lowercase]]을(를) 볼 수 있는 경우, <strong> DC 14 지혜 내성 굴림</strong>에 성공하지 못할 경우 자신의 턴이 끝날 때까지 공포에 빠집니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]은/는 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. <strong>지혜</strong> 내성 굴림을 합니다.</p>"
+			"description": "<section class=\"secret\">\n<p> [[lookup @details.type.config.label lowercase]] 주변 30ft 이내에서  [[lookup @details.type.config.label lowercase]]에게 보이는 크리처 하나의 턴이 시작되면  [[lookup @details.type.config.label lowercase]]은/는 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. 해당 크리처가  [[lookup @details.type.config.label lowercase]]을/를 볼 수 있는 경우, <strong> DC 14 지혜 내성 굴림</strong>에 성공하지 못할 경우 자신의 턴이 끝날 때까지 공포에 빠집니다.</p>\n</section>\n<p> [[lookup @details.type.config.label lowercase]]은/는 해당 크리처의 고인이 된 사랑하는 사람이나 철천지원수처럼 보이는 환영을 만들어낼 수 있습니다. <strong>지혜</strong> 내성 굴림을 합니다.</p>"
 		},
 		"Vampire Weaknesses": {
 			"name": "뱀파이어 약점",
