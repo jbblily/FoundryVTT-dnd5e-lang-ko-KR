@@ -24,7 +24,10 @@
 		"systems": [
 			{
 				"id": "dnd5e",
-        		"type": "system"
+        		"type": "system",
+				"compatibility": {
+      				"verified": "4.0.1"
+				}
 			}
 		],
 		"requires": [{
