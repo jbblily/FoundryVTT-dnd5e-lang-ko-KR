@@ -1,7 +1,7 @@
 {
 	"id": "dnd5e-ko",
 	"name": "dnd5e-ko",
-	"title": "Translation: Korean [D&D 5e]",
+	"title": "Translation: Korean [D&D 5e](SRD)",
 	"description": "D&D 5e 시스템의 한국어화 모듈입니다.",
 	"version":  "#{VERSION}#",
 	"library": "false",
