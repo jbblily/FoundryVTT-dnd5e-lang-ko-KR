@@ -71,7 +71,7 @@ You need to install Babele to translate compendium.
 ## How we localize
 
 **We localize through Transifex. You can join our transifex project.** <br>
-URL : https://www.transifex.com/fvtt-korean/dd-5e-korean/dashboard/
+URL : https://app.transifex.com/fvtt-korean/dd-5e-korean
 
 **Discord server for Korean FVTT Dnd5e localizing team**<br>
 Invite url : https://discord.gg/YwjjxpsNcB
