@@ -1,3 +1,5 @@
+/* Fonts 폰트 */
+
 @font-face {
     font-family: 'RIDIBatang';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
@@ -12,49 +14,10 @@
     font-style: normal;
 }
 
+/* Common Styles 공통 스타일 */
 :root {
-	--dnd5e-font-modesto: "Modesto Condensed", "RIDIBatang",serif !important;
+	--dnd5e-font-modesto: "Modesto Condensed", "RIDIBatang", "Palatino Linotype", serif !important;
     --dnd5e-font-roboto: Roboto, "Pretendard-Regular", sans-serif !important;
     --dnd5e-font-roboto-condensed: "Roboto Condensed", "Pretendard-Regular", sans-serif !important;
     --dnd5e-font-roboto-slab: "Roboto Slab", "RIDIBatang", serif !important;
-}
-
-.dnd5e.sheet.actor.character .resource .attribute-value label.recharge,
-.dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer,
-.dnd5e.sheet.actor .sheet-header .attributes .attribute .property-attribution,
-.dnd5e.sheet .warnings .notification,
-.dnd5e.sheet .info .notification,
-.dnd5e.sheet.actor.character .characteristics textarea {
-	font-family: "Signika", "Pretendard-Regular", serif !important;
-}
-
-/* Rest buttons in Hit Dice Box */
-.dnd5e.sheet.actor.character .sheet-header .attributes a.rest {
-	font-size: 10px;
-}
-
-.dnd5e.sheet.actor .ability-scores .ability {
-	min-width: 96px;
-}
-
-.dnd5e.sheet.actor.npc .header-exp {
-	flex: 0 0 120px !important;
-}
-
-.dnd5e input[type="text"] {
-	min-height: 20px;
-}
-
-/* 라벨 표시오류 개선 */
-.dnd5e.sheet.actor .inventory-filters .currency {
-    align-items: center;
-}
-
-.dnd5e dnd5e-inventory .inventory-header .currency label, form .form-group .form-fields > label {
-    flex: initial !important;
-    margin-inline-start: 3px !important;
-}
-
-.dnd5e.sheet.actor .inventory-filters .currency input[type="text"] {
-    border-bottom: 2px groove #eeede0 !important;
 }
